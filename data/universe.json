@@ -1,0 +1,312 @@
+[
+  {
+    "ticker": "INTC",
+    "name": "Intel",
+    "region": "US",
+    "price_currency": "USD",
+    "financial_path": "stocks/intc",
+    "paper_ticker": "INTC",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "TSM",
+    "name": "Taiwan Semiconductor ADR",
+    "region": "US",
+    "price_currency": "USD",
+    "financial_path": "stocks/tsm",
+    "paper_ticker": "TSM",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "MU",
+    "name": "Micron",
+    "region": "US",
+    "price_currency": "USD",
+    "financial_path": "stocks/mu",
+    "paper_ticker": "MU",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "GFS",
+    "name": "GlobalFoundries",
+    "region": "US",
+    "price_currency": "USD",
+    "financial_path": "stocks/gfs",
+    "paper_ticker": "GFS",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "TXN",
+    "name": "Texas Instruments",
+    "region": "US",
+    "price_currency": "USD",
+    "financial_path": "stocks/txn",
+    "paper_ticker": "TXN",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "AMAT",
+    "name": "Applied Materials",
+    "region": "US",
+    "price_currency": "USD",
+    "financial_path": "stocks/amat",
+    "paper_ticker": "AMAT",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "LRCX",
+    "name": "Lam Research",
+    "region": "US",
+    "price_currency": "USD",
+    "financial_path": "stocks/lrcx",
+    "paper_ticker": "LRCX",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "MCHP",
+    "name": "Microchip Technology",
+    "region": "US",
+    "price_currency": "USD",
+    "financial_path": "stocks/mchp",
+    "paper_ticker": "MCHP",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "FSLR",
+    "name": "First Solar",
+    "region": "US",
+    "price_currency": "USD",
+    "financial_path": "stocks/fslr",
+    "paper_ticker": "FSLR",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "ENPH",
+    "name": "Enphase Energy",
+    "region": "US",
+    "price_currency": "USD",
+    "financial_path": "stocks/enph",
+    "paper_ticker": "ENPH",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "PLUG",
+    "name": "Plug Power",
+    "region": "US",
+    "price_currency": "USD",
+    "financial_path": "stocks/plug",
+    "paper_ticker": "PLUG",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "BE",
+    "name": "Bloom Energy",
+    "region": "US",
+    "price_currency": "USD",
+    "financial_path": "stocks/be",
+    "paper_ticker": "BE",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "ETN",
+    "name": "Eaton",
+    "region": "US",
+    "price_currency": "USD",
+    "financial_path": "stocks/etn",
+    "paper_ticker": "ETN",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "GEV",
+    "name": "GE Vernova",
+    "region": "US",
+    "price_currency": "USD",
+    "financial_path": "stocks/gev",
+    "paper_ticker": "GEV",
+    "listing_start": "2024-04-02",
+    "delisting_date": null
+  },
+  {
+    "ticker": "LIN",
+    "name": "Linde",
+    "region": "US",
+    "price_currency": "USD",
+    "financial_path": "stocks/lin",
+    "paper_ticker": "LIN",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "NEE",
+    "name": "NextEra Energy",
+    "region": "US",
+    "price_currency": "USD",
+    "financial_path": "stocks/nee",
+    "paper_ticker": "NEE",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "STMPA.PA",
+    "name": "STMicroelectronics Paris",
+    "region": "EU",
+    "price_currency": "EUR",
+    "financial_path": "quote/epa/STMPA",
+    "paper_ticker": "STM.PA",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "IFX.DE",
+    "name": "Infineon",
+    "region": "EU",
+    "price_currency": "EUR",
+    "financial_path": "quote/etr/IFX",
+    "paper_ticker": "IFX.DE",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "NXPI",
+    "name": "NXP",
+    "region": "EU",
+    "price_currency": "USD",
+    "financial_path": "stocks/nxpi",
+    "paper_ticker": "NXPI",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "ASML",
+    "name": "ASML Nasdaq",
+    "region": "EU",
+    "price_currency": "USD",
+    "financial_path": "stocks/asml",
+    "paper_ticker": "ASML",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "AMS.SW",
+    "name": "ams OSRAM SIX",
+    "region": "EU",
+    "price_currency": "CHF",
+    "financial_path": "quote/swx/AMS",
+    "paper_ticker": "AMS.VI",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "AIR.PA",
+    "name": "Airbus",
+    "region": "EU",
+    "price_currency": "EUR",
+    "financial_path": "quote/epa/AIR",
+    "paper_ticker": "AIR.PA",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "SAF.PA",
+    "name": "Safran",
+    "region": "EU",
+    "price_currency": "EUR",
+    "financial_path": "quote/epa/SAF",
+    "paper_ticker": "SAF.PA",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "ENEL.MI",
+    "name": "Enel",
+    "region": "EU",
+    "price_currency": "EUR",
+    "financial_path": "quote/bit/ENEL",
+    "paper_ticker": "ENEL.MI",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "ORSTED.CO",
+    "name": "Orsted",
+    "region": "EU",
+    "price_currency": "DKK",
+    "financial_path": "quote/cph/ORSTED",
+    "paper_ticker": "ORSTED.CO",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "VWS.CO",
+    "name": "Vestas",
+    "region": "EU",
+    "price_currency": "DKK",
+    "financial_path": "quote/cph/VWS",
+    "paper_ticker": "VWS.CO",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "ENR.DE",
+    "name": "Siemens Energy",
+    "region": "EU",
+    "price_currency": "EUR",
+    "financial_path": "quote/etr/ENR",
+    "paper_ticker": "ENR.DE",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "NEL.OL",
+    "name": "Nel",
+    "region": "EU",
+    "price_currency": "NOK",
+    "financial_path": "quote/osl/NEL",
+    "paper_ticker": "NEL.OL",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "ALFEN.AS",
+    "name": "Alfen",
+    "region": "EU",
+    "price_currency": "EUR",
+    "financial_path": "quote/ams/ALFEN",
+    "paper_ticker": "ALFEN.AS",
+    "listing_start": null,
+    "delisting_date": null
+  },
+  {
+    "ticker": "EDF.PA",
+    "name": "EDF",
+    "region": "EU",
+    "price_currency": "EUR",
+    "financial_path": "quote/epa/EDF",
+    "paper_ticker": "EDF.PA",
+    "listing_start": null,
+    "delisting_date": "2023-06-08"
+  },
+  {
+    "ticker": "VIE.PA",
+    "name": "Veolia",
+    "region": "EU",
+    "price_currency": "EUR",
+    "financial_path": "quote/epa/VIE",
+    "paper_ticker": "VIE.PA",
+    "listing_start": null,
+    "delisting_date": null
+  }
+]

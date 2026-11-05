@@ -1,0 +1,68 @@
+Captured 2026-09-16. Numerical facts extracted from retrieved original issuer documents; source URLs retained.
+Source: https://www.veolia.com/sites/g/files/dvc4206/files/document/2025/02/Finance_consolidated_financial_statement_2024.pdf
+
+L125@P4: Income tax expense -22 -12
+L130@P4: • on the net financing of foreign operations -59 -67
+L131@P4: • income tax expense 1 -1
+L132@P4: Amount net of tax -58 -68
+L146@P5: (€ million) Notes As of December 31, 2023 As of December 31, 2024
+L149@P5: Net income (loss) from discontinued operations -24 -103
+L151@P5: Financial amortization and impairment losses 77 -75
+L152@P5: Gains (losses) on disposal of operating assets -83 -36
+L153@P5: Gains (losses) on disposal of financial assets -72 -64
+L154@P5: Share of net income (loss) of joint ventures Note 5.2.4 -60 -71
+L155@P5: Share of net income (loss) of associates Note 5.2.4 -63 -61
+L156@P5: Dividends received Note 8.4.2 -3 -3
+L162@P5: Change in working capital requirements of concessions -113 -270
+L163@P5: Income taxes paid -637 -579
+L165@P5: Net cash from operating activities of discontinued operations -22 -6
+L167@P5: Industrial investments, net of grants -3,140 -2,965
+L169@P5: Purchases of investments Note 3.2 -223 -482
+L172@P5: New operating financial assets Note 5.4 -254 -225
+L176@P5: New non-current loans granted -103 -132
+L179@P5: Net cash used in investing activities of continuing operations -2,120 -2,115
+L181@P5: Net cash used in investing activities -2,124 -2,115
+L184@P5-6: 6 VEOLIA ENVIRONNEMENT / COMMENTS ON THE RESULTS AS OF DECEMBER 31, 2024(€ million) Notes As of December 31, 2023 As of December 31, 2024
+L185@P6: Net increase (decrease) in current financial liabilities Note 8.1.1 -948 -5
+L186@P6: Repayment of current IFRS 16 lease debt Note 8.1.1 -535 -541
+L187@P6: Other changes in non-current IFRS 16 lease debt Note 8.1.1 -96 -73
+L189@P6: Principal payments on non-current borrowings and other debt Note 8.1.1 -569 -619
+L190@P6: Change in liquid assets and financing financial assets Note 8.1.2 -235 -125
+L193@P6: Transactions with non-controlling interests: partial purchases -166 -32
+L195@P6: Issue / repayment of deeply subordinated securities Note 9.4 198 -221
+L196@P6: Coupons on deeply subordinated securities Note 9.4 -90 -81
+L197@P6: Purchases of/proceeds from treasury shares 59 -8
+L198@P6: Dividends paid -1,261 -1,218
+L199@P6: Interest paid -538 -585
+L200@P6: Interest on IFRIC 12 operating assets -85 -86
+L201@P6: Interest on IFRS 16 lease debt * Note 8.4.2 -58 -66
+L202@P6: Net cash from (used in) financing activities of continuing operations -3,137 -1,857
+L204@P6: Net cash from (used in) financing activities -3,139 -1,857
+L212@P6: * Interest on IFRS 16 lease debt is not included in the Cost of net financial debt, but in Other financial income and expenses (see Note 8.4.2).
+L254@P7: 2022 714,574,367 3,573 9,470 3,496 -435 -4,083 -52 286 12,255 2,612 14,867
+L256@P7: parent company 10,837,300 54 161 - - -12 - - 203 - 203
+L260@P7: subordinated securities - - - 182 - 16 - - 198 - 198
+L262@P7: subordinated securities - - - -48 - -42 - - -90 - -90
+L264@P7: distribution - - - - - -787 - - -787 - -787
+L265@P7: Movements in treasury shares - - - - 60 -1 - - 59 - 59
+L266@P7: Share-based payments - - - - - 51 - - 51 - 51
+L271@P7: distributions of subsidiaries - - - - - - - - – -474 -474
+L272@P7: Transactions with noncontrolling interests - - - - - -37 - - -37 -127 -164
+L273@P7: Total transactions with noncontrolling interests 10,837,300 54 161 134 60 -812 - - -403 -594 -997
+L274@P7: Other comprehensive income - - - - - -27 -531 20 -538 -43 -582
+L275@P7: Net income for the year - - - - - 937 - - 937 397 1,334
+L277@P7: for the period - - - - - 910 -531 20 399 354 753
+L278@P7: Other movements - - - - - 60 - - 60 19 79
+L280@P7: 2023 725,411,667 3,627 9,631 3,630 -375 -3,925 -583 306 12,311 2,391 14,702
+L320@P8: 2023 725,411,667 3,627 9,631 3,630 -375 -3,925 -583 306 12,311 2,391 14,702
+L322@P8: parent company 15,240,941 76 271 - - -11 - - 336 - 336
+L326@P8: subordinated securities - - - -229 - 8 - - -221 - -221
+L328@P8: subordinated securities - - - -63 - -18 - - -81 - -81
+L330@P8: distribution - - - - -895 - - -895 - -895
+L331@P8: Movements in treasury shares - - - - -8 - - -8 - -8
+L332@P8: Share-based payments - - - - - 57 - - 57 - 57
+L337@P8: distributions of subsidiaries - - - - - - - - - -323 -323
+L338@P8: Transactions with noncontrolling interests - - - - - -99 - - -99 -23 -122
+L339@P8: Total transactions with noncontrolling interests 15,240,941 76 271 -293 -8 -958 - - -911 -342 -1,253
+L340@P8: Other comprehensive income - - - - - 12 323 32 367 -8 359
+L341@P8: Net income for the year - - - - - 1,098 - - 1,098 347 1,445

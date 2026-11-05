@@ -1,0 +1,164 @@
+[
+  {
+    "id": "A01",
+    "severity": "Critical",
+    "finding": "Invented analyst targets",
+    "pdf_pages": "27",
+    "evidence": "build_sc sets tgt_mean=price*1.1, tgt_lo=price*.8, tgt_hi=price*1.3.",
+    "consequence": "These are synthetic targets, not analyst observations. Upside is always 10% and dispersion is 0.5/1.1 for every company.",
+    "repair": "Replace with timestamped historical consensus observations or explicitly remove and rename the factor."
+  },
+  {
+    "id": "A02",
+    "severity": "Critical",
+    "finding": "Unsourced company score inputs",
+    "pdf_pages": "15; 19-27",
+    "evidence": "31 company records contain 558 static field entries. The paper acknowledges AI estimates. ROIC, subsidy and CapEx values are literal dictionaries.",
+    "consequence": "Real prices do not make the score-driven strategy a real-data backtest. No row-level sources or public-availability timestamps establish these inputs.",
+    "repair": "Reconstruct a historical evidence ledger. Leave missing values unavailable rather than assigning plausible defaults."
+  },
+  {
+    "id": "A03",
+    "severity": "Critical",
+    "finding": "Claimed exclusions contradict the code",
+    "pdf_pages": "15; 20-21",
+    "evidence": "The prose says CapEx, subsidy use, governance, lobbying and network/patent factors were dropped. score() still computes and weights them.",
+    "consequence": "Readers cannot infer the implemented strategy from the stated methodology.",
+    "repair": "Choose one documented specification, source its factors, and rerun it."
+  },
+  {
+    "id": "A04",
+    "severity": "Critical",
+    "finding": "Prices fabricated outside listed history",
+    "pdf_pages": "16; 32",
+    "evidence": "prices.ffill().bfill() fills both directions. The US screenshot exits GEV on 2022-09-28.",
+    "consequence": "GEV begins regular trading in April 2024. Backward filling creates pre-listing observations and permits impossible holdings.",
+    "repair": "Require listing eligibility and positive observed prices before entry. Never backward fill."
+  },
+  {
+    "id": "A05",
+    "severity": "Critical",
+    "finding": "Missing downloads treated as delistings",
+    "pdf_pages": "17; 29; 32",
+    "evidence": "The EU screenshot removes STM.PA, AMS.VI and EDF.PA as delisted on 2021-10-12. The engine tests NaN after filling prices.",
+    "consequence": "A failed data request changes the portfolio. Forward-filled old quotes suppress real delisting detection. EDF actually delisted in June 2023.",
+    "repair": "Resolve instrument identity and corporate actions explicitly; handle real delisting proceeds; stop on download failures."
+  },
+  {
+    "id": "A06",
+    "severity": "Critical",
+    "finding": "No dated policy eligibility",
+    "pdf_pages": "27-29",
+    "evidence": "enacted=True for every company; Port.init starts with all available columns.",
+    "consequence": "The promised event-driven entry after formal subsidy decisions is absent. IFX and NXPI are not actually admitted only in June 2023.",
+    "repair": "Use dated universe membership and distinguish proposed, awarded, disbursed, loan and guarantee amounts."
+  },
+  {
+    "id": "A07",
+    "severity": "Critical",
+    "finding": "Intel subsidy timeline anticipates the announcement",
+    "pdf_pages": "23",
+    "evidence": "US_SUB assigns the 8,500 grant / 11,000 loan package to 2023-Q3.",
+    "consequence": "Commerce announced those preliminary amounts on 2024-03-20. The code dates information earlier than its publication.",
+    "repair": "Use the actual announcement timestamp and subsequent final-award revisions."
+  },
+  {
+    "id": "A08",
+    "severity": "Critical",
+    "finding": "Same-day selection bias",
+    "pdf_pages": "29-31",
+    "evidence": "Quarterly exits, additions and overweights are applied before the return from the previous close to the scoring day's close.",
+    "consequence": "A decision based on the day's information earns that same day's return with the new holdings.",
+    "repair": "Value old holdings first. Trade using a specified subsequent executable price after the information is public."
+  },
+  {
+    "id": "A09",
+    "severity": "High",
+    "finding": "Quarter labels are not release timestamps",
+    "pdf_pages": "23-26; 29",
+    "evidence": "_lookup accepts the current quarter label, with no filing or publication timestamp.",
+    "consequence": "Quarterly results may become available weeks later. Final reported/revised data must not be used before release.",
+    "repair": "Use observation date, first publication date, availability time and revision vintage."
+  },
+  {
+    "id": "A10",
+    "severity": "High",
+    "finding": "Fundamental observations are sparse and stale",
+    "pdf_pages": "23-26",
+    "evidence": "The six timeline dictionaries have 108 records in total. Their last entries range from 2024-Q4 to 2025-Q2.",
+    "consequence": "Changing end=datetime.now() updates prices while most signals remain static. This is not monthly collection of company data.",
+    "repair": "Refresh public-information snapshots at least monthly, retaining source dates and data age; do not interpolate annual/quarterly filings into monthly observations."
+  },
+  {
+    "id": "A11",
+    "severity": "High",
+    "finding": "Mixed currencies",
+    "pdf_pages": "24-25; 32-33",
+    "evidence": "The EU strategy combines EUR, USD, DKK and NOK listings; the comparator combines EUR EXV3.DE and GBp INRG.L without FX.",
+    "consequence": "Weighted local-currency returns are not the return of a specified base-currency portfolio.",
+    "repair": "Choose a base currency and observed FX, or an explicitly identified same-share-class listing in that currency."
+  },
+  {
+    "id": "A12",
+    "severity": "High",
+    "finding": "Undisclosed daily rebalancing and incorrect costs",
+    "pdf_pages": "27-31",
+    "evidence": "Weights do not drift as prices change. A fixed bps haircut is charged per stock entry/exit, while overweights and implicit daily rebalancing are uncharged.",
+    "consequence": "The implemented trading schedule and costs do not match a quarterly share-holding portfolio.",
+    "repair": "Track positions and cash, allow weights to drift, and apply specified costs to actual turnover."
+  },
+  {
+    "id": "A13",
+    "severity": "High",
+    "finding": "Non-deterministic weighting",
+    "pdf_pages": "29-30",
+    "evidence": "Scores are iterated from a Python set; each top-quartile overweight normalizes all weights immediately.",
+    "consequence": "Different set iteration orders can change final weights and returns.",
+    "repair": "Use a deterministic order and apply the entire target-weight vector simultaneously."
+  },
+  {
+    "id": "A14",
+    "severity": "High",
+    "finding": "Quarter-end detection is early",
+    "pdf_pages": "29",
+    "evidence": "is_qend is true on the first available March/June/September/December date with day >= 28.",
+    "consequence": "The rebalance can occur before the last trading day. The code does not implement true quarter-end timing.",
+    "repair": "Use exchange calendars and explicit decision, execution and valuation timestamps."
+  },
+  {
+    "id": "A15",
+    "severity": "High",
+    "finding": "Silent missing-data and return fallbacks",
+    "pdf_pages": "27-28; 32",
+    "evidence": "except: pass skips price errors, missing columns are not fatal, and neutral defaults fill absent score inputs.",
+    "consequence": "Incomplete data can look like a valid zero return or average-quality company.",
+    "repair": "Fail explicitly on unavailable required inputs. Track coverage without converting absence into zero."
+  },
+  {
+    "id": "A16",
+    "severity": "High",
+    "finding": "Risk statistics and alpha labels",
+    "pdf_pages": "31; 34-36",
+    "evidence": "Years=len(df)/252; Sharpe=CAGR/volatility; alpha=NAV_ETF/NAV_bench-1.",
+    "consequence": "Mixed market calendars distort annualization. CAGR/vol is not the usual arithmetic excess-return Sharpe. Relative wealth is not factor-adjusted alpha.",
+    "repair": "Use consistent periods and actual elapsed time; label relative wealth explicitly; source risk-free rates for an excess-return Sharpe."
+  },
+  {
+    "id": "A17",
+    "severity": "High",
+    "finding": "Unreproducible headline variants",
+    "pdf_pages": "8; 16-18",
+    "evidence": "The text reports a stricter US return of 306.8%; the screenshot reports 325.8% with NAV 425.78. The scoring variant's exact code and original input snapshot are absent.",
+    "consequence": "There is no uniquely versioned original run to reproduce. Changing re-entry rules after inspecting returns introduces specification selection.",
+    "repair": "Archive exact code, input vintages, configuration, run dates and results. Report variants separately and test out of sample."
+  },
+  {
+    "id": "A18",
+    "severity": "High",
+    "finding": "Unsupported lower-bound and causal claims",
+    "pdf_pages": "15",
+    "evidence": "The paper describes omitted factors as making performance a lower bound.",
+    "consequence": "Adding factors can help or hurt. These backtests cannot establish that ETF flows change corporate behavior or future beta.",
+    "repair": "Remove the lower-bound assertion; separate predictive performance from a causal test of the economic mechanism."
+  }
+]

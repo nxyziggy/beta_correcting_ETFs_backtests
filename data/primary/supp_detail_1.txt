@@ -1,0 +1,53 @@
+Captured 2026-09-16. Numerical facts extracted from retrieved original issuer documents; source URLs retained.
+Source: https://www.enel.com/content/dam/enel-common/press/en/2022-march/Enel%20results%20FY%202021.pdf
+
+L1009@P25-26: distribution activities in Brazil falling within the scope of IFRIC 12. This last classification had an effect of the same amount on the Operating profit.27
+L1016@P26: Effective portion of change in the fair value of cash flow hedges (725) (268)
+L1017@P26: Change in fair value of hedging costs 195 (99)
+L1018@P26: Share of the other comprehensive expense of equity-accounted investments (645) (9)
+L1019@P26: Change in the fair value of financial assets at FVOCI 11 (1)
+L1020@P26: Change in translation reserve (90) (4,510)
+L1023@P26: Remeasurement of liabilities/(assets) for defined benefit plans 30 (353)
+L1025@P26: Total other comprehensive income/(expense) for the year (1,224) (5,261)
+L1026@P26: Comprehensive income/(expense) for the year 2,633 (1,639)
+L1028@P26: - owners of the Parent 2,562 (1,028)
+L1029@P26-27: - non-controlling interests 71 (611)28
+L1032@P27: ASSETS at Dec. 31, 2021 at Dec. 31, 2020
+L1064@P28: LIABILITIES AND EQUITY at Dec. 31, 2021 at Dec. 31,
+L1075@P28: Treasury share reserve (36) (3)
+L1076@P28: Other reserves 1,721 (39)
+L1122@P29: Net financial (income)/expense (1) 2,751 2,693
+L1123@P29: Net (gains)/losses from equity-accounted investments (571) 299
+L1124@P29: Changes in net working capital: (1,097) (1,654)
+L1125@P29: - inventories (649) (8)
+L1126@P29: - trade receivables (4,951) (458) (1,350) 33
+L1127@P29: - trade payables 4,357 1,877 698 (86)
+L1128@P29: - other contract assets 56 (15)
+L1129@P29: - other contract liabilities 75 (4) (142)
+L1130@P29: - other assets/liabilities (1) 15 31 (837) 34
+L1132@P29: Utilization of provisions (1,300) (1,202)
+L1134@P29: Interest expense and other financial expense paid (4,411) (32) (3,690) (71)
+L1135@P29: Net (income)/expense from measurement of commodities (304) 188
+L1136@P29: Income taxes paid (1,846) (1,575)
+L1137@P29: Net capital gains (1,771) (1)
+L1139@P29: Investments in property, plant and equipment (10,545) (8,330)
+L1140@P29: Investments in intangible assets (1,656) (1,218)
+L1141@P29: Investments in non-current contract assets (907) (649)
+L1143@P29: equivalents acquired (283) (33)
+L1146@P29: (Increase)/Decrease in other investing activities 2,455 (41)
+L1147@P29: Cash flows used in investing activities (B) (10,875) (10,117)
+L1149@P29: Repayments of borrowings (11,321) (118) (1,950) (104)
+L1150@P29: Other changes in net financial debt 3,339 (712) (176)
+L1152@P29: and other transactions in non-controlling interests (1,295) (1,067)
+L1154@P29: Sale/(Purchase) of treasury shares (13) (13)
+L1155@P29: Dividends and interim dividends paid (4,970) (4,742)
+L1157@P29: Cash flows from (used in) financing activities (C) 3,777 (3,972)
+L1159@P29: (D) 17 (497)
+L1160@P29: Increase/(Decrease) in cash and cash equivalents (A+B+C+D) 2,988 (3,078)
+L1161@P29: Cash and cash equivalents at the beginning of the year (2) 6,002 9,080
+L1162@P29-30: Cash and cash equivalents at the end of the year (3) 8,990 6,00231
+L1167@P30: €67 million at January 1, 2021 (€51 million at January 1, 2020) and cash and cash equivalents pertaining to assets held for sale in the amount of €29
+L1171@P30-31: amount of €44 million at December 31, 2021 (€29 million at December 31, 2020).32
+L1190@P31: Operating profit/(loss) 644 (363)
+L1198@P31: Income taxes (114) (122)
+L1207@P32: Effective portion of change in the fair value of cash flow hedges 125 (53)

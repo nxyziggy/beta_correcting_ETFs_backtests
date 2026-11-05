@@ -1,0 +1,69 @@
+Source: https://stockanalysis.com/quote/etr/ENR/financials/
+Captured: 2026-09-15. Current standardized history; not point-in-time vintages.
+Financials in millions EUR. Fiscal year is October - September.
+Millions EUR. Fiscal year is Oct - Sep.
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Sep '25  | Sep '24  | Sep '23  | Sep '22  | Sep '21
+--- | --- | --- | --- | --- | --- | ---
+Revenue Revenue Growth  | 41,844  | 39,077  | 34,465  | 31,119  | 29,005  | 28,482
+Revenue Growth  | 9.00%  | 13.38%  | 10.75%  | 7.29%  | 1.84%  | 3.73%
+Gross Profit Gross Profit Growth  | 8,685  | 6,579  | 4,503  | 753  | 3,340  | 3,416
+Operating Income Operating Income Growth  | 3,686  | 1,569  | 139  | -3,340  | -493  | -411
+Net Income Net Income Growth  | 2,692  | 1,414  | 1,184  | -4,532  | -467  | -453
+Earnings Per Share EPS Growth  | 3.07  | 1.60  | 1.35  | -5.47  | -0.65  | -0.63
+EPS Growth  | 183.83%  | 18.52%  | -  | -  | -  | -
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Sep '25  | Sep '24  | Sep '23  | Sep '22  | Sep '21
+--- | --- | --- | --- | --- | --- | ---
+Gas Services Gas Services Growth  | 13,425  | 12,198  | 10,796  | 10,914  | 9,499  | -
+Grid Technologies Grid Technologies Growth  | 12,890  | 11,305  | 9,280  | 7,180  | 6,285  | -
+Transformation of Industry Transformation of Industry Growth  | 5,866  | 5,723  | 5,109  | 4,438  | 4,080  | -
+Siemens Gamesa Siemens Gamesa Growth  | 10,368  | 10,375  | 10,008  | 9,092  | 9,814  | 10,198
+Eliminations Eliminations Growth  | -702  | -524  | -727  | -506  | -672  | -
+Revenue (Total) Revenue (Total) Growth  | 41,844  | 39,077  | 34,465  | 31,119  | 29,005  | 28,482
+Fiscal Year  | Current  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Sep '25  | Sep '24  | Sep '23  | Sep '22  | Sep '21
+--- | --- | --- | --- | --- | --- | ---
+Cash & Investments Cash & Investments Growth  | 11,088  | 9,162  | 6,363  | 4,588  | 5,959  | 5,333
+Total Debt Total Debt Growth  | 2,959  | 3,966  | 3,766  | 4,781  | 3,223  | 2,728
+Net Cash (Debt) Net Cash Growth  | 8,129  | 5,196  | 2,597  | -193  | 2,736  | 2,605
+Net Cash Growth  | 69.74%  | 100.08%  | -  | -  | 5.03%  | 16.30%
+Net Cash Per Share Net Cash Per Share Growth  | 9.29  | 5.88  | 2.97  | -0.23  | 3.80  | 3.64
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Sep '25  | Sep '24  | Sep '23  | Sep '22  | Sep '21
+--- | --- | --- | --- | --- | --- | ---
+Operating Cash Flow Operating Cash Flow Growth  | 9,601  | 5,821  | 2,889  | 1,622  | 2,218  | 1,946
+Capital Expenditures CapEx Growth  | -1,810  | -1,724  | -1,514  | -1,228  | -1,157  | -987
+Free Cash Flow Free Cash Flow Growth  | 7,791  | 4,097  | 1,375  | 394  | 1,061  | 959
+Free Cash Flow Growth  | 107.21%  | 197.96%  | 248.99%  | -62.87%  | 10.64%  | 42.29%
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Sep '25  | Sep '24  | Sep '23  | Sep '22  | Sep '21
+--- | --- | --- | --- | --- | --- | ---
+Gross Margin  | 20.76%  | 16.84%  | 13.06%  | 2.42%  | 11.52%  | 11.99%
+Operating Margin  | 8.81%  | 4.01%  | 0.40%  | -10.73%  | -1.70%  | -1.44%
+Pretax Margin  | 9.53%  | 5.66%  | 5.28%  | -10.88%  | -2.08%  | -1.63%
+Profit Margin  | 6.43%  | 3.62%  | 3.44%  | -14.56%  | -1.61%  | -1.59%
+FCF Margin  | 18.62%  | 10.48%  | 3.99%  | 1.27%  | 3.66%  | 3.37%
+Fiscal Year  | Current  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Sep '26  | Sep '25  | Sep '24  | Sep '23  | Sep '22  | Sep '21
+--- | --- | --- | --- | --- | --- | ---
+Dividend Per Share Dividend Per Share Growth  | 0.700  | 0.700  | -  | -  | -  | 0.100
+Dividend Per Share Growth  | 0%  | -  | -  | -  | -  | -
+Dividend Yield  | 0.48%  | 0.71%  | -  | -  | -  | 0.43%
+Fiscal Year  | Current  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Sep '26  | Sep '25  | Sep '24  | Sep '23  | Sep '22  | Sep '21
+--- | --- | --- | --- | --- | --- | ---
+PE Ratio  | 43.15  | 59.90  | 21.84  | -  | -  | -
+Forward PE  | 22.31  | 38.34  | 26.51  | 16.21  | 5.96  | 23.02
+P/FCF Ratio  | 14.56  | 20.68  | 18.81  | 24.90  | 7.67  | 17.19
+PS Ratio  | 2.71  | 2.17  | 0.75  | 0.32  | 0.28  | 0.58
+Data Sources: cite61†S&P Global Market Intelligence†www.spglobal.com and cite62†Fiscal.ai†www.fiscal.ai Last updated: Aug 5, 2026
+cite63†Data Sources cite64†Report a data error L219: 
+  * cite69†Login L242:   * cite70†Create Account L243:   * cite71†Changelog L244:   * cite63†Data Sources L245:   * cite72†Advertise L246:   * cite73†Help Center L247: #### Company

@@ -1,0 +1,22 @@
+Captured 2026-09-16. Numerical facts extracted from retrieved original issuer documents; source URLs retained.
+Source: https://www.enel.com/content/dam/enel-common/press/it/2023-marzo/Enel%20risultati%20FY%202022.pdf
+
+L1010@P26: 2022 2021(1)
+L1028@P26: Costi per lavori interni capitalizzati (3.415) (3.041)
+L1044@P26: Risultato netto delle discontinued operation (2.298) 99
+L1045@P26: Quota di interessenza del Gruppo (1.955) 92
+L1046@P26: Quota di interessenza di terzi (343) 7
+L1122@P29: Altre attività non correnti 2.486 - 3.268 119
+L1137@P30: PATRIMONIO NETTO E PASSIVITÀ al 31.12.2022 al 31.12.2021
+L1144@P30: Riserva azioni proprie (47) (36)
+L1159@P30: Altre passività non correnti 4.246 - 4.525
+L1167@P30: Derivati finanziari passivi correnti 16.141 - 24.607
+L1192@P31: metodo del patrimonio netto (23) (571)
+L1194@P31: Variazioni del capitale circolante netto: (3.961) (1.097)
+L1195@P31: - rimanenze (2.166) (649)
+L1@P0: T +39 06 8305 5699 T +39 06 8305 7975
+L6@P0: Enel SpA – Sede Legale: 00198 Roma, Viale Regina Margherita 137 – Registro Imprese di Roma e Codice Fiscale 00811720580 – R.E.A. 756032
+L13@P0: • Ricavi a 140.517 milioni di euro (85.7191 milioni di euro nel 2021, +63,9%)
+L23@P0: • EBITDA a 19.9182 milioni di euro (17.2331 milioni di euro nel 2021, +15,6%)
+L24@P0: • EBIT a 11.193 milioni di euro (7.5511 milioni di euro nel 2021, +48,2%)
+L28@P0: • Risultato netto ordinario del Gruppo a 5.391 milioni di euro (5.593 milioni di euro nel 2021, -3,6%),

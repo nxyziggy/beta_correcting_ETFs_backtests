@@ -1,0 +1,29 @@
+Captured 2026-09-16. Numerical facts extracted from retrieved original issuer documents; source URLs retained.
+Source: https://www.enel.com/content/dam/enel-common/press/it/2021-Marzo/Enel%20risultati%20FY%202020.pdf
+
+L1122@P26: Energia elettrica, gas e combustibile (1) 25.049 5.385 38.082 7.189
+L1123@P26: Servizi e altri materiali (1) 18.298 2.958 18.836 2.617
+L1128@P26: Altri costi operativi (1) 2.202 202 2.693 235
+L1129@P26: Costi per lavori interni capitalizzati (2.385) (2.355)
+L1131@P26: Proventi/(oneri) netti da derivati su commodity (212) 1 (733) 11
+L1139@P26: con il metodo del patrimonio netto (299) (122)
+L1165@P27: Quota efficace delle variazioni di fair value della copertura di flussi finanziari (268) 39
+L1166@P27: Variazione del fair value dei costi di hedging (99) 120
+L1167@P27: Quota di risultato rilevata a Patrimonio netto da società valutate con il metodo del patrimonio netto (9) (57)
+L1168@P27: Variazione di fair value delle attività finanziarie FVOCI (1) 5
+L1169@P27: Variazione della riserva di traduzione (4.510) (481)
+L1172@P27: Rimisurazione delle passività (attività) nette per benefici ai dipendenti (353) (502)
+L1174@P27: Utili e perdite rilevati direttamente a patrimonio netto (5.261) (876)
+L1175@P27: Utile complessivo rilevato nell’esercizio (1.639) 2.600
+L1177@P27: - del Gruppo (1.028) 1.745
+L1178@P27-28: - di terzi (611) 855
+L1182@P28: ATTIVITA' al 31.12.2020 al 31.12.2019
+L1197@P28: Altre attività finanziarie non correnti(1) 5.159 1.144 6.006
+L1206@P28: Altre attività finanziarie correnti(2) 5.113 190 4.305 27
+L1214@P28: euro al 31 dicembre 2019) e 408 milioni di euro (416 milioni di euro al 31 dicembre 2019).
+L1215@P28: (2) Di cui quota corrente dei crediti finanziari a lungo termine, crediti finanziari a breve termine e titoli diversi al 31 dicembre 2020
+L1216@P28: rispettivamente pari a 1.428 milioni di euro (1.585 milioni di euro al 31 dicembre 2019), 3.476 milioni di euro (2.512 milioni di euro al 31
+L1217@P28-29: dicembre 2019) e 67 milioni di euro (61 milioni di euro al 31 dicembre 2019).
+L1220@P29: PATRIMONIO NETTO E PASSIVITÀ al 31.12.2020 al 31.12.2019
+L1228@P29: Riserva azioni proprie (3) (1)
+L1229@P29: Altre riserve (39) 1.130

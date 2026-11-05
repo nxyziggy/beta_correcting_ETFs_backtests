@@ -1,0 +1,69 @@
+Source: https://stockanalysis.com/stocks/lrcx/financials/cash-flow-statement/
+Captured: 2026-09-15. Current standardized history; not point-in-time vintages.
+Millions USD. Fiscal year is Jul - Jun.
+Fiscal Year  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+--- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Jun '25  | Jun '24  | Jun '23  | Jun '22
+--- | --- | --- | --- | --- | ---
+Net Income  | 7,265  | 5,358  | 3,828  | 4,511  | 4,605
+Depreciation & Amortization  | 441.53  | 386.28  | 359.7  | 342.43  | 333.74
+Stock-Based Compensation  | 386.38  | 343.37  | 293.06  | 286.6  | 259.06
+Other Operating Activities  | -321.77  | -356.4  | -188.74  | -119.76  | -302.19
+Change in Accounts Receivable  | -1,962  | -858.75  | 303.44  | 1,452  | -1,288
+Change in Inventory  | -93.86  | -180.73  | 528.72  | -961.97  | -1,351
+Change in Accounts Payable  | 417.51  | 212  | 125.94  | -522.2  | 167.88
+Change in Unearned Revenue  | -286.37  | 1,148  | -277.44  | 163.47  | 604.57
+Change in Other Net Operating Assets  | 10.95  | 121.52  | -320.19  | 27.18  | 70.34
+Operating Cash Flow  | 5,858  | 6,173  | 4,652  | 5,179  | 3,100
+Operating Cash Flow Growth  | -5.11%  | 32.69%  | -10.17%  | 67.08%  | -13.61%
+Fiscal Year  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+--- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Jun '25  | Jun '24  | Jun '23  | Jun '22
+--- | --- | --- | --- | --- | ---
+Capital Expenditures  | -966.41  | -759.19  | -396.67  | -501.57  | -546.03
+Cash Acquisitions  | -  | -  | -  | -119.96  | -
+Investment in Securities  | -  | -  | 37.77  | 98.13  | 1,166
+Other Investing Activities  | 44.25  | 51.09  | -11.71  | -11.17  | -7.58
+Investing Cash Flow  | -922.15  | -708.09  | -370.61  | -534.56  | 612.28
+Fiscal Year  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+--- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Jun '25  | Jun '24  | Jun '23  | Jun '22
+--- | --- | --- | --- | --- | ---
+Long-Term Debt Issued  | -  | -  | 97.04  | 66.18  | 64.43
+Total Debt Issued  | -  | -  | 97.04  | 66.18  | 64.43
+Long-Term Debt Repaid  | -755.43  | -507.49  | -353.14  | -89.38  | -76.32
+Lease Payments  | -95.02  | -85.56  | -97.45  | -74.4  | -64.81
+Total Debt Repaid  | -755.43  | -507.49  | -353.14  | -89.38  | -76.32
+Net Debt Issued (Repaid)  | -755.43  | -507.49  | -256.1  | -23.21  | -11.89
+Issuance of Common Stock  | 173.41  | 142.57  | 135.52  | 121.01  | 113.86
+Repurchase of Common Stock  | -3,851  | -3,422  | -2,843  | -2,017  | -3,866
+Common Dividends Paid  | -1,271  | -1,150  | -1,019  | -907.91  | -815.29
+Other Financing Activities  | -13.79  | 0.14  | -13.54  | -3.55  | 0.05
+Financing Cash Flow  | -5,718  | -4,937  | -3,996  | -2,831  | -4,579
+Fiscal Year  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+--- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Jun '25  | Jun '24  | Jun '23  | Jun '22
+--- | --- | --- | --- | --- | ---
+Foreign Exchange Rate Adjustments  | -27.43  | 28.32  | -22.37  | 0.13  | -30.23
+Net Cash Flow  | -809.71  | 556.85  | 263.43  | 1,814  | -897.22
+Fiscal Year  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+--- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Jun '25  | Jun '24  | Jun '23  | Jun '22
+--- | --- | --- | --- | --- | ---
+Free Cash Flow  | 4,891  | 5,414  | 4,256  | 4,677  | 2,554
+Free Cash Flow Growth  | -9.66%  | 27.22%  | -9.02%  | 83.17%  | -21.16%
+Free Cash Flow Margin  | 21.05%  | 29.37%  | 28.55%  | 26.84%  | 14.82%
+Free Cash Flow Per Share  | 3.88  | 4.20  | 3.22  | 3.44  | 1.82
+Levered Free Cash Flow  | 3,090  | 4,422  | 3,357  | 3,665  | 1,623
+Unlevered Free Cash Flow  | 3,189  | 4,534  | 3,473  | 3,782  | 1,738
+Free Cash Flow After Leases  | 4,796  | 5,329  | 4,158  | 4,603  | 2,489
+Fiscal Year  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+--- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Jun '25  | Jun '24  | Jun '23  | Jun '22
+--- | --- | --- | --- | --- | ---
+Cash Interest Paid  | 150.1  | 172.36  | 173.09  | 174.75  | 175.53
+Cash Income Tax Paid  | 1,334  | 972.5  | 991.8  | 809.75  | 807.67
+Change in Working Capital  | -1,914  | 441.8  | 360.48  | 158.74  | -1,796
+Data Source: cite55†S&P Global Market Intelligence†www.spglobal.com Last updated: Aug 7, 2026
+cite56†Data Sources cite57†Report a data error L228: #### Install The App
+  * cite62†Login L249:   * cite63†Create Account L250:   * cite64†Changelog L251:   * cite56†Data Sources L252:   * cite65†Advertise L253:   * cite66†Help Center L254: #### Company

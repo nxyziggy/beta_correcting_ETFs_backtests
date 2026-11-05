@@ -1,0 +1,8 @@
+Source: https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html
+As of: 2026-11-02 America/New_York
+【turn43view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html","lineno":null}); Total lines: 165
+### 2 November 2026
+USD  | US dollar  | 1.1216  |
+DKK  | Danish krone  | 7.4737  |
+CHF  | Swiss franc  | 0.9193  |
+NOK  | Norwegian krone  | 10.3775  |

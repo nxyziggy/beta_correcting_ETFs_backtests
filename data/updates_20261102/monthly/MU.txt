@@ -1,0 +1,8 @@
+Source: https://www.digrin.com/stocks/detail/MU/price
+As of: 2026-11-02 America/New_York
+Web evidence: 【turn127view0】
+Month | Adjusted price | Real price
+November 2026  | $833.63  | $833.63
+October 2026  | $884.74  | $884.74
+September 2026  | $1,065.11  | $1,065.11
+August 2026  | $958.73  | $958.73

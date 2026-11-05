@@ -1,0 +1,18 @@
+Source: https://stockanalysis.com/stocks/asml/financials/cash-flow-statement/?p=quarterly
+As of: 2026-11-02 America/New_York
+Web evidence: 【turn48view0】
+Financials in millions EUR. Fiscal year is January - December.
+Fiscal Quarter  | Q3 2026  | Q2 2026  | Q1 2026  | Q4 2025  | Q3 2025  | Q2 2025  | Q1 2025  | Q4 2024  | Q3 2024  | Q2 2024  | Q1 2024  | Q4 2023  | Q3 2023  | Q2 2023  | Q1 2023  | Q4 2022  | Q3 2022  | Q2 2022  | Q1 2022  | Q4 2021
+Period Ending  | Sep '26  | Jun '26  | Mar '26  | Dec '25  | Sep '25  | Jun '25  | Mar '25  | Dec '24  | Sep '24  | Jun '24  | Mar '24  | Dec '23  | Oct '23  | Jul '23  | Apr '23  | Dec '22  | Oct '22  | Jul '22  | Apr '22  | Dec '21
+Net Income  | 4,960  | 2,918  | 2,757  | 2,840  | 2,125  | 2,290  | 2,355  | 2,693  | 2,077  | 1,578  | 1,224  | 2,048  | 1,893  | 1,942  | 1,956  | 1,817  | 1,702  | 1,411  | 695.3  | 1,773
+Operating Cash Flow  | 11,798  | 1,703  | -2,186  | 11,410  | 559.1  | 747.7  | -58.6  | 9,545  | 949.9  | 923.4  | -251.9  | 3,197  | 1,128  | 384.7  | 733.6  | 5,351  | 1,170  | 2,553  | -586.1  | 6,417
+Fiscal Quarter  | Q3 2026  | Q2 2026  | Q1 2026  | Q4 2025  | Q3 2025  | Q2 2025  | Q1 2025  | Q4 2024  | Q3 2024  | Q2 2024  | Q1 2024  | Q4 2023  | Q3 2023  | Q2 2023  | Q1 2023  | Q4 2022  | Q3 2022  | Q2 2022  | Q1 2022  | Q4 2021
+Period Ending  | Sep '26  | Jun '26  | Mar '26  | Dec '25  | Sep '25  | Jun '25  | Mar '25  | Dec '24  | Sep '24  | Jun '24  | Mar '24  | Dec '23  | Oct '23  | Jul '23  | Apr '23  | Dec '22  | Oct '22  | Jul '22  | Apr '22  | Dec '21
+Fiscal Quarter  | Q3 2026  | Q2 2026  | Q1 2026  | Q4 2025  | Q3 2025  | Q2 2025  | Q1 2025  | Q4 2024  | Q3 2024  | Q2 2024  | Q1 2024  | Q4 2023  | Q3 2023  | Q2 2023  | Q1 2023  | Q4 2022  | Q3 2022  | Q2 2022  | Q1 2022  | Q4 2021
+Period Ending  | Sep '26  | Jun '26  | Mar '26  | Dec '25  | Sep '25  | Jun '25  | Mar '25  | Dec '24  | Sep '24  | Jun '24  | Mar '24  | Dec '23  | Oct '23  | Jul '23  | Apr '23  | Dec '22  | Oct '22  | Jul '22  | Apr '22  | Dec '21
+Fiscal Quarter  | Q3 2026  | Q2 2026  | Q1 2026  | Q4 2025  | Q3 2025  | Q2 2025  | Q1 2025  | Q4 2024  | Q3 2024  | Q2 2024  | Q1 2024  | Q4 2023  | Q3 2023  | Q2 2023  | Q1 2023  | Q4 2022  | Q3 2022  | Q2 2022  | Q1 2022  | Q4 2021
+Period Ending  | Sep '26  | Jun '26  | Mar '26  | Dec '25  | Sep '25  | Jun '25  | Mar '25  | Dec '24  | Sep '24  | Jun '24  | Mar '24  | Dec '23  | Oct '23  | Jul '23  | Apr '23  | Dec '22  | Oct '22  | Jul '22  | Apr '22  | Dec '21
+Fiscal Quarter  | Q3 2026  | Q2 2026  | Q1 2026  | Q4 2025  | Q3 2025  | Q2 2025  | Q1 2025  | Q4 2024  | Q3 2024  | Q2 2024  | Q1 2024  | Q4 2023  | Q3 2023  | Q2 2023  | Q1 2023  | Q4 2022  | Q3 2022  | Q2 2022  | Q1 2022  | Q4 2021
+Period Ending  | Sep '26  | Jun '26  | Mar '26  | Dec '25  | Sep '25  | Jun '25  | Mar '25  | Dec '24  | Sep '24  | Jun '24  | Mar '24  | Dec '23  | Oct '23  | Jul '23  | Apr '23  | Dec '22  | Oct '22  | Jul '22  | Apr '22  | Dec '21
+Fiscal Quarter  | Q3 2026  | Q2 2026  | Q1 2026  | Q4 2025  | Q3 2025  | Q2 2025  | Q1 2025  | Q4 2024  | Q3 2024  | Q2 2024  | Q1 2024  | Q4 2023  | Q3 2023  | Q2 2023  | Q1 2023  | Q4 2022  | Q3 2022  | Q2 2022  | Q1 2022  | Q4 2021
+Period Ending  | Sep '26  | Jun '26  | Mar '26  | Dec '25  | Sep '25  | Jun '25  | Mar '25  | Dec '24  | Sep '24  | Jun '24  | Mar '24  | Dec '23  | Oct '23  | Jul '23  | Apr '23  | Dec '22  | Oct '22  | Jul '22  | Apr '22  | Dec '21

@@ -1,0 +1,54 @@
+{
+  "checks": [
+    {
+      "check": "Dated original components",
+      "records": 310,
+      "result": "PASS",
+      "detail": "All five inputs present; every component published by availability; no vendor fallback."
+    },
+    {
+      "check": "Quarter-to-annual reconciliation",
+      "records": 140,
+      "result": "PASS",
+      "detail": "Four observed quarters sum to original annual values within source rounding tolerance."
+    },
+    {
+      "check": "Frozen prices, FX and universe",
+      "records": 112,
+      "result": "PASS",
+      "detail": "Byte-for-byte unchanged against inherited input hashes."
+    },
+    {
+      "check": "Information cutoff and freshness",
+      "records": 49149,
+      "result": "PASS",
+      "detail": "Every source component strictly predates the first day of the decision month; 550/275-day age limits."
+    },
+    {
+      "check": "Monthly portfolio accounting",
+      "records": 6600,
+      "result": "PASS",
+      "detail": "No monthly gaps; weights, positions, turnover, costs and 1-9 bounds reconcile."
+    },
+    {
+      "check": "Trade cost ledgers",
+      "records": 39120,
+      "result": "PASS",
+      "detail": "Costs equal specified bps times actual absolute traded value."
+    },
+    {
+      "check": "Inherited result reproduction",
+      "records": 12,
+      "result": "PASS",
+      "detail": "Unmodified baseline financial inputs reproduce prior NAV, return, CAGR, drawdown and costs."
+    }
+  ],
+  "run_count": 114,
+  "known_limits": [
+    "Original-report financial coverage exists for 18 of 31 retrospective candidates.",
+    "Some reporters/quarters are missing and 23 observed reports cannot form all required trailing flows.",
+    "Numerical source verification is not an independent audit of issuer accounts or vendors.",
+    "Actual releases reduce timing bias; they do not remove retrospective-universe or historical experiment-selection bias.",
+    "Monthly risk statistics do not capture all intramonth drawdowns."
+  ]
+}

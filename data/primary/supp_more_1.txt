@@ -1,0 +1,60 @@
+Captured 2026-09-16. Numerical facts extracted from retrieved original issuer documents; source URLs retained.
+Source: https://www.enel.com/content/dam/enel-common/press/en/2024-march/Enel%20FY%20Results%202023.pdf
+
+L910@P23: Effective portion of change in the fair value of cash flow hedges 2,714 (1,677)
+L911@P23: Change in the fair value of hedging costs 49 (70)
+L913@P23: Change in the fair value of financial assets at FVOCI 11 (44)
+L914@P23: Change in translation reserve (1) (523) 959
+L918@P23: 16 (78)
+L921@P23: Remeasurement of net liabilities/(assets) for defined benefit plans (150) 303
+L926@P23: (1) 21
+L927@P23: Total other comprehensive income/(expense) for the year 2,217 (340)
+L936@P24: ASSETS at Dec. 31, 2023 at Dec. 31, 2022
+L948@P24: Deferred tax assets (1) 9,218 11,175
+L965@P24: Assets classified as held for sale (1) 5,919 6,155
+L966@P24: TOTAL ASSETS (1) 195,224 219,874
+L970@P25: LIABILITIES AND EQUITY at Dec. 31, 2023 at Dec. 31, 2022
+L981@P25: Treasury share reserve (59) (47)
+L983@P25: Retained earnings (1) 15,096 15,795
+L986@P25: Total equity (1) 45,109 42,080
+L991@P25: Deferred tax liabilities (1) 8,217 9,794
+L1010@P25: classified as held for sale (1) 2,316 3,366
+L1011@P25: Total liabilities (1) 150,115 177,794
+L1012@P25: TOTAL LIABILITIES AND EQUITY (1) 195,224 219,874
+L1032@P26: Net (gains)/losses from equity-accounted investments (17) (23)
+L1034@P26: Changes in net working capital: (604) (3,961)
+L1035@P26: - inventories 435 (2,166)
+L1036@P26: - trade receivables (2,487) 297 (2,783) (242)
+L1037@P26: - trade payables (1,165) 19 1,333 (1,272)
+L1038@P26: - other contract assets (107) 15
+L1040@P26: - other assets/liabilities 2,548 (52) (614) (783)
+L1042@P26: Utilization of provisions (1,647) (1,521)
+L1043@P26: Interest income and other financial income collected (1) 2,049 239 2,715 154
+L1044@P26: Interest expense and other financial expense paid (1) (5,657) (89) (5,134) (34)
+L1045@P26: Net (income)/expense from measurement of commodities 1,359 (927)
+L1046@P26: Income taxes paid (2,958) (1,934)
+L1047@P26: Net capital gains 369 (355)
+L1048@P26: Cash flows from operating activities (A) (1) 14,620 8,649
+L1049@P26: of which: discontinued operations 132 (391)
+L1050@P26: Investments in property, plant and equipment (11,383) (11,281)
+L1051@P26: Investments in intangible assets (1,385) (1,961)
+L1053@P26: Investments in non-current contract assets (795) (1,261)
+L1055@P26: equivalents acquired (17) (1,275)
+L1059@P26: Cash flows used in investing activities (B) (10,610) (13,626)
+L1060@P26: of which: discontinued operations (442) (351)
+L1062@P26: Repayments of borrowings (6,006) (125) (9,359) (97)
+L1063@P26: Other changes in net financial debt (4,072) (620)
+L1067@P26: and other transactions in non-controlling interests (25) 12
+L1069@P26-27: Purchase of treasury shares (20) (14)28
+L1070@P27: Dividends and interim dividends paid (5,135) (4,901)
+L1071@P27: Coupons paid to holders of hybrid bonds (182) (123)
+L1072@P27: Cash flows from financing activities (C) (1) (8,361) 7,394
+L1073@P27: of which: discontinued operations (16) 656
+L1075@P27: (D) (49) 136
+L1076@P27: Increase/(Decrease) in cash and cash equivalents (A+B+C+D) (4,400) 2,553
+L1077@P27: Cash and cash equivalents at the beginning of the year (2) 11,543 8,990
+L1078@P27: Cash and cash equivalents at the end of the year (3) 7,143 11,543
+L1083@P27: €78 million at January 1, 2023 (€88 million at January 1, 2022), cash and cash equivalents pertaining to “Assets held for sale” in the amount of €98
+L1085@P27: 1, 2023 (€543 million at January 1, 2022).
+L1089@P27-28: €326 million at December 31, 2022.29
+L1108@P28: Operating profit/(loss) (940) (1,535)

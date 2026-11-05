@@ -1,0 +1,74 @@
+Source: https://stockanalysis.com/quote/cph/VWS/financials/cash-flow-statement/
+Captured: 2026-09-15. Current standardized history; not point-in-time vintages.
+Financials in millions EUR. Fiscal year is January - December.
+Millions EUR. Fiscal year is Jan - Dec.
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Net Income  | 1,103  | 778  | 499  | 77  | -1,572  | 134
+Depreciation & Amortization  | 753  | 669  | 580  | 553  | 558  | 605
+Other Amortization  | 369  | 369  | 272  | 237  | 276  | 309
+Loss (Gain) From Sale of Assets  | -  | -  | -  | -  | -8  | 6
+Asset Writedown & Restructuring Costs  | 22  | 21  | 10  | -4  | 254  | 68
+Loss (Gain) on Equity Investments  | -7  | -7  | 1  | -22  | -11  | -36
+Stock-Based Compensation  | 41  | 41  | 28  | 34  | 7  | 13
+Provision & Write-off of Bad Debts  | -8  | -8  | 18  | -  | -  | -
+Other Operating Activities  | -179  | -157  | 169  | 119  | 493  | -152
+Change in Accounts Receivable  | -104  | -104  | 238  | 655  | 836  | 122
+Change in Inventory  | 247  | 247  | 501  | 91  | -763  | -705
+Change in Accounts Payable  | 637  | 637  | 391  | -351  | -197  | 678
+Change in Other Net Operating Assets  | -606  | -200  | -375  | -362  | -68  | -86
+Operating Cash Flow  | 2,268  | 2,286  | 2,332  | 1,027  | -195  | 956
+Operating Cash Flow Growth  | -5.66%  | -1.97%  | 127.07%  | -  | -  | 28.67%
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Capital Expenditures  | -771  | -821  | -670  | -456  | -371  | -476
+Sale of Property, Plant & Equipment  | 2  | 2  | 13  | 55  | 48  | 3
+Cash Acquisitions  | -116  | -19  | -  | -  | -  | -
+Divestitures  | -  | -  | -  | -8  | -  | 95
+Sale (Purchase) of Intangibles  | -388  | -457  | -485  | -434  | -448  | -360
+Investment in Securities  | 114  | 87  | -204  | 49  | 79  | -221
+Other Investing Activities  | 51  | 44  | 5  | 12  | 13  | 60
+Investing Cash Flow  | -1,108  | -1,164  | -1,341  | -782  | -679  | -899
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Long-Term Debt Issued  | -  | 150  | 84  | 1,137  | 1,756  | 642
+Long-Term Debt Repaid  | -  | -338  | -522  | -383  | -860  | -1,095
+Lease Payments  | -248  | -216  | -177  | -162  | -147  | -135
+Net Debt Issued (Repaid)  | -289  | -188  | -438  | 754  | 896  | -453
+Repurchase of Common Stock  | -372  | -282  | -40  | -11  | -  | -12
+Common Dividends Paid  | -98  | -74  | -  | -  | -50  | -228
+Other Financing Activities  | -  | -  | -  | -  | -  | -22
+Financing Cash Flow  | -759  | -544  | -478  | 743  | 846  | -715
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Foreign Exchange Rate Adjustments  | 5  | -11  | -14  | -48  | -14  | 15
+Net Cash Flow  | 406  | 567  | 499  | 940  | -42  | -643
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Free Cash Flow  | 1,497  | 1,465  | 1,662  | 571  | -566  | 480
+Free Cash Flow Growth  | -7.54%  | -11.85%  | 191.07%  | -  | -  | 31.87%
+Free Cash Flow Margin  | 7.38%  | 7.78%  | 9.61%  | 3.71%  | -3.91%  | 3.08%
+Free Cash Flow Per Share  | 1.45  | 1.46  | 1.65  | 0.56  | -0.56  | 0.48
+Levered Free Cash Flow  | 521.5  | 986.25  | 976.63  | 51.63  | -271.63  | 322
+Unlevered Free Cash Flow  | 629  | 1,077  | 1,098  | 198.5  | -232.25  | 354.5
+Free Cash Flow After Leases  | 1,249  | 1,249  | 1,485  | 409  | -713  | 345
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Cash Interest Paid  | 117  | 117  | 124  | 205  | 37  | 39
+Cash Income Tax Paid  | 155  | 275  | 245  | 261  | 144  | 174
+Change in Working Capital  | 174  | 580  | 755  | 33  | -192  | 9
+Data Source: cite55†S&P Global Market Intelligence†www.spglobal.com Last updated: Jun 30, 2026
+cite56†Data Sources cite57†Report a data error L232: #### Install The App
+  * cite62†Login L253:   * cite63†Create Account L254:   * cite64†Changelog L255:   * cite56†Data Sources L256:   * cite65†Advertise L257:   * cite66†Help Center L258: #### Company

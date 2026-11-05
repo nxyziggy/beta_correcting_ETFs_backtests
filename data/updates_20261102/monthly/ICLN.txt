@@ -1,0 +1,8 @@
+Source: https://www.digrin.com/stocks/detail/ICLN/price
+As of: 2026-11-02 America/New_York
+Web evidence: 【turn122view0】
+Month | Adjusted price | Real price
+November 2026  | $15.31  | $15.31
+October 2026  | $15.31  | $15.31
+September 2026  | $17  | $17
+August 2026  | $17.30  | $17.30

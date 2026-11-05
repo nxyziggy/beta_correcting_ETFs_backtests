@@ -1,0 +1,10 @@
+ticker,panel,period_end,field,frozen_value,current_value,action
+LIN,quarterly,2025-09-30,operating_income,9415.0,9617.0,retain previously captured record
+LIN,quarterly,2025-12-31,operating_income,9571.0,9773.0,retain previously captured record
+LIN,quarterly,2026-03-31,operating_income,9777.0,9979.0,retain previously captured record
+LIN,quarterly,2026-06-30,operating_income,9988.0,10190.0,retain previously captured record
+MU,quarterly,2025-08-31,operating_income,9809.0,9770.0,retain previously captured record
+MU,quarterly,2025-11-30,operating_income,13771.0,13732.0,retain previously captured record
+MU,quarterly,2026-02-28,operating_income,28133.0,28094.0,retain previously captured record
+MU,quarterly,2026-05-31,operating_income,59282.0,59243.0,retain previously captured record
+TXN,quarterly,2026-06-30,operating_income,7398.0,7397.0,retain previously captured record

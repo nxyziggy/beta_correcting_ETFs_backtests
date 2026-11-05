@@ -1,0 +1,15 @@
+{
+  "as_of": "2026-11-02",
+  "complete_month_end": "2026-10-31",
+  "previous_complete_month_end": "2026-08-31",
+  "price_instruments": 34,
+  "new_daily_observations": 1700,
+  "new_month_end_observations": 102,
+  "fx_observations": 140,
+  "new_annual_records": 1,
+  "new_ttm_records": 7,
+  "annual_companies_reviewed": 30,
+  "quarterly_companies_reviewed": 9,
+  "source_vintage_policy": "preserve prior records; append new report periods; chain new dated price ratios from August 31",
+  "latest_fx_provider": "ECB on 2026-11-02; Federal Reserve H.10 through 2026-10-30"
+}

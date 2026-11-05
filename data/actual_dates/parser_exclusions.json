@@ -1,0 +1,70 @@
+[
+  {
+    "source": "https://assets.linde.com/-/media/global/corporate/corporate/documents/press-releases/2021/linde-4q21-earnings-release-tables.pdf",
+    "reason": "Missing ^Operating Profit\\s+"
+  },
+  {
+    "source": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-07/Airbus_SN_Q3-2020.pdf",
+    "reason": "Missing Airbus ^Cash (?:provided by(?: \\(used for\\))?|used for(?: \\(provided by\\))?) operating activities"
+  },
+  {
+    "source": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-07/Q12020-Airbus-SN.pdf",
+    "reason": "Missing Airbus ^Cash (?:provided by(?: \\(used for\\))?|used for(?: \\(provided by\\))?) operating activities"
+  },
+  {
+    "source": "https://ir.microchip.com/news-events/press-releases/detail/266/microchip-technology-announces-financial-results-for-fourth-quarter-and-fiscal-year-2020",
+    "reason": "Missing ^GAAP cash flow from operations, as reported\\s*\\|"
+  },
+  {
+    "source": "https://ir.microchip.com/news-events/press-releases/detail/190/microchip-technology-announces-record-financial-results-for-fourth-quarter-and-fiscal-year-2021",
+    "reason": "Missing ^GAAP cash flow from operations, as reported\\s*\\|"
+  },
+  {
+    "source": "https://assets.linde.com/-/media/global/corporate/corporate/documents/press-releases/2020/linde-1q20-earnings-release-tables.pdf",
+    "reason": "Missing ^Operating Profit\\s+"
+  },
+  {
+    "source": "https://assets.linde.com/-/media/global/corporate/corporate/documents/press-releases/2020/linde-2q20-earnings-release-tables.pdf",
+    "reason": "Missing ^Operating Profit\\s+"
+  },
+  {
+    "source": "https://assets.linde.com/-/media/global/corporate/corporate/documents/press-releases/2020/linde-3q20-earnings-release-tables.pdf",
+    "reason": "Missing ^Operating Profit\\s+"
+  },
+  {
+    "source": "https://assets.linde.com/-/media/global/corporate/corporate/documents/press-releases/2020/linde-4q20-earnings-release-tables.pdf",
+    "reason": "Missing ^Operating Profit\\s+"
+  },
+  {
+    "source": "https://assets.linde.com/-/media/global/corporate/corporate/documents/press-releases/2021/linde-1q21-earnings-release-tables.pdf",
+    "reason": "Missing ^Operating Profit\\s+"
+  },
+  {
+    "source": "https://assets.linde.com/-/media/global/corporate/corporate/documents/press-releases/2021/linde-2q21-earnings-release-tables.pdf",
+    "reason": "Missing ^Operating Profit\\s+"
+  },
+  {
+    "source": "https://assets.linde.com/-/media/global/corporate/corporate/documents/press-releases/2021/linde-3q21-earnings-release-tables.pdf",
+    "reason": "Missing ^Operating Profit\\s+"
+  },
+  {
+    "source": "https://assets.linde.com/-/media/global/corporate/corporate/documents/press-releases/2024/linde-3q24-earnings-release-tables.pdf",
+    "reason": "Missing Linde original publication date"
+  },
+  {
+    "source": "https://investor.lamresearch.com/image/LRCX_Exhibit_99.1_Q2_2023.pdf",
+    "reason": "Missing ^Operating income\\s+"
+  },
+  {
+    "source": "https://www.investor.nexteraenergy.com/~/media/Files/N/NEE-IR/reports-and-fillings/quarterly-earnings/2020/Q1/NEE%20Q1%202020%20Earnings%20News%20Release%20vFINAL.pdf",
+    "reason": "(1, 1)"
+  },
+  {
+    "source": "https://investors.st.com/static-files/089d16a1-52aa-470e-a48d-8e7b1b9e8adc",
+    "reason": "Missing explicitly headed TTM cash-flow table"
+  },
+  {
+    "source": "https://investor.ti.com/static-files/ff414faf-af05-4186-904e-10dd55a8c6e9",
+    "reason": "Missing Texas Instruments publication date"
+  }
+]

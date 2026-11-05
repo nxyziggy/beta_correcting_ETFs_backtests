@@ -1,0 +1,210 @@
+[
+  {
+    "ticker": "AIR.PA",
+    "fiscal_year": 2026,
+    "fiscal_quarter": 3,
+    "published": "2026-10-28",
+    "source": "https://mediaassets.airbus.com/pm_38_942_942558-sypslvqqgm.pdf?fileName=9m-2026-financial-statements.pdf",
+    "date_source": "https://www.airbus.com/en/investors/financial-results"
+  },
+  {
+    "ticker": "AIR.PA",
+    "fiscal_year": 2026,
+    "fiscal_quarter": 2,
+    "published": "2026-07-29",
+    "source": "https://mediaassets.airbus.com/pm_38_922_922515-962uvvlfu8.pdf?fileName=hy-2026-financial-statements.pdf",
+    "date_source": "https://www.airbus.com/en/investors/financial-results"
+  },
+  {
+    "ticker": "AIR.PA",
+    "fiscal_year": 2026,
+    "fiscal_quarter": 1,
+    "published": "2026-04-28",
+    "source": "https://mediaassets.airbus.com/pm_38_899_899592-l5rfqagcuh.pdf?fileName=q1-2026-financial-statements.pdf",
+    "date_source": "https://www.airbus.com/en/investors/financial-results"
+  },
+  {
+    "ticker": "AIR.PA",
+    "fiscal_year": 2025,
+    "fiscal_quarter": 4,
+    "published": "2026-02-19",
+    "source": "https://www.airbus.com/sites/g/files/jlcbta136/files/2026-02/airbus_fy_2025_financial_statements_1.pdf",
+    "date_source": "https://www.airbus.com/en/investors/financial-results"
+  },
+  {
+    "ticker": "AIR.PA",
+    "fiscal_year": 2025,
+    "fiscal_quarter": 3,
+    "published": "2025-10-29",
+    "source": "https://www.airbus.com/sites/g/files/jlcbta136/files/2025-10/9m_2025_financial_statements.pdf",
+    "date_source": "https://www.airbus.com/en/investors/financial-results"
+  },
+  {
+    "ticker": "AIR.PA",
+    "fiscal_year": 2025,
+    "fiscal_quarter": 2,
+    "published": "2025-07-30",
+    "source": "https://www.airbus.com/sites/g/files/jlcbta136/files/2025-07/airbus_financial_statements_h125.pdf",
+    "date_source": "https://www.airbus.com/en/investors/financial-results"
+  },
+  {
+    "ticker": "AIR.PA",
+    "fiscal_year": 2025,
+    "fiscal_quarter": 1,
+    "published": "2025-04-30",
+    "source": "https://www.airbus.com/sites/g/files/jlcbta136/files/2025-04/q125_airbus_financial_statements_sn.pdf",
+    "date_source": "https://www.airbus.com/en/investors/financial-results"
+  },
+  {
+    "ticker": "AIR.PA",
+    "fiscal_year": 2024,
+    "fiscal_quarter": 4,
+    "published": "2025-02-20",
+    "source": "https://www.airbus.com/sites/g/files/jlcbta136/files/2025-02/airbus_financial_statements_fy_2024.pdf",
+    "date_source": "https://www.airbus.com/en/investors/financial-results"
+  },
+  {
+    "ticker": "AIR.PA",
+    "fiscal_year": 2024,
+    "fiscal_quarter": 3,
+    "published": "2024-10-30",
+    "source": "https://www.airbus.com/sites/g/files/jlcbta136/files/2024-10/Airbus_Notes_9m%2024-1459.pdf",
+    "date_source": "https://www.airbus.com/en/investors/financial-results"
+  },
+  {
+    "ticker": "AIR.PA",
+    "fiscal_year": 2024,
+    "fiscal_quarter": 2,
+    "published": "2024-07-30",
+    "source": "https://www.airbus.com/sites/g/files/jlcbta136/files/2024-07/H1%2724_Airbus%20Financial%20Statements.pdf",
+    "date_source": "https://www.airbus.com/en/investors/financial-results"
+  },
+  {
+    "ticker": "AIR.PA",
+    "fiscal_year": 2024,
+    "fiscal_quarter": 1,
+    "published": "2024-04-25",
+    "source": "https://www.airbus.com/sites/g/files/jlcbta136/files/2024-04/Q1%2724%20Airbus%20Financial%20Statements_vr.pdf",
+    "date_source": "https://www.airbus.com/en/investors/financial-results"
+  },
+  {
+    "ticker": "AIR.PA",
+    "fiscal_year": 2023,
+    "fiscal_quarter": 4,
+    "published": "2024-02-15",
+    "source": "https://www.airbus.com/sites/g/files/jlcbta136/files/2024-06/Airbus_2023_FinancialStatements.pdf",
+    "date_source": "https://www.airbus.com/en/newsroom/annual-press-conference-2024"
+  },
+  {
+    "ticker": "AIR.PA",
+    "fiscal_year": 2023,
+    "fiscal_quarter": 3,
+    "published": "2023-11-08",
+    "source": "https://www.airbus.com/sites/g/files/jlcbta136/files/2023-11/Airbus_SN_9m-2023-VMF4VR.pdf",
+    "date_source": "https://www.airbus.com/en/investors/financial-results"
+  },
+  {
+    "ticker": "AIR.PA",
+    "fiscal_year": 2023,
+    "fiscal_quarter": 2,
+    "published": "2023-07-26",
+    "source": "https://www.airbus.com/sites/g/files/jlcbta136/files/2023-07/Airbus_SN_H1_2023_0.pdf",
+    "date_source": "https://www.airbus.com/en/investors/financial-results"
+  },
+  {
+    "ticker": "AIR.PA",
+    "fiscal_year": 2023,
+    "fiscal_quarter": 1,
+    "published": "2023-05-03",
+    "source": "https://www.airbus.com/sites/g/files/jlcbta136/files/2023-05/Airbus_SN_Q1-2023.pdf",
+    "date_source": "https://www.airbus.com/en/investors/financial-results"
+  },
+  {
+    "ticker": "AIR.PA",
+    "fiscal_year": 2022,
+    "fiscal_quarter": 4,
+    "published": "2023-02-16",
+    "source": "https://www.airbus.com/sites/g/files/jlcbta136/files/2023-02/Airbus_SN_YE-2022.pdf",
+    "date_source": "https://www.airbus.com/en/investors/financial-results"
+  },
+  {
+    "ticker": "AIR.PA",
+    "fiscal_year": 2022,
+    "fiscal_quarter": 3,
+    "published": "2022-10-28",
+    "source": "https://www.airbus.com/sites/g/files/jlcbta136/files/2022-10/Airbus_SN_Q3-2022.pdf",
+    "date_source": "https://www.airbus.com/en/investors/financial-results"
+  },
+  {
+    "ticker": "AIR.PA",
+    "fiscal_year": 2022,
+    "fiscal_quarter": 2,
+    "published": "2022-07-27",
+    "source": "https://www.airbus.com/sites/g/files/jlcbta136/files/2022-07/Airbus%20SN%20H1%202022.pdf",
+    "date_source": "https://www.airbus.com/en/investors/financial-results"
+  },
+  {
+    "ticker": "AIR.PA",
+    "fiscal_year": 2022,
+    "fiscal_quarter": 1,
+    "published": "2022-05-04",
+    "source": "https://www.airbus.com/sites/g/files/jlcbta136/files/2022-05/Airbus_SN%20Q1%202022.pdf",
+    "date_source": "https://www.airbus.com/en/investors/financial-results"
+  },
+  {
+    "ticker": "AIR.PA",
+    "fiscal_year": 2021,
+    "fiscal_quarter": 4,
+    "published": "2022-02-17",
+    "source": "https://www.airbus.com/sites/g/files/jlcbta136/files/2022-02/Airbus%20FY%202021%20SN.pdf",
+    "date_source": "https://www.airbus.com/en/investors/financial-results"
+  },
+  {
+    "ticker": "AIR.PA",
+    "fiscal_year": 2021,
+    "fiscal_quarter": 3,
+    "published": "2021-10-28",
+    "source": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-10/Airbus-Financial%20Information%20-SN-Q3-2021.pdf",
+    "date_source": "https://www.airbus.com/en/investors/financial-results"
+  },
+  {
+    "ticker": "AIR.PA",
+    "fiscal_year": 2021,
+    "fiscal_quarter": 1,
+    "published": "2021-04-29",
+    "source": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-07/Airbus-SN-Q1-2021.pdf",
+    "date_source": "https://www.airbus.com/en/investors/financial-results"
+  },
+  {
+    "ticker": "AIR.PA",
+    "fiscal_year": 2020,
+    "fiscal_quarter": 4,
+    "published": "2021-02-18",
+    "source": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-06/Airbus-FY2020-SN_0.pdf",
+    "date_source": "https://www.airbus.com/en/investors/financial-results"
+  },
+  {
+    "ticker": "AIR.PA",
+    "fiscal_year": 2020,
+    "fiscal_quarter": 3,
+    "published": "2020-10-29",
+    "source": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-07/Airbus_SN_Q3-2020.pdf",
+    "date_source": "https://www.airbus.com/en/investors/financial-results"
+  },
+  {
+    "ticker": "AIR.PA",
+    "fiscal_year": 2020,
+    "fiscal_quarter": 1,
+    "published": "2020-04-29",
+    "source": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-07/Q12020-Airbus-SN.pdf",
+    "date_source": "https://www.airbus.com/en/investors/financial-results"
+  },
+  {
+    "ticker": "AIR.PA",
+    "fiscal_year": 2019,
+    "fiscal_quarter": 4,
+    "published": "2020-02-13",
+    "source": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-07/Airbus-FY2019-financial-statements-SN.pdf",
+    "date_source": "https://www.airbus.com/en/investors/financial-results"
+  }
+]

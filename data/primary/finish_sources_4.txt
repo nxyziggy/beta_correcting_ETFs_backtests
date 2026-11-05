@@ -1,0 +1,76 @@
+Captured 2026-09-16. Numerical facts extracted from retrieved original issuer documents; source URLs retained.
+Source: https://www.enel.com/content/dam/enel-common/press/it/2021-Marzo/Enel%20risultati%20FY%202020.pdf
+
+L3@P0: T +39 06 8305 5699 T +39 06 8305 7975
+L10@P0: Enel SpA – Sede Legale: 00198 Roma, Viale Regina Margherita 137 – Registro Imprese di Roma e Codice Fiscale 00811720580 – R.E.A. 756032
+L13@P0: ORDINARIO IN CRESCITA DEL 9% NEL 2020
+L15@P0: • Ricavi a 64.985 milioni di euro (80.327 milioni di euro nel 2019, -19,1%)
+L20@P0: • EBITDA ordinario a 17.940 milioni di euro (17.905 milioni di euro nel 2019, +0,2%)
+L24@P0: • EBITDA a 16.816 milioni di euro (17.704 milioni di euro nel 2019, -5,0%)
+L25@P0: • EBIT a 8.368 milioni di euro (6.878 milioni di euro nel 2019, +21,7%)
+L29@P0: • Risultato netto ordinario del Gruppo a 5.197 milioni di euro (4.767 milioni di euro nel 2019,
+L34@P0: • Risultato netto del Gruppo a 2.610 milioni di euro (2.174 milioni di euro nel 2019, +20,1%)
+L37@P0: • Indebitamento finanziario netto a 45.415 milioni di euro (45.175 milioni di euro a fine 2019,
+L41@P0-1: • Investimenti a 10.197 milioni di euro (9.947 milioni di euro nel 2019, +2,5%)
+L46@P1: cui 0,175 euro per azione già corrisposti quale acconto a gennaio 2021), in crescita del 9,1%
+L61@P1: 9,1% rispetto al dividendo pagato nel 2019
+L84@P2: Trading 20.804 32.012 -35,0%
+L85@P2: Enel Green Power 7.692 7.717 -0,3%
+L86@P2: Infrastrutture e Reti 19.342 21.789 -11,2%
+L87@P2: Mercati Finali 29.508 32.599 -9,5%
+L88@P2: Enel X 1.121 1.130 -0,8%
+L89@P2: Servizi 1.870 1.981 -5,6%
+L90@P2: Altro, elisioni e rettifiche (15.352) (16.901) 9,2%
+L91@P2: TOTALE 64.985 80.327 -19,1%
+L95@P2: Ricavi da generazione termoelettrica 7.512 10.300 -27,1%
+L96@P2: di cui da generazione a carbone 1.639 2.827 -42,0%
+L98@P2: Percentuale dei ricavi da generazione termoelettrica sul totale ricavi 11,6% 12,8%
+L99@P2: di cui dei ricavi da generazione a carbone sul totale ricavi 2,5% 3,5%
+L100@P2: Percentuale dei ricavi da generazione nucleare sul totale ricavi 2,1% 1,6%
+L125@P3: (3,5% nel 2019).
+L138@P3: Infrastrutture e Reti 7.714 8.228 -6,2%
+L139@P3: Mercati finali 3.197 3.334 -4,1%
+L141@P3: Servizi 94 126 -25,4%
+L142@P3: Altro, elisioni e rettifiche (177) (144) -22,9%
+L149@P3: Infrastrutture e Reti 7.433 8.278 -10,2%
+L150@P3: Mercati finali 3.121 3.334 -6,4%
+L156@P4: Enel X 152 158 -3,8%
+L157@P4: Servizi (47) 126 -
+L158@P4: Altro, elisioni e rettifiche (190) (144) -31,9%
+L159@P4: TOTALE 16.816 17.704 -5,0%
+L177@P4: EBITDA ordinario 2.230 4.721 7.714 3.197 161 94 (177) 17.940
+L182@P4: (218) - - - - - - (218)
+L188@P4: (299) (50) (231) (65) (7) (95) (12) (759)
+L193@P4: - (14) - - - - - (14)
+L194@P4: Costi da COVID-19 (13) (10) (50) (11) (2) (46) (1) (133)
+L195@P4: EBITDA 1.700 4.647 7.433 3.121 152 (47) (190) 16.816
+L212@P4: ordinario 1.585 4.618 8.228 3.334 158 126 (144) 17.905
+L219@P4: (308) - - - - - - (308)
+L225@P4: - - 50 - - - - 50
+L230@P4: - (30) - - - - - (30)
+L232@P4-5: valore (7) - - - - - - (7)
+L240@P5: 94 - - - - - - 94
+L241@P5: EBITDA 1.364 4.588 8.278 3.334 158 126 (144) 17.704
+L266@P5: − al miglioramento del margine di Enel X, per 3 milioni di euro, la cui performance operativa nel 2020
+L291@P6: Trading 15 (3.525) -
+L292@P6: Enel Green Power 2.734 3.260 -16,1%
+L293@P6: Infrastrutture e Reti 4.262 5.277 -19,2%
+L294@P6: Mercati finali 1.817 2.210 -17,8%
+L295@P6: Enel X (16) (98) 83,7%
+L296@P6: Servizi (226) (75) -
+L297@P6: Altro, elisioni e rettifiche (218) (171) -27,5%
+L300@P6: euro (+21,7%) rispetto al 2019 per effetto dei minori ammortamenti e perdite di valore dell’esercizio 2020.
+L306@P6: Messico, Australia e Argentina per complessivi 750 milioni di euro; (iv) altri adeguamenti di valore per 169
+L326@P7: (598) (2.415) 1.817 75,2%
+L328@P7: decarbonizzazione e digitalizzazione (422) - (422)
+L329@P7: Costi da COVID-19 (86) - (86)
+L333@P7: (833) (38) (795) -
+L335@P7: Australia ed Argentina (537) - (537)
+L337@P7: Italia ed Enel Green Power (65) (50) (15) -30,0%
+L341@P7: (35) (31) (4) -12,9%
+L342@P7: Altri adeguamenti di valore minori (11) (38) 27 +71,1%
+L346@P7: - 49 (49)
+L347@P7: Cessione della partecipazione in Mercure S.r.l. - 97 (97)
+L349@P7: Reftinskaya - (60) 60
+L353@P7: - (77) 77
+L355@P7: società greche - (30) 30

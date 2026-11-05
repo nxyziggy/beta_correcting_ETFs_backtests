@@ -1,0 +1,20 @@
+Captured 2026-09-16. Numerical facts extracted from retrieved original issuer documents; source URLs retained.
+Source: https://www.veolia.com/sites/g/files/dvc4206/files/document/2022/03/Finance_PR_Veolia%20annual%20results%202021.pdf
+
+L2@P0: Paris, 17 March 2022
+L5@P0: ACTIVITY AND RESULTS SIGNIFICANTLY ABOVE 2020 AND 2019
+L16@P0:  CURRENT NET INCOME GROUP SHARE OF €896M, UP +133%
+L22@P0: - ORGANIC GROWTH OF EBITDA BETWEEN +4% AND +6%
+L23@P0: - CURRENT NET INCOME GROUP SHARE AROUND €1.1BN, AN INCREASE OF MORE THAN 20%,
+L36@P1: Paris, 17 March 2022
+L73@P1: selling prices of €153/T compared to €56/T in 2020.
+L76@P1: attributable to Central and Eastern Europe (including Germany), with a revenue of €6 260M, up +19.6%,
+L83@P2: Paris, 17 March 2022
+L98@P2: rates (i.e. excluding mainly the divestment of Sade Telecom) growth reached +6.5% vs. 2020 and +0.3%
+L103@P2: services business recovered in 2021 and grew by +15.3% vs. 2020 but are still behind 2019.
+L111@P2: and of +6.9% vs. 2019.
+L113@P2: of +€78M (+2.1%).
+L124@P2: • Current EBIT up +41.7 % to €1 766M vs. €1 242M in 2020.
+L130@P3: Paris, 17 March 2022
+L134@P3: o The item « provisions, fair value adjustments and industrial capital gains » reached +€119M in 2021,
+L141@P3: • Very strong growth of Current Net income Group share to €896M vs €382M in 2020 and €738M in 2019,

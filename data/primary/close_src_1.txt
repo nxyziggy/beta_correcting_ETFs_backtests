@@ -1,0 +1,24 @@
+Captured 2026-09-16. Numerical facts extracted from retrieved original issuer documents; source URLs retained.
+Source: https://www.veolia.com/sites/g/files/dvc4206/files/document/2023/04/VE_URD_2022_EN.pdf
+Source: https://www.infineon.com/assets/row/public/documents/corporate/investors/annual-general-meeting/2021/infineon-agm-speech-schneider-otherdocument-v02-00-en.pdf
+Source: https://www.ti.com/about-ti/newsroom/news-releases/2024/2024-12-20-texas-instruments-announces-award-agreement-for-chips-and-science-act-funding.html
+
+L26834@P356: Non-current IFRS 16 lease debt Note 9.1.1 1,298.1 1,656.2
+L26843@P356: Current IFRS 16 lease debt Note 9.1.1 410.6 496.5
+L26859@P357: Cost of sales Note 6.2 -23,905.9 -35,739.8
+L26860@P357: Selling costs Note 6.2 -584.0 -954.2
+L26861@P357: General and administrative expenses Note 6.2 -2,308.6 -3,215.8
+L26862@P357: Other operating revenue and expenses Note 6.2 -496.9 -769.2
+L26868@P357: Cost of net financial debt Note 9.4.1 -342.6 -632.7
+L26869@P357: Other financial income and expenses Note 9.4.2 -74.2 -204.6
+L26871@P357: Income tax expense Note 12.1 -345.8 -419.8
+L26873@P357: Net income (loss) from discontinued operations Note 4.3.1 - -78.6
+L26899@P358: Income tax expense -5.5 -9.1
+L26902@P358: released to net income (1) 662.1 5.8
+L26908@P358: Fair value adjustments on hedging costs 50.3 -40.8
+L26910@P358: Amount net of tax 50.3 -40.8
+L26915@P358: Fair value adjustments on cash flow hedge derivatives 140.6 -163.4
+L26917@P358: Amount net of tax 103.2 -106.8
+L26922@P358: • income tax expense -0.2 -4.3
+L26925@P358: o/w attributable to joint ventures 64.3 -70.0
+L1@P0: Munich, 25 February 2021

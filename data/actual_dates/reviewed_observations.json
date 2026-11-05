@@ -1,0 +1,263 @@
+[
+  {
+    "ticker": "INTC",
+    "fiscal_year": 2021,
+    "fiscal_quarter": 4,
+    "period_end": "2021-12-25",
+    "published": "2022-01-26",
+    "currency": "USD",
+    "unit": "million",
+    "annual": [
+      19456,
+      19868,
+      29991
+    ],
+    "balance": [
+      168406,
+      27462
+    ],
+    "quarter": [
+      4989,
+      4623,
+      null
+    ],
+    "source": "https://www.intc.com/filings-reports/all-sec-filings/content/0000050863-22-000006/q421_earningsrelease.htm",
+    "notes": "Original release includes NAND business; revised vendor operating income differs. Flow order: operating income, consolidated net income, operating cash flow. Balance order: total assets, total current liabilities."
+  },
+  {
+    "ticker": "MU",
+    "fiscal_year": 2021,
+    "fiscal_quarter": 4,
+    "period_end": "2021-09-02",
+    "published": "2021-09-28",
+    "currency": "USD",
+    "unit": "million",
+    "annual": [
+      6283,
+      5861,
+      12468
+    ],
+    "balance": [
+      58849,
+      6424
+    ],
+    "quarter": [
+      null,
+      2720,
+      3884
+    ],
+    "source": "https://investors.micron.com/news/press-release/2021/Micron-Technology-Inc--Reports-Results-for-the-Fourth-Quarter-and-Full-Year-of-Fiscal-2021-09-28-2021/default.aspx"
+  },
+  {
+    "ticker": "GFS",
+    "fiscal_year": 2021,
+    "fiscal_quarter": 4,
+    "period_end": "2021-12-31",
+    "published": "2022-02-08",
+    "currency": "USD",
+    "unit": "million",
+    "annual": [
+      -60,
+      -254,
+      2839
+    ],
+    "balance": [
+      15028,
+      3163
+    ],
+    "quarter": [
+      null,
+      43,
+      1148
+    ],
+    "source": "https://investors.gf.com/news-releases/news-release-details/globalfoundries-reports-fourth-quarter-and-fiscal-year-2021"
+  },
+  {
+    "ticker": "NXPI",
+    "fiscal_year": 2021,
+    "fiscal_quarter": 4,
+    "period_end": "2021-12-31",
+    "published": "2022-01-31",
+    "currency": "USD",
+    "unit": "million",
+    "annual": [
+      2583,
+      1906,
+      3077
+    ],
+    "balance": [
+      20864,
+      2452
+    ],
+    "quarter": [
+      807,
+      610,
+      785
+    ],
+    "source": "https://investors.nxp.com/news-releases/news-release-details/nxp-semiconductors-reports-fourth-quarter-and-full-year-2021"
+  },
+  {
+    "ticker": "LIN",
+    "fiscal_year": 2020,
+    "fiscal_quarter": 4,
+    "period_end": "2020-12-31",
+    "published": "2021-02-05",
+    "currency": "USD",
+    "unit": "million",
+    "quarter": [
+      1029,
+      804,
+      2434
+    ],
+    "annual": [
+      3322,
+      2626,
+      7429
+    ],
+    "balance": [
+      88229,
+      13740
+    ],
+    "source": "https://assets.linde.com/-/media/global/corporate/corporate/documents/press-releases/2020/linde-4q20-earnings-release-tables.pdf",
+    "review_note": "Original income statement: consolidated income including noncontrolling interests and discontinued operations; operating cash flow is the as-reported operating activities subtotal. Numeral blocks are separate from labels in the original PDF extraction; manually matched to statement rows."
+  },
+  {
+    "ticker": "LIN",
+    "fiscal_year": 2021,
+    "fiscal_quarter": 4,
+    "period_end": "2021-12-31",
+    "published": "2022-02-10",
+    "currency": "USD",
+    "unit": "million",
+    "quarter": [
+      1337,
+      1056,
+      3233
+    ],
+    "annual": [
+      4984,
+      3961,
+      9725
+    ],
+    "balance": [
+      81605,
+      13643
+    ],
+    "source": "https://assets.linde.com/-/media/global/corporate/corporate/documents/press-releases/2021/linde-4q21-earnings-release-tables.pdf",
+    "review_note": "Original income statement: consolidated income including noncontrolling interests and discontinued operations; operating cash flow is the as-reported operating activities subtotal. Numeral blocks are separate from labels in the original PDF extraction; manually matched to statement rows."
+  },
+  {
+    "ticker": "MCHP",
+    "fiscal_year": 2022,
+    "fiscal_quarter": 4,
+    "period_end": "2022-03-31",
+    "published": "2022-05-09",
+    "currency": "USD",
+    "unit": "million",
+    "quarter": [
+      549.5,
+      437.9,
+      747.7
+    ],
+    "annual": [
+      1849.6,
+      1285.5,
+      2842.7
+    ],
+    "balance": [
+      16199.5,
+      1399
+    ],
+    "source": "https://ir.microchip.com/sec-filings/all-sec-filings/content/0000827054-22-000076/exhibit991q4fy22.htm",
+    "evidence_lines": [
+      46,
+      238,
+      253,
+      291,
+      297,
+      455
+    ]
+  },
+  {
+    "ticker": "TXN",
+    "fiscal_year": 2026,
+    "fiscal_quarter": 1,
+    "period_end": "2026-03-31",
+    "published": "2026-04-22",
+    "currency": "USD",
+    "unit": "million",
+    "quarter": [
+      1808,
+      1545,
+      1520
+    ],
+    "ytd": [
+      1808,
+      1545,
+      1520
+    ],
+    "prior_ytd": [
+      1324,
+      1179,
+      849
+    ],
+    "prior_year_quarter": [
+      1324,
+      1179,
+      849
+    ],
+    "balance": [
+      34393,
+      3096
+    ],
+    "source": "https://www.ti.com/about-ti/newsroom/news-releases/2026/2026-04-22-ti-reports-first-quarter-2026-financial-results-and-shareholder-returns.html",
+    "evidence_lines": [
+      126,
+      128,
+      130,
+      151,
+      152,
+      153,
+      342,
+      343,
+      386,
+      388,
+      557,
+      559,
+      561
+    ]
+  },
+  {
+    "ticker": "MU",
+    "fiscal_year": 2026,
+    "fiscal_quarter": 4,
+    "period_end": "2026-09-03",
+    "published": "2026-09-30",
+    "currency": "USD",
+    "unit": "million",
+    "quarter": [
+      43751,
+      37701,
+      43973
+    ],
+    "annual": [
+      99340,
+      84969,
+      89675
+    ],
+    "balance": [
+      195888,
+      27482
+    ],
+    "source": "https://www.sec.gov/Archives/edgar/data/723125/000072312526000018/a2026q4ex991-pressrelease.htm",
+    "evidence_lines": [
+      18,
+      175,
+      184,
+      221,
+      227,
+      273,
+      363
+    ]
+  }
+]

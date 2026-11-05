@@ -1,0 +1,8 @@
+Source: https://www.digrin.com/stocks/detail/IQQH.DE/price
+As of: 2026-11-02 America/New_York
+Web evidence: 【turn121view0】
+Month | Adjusted price | Real price
+November 2026  | €7.86  | €7.86
+October 2026  | €7.86  | €7.86
+September 2026  | €8.65  | €8.65
+August 2026  | €8.59  | €8.59

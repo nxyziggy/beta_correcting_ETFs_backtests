@@ -1,0 +1,13 @@
+Source: https://stockanalysis.com/stocks/mchp/financials/balance-sheet/?p=quarterly
+As of: 2026-11-02 America/New_York
+Web evidence: 【turn67view0】
+Fiscal Quarter  | Q1 2027  | Q4 2026  | Q3 2026  | Q2 2026  | Q1 2026  | Q4 2025  | Q3 2025  | Q2 2025  | Q1 2025  | Q4 2024  | Q3 2024  | Q2 2024  | Q1 2024  | Q4 2023  | Q3 2023  | Q2 2023  | Q1 2023  | Q4 2022  | Q3 2022  | Q2 2022
+Period Ending  | Jun '26  | Mar '26  | Dec '25  | Sep '25  | Jun '25  | Mar '25  | Dec '24  | Sep '24  | Jun '24  | Mar '24  | Dec '23  | Sep '23  | Jun '23  | Mar '23  | Dec '22  | Sep '22  | Jun '22  | Mar '22  | Dec '21  | Sep '21
+Total Assets  | 14,407  | 14,370  | 14,326  | 14,470  | 14,980  | 15,375  | 15,632  | 15,622  | 15,840  | 15,873  | 16,143  | 16,601  | 16,495  | 16,370  | 16,116  | 16,141  | 16,208  | 16,200  | 16,047  | 16,215
+Fiscal Quarter  | Q1 2027  | Q4 2026  | Q3 2026  | Q2 2026  | Q1 2026  | Q4 2025  | Q3 2025  | Q2 2025  | Q1 2025  | Q4 2024  | Q3 2024  | Q2 2024  | Q1 2024  | Q4 2023  | Q3 2023  | Q2 2023  | Q1 2023  | Q4 2022  | Q3 2022  | Q2 2022
+Period Ending  | Jun '26  | Mar '26  | Dec '25  | Sep '25  | Jun '25  | Mar '25  | Dec '24  | Sep '24  | Jun '24  | Mar '24  | Dec '23  | Sep '23  | Jun '23  | Mar '23  | Dec '22  | Sep '22  | Jun '22  | Mar '22  | Dec '21  | Sep '21
+Total Current Liabilities  | 1,294  | 1,136  | 1,059  | 1,044  | 1,190  | 1,155  | 1,330  | 3,286  | 1,520  | 2,519  | 3,293  | 3,413  | 3,220  | 3,119  | 1,611  | 2,538  | 1,485  | 1,399  | 1,219  | 1,122
+Fiscal Quarter  | Q1 2027  | Q4 2026  | Q3 2026  | Q2 2026  | Q1 2026  | Q4 2025  | Q3 2025  | Q2 2025  | Q1 2025  | Q4 2024  | Q3 2024  | Q2 2024  | Q1 2024  | Q4 2023  | Q3 2023  | Q2 2023  | Q1 2023  | Q4 2022  | Q3 2022  | Q2 2022
+Period Ending  | Jun '26  | Mar '26  | Dec '25  | Sep '25  | Jun '25  | Mar '25  | Dec '24  | Sep '24  | Jun '24  | Mar '24  | Dec '23  | Sep '23  | Jun '23  | Mar '23  | Dec '22  | Sep '22  | Jun '22  | Mar '22  | Dec '21  | Sep '21
+Fiscal Quarter  | Q1 2027  | Q4 2026  | Q3 2026  | Q2 2026  | Q1 2026  | Q4 2025  | Q3 2025  | Q2 2025  | Q1 2025  | Q4 2024  | Q3 2024  | Q2 2024  | Q1 2024  | Q4 2023  | Q3 2023  | Q2 2023  | Q1 2023  | Q4 2022  | Q3 2022  | Q2 2022
+Period Ending  | Jun '26  | Mar '26  | Dec '25  | Sep '25  | Jun '25  | Mar '25  | Dec '24  | Sep '24  | Jun '24  | Mar '24  | Dec '23  | Sep '23  | Jun '23  | Mar '23  | Dec '22  | Sep '22  | Jun '22  | Mar '22  | Dec '21  | Sep '21

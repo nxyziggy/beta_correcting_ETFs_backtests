@@ -1,0 +1,61 @@
+Source: https://stockanalysis.com/stocks/nxpi/financials/income-statement/
+Captured: 2026-09-15. Current standardized history; not point-in-time vintages.
+Financials in millions USD. Fiscal year is January - December.
+Millions USD. Fiscal year is Jan - Dec.
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+cite54†Revenue | 13,185  | 12,269  | 12,614  | 13,276  | 13,205  | 11,063
+Revenue Growth  | 8.77%  | -2.73%  | -4.99%  | 0.54%  | 19.36%  | 28.46%
+Cost of Revenue  | 5,788  | 5,474  | 5,467  | 5,712  | 5,691  | 4,996
+Gross Profit  | 7,397  | 6,795  | 7,147  | 7,564  | 7,514  | 6,067
+Selling, General & Admin  | 1,162  | 1,137  | 1,137  | 1,143  | 1,080  | 966
+Research & Development  | 2,344  | 2,260  | 2,290  | 2,359  | 2,150  | 1,935
+Amortization of Goodwill & Intangibles  | 128  | 117  | 136  | 300  | 509  | 556
+Other Operating Expenses  | -580  | 17  | 58  | 16  | -3  | 1
+Operating Expenses  | 3,054  | 3,531  | 3,621  | 3,818  | 3,736  | 3,458
+Operating Income  | 4,343  | 3,264  | 3,526  | 3,746  | 3,778  | 2,609
+Interest Expense  | -471  | -466  | -398  | -438  | -427  | -369
+Interest & Investment Income  | 131  | 145  | 160  | 187  | 61  | 4
+Earnings From Equity Investments  | -45  | -70  | -12  | -7  | -1  | -2
+Other Non Operating Income (Expenses)  | -44  | -48  | -67  | -46  | -38  | -6
+EBT Excluding Unusual Items  | 3,914  | 2,825  | 3,209  | 3,442  | 3,373  | 2,236
+Merger & Restructuring Charges  | -174  | -261  | -125  | -98  | 7  | -1
+Gain (Loss) on Sale of Assets  | 29  | 29  | 3  | 1  | -  | 1
+Asset Writedown  | -  | -  | -  | -  | -  | -36
+Other Unusual Items  | -  | -  | -  | -  | -18  | -22
+Pretax Income  | 3,769  | 2,593  | 3,087  | 3,345  | 3,362  | 2,178
+Income Tax Expense  | 740  | 525  | 545  | 523  | 529  | 272
+Earnings From Continuing Operations  | 3,029  | 2,068  | 2,542  | 2,822  | 2,833  | 1,906
+Minority Interest in Earnings  | -54  | -47  | -32  | -25  | -46  | -35
+Net Income  | 2,975  | 2,021  | 2,510  | 2,797  | 2,787  | 1,871
+Net Income to Common  | 2,975  | 2,021  | 2,510  | 2,797  | 2,787  | 1,871
+Net Income Growth  | 38.50%  | -19.48%  | -10.26%  | 0.36%  | 48.96%  | 3498.08%
+Shares Outstanding (Basic)  | 252  | 253  | 255  | 258  | 262  | 271
+Shares Outstanding (Diluted)  | 254  | 254  | 258  | 261  | 264  | 276
+Shares Change  | -0.61%  | -1.36%  | -1.35%  | -1.02%  | -4.21%  | -2.88%
+EPS (Basic)  | 11.78  | 8.00  | 9.84  | 10.83  | 10.64  | 6.91
+EPS (Diluted)  | 11.72  | 7.95  | 9.73  | 10.70  | 10.55  | 6.79
+EPS Growth  | 39.61%  | -18.29%  | -9.06%  | 1.42%  | 55.38%  | 3672.22%
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Free Cash Flow  | 2,806  | 2,423  | 2,055  | 2,686  | 2,827  | 2,277
+Free Cash Flow Per Share  | 11.05  | 9.53  | 7.97  | 10.28  | 10.71  | 8.26
+Dividend Per Share  | 4.056  | 4.056  | 4.056  | 4.056  | 3.380  | 2.250
+Dividend Growth  | 0%  | 0%  | 0%  | 20.00%  | 50.22%  | 50.00%
+Gross Margin  | 56.10%  | 55.38%  | 56.66%  | 56.97%  | 56.90%  | 54.84%
+Operating Margin  | 32.94%  | 26.60%  | 27.95%  | 28.22%  | 28.61%  | 23.58%
+Profit Margin  | 22.56%  | 16.47%  | 19.90%  | 21.07%  | 21.11%  | 16.91%
+Free Cash Flow Margin  | 21.28%  | 19.75%  | 16.29%  | 20.23%  | 21.41%  | 20.58%
+EBITDA  | 5,068  | 4,053  | 4,421  | 4,832  | 5,016  | 3,828
+EBITDA Margin  | 38.44%  | 33.03%  | 35.05%  | 36.40%  | 37.99%  | 34.60%
+D&A For EBITDA  | 725  | 789  | 895  | 1,086  | 1,238  | 1,219
+EBIT  | 4,343  | 3,264  | 3,526  | 3,746  | 3,778  | 2,609
+EBIT Margin  | 32.94%  | 26.60%  | 27.95%  | 28.22%  | 28.61%  | 23.58%
+Effective Tax Rate  | 19.63%  | 20.25%  | 17.66%  | 15.63%  | 15.73%  | 12.49%
+Data Source: cite57†S&P Global Market Intelligence†www.spglobal.com Last updated: Jul 28, 2026
+cite58†Data Sources cite59†Report a data error L183: #### Install The App
+  * cite64†Login L204:   * cite65†Create Account L205:   * cite66†Changelog L206:   * cite58†Data Sources L207:   * cite67†Advertise L208:   * cite68†Help Center L209: #### Company

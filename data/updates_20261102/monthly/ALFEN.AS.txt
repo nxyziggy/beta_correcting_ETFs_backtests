@@ -1,0 +1,7 @@
+Source: https://www.digrin.com/stocks/detail/ALFEN.AS/price
+As of: 2026-11-02 America/New_York
+Web evidence: 【turn111view0】
+Month | Adjusted price | Real price
+October 2026  | €11.29  | €11.29
+September 2026  | €12.25  | €12.25
+August 2026  | €11.46  | €11.46

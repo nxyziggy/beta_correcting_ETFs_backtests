@@ -1,0 +1,57 @@
+Captured 2026-09-16. Numerical facts extracted from retrieved original issuer documents; source URLs retained.
+Source: https://www.enel.com/investors/financials
+Source: https://www.veolia.com/en/veolia-group/finance/regulated-information
+Source: https://www.infineon.com/assets/row/public/documents/corporate/investors/annual-general-meeting/2021/infineon-annual-report-report-v03-00-en.pdf
+
+L5254@P103: Cash and cash equivalents (1,851) (1,021)
+L5255@P103: Financial investments (1,376) (2,758)
+L5257@P103: Total current liabilities (3,450) (2,213)
+L5260@P103: RoCE 1 / 2 3.0% 12.2%
+L7655@P145: Notes 30 September 202030 September 2019
+L7678@P145: Other reserves (460) 254
+L7679@P145: Own shares (33) (37)
+L7684@P145: as of 30 September 2020 and 2019
+L8599@P163: Paid in cash as of 30 September 2020 8,222
+L10429@P199: As of 30 September 2020
+L10432@P199: of long-term financial debt 505 139 366 – – 509
+L10433@P199: Trade payables 1,160 – 1,160 – – 1,160
+L10434@P199: Current leasing liabilities 59 – – – 59 –
+L10435@P199: Other current liabilities 845 2 777 66 – 845
+L10437@P199: Long-term financial debt 6,528 – 6,528 – – 6,783
+L10438@P199: Non-current leasing liabilities 235 – – – 235 –
+L10439@P199: Other non-current liabilities 77 – 77 – – 77
+L10441@P199: As of 30 September 2019
+L10444@P199: of long-term financial debt 22 – 22 – – 21
+L10445@P199: Trade payables 1,089 – 1,089 – – 1,089
+L10446@P199: Other current liabilities1 470 3 467 – – 470
+L10448@P199: Long-term financial debt 1,534 – 1,534 – – 1,608
+L10449@P199: Other non-current liabilities 63 – 63 – – 63
+L10450@P199: Total 3,178 3 3,175 – – 3,251
+L10454@P199: and a total of €141 million was paid upon completion of the acquisition on 16 April 2020.
+L10472@P200: › Level 2: valuation parameters whose prices are not the ones considered in Level 1,
+L10480@P200: Level 1 Level 2 Level 3
+L10481@P200: 30 September 2020
+L10485@P200: Other current assets 3 – 3 –
+L10487@P200: Other non-current assets 98 81 – 17
+L10491@P200: portion of long-term financial debt 139 – 139 –
+L10492@P200: Other current liabilities 68 – 68 –
+L10493@P200: Total 207 – 207 –
+L10494@P200: 30 September 2019
+L10498@P200: Other current assets 215 – 5 210
+L10500@P200: Other non-current assets 55 38 – 17
+L10503@P200: Other current liabilities 3 – 3 –
+L10504@P200: Total 3 – 3 –
+L5267@P103: Net cash used in investing activities from continuing operations (7,172) (2,488)
+L5269@P103: Net change in cash and cash equivalents from discontinued operations (6) (2)
+L5271@P103: Effect of foreign exchange rate changes on cash and cash equivalents (83) 9
+L5343@P104: Net cash used in investing activities from continuing operations (7,172) (2,488)
+L5344@P104: Purchases of (proceeds from sales of) financial investments, net (1,372) 924
+L5345@P104: Free cash flow (6,727) 39
+L5481@P107: Segment Result Margin 16.4% Around 13%
+L5484@P107: 13.7% Around 16.5%
+L5490@P107: RoCE 12.2% Significantly declining 3.0% Around 6%
+L10613@P202: 30 September 2020 30 September 2019
+L10622@P202: Forward exchange contracts sold 144 (2) 134 (3)
+L10636@P203: currency derivatives expired in full as of 30 September 2020.
+L10641@P203: 30 September 2020
+L10667@P203: cash flow hedges. With the completion of the acquisition of Cypress on 16 April 2020,

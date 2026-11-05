@@ -1,0 +1,8 @@
+Source: https://www.digrin.com/stocks/detail/SOXX/price
+As of: 2026-11-02 America/New_York
+Web evidence: 【turn125view0】
+Month | Adjusted price | Real price
+November 2026  | $455.19  | $455.19
+October 2026  | $471.51  | $471.51
+September 2026  | $568.64  | $568.64
+August 2026  | $510.71  | $511.04

@@ -1,0 +1,46 @@
+Captured 2026-09-16. Numerical facts extracted from retrieved original issuer documents; source URLs retained.
+Source: https://www.enel.com/content/dam/enel-common/press/en/2025-march/Enel%20results%20FY%202024ENG.pdf
+
+L883@P23: Net results from commodity contracts 477 3 (2,966) (7)
+L890@P23: Share of profit/(loss) of equity-accounted investments (210) (41)
+L910@P23-24: Diluted earnings/(loss) per share from discontinued operations - (0.04)25
+L917@P24: Effective portion of change in the fair value of cash flow hedges (628) 2,714
+L919@P24: Share of the other comprehensive expense of equity-accounted investments (35) 98
+L921@P24: Change in translation reserve (1,812) (523)
+L925@P24: (41) 16
+L928@P24: Remeasurement of net liabilities/(assets) for defined benefit plans 127 (150)
+L934@P24: Total other comprehensive income/(expense) for the year (2,041) 2,217
+L941@P25: ASSETS at Dec. 31, 2024 at Dec. 31, 2023
+L973@P26: LIABILITIES AND EQUITY at Dec. 31, 2024 at Dec. 31,
+L983@P26: Treasury share reserve (78) (59)
+L1030@P27: Net (gains)/losses from equity-accounted investments 210 (17)
+L1032@P27: Changes in net working capital: (1,108) (604)
+L1034@P27: - trade receivables 490 (220) (2,487) 297
+L1035@P27: - trade payables (2,451) (93) (1,165) 19
+L1036@P27: - other contract assets 20 (107)
+L1037@P27: - other contract liabilities 209 (16) 172 10
+L1038@P27: - other assets/liabilities 66 (736) 2,548 (52)
+L1040@P27: Utilization of provisions (1,698) (1,647)
+L1042@P27: Interest expense and other financial expense paid (5,276) (100) (5,657) (89)
+L1043@P27: Net (income)/expense from measurement of commodities (16) 1,359
+L1044@P27: Income taxes paid (3,912) (2,958)
+L1045@P27: Net capital gains (2,313) 369
+L1048@P27: Investments in property, plant and equipment (8,931) (11,383)
+L1049@P27: Investments in intangible assets (1,235) (1,385)
+L1051@P27: Investments in non-current contract assets (844) (795)
+L1055@P27: Cash flows used in investing activities (B) (4,108) (10,610)
+L1058@P27: Repayments of borrowings (10,430) (2) (6,006) (125)
+L1059@P27: Other changes in net financial debt (691) (4,072)
+L1062@P27: transactions in non-controlling interests (22) (25)
+L1063@P27: Issuance of perpetual hybrid bonds (1) 889 1,738
+L1064@P27: Repayment of perpetual hybrid bonds (1) (297) (752)
+L1065@P27: Purchase of treasury shares (27) (20)
+L1066@P27: Dividends and interim dividends paid (5,126) (5,135)
+L1067@P27: Coupons paid to holders of hybrid bonds (246) (182)
+L1068@P27: Cash flows used in financing activities (C) (7,989) (8,361)
+L1070@P27: Impact of exchange rate fluctuations on cash and cash equivalents (D) (74) (49)
+L1071@P27: Increase/(Decrease) in cash and cash equivalents (A+B+C+D) 1,052 (4,400)
+L1072@P27: Cash and cash equivalents at the beginning of the year (2) 7,143 11,543
+L1073@P27: Cash and cash equivalents at the end of the year (3) 8,195 7,143
+L1079@P27-28: €326 million at January 1, 2023.29
+L1082@P28-29: held for sale” in the amount of €6 million at December 31, 2024 (€261 million at December 31, 2023) 30

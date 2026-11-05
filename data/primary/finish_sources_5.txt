@@ -1,0 +1,182 @@
+Captured 2026-09-16. Numerical facts extracted from retrieved original issuer documents; source URLs retained.
+Source: https://www.edf.fr/sites/groupe/files/contrib/groupe-edf/espaces-dedies/espace-finance-en/financial-information/publications/financial-results/2020-annual-results/pdf/annual-results-2020-consolidated-financial-statements-20210218.pdf
+
+L1@P0-1: AT 31 DECEMBER 2020Page 2 of 157
+L3@P1: (in millions of euros) Notes 2020 2019 (1)
+L5@P1: Fuel and energy purchases 5.2 (32,425) (35,091)
+L6@P1: Other external expenses(2) (8,461) (8,625)
+L7@P1: Personnel expenses 5.3 (13,957) (13,797)
+L8@P1: Taxes other than income taxes (3,797) (3,798)
+L12@P1: trading activities 6 (175) 642
+L13@P1: Net depreciation and amortisation(3) (10,838) (10,020)
+L14@P1: (Impairment)/reversals 10.8 (799) (403)
+L15@P1: Other income and expenses 7 (487) (185)
+L17@P1: Cost of gross financial indebtedness 8.1 (1,610) (1,806)
+L18@P1: Discount effect 8.2 (3,733) (3,161)
+L20@P1: Financial result 8 (2,582) (364)
+L22@P1: Income taxes 9 (945) (1,532)
+L24@P1: Net income of discontinued operations 3.2 (158) (497)
+L28@P1: EDF net income – discontinued operations (154) (484)
+L29@P1: Net income attributable to non-controlling interests (35) 27
+L30@P1: Net income attributable to non-controlling interests – continuing operations (31) 40
+L32@P1: operations (4) (13)
+L39@P1: impact of application of IFRS 5 on the published figures for 2019 is presented in note 1.4.2.
+L41@P1-2: (3) Including net increases in provisions for renewal of property, plant and equipment operated under concessions.Page 3 of 157
+L57@P2: Consolidated net income 650 (35) 615 5,155 27 5,182
+L59@P2: Fair value of cash flow hedges - gross change 18.7.5 (711) (8) (719) 786 (55) 731
+L60@P2: Fair value of cash flow hedges - tax effects 210 3 213 (235) 2 (233)
+L62@P2: Fair value of net investment hedges - gross change 18.7.5 661 - 661 32 - 32
+L63@P2: Fair value of net investment hedges - tax effects (30) (-) (30) (132) (-) (132)
+L65@P2: Gross change in fair value of debt instruments 18.1.2 20 - 20 293 - 293
+L66@P2: Related tax effect 10 (-) 10 (93) (-) (93)
+L67@P2: Translation adjustments – controlled entities (1,425) (430) (1,855) 732 357 1,089
+L69@P2: items that can be recycled to profit and loss (561) - (561) 97 - 97
+L70@P2: Gains and losses recorded in equity with recycling (1,826) (435) (2,261) 1,480 304 1,784
+L72@P2: Gross change in fair value of equity instruments 18.1.2 (34) (4) (38) (22) - (22)
+L75@P2: Gross change in actuarial gains and losses on postemployment benefits 16.1.3 (983) 80 (903) (2,501) 39 (2,462)
+L76@P2: Related tax effect (220) (18) (238) (62) (7) (69)
+L78@P2: items that cannot be recycled to profit and loss (109) - (109) (153) - (153)
+L79@P2: Gains and losses recorded in equity with no recycling (1,346) 58 (1,288) (2,738) 32 (2,706)
+L80@P2: Total gains and losses recorded in equity (3,172) (377) (3,549) (1,258) 336 (922)
+L81@P2: CONSOLIDATED COMPREHENSIVE INCOME (2,522) (412) (2,934) 3,897 363 4,260
+L82@P2: Comprehensive income of continuing operations (2,368) (408) (2,776) 4,337 375 4,712
+L83@P2-3: Comprehensive income of discontinued operations (154) (4) (158) (440) (12) (452)Page 4 of 157
+L85@P3: ASSETS Notes 31/12/2020 31/12/2019
+L109@P3: EQUITY AND LIABILITIES Notes 31/12/2020 31/12/2019
+L127@P3: Current provisions 15, 17 and 16.1 5,827 5,556
+L134@P3-4: TOTAL EQUITY AND LIABILITIES 305,891 303,284Page 5 of 157
+L136@P4: (in millions of euros) Notes 2020 2019 (1)
+L139@P4: Net income of discontinued operations (158) (497)
+L145@P4: Capital gains/losses (185) (508)
+L147@P4: Share in net income of associates and joint ventures (425) (818)
+L148@P4: Change in working capital 13.1.2 (1,679) 475
+L150@P4: Net financial expenses disbursed (1,008) (802)
+L151@P4: Income taxes paid (983) (915)
+L156@P4: Acquisitions of equity investments, net of cash acquired (126) (456)
+L158@P4: Investments in intangible assets and property, plant and equipment 10.7 (16,007) (16,797)
+L161@P4: Net cash flow from continuing investing activities (12,784) (15,572)
+L162@P4: Net cash flow from investing activities relating to discontinued operations (104) (78)
+L163@P4: Net cash flow from investing activities (12,888) (15,650)
+L165@P4: Transactions with non-controlling interests(2) 1,019 1,055
+L166@P4: Dividends paid by parent company 14.3 (-) (58)
+L167@P4: Dividends paid to non-controlling interests (267) (155)
+L168@P4: Purchases/sales of treasury shares 5 (14)
+L171@P4: Repayment of borrowings 18.3.2.1 (7,062) (6,976)
+L172@P4: Issuance of perpetual subordinated bonds and OCEANEs 14.4 and 14.5 2,243 493
+L174@P4: Payments to bearers of perpetual subordinated bonds 14.4 (501) (589)
+L179@P4: Net cash flow from financing activities relating to discontinued operations 19 (19)
+L186@P4: Currency fluctuations (162) (5)
+L188@P4: Other non-monetary changes (103) 37
+L190@P4: (1) The published figures for 2019 have been restated due to the impact of the change in the scope of E&P operations (see note 1.4.2).
+L218@P5: Equity restated under IFRIC 23 at 01/01/2019 1,505 (56) 215 (1,856) 44,651 44,459 8,177 52,636
+L219@P5: Gains and losses recorded in equity - - 822 658 (2,738) (1,258) 336 (922)
+L222@P5: Payments on perpetual subordinated bonds - - - - (589) (589) - (589)
+L224@P5: subordinated bonds (-) (-) (-) (-) (1,125) (1,125) (-) (1,125)
+L225@P5: Dividends paid (-) (-) (-) (-) (941) (941) (155) (1,096)
+L226@P5: Purchases/sales of treasury shares - (8) - - - (8) - (8)
+L227@P5: Capital increase by EDF (see note 14.1) 47 - - - 834 881 - 881
+L228@P5: Other changes(4)- - - - (108) (108) 939 831
+L229@P5: Equity as published at 31/12/2019 1,552 (64) 1,037 (1,198) 45,139 46,466 9,324 55,790
+L230@P5: Gains and losses recorded in equity - - (1,908) 82 (1,346) (3,172) (377) (3,549)
+L231@P5: Net income - - - - 650 650 (35) 615
+L232@P5: Consolidated comprehensive income - - (1,908) 82 (696) (2,522) (412) (2,934)
+L233@P5: Payments on perpetual subordinated bonds - - - - (501) (501) - (501)
+L236@P5: notes 14.4 and 15)
+L237@P5: - - - - 2,207 2,207 - 2,207
+L238@P5: Dividends paid (-) (-) (-) (-) (-) (-) (271) (271)
+L239@P5: Purchases/sales of treasury shares - 1 - - - 1 - 1
+L240@P5: Capital decrease by EDF (see note 14.1) (2) 53 - - (51) - - -
+L241@P5: Other changes(5)- - - - (18) (18) 952 934
+L242@P5: EQUITY AT 31/12/2020 1,550 (10) (871) (1,116) 46,080 45,633 9,593 55,226
+L252@P5-6: to €998 million.Page 7 of 157
+L254@P6: NOTE 1 GROUP ACCOUNTING POLICIES 10
+L255@P6: 1.1 DECLARATION OF CONFORMITY AND GROUP ACCOUNTING POLICIES 10
+L256@P6: 1.2 CHANGES IN ACCOUNTING STANDARDS 10
+L257@P6: 1.3 BASIS FOR PREPARATION OF THE FINANCIAL STATEMENTS 11
+L258@P6: 1.4 COMPARABILITY (INCLUDING THE EFFECT OF THE COVID-19 PANDEMIC) 15
+L259@P6: NOTE 2 SUMMARY OF SIGNIFICANT EVENTS 24
+L260@P6: NOTE 3 SCOPE OF CONSOLIDATION 25
+L261@P6: 3.1 CHANGES IN THE SCOPE OF CONSOLIDATION 26
+L262@P6: 3.2 DISCONTINUED OPERATIONS 27
+L263@P6: 3.3 SCOPE OF CONSOLIDATION AT 31 DECEMBER 2020 29
+L264@P6: NOTE 4 SEGMENT REPORTING 33
+L265@P6: 4.1 REPORTING BY OPERATING SEGMENT 33
+L266@P6: 4.2 SALES TO EXTERNAL CUSTOMERS, BY PRODUCT AND SERVICE GROUP 36
+L267@P6: NOTE 5 OPERATING PROFIT BEFORE DEPRECIATION AND AMORTISATION 36
+L268@P6: 5.1 SALES 38
+L269@P6: 5.2 FUEL AND ENERGY PURCHASES 45
+L270@P6: 5.3 PERSONNEL EXPENSES 45
+L271@P6: 5.4 OTHER OPERATING INCOME AND EXPENSES 46
+L274@P6: NOTE 7 OTHER INCOME AND EXPENSES 49
+L275@P6: NOTE 8 FINANCIAL RESULT 49
+L276@P6: 8.1 COST OF GROSS FINANCIAL INDEBTEDNESS 49
+L277@P6: 8.2 DISCOUNT EFFECT 50
+L278@P6: 8.3 OTHER FINANCIAL INCOME AND EXPENSES 50
+L279@P6: NOTE 9 INCOME TAXES 51
+L280@P6: 9.1 BREAKDOWN OF TAX EXPENSE 51
+L281@P6: 9.2 RECONCILIATION OF THE THEORETICAL AND EFFECTIVE TAX EXPENSE (TAX PROOF) 52
+L282@P6: 9.3 CHANGE IN DEFERRED TAX ASSETS AND LIABILITIES 53
+L283@P6: 9.4 BREAKDOWN OF DEFERRED TAX ASSETS AND LIABILITIES BY NATURE 53
+L286@P6: 10.1 GOODWILL 54
+L287@P6: 10.2 OTHER INTANGIBLE ASSETS 55
+L290@P6: 10.4 RIGHT-OF-USE ASSETS 59
+L293@P6: 10.6 ASSETS IN PROGRESS 62
+L294@P6: 10.7 INVESTMENTS IN INTANGIBLE ASSETS AND PROPERTY, PLANT AND EQUIPMENT 66
+L295@P6-7: 10.8 IMPAIRMENT/REVERSALS 66Page 8 of 157
+L296@P7: NOTE 11 FRENCH PUBLIC ELECTRICITY DISTRIBUTION CONCESSIONS 74
+L299@P7: 11.2 SPECIAL FRENCH PUBLIC ELECTRICITY DISTRIBUTION CONCESSION LIABILITIES 76
+L300@P7: NOTE 12 INVESTMENTS IN ASSOCIATES AND JOINT VENTURES 77
+L301@P7: 12.1 COENTREPRISE DE TRANSPORT D’ÉLECTRICITÉ (CTE) 78
+L302@P7: 12.2 TAISHAN 78
+L303@P7: 12.3 OTHER INVESTMENTS IN ASSOCIATES AND JOINT VENTURES 79
+L304@P7: NOTE 13 WORKING CAPITAL 81
+L305@P7: 13.1 WORKING CAPITAL: COMPOSITION AND CHANGE 81
+L306@P7: 13.2 INVENTORIES 81
+L307@P7: 13.3 TRADE RECEIVABLES 83
+L308@P7: 13.4 TRADE PAYABLES 85
+L309@P7: 13.5 OTHER LIABILITIES 85
+L310@P7: NOTE 14 EQUITY AND BASIC EARNINGS PER SHARE AND DILUTED EARNINGS PER SHARE 86
+L311@P7: 14.1 SHARE CAPITAL 86
+L312@P7: 14.2 TREASURY SHARES 87
+L313@P7: 14.3 DIVIDENDS 87
+L314@P7: 14.4 PERPETUAL SUBORDINATED BONDS 87
+L315@P7: 14.5 CONVERTIBLE GREEN BONDS (OCEANES) 88
+L316@P7: 14.6 NON-CONTROLLING INTERESTS (MINORITY INTERESTS) 89
+L317@P7: 14.7 BASIC EARNINGS PER SHARE AND DILUTED EARNINGS PER SHARE 91
+L318@P7: NOTE 15 PROVISIONS RELATED TO NUCLEAR GENERATION AND DEDICATED ASSETS 91
+L319@P7: 15.1 PROVISIONS RELATED TO NUCLEAR GENERATION AND DEDICATED ASSETS IN FRANCE 94
+L320@P7: 15.2 EDF ENERGY’S NUCLEAR PROVISIONS 109
+L321@P7: 15.3 NUCLEAR PROVISIONS IN BELGIUM 112
+L322@P7: NOTE 16 PROVISIONS FOR EMPLOYEE BENEFITS 113
+L323@P7: 16.1 GROUP PROVISIONS FOR EMPLOYEE BENEFITS 115
+L324@P7: 16.2 FRANCE (REGULATED ACTIVITIES, AND GENERATION AND SUPPLY) 119
+L325@P7: 16.3 UNITED KINGDOM 121
+L326@P7: NOTE 17 OTHER PROVISIONS AND CONTINGENT LIABILITIES 122
+L327@P7: 17.1 OTHER PROVISIONS FOR DECOMMISSIONING 122
+L328@P7: 17.2 OTHER PROVISIONS 123
+L329@P7: 17.3 CONTINGENT LIABILITIES 124
+L330@P7: NOTE 18 FINANCIAL ASSETS AND LIABILITIES 126
+L331@P7: 18.1 FINANCIAL ASSETS 127
+L332@P7: 18.2 CASH AND CASH EQUIVALENTS 130
+L333@P7: 18.3 FINANCIAL LIABILITIES 131
+L334@P7: 18.4 UNUSED CREDIT LINES 135
+L335@P7: 18.5 FAIR VALUE OF FINANCIAL INSTRUMENTS 135
+L336@P7: 18.6 MARKET AND COUNTERPARTY RISKS 136
+L337@P7: 18.7 DERIVATIVES AND HEDGE ACCOUNTING 137
+L338@P7: NOTE 19 FINANCIAL INDICATORS 143
+L339@P7: 19.1 NET INCOME EXCLUDING NON-RECURRING ITEMS 143
+L340@P7-8: 19.2 NET INDEBTEDNESS 144Page 9 of 157
+L341@P8: NOTE 20 SUSTAINABLE DEVELOPMENT AND CLIMATE ACTION 144
+L342@P8: 20.1 REGULATORY EXPENSES 145
+L343@P8: 20.2 VALUATION OF ASSETS AND LIABILITIES 146
+L344@P8: 20.3 SUSTAINABLE FINANCING 146
+L347@P8: NOTE 21 OFF-BALANCE SHEET COMMITMENTS 149
+L348@P8: 21.1 COMMITMENTS GIVEN 149
+L349@P8: 21.2 COMMITMENTS RECEIVED 154
+L350@P8: NOTE 22 RELATED PARTIES 155
+L351@P8: 22.1 TRANSACTIONS WITH ENTITIES INCLUDED IN THE SCOPE OF CONSOLIDATION 155
+L352@P8: 22.2 RELATIONS WITH THE FRENCH STATE AND STATE-OWNED ENTITIES 155
+L353@P8: 22.3 MANAGEMENT COMPENSATION 156
+L354@P8: NOTE 23 SUBSEQUENT EVENTS 156
+L355@P8-9: NOTE 24 STATUTORY AUDITORS’ FEES 157Page 10 of 157
+L361@P9: ventures, for the year ended 31 December 2020.

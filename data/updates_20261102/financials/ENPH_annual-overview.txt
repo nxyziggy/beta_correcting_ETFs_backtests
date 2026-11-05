@@ -1,0 +1,18 @@
+Source: https://stockanalysis.com/stocks/enph/financials/
+As of: 2026-11-02 America/New_York
+Web evidence: 【turn79view0】
+Financials in millions USD. Fiscal year is January - December.
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+Period Ending  | Sep '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+Operating Income Operating Income Growth  | 11.17  | 164.66  | 90.45  | 461.43  | 452.85  | 220.73
+Net Income Net Income Growth  | 90.77  | 172.13  | 102.66  | 438.94  | 397.36  | 145.45
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+Period Ending  | Sep '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+Fiscal Year  | Current  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+Period Ending  | Sep '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+Period Ending  | Sep '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+Period Ending  | Sep '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+Fiscal Year  | Current  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+Period Ending  | Nov '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21

@@ -1,0 +1,8 @@
+Source: https://www.digrin.com/stocks/detail/INTC/price
+As of: 2026-11-02 America/New_York
+Web evidence: 【turn117view0】
+Month | Adjusted price | Real price
+November 2026  | $59.96  | $59.96
+October 2026  | $65.76  | $65.76
+September 2026  | $120.23  | $120.23
+August 2026  | $89.51  | $89.51

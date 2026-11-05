@@ -1,0 +1,69 @@
+Source: https://stockanalysis.com/stocks/nee/financials/cash-flow-statement/
+Captured: 2026-09-15. Current standardized history; not point-in-time vintages.
+Financials in millions USD. Fiscal year is January - December.
+Millions USD. Fiscal year is Jan - Dec.
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Net Income  | 9,299  | 6,835  | 6,946  | 7,310  | 4,147  | 3,573
+Depreciation & Amortization  | 6,156  | 5,851  | 5,761  | 6,151  | 4,790  | 4,214
+Loss (Gain) on Sale of Assets  | -394  | -198  | -327  | -405  | -522  | -76
+Loss (Gain) on Sale of Investments  | -350  | -348  | -295  | -284  | 381  | -337
+Loss (Gain) on Equity Investments  | -311  | 630  | 1,057  | 1,360  | 338  | -140
+Change in Other Net Operating Assets  | -52  | -373  | 160  | -1,393  | 412  | -486
+Other Operating Activities  | -545  | 88  | -42  | -1,438  | -1,284  | 805
+Operating Cash Flow  | 13,803  | 12,485  | 13,260  | 11,301  | 8,262  | 7,553
+Operating Cash Flow Growth  | 13.06%  | -5.85%  | 17.34%  | 36.78%  | 9.39%  | -5.39%
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Capital Expenditures  | -29,832  | -24,053  | -24,330  | -24,928  | -19,060  | -15,802
+Sale of Property, Plant & Equipment  | 1,254  | 1,115  | 2,659  | 1,883  | 1,564  | 2,761
+Divestitures  | -  | -  | -  | 924  | -  | -
+Nuclear Fuel Expenditures  | -537  | -553  | -399  | -185  | -223  | -275
+Contributions to Nuclear Demissioning Trust  | -6,315  | -5,893  | -5,623  | -5,926  | -4,586  | -5,310
+Other Investing Activities  | 5,997  | 5,519  | 5,429  | 4,765  | 3,946  | 5,035
+Investing Cash Flow  | -29,433  | -23,865  | -22,264  | -23,467  | -18,359  | -13,591
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Short-Term Debt Issued  | -  | 2,843  | 6,575  | 4,921  | 2,082  | -
+Long-Term Debt Issued  | -  | 23,394  | 24,769  | 13,857  | 13,856  | 16,683
+Total Debt Issued  | 28,700  | 26,237  | 31,344  | 18,778  | 15,938  | 16,683
+Short-Term Debt Repaid  | -  | -2,167  | -9,593  | -2,613  | -1,125  | -426
+Long-Term Debt Repaid  | -  | -10,347  | -10,113  | -7,978  | -4,525  | -9,594
+Total Debt Repaid  | -10,755  | -12,514  | -19,706  | -10,591  | -5,650  | -10,020
+Net Debt Issued (Repaid)  | 17,945  | 13,723  | 11,638  | 8,187  | 10,288  | 6,663
+Issuance of Common Stock  | 2,047  | 2,038  | 48  | 4,514  | 1,514  | 14
+Common Dividends Paid  | -4,947  | -4,680  | -4,235  | -3,782  | -3,352  | -3,024
+Other Financing Activities  | 1,831  | 1,898  | -451  | 3,230  | 3,779  | 2,154
+Financing Cash Flow  | 16,876  | 12,979  | 7,000  | 12,149  | 12,229  | 5,807
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Foreign Exchange Rate Adjustments  | -6  | 5  | -14  | -4  | -7  | 1
+Net Cash Flow  | 1,240  | 1,604  | -2,018  | -21  | 2,125  | -230
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Free Cash Flow  | -16,566  | -12,121  | -11,469  | -13,812  | -11,021  | -8,524
+Free Cash Flow Growth  | -  | -  | -  | -  | -  | -
+Free Cash Flow Margin  | -57.72%  | -44.22%  | -46.33%  | -49.13%  | -52.59%  | -49.94%
+Free Cash Flow Per Share  | -7.94  | -5.85  | -5.57  | -6.80  | -5.57  | -4.32
+Levered Free Cash Flow  | -17,767  | -15,209  | -14,152  | -16,212  | -12,087  | -8,818
+Unlevered Free Cash Flow  | -15,572  | -12,352  | -12,755  | -14,135  | -11,722  | -8,024
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Cash Interest Paid  | 3,979  | 3,501  | 2,737  | 2,463  | 1,375  | 1,323
+Cash Income Tax Paid  | -  | -1,275  | -760  | 321  | -32  | -69
+Change in Working Capital  | -52  | -373  | 160  | -1,393  | 412  | -486
+SEC Filings: cite54†10-K†www.sec.gov · cite55†10-Q†www.sec.gov L224: Data Source: cite56†S&P Global Market Intelligence†www.spglobal.com Last updated: Jun 30, 2026
+cite57†Data Sources cite58†Report a data error L235: #### Install The App
+  * cite63†Login L256:   * cite64†Create Account L257:   * cite65†Changelog L258:   * cite57†Data Sources L259:   * cite66†Advertise L260:   * cite67†Help Center L261: #### Company

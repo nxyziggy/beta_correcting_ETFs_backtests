@@ -1,0 +1,61 @@
+Source: https://stockanalysis.com/quote/swx/AMS/financials/income-statement/
+Captured: 2026-09-15. Current standardized history; not point-in-time vintages.
+Financials in millions EUR. Fiscal year is January - December.
+Millions EUR. Fiscal year is Jan - Dec.
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+cite54†Revenue | 3,329  | 3,323  | 3,428  | 3,590  | 4,819  | 5,038
+Revenue Growth  | -0.86%  | -3.06%  | -4.51%  | -25.50%  | -4.35%  | 43.78%
+Cost of Revenue  | 2,364  | 2,358  | 2,448  | 2,568  | 3,351  | 3,327
+Gross Profit  | 965  | 965  | 980  | 1,022  | 1,468  | 1,711
+Selling, General & Admin  | 439  | 431  | 422  | 501  | 608  | 697
+Research & Development  | 397  | 388  | 419  | 480  | 630  | 692
+Other Operating Expenses  | 8  | -41  | -10  | -14  | -11  | -8
+Operating Expenses  | 844  | 778  | 831  | 967  | 1,227  | 1,381
+Operating Income  | 121  | 187  | 149  | 55  | 241  | 330
+Interest Expense  | -379  | -297  | -272  | -180  | -198  | -179
+Interest & Investment Income  | -  | 26  | 40  | 22  | 14  | 5
+Earnings From Equity Investments  | -1  | -3  | -7  | -24  | -4  | -33
+Currency Exchange Gain (Loss)  | 17  | 17  | 27  | -38  | -13  | -70
+Other Non Operating Income (Expenses)  | 35  | 34  | 2  | 27  | -18  | 27
+EBT Excluding Unusual Items  | -207  | -36  | -61  | -138  | 22  | 80
+Merger & Restructuring Charges  | -130  | -117  | -123  | -182  | -209  | -262
+Impairment of Goodwill  | -  | -  | -  | -1,313  | -277  | -2
+Gain (Loss) on Sale of Investments  | -  | -  | -  | -  | 3  | 97
+Gain (Loss) on Sale of Assets  | 20  | 20  | 8  | 46  | 152  | 66
+Asset Writedown  | -  | -  | -  | -13  | -52  | -
+Other Unusual Items  | 14  | 16  | -576  | -  | -  | 20
+Pretax Income  | -303  | -117  | -752  | -1,600  | -361  | -1
+Income Tax Expense  | 20  | 12  | 33  | 12  | 82  | 31
+Earnings From Continuing Operations  | -323  | -129  | -785  | -1,612  | -443  | -32
+Net Income to Company  | -323  | -129  | -785  | -1,612  | -443  | -32
+Minority Interest in Earnings  | -1  | -1  | -1  | -1  | -1  | 1
+Net Income  | -324  | -130  | -786  | -1,613  | -444  | -31
+Net Income to Common  | -324  | -130  | -786  | -1,613  | -444  | -31
+Net Income Growth  | -  | -  | -  | -  | -  | -
+Shares Outstanding (Basic)  | 99  | 99  | 99  | 31  | 26  | 26
+Shares Outstanding (Diluted)  | 99  | 99  | 99  | 31  | 26  | 26
+Shares Change  | -0.56%  | 0.52%  | 218.77%  | 18.72%  | 0.04%  | 21.36%
+EPS (Basic)  | -3.28  | -1.31  | -7.95  | -52.00  | -16.99  | -1.19
+EPS (Diluted)  | -3.28  | -1.31  | -7.95  | -52.00  | -17.00  | -1.20
+EPS Growth  | -  | -  | -  | -  | -  | -
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Free Cash Flow  | -101  | 38  | -67  | -556  | 62  | 482
+Free Cash Flow Per Share  | -1.02  | 0.38  | -0.68  | -17.93  | 2.37  | 18.46
+Gross Margin  | 28.99%  | 29.04%  | 28.59%  | 28.47%  | 30.46%  | 33.96%
+Operating Margin  | 3.64%  | 5.63%  | 4.35%  | 1.53%  | 5.00%  | 6.55%
+Profit Margin  | -9.73%  | -3.91%  | -22.93%  | -44.93%  | -9.21%  | -0.61%
+Free Cash Flow Margin  | -3.03%  | 1.14%  | -1.95%  | -15.49%  | 1.29%  | 9.57%
+EBITDA  | 477  | 523  | 493  | 429  | 782  | 990
+EBITDA Margin  | 14.33%  | 15.74%  | 14.38%  | 11.95%  | 16.23%  | 19.65%
+D&A For EBITDA  | 356  | 336  | 344  | 374  | 541  | 660
+EBIT  | 121  | 187  | 149  | 55  | 241  | 330
+EBIT Margin  | 3.64%  | 5.63%  | 4.35%  | 1.53%  | 5.00%  | 6.55%
+Data Source: cite55†S&P Global Market Intelligence†www.spglobal.com Last updated: Aug 4, 2026
+cite56†Data Sources cite57†Report a data error L179: #### Install The App
+  * cite62†Login L200:   * cite63†Create Account L201:   * cite64†Changelog L202:   * cite56†Data Sources L203:   * cite65†Advertise L204:   * cite66†Help Center L205: #### Company

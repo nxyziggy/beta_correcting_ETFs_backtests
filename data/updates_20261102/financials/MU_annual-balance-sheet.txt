@@ -1,0 +1,14 @@
+Source: https://stockanalysis.com/stocks/mu/financials/balance-sheet/
+As of: 2026-11-02 America/New_York
+Web evidence: 【turn138view0】
+Financials in millions USD. Fiscal year is October - September.
+Fiscal Year  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+Period Ending  | Sep '26  | Aug '25  | Aug '24  | Aug '23  | Sep '22
+Total Assets  | 195,888  | 82,798  | 69,416  | 64,254  | 66,283
+Fiscal Year  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+Period Ending  | Sep '26  | Aug '25  | Aug '24  | Aug '23  | Sep '22
+Total Current Liabilities  | 27,482  | 11,454  | 9,248  | 4,765  | 7,539
+Fiscal Year  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+Period Ending  | Sep '26  | Aug '25  | Aug '24  | Aug '23  | Sep '22
+Fiscal Year  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+Period Ending  | Sep '26  | Aug '25  | Aug '24  | Aug '23  | Sep '22

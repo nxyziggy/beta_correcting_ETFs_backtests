@@ -1,0 +1,8 @@
+Source: https://www.digrin.com/stocks/detail/GEV/price
+As of: 2026-11-02 America/New_York
+Web evidence: 【turn116view0】
+Month | Adjusted price | Real price
+November 2026  | $866.79  | $866.79
+October 2026  | $857.87  | $857.87
+September 2026  | $949.93  | $950.49
+August 2026  | $898  | $898.53

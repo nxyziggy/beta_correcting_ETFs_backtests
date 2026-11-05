@@ -1,0 +1,66 @@
+Source: https://stockanalysis.com/quote/bit/ENEL/financials/
+Captured: 2026-09-15. Current standardized history; not point-in-time vintages.
+Financials in millions EUR. Fiscal year is January - December.
+Millions EUR. Fiscal year is Jan - Dec.
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Revenue Revenue Growth  | 79,497  | 79,394  | 75,709  | 94,227  | 137,956  | 83,223
+Revenue Growth  | 2.19%  | 4.87%  | -19.65%  | -31.70%  | 65.77%  | 30.77%
+Net Income Net Income Growth  | 4,220  | 3,959  | 6,770  | 3,256  | 1,559  | 3,118
+Earnings Per Share EPS Growth  | 0.41  | 0.39  | 0.67  | 0.32  | 0.15  | 0.31
+EPS Growth  | -30.42%  | -42.03%  | 107.99%  | 108.88%  | -49.99%  | 19.49%
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Global Generation and Trading Global Generation and Trading Growth  | 26,108  | 27,922  | 24,276  | 40,190  | 76,335  | 32,603
+Renewable Energies Renewable Energies Growth  | 12,051  | 11,649  | 12,239  | 11,620  | 9,167  | 9,172
+Enel Grids Enel Grids Growth  | 23,839  | 22,811  | 24,915  | 20,259  | 23,032  | 20,242
+Enel Commercial Enel Commercial Growth  | 34,043  | 35,266  | 40,182  | 52,119  | 64,350  | 37,399
+Holding, Services and Other Holding, Services and Other Growth  | -  | 2,123  | 1,944  | 2,045  | 2,050  | 4,012
+Eliminations Eliminations Growth  | -  | -19,425  | -24,609  | -30,668  | -34,417  | -19,137
+Revenue (Total) Revenue (Total) Growth  | 80,449  | 80,346  | 78,947  | 95,565  | 140,517  | 85,719
+Fiscal Year  | Current  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Cash & Investments Cash & Investments Growth  | 4,742  | 7,387  | 10,985  | 11,326  | 23,194  | 28,610
+Total Debt Total Debt Growth  | 73,378  | 69,011  | 71,323  | 75,113  | 89,593  | 72,664
+Net Cash (Debt) Net Cash Growth  | -68,636  | -61,624  | -60,338  | -63,787  | -66,399  | -44,054
+Net Cash Growth  | -  | -  | -  | -  | -  | -
+Net Cash Per Share Net Cash Per Share Growth  | -6.85  | -6.09  | -5.94  | -6.28  | -6.53  | -4.33
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Operating Cash Flow Operating Cash Flow Growth  | 13,332  | 13,926  | 13,223  | 14,620  | 8,649  | 9,915
+Capital Expenditures CapEx Growth  | -8,991  | -8,506  | -8,931  | -11,383  | -11,281  | -10,545
+Free Cash Flow Free Cash Flow Growth  | 4,341  | 5,420  | 4,292  | 3,237  | -2,632  | -630
+Free Cash Flow Growth  | -8.49%  | 26.28%  | 32.59%  | -  | -  | -
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Pretax Margin  | 11.17%  | 10.57%  | 15.70%  | 7.87%  | 6.29%  | 6.46%
+Profit Margin  | 5.31%  | 4.99%  | 8.94%  | 3.45%  | 1.13%  | 3.75%
+FCF Margin  | 5.46%  | 6.83%  | 5.67%  | 3.44%  | -1.91%  | -0.76%
+Fiscal Year  | Current  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Sep '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Dividend Per Share Dividend Per Share Growth  | 0.490  | 0.490  | 0.470  | 0.430  | 0.400  | 0.380
+Dividend Per Share Growth  | 4.26%  | 4.25%  | 9.30%  | 7.50%  | 5.26%  | 6.14%
+Dividend Yield  | 5.45%  | 5.81%  | 7.65%  | 7.64%  | 10.18%  | 7.38%
+Fiscal Year  | Current  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Sep '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+PE Ratio  | 20.96  | 22.50  | 10.33  | 21.00  | 32.78  | 22.96
+Forward PE  | 11.82  | 12.55  | 10.15  | 10.21  | 8.83  | 12.70
+P/FCF Ratio  | 19.98  | 16.43  | 16.29  | 21.12  | -  | -
+PS Ratio  | 1.09  | 1.12  | 0.92  | 0.73  | 0.37  | 0.86
+Data Sources: cite61†S&P Global Market Intelligence†www.spglobal.com and cite62†Fiscal.ai†www.fiscal.ai Last updated: Jun 30, 2026
+cite63†Data Sources cite64†Report a data error L216: 
+  * cite69†Login L239:   * cite70†Create Account L240:   * cite71†Changelog L241:   * cite63†Data Sources L242:   * cite72†Advertise L243:   * cite73†Help Center L244: #### Company

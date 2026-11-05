@@ -1,0 +1,801 @@
+date,ticker,covered,reason
+2022-09-30,INTC,True,covered
+2022-09-30,TSM,False,no usable dated financial observation
+2022-09-30,MU,True,covered
+2022-09-30,GFS,True,covered
+2022-09-30,TXN,True,covered
+2022-09-30,AMAT,True,covered
+2022-09-30,LRCX,True,covered
+2022-09-30,MCHP,True,covered
+2022-09-30,FSLR,False,no usable dated financial observation
+2022-09-30,ENPH,True,covered
+2022-09-30,PLUG,False,no usable dated financial observation
+2022-09-30,BE,False,no usable dated financial observation
+2022-09-30,ETN,False,no usable dated financial observation
+2022-09-30,GEV,False,not yet regularly listed
+2022-09-30,LIN,True,covered
+2022-09-30,NEE,True,covered
+2022-10-31,INTC,True,covered
+2022-10-31,TSM,False,no usable dated financial observation
+2022-10-31,MU,True,covered
+2022-10-31,GFS,True,covered
+2022-10-31,TXN,True,covered
+2022-10-31,AMAT,True,covered
+2022-10-31,LRCX,True,covered
+2022-10-31,MCHP,True,covered
+2022-10-31,FSLR,False,no usable dated financial observation
+2022-10-31,ENPH,True,covered
+2022-10-31,PLUG,False,no usable dated financial observation
+2022-10-31,BE,False,no usable dated financial observation
+2022-10-31,ETN,False,no usable dated financial observation
+2022-10-31,GEV,False,not yet regularly listed
+2022-10-31,LIN,True,covered
+2022-10-31,NEE,True,covered
+2022-11-30,INTC,True,covered
+2022-11-30,TSM,False,no usable dated financial observation
+2022-11-30,MU,True,covered
+2022-11-30,GFS,True,covered
+2022-11-30,TXN,True,covered
+2022-11-30,AMAT,True,covered
+2022-11-30,LRCX,True,covered
+2022-11-30,MCHP,True,covered
+2022-11-30,FSLR,False,no usable dated financial observation
+2022-11-30,ENPH,True,covered
+2022-11-30,PLUG,False,no usable dated financial observation
+2022-11-30,BE,False,no usable dated financial observation
+2022-11-30,ETN,False,no usable dated financial observation
+2022-11-30,GEV,False,not yet regularly listed
+2022-11-30,LIN,True,covered
+2022-11-30,NEE,True,covered
+2022-12-31,INTC,True,covered
+2022-12-31,TSM,False,no usable dated financial observation
+2022-12-31,MU,True,covered
+2022-12-31,GFS,True,covered
+2022-12-31,TXN,True,covered
+2022-12-31,AMAT,True,covered
+2022-12-31,LRCX,True,covered
+2022-12-31,MCHP,True,covered
+2022-12-31,FSLR,False,no usable dated financial observation
+2022-12-31,ENPH,True,covered
+2022-12-31,PLUG,False,no usable dated financial observation
+2022-12-31,BE,False,no usable dated financial observation
+2022-12-31,ETN,False,no usable dated financial observation
+2022-12-31,GEV,False,not yet regularly listed
+2022-12-31,LIN,True,covered
+2022-12-31,NEE,True,covered
+2023-01-31,INTC,True,covered
+2023-01-31,TSM,False,no usable dated financial observation
+2023-01-31,MU,True,covered
+2023-01-31,GFS,True,covered
+2023-01-31,TXN,True,covered
+2023-01-31,AMAT,True,covered
+2023-01-31,LRCX,True,covered
+2023-01-31,MCHP,True,covered
+2023-01-31,FSLR,False,no usable dated financial observation
+2023-01-31,ENPH,True,covered
+2023-01-31,PLUG,False,no usable dated financial observation
+2023-01-31,BE,False,no usable dated financial observation
+2023-01-31,ETN,False,no usable dated financial observation
+2023-01-31,GEV,False,not yet regularly listed
+2023-01-31,LIN,True,covered
+2023-01-31,NEE,True,covered
+2023-02-28,INTC,True,covered
+2023-02-28,TSM,False,no usable dated financial observation
+2023-02-28,MU,True,covered
+2023-02-28,GFS,True,covered
+2023-02-28,TXN,True,covered
+2023-02-28,AMAT,True,covered
+2023-02-28,LRCX,True,covered
+2023-02-28,MCHP,True,covered
+2023-02-28,FSLR,False,no usable dated financial observation
+2023-02-28,ENPH,True,covered
+2023-02-28,PLUG,False,no usable dated financial observation
+2023-02-28,BE,False,no usable dated financial observation
+2023-02-28,ETN,False,no usable dated financial observation
+2023-02-28,GEV,False,not yet regularly listed
+2023-02-28,LIN,True,covered
+2023-02-28,NEE,True,covered
+2023-03-31,INTC,True,covered
+2023-03-31,TSM,False,no usable dated financial observation
+2023-03-31,MU,True,covered
+2023-03-31,GFS,True,covered
+2023-03-31,TXN,True,covered
+2023-03-31,AMAT,True,covered
+2023-03-31,LRCX,True,covered
+2023-03-31,MCHP,True,covered
+2023-03-31,FSLR,False,no usable dated financial observation
+2023-03-31,ENPH,True,covered
+2023-03-31,PLUG,False,no usable dated financial observation
+2023-03-31,BE,False,no usable dated financial observation
+2023-03-31,ETN,False,no usable dated financial observation
+2023-03-31,GEV,False,not yet regularly listed
+2023-03-31,LIN,True,covered
+2023-03-31,NEE,True,covered
+2023-04-30,INTC,True,covered
+2023-04-30,TSM,False,no usable dated financial observation
+2023-04-30,MU,True,covered
+2023-04-30,GFS,True,covered
+2023-04-30,TXN,True,covered
+2023-04-30,AMAT,True,covered
+2023-04-30,LRCX,True,covered
+2023-04-30,MCHP,True,covered
+2023-04-30,FSLR,False,no usable dated financial observation
+2023-04-30,ENPH,True,covered
+2023-04-30,PLUG,False,no usable dated financial observation
+2023-04-30,BE,False,no usable dated financial observation
+2023-04-30,ETN,False,no usable dated financial observation
+2023-04-30,GEV,False,not yet regularly listed
+2023-04-30,LIN,True,covered
+2023-04-30,NEE,True,covered
+2023-05-31,INTC,True,covered
+2023-05-31,TSM,False,no usable dated financial observation
+2023-05-31,MU,True,covered
+2023-05-31,GFS,True,covered
+2023-05-31,TXN,True,covered
+2023-05-31,AMAT,True,covered
+2023-05-31,LRCX,True,covered
+2023-05-31,MCHP,True,covered
+2023-05-31,FSLR,False,no usable dated financial observation
+2023-05-31,ENPH,True,covered
+2023-05-31,PLUG,False,no usable dated financial observation
+2023-05-31,BE,False,no usable dated financial observation
+2023-05-31,ETN,False,no usable dated financial observation
+2023-05-31,GEV,False,not yet regularly listed
+2023-05-31,LIN,True,covered
+2023-05-31,NEE,True,covered
+2023-06-30,INTC,True,covered
+2023-06-30,TSM,False,no usable dated financial observation
+2023-06-30,MU,True,covered
+2023-06-30,GFS,True,covered
+2023-06-30,TXN,True,covered
+2023-06-30,AMAT,True,covered
+2023-06-30,LRCX,True,covered
+2023-06-30,MCHP,True,covered
+2023-06-30,FSLR,False,no usable dated financial observation
+2023-06-30,ENPH,True,covered
+2023-06-30,PLUG,False,no usable dated financial observation
+2023-06-30,BE,False,no usable dated financial observation
+2023-06-30,ETN,False,no usable dated financial observation
+2023-06-30,GEV,False,not yet regularly listed
+2023-06-30,LIN,True,covered
+2023-06-30,NEE,True,covered
+2023-07-31,INTC,True,covered
+2023-07-31,TSM,False,no usable dated financial observation
+2023-07-31,MU,True,covered
+2023-07-31,GFS,True,covered
+2023-07-31,TXN,True,covered
+2023-07-31,AMAT,True,covered
+2023-07-31,LRCX,True,covered
+2023-07-31,MCHP,True,covered
+2023-07-31,FSLR,False,no usable dated financial observation
+2023-07-31,ENPH,True,covered
+2023-07-31,PLUG,False,no usable dated financial observation
+2023-07-31,BE,False,no usable dated financial observation
+2023-07-31,ETN,False,no usable dated financial observation
+2023-07-31,GEV,False,not yet regularly listed
+2023-07-31,LIN,True,covered
+2023-07-31,NEE,True,covered
+2023-08-31,INTC,True,covered
+2023-08-31,TSM,False,no usable dated financial observation
+2023-08-31,MU,True,covered
+2023-08-31,GFS,True,covered
+2023-08-31,TXN,True,covered
+2023-08-31,AMAT,True,covered
+2023-08-31,LRCX,True,covered
+2023-08-31,MCHP,True,covered
+2023-08-31,FSLR,False,no usable dated financial observation
+2023-08-31,ENPH,True,covered
+2023-08-31,PLUG,False,no usable dated financial observation
+2023-08-31,BE,False,no usable dated financial observation
+2023-08-31,ETN,False,no usable dated financial observation
+2023-08-31,GEV,False,not yet regularly listed
+2023-08-31,LIN,True,covered
+2023-08-31,NEE,True,covered
+2023-09-30,INTC,True,covered
+2023-09-30,TSM,False,no usable dated financial observation
+2023-09-30,MU,True,covered
+2023-09-30,GFS,True,covered
+2023-09-30,TXN,True,covered
+2023-09-30,AMAT,True,covered
+2023-09-30,LRCX,True,covered
+2023-09-30,MCHP,True,covered
+2023-09-30,FSLR,False,no usable dated financial observation
+2023-09-30,ENPH,True,covered
+2023-09-30,PLUG,False,no usable dated financial observation
+2023-09-30,BE,False,no usable dated financial observation
+2023-09-30,ETN,False,no usable dated financial observation
+2023-09-30,GEV,False,not yet regularly listed
+2023-09-30,LIN,True,covered
+2023-09-30,NEE,True,covered
+2023-10-31,INTC,True,covered
+2023-10-31,TSM,False,no usable dated financial observation
+2023-10-31,MU,True,covered
+2023-10-31,GFS,True,covered
+2023-10-31,TXN,True,covered
+2023-10-31,AMAT,True,covered
+2023-10-31,LRCX,True,covered
+2023-10-31,MCHP,True,covered
+2023-10-31,FSLR,False,no usable dated financial observation
+2023-10-31,ENPH,True,covered
+2023-10-31,PLUG,False,no usable dated financial observation
+2023-10-31,BE,False,no usable dated financial observation
+2023-10-31,ETN,False,no usable dated financial observation
+2023-10-31,GEV,False,not yet regularly listed
+2023-10-31,LIN,True,covered
+2023-10-31,NEE,True,covered
+2023-11-30,INTC,True,covered
+2023-11-30,TSM,False,no usable dated financial observation
+2023-11-30,MU,True,covered
+2023-11-30,GFS,True,covered
+2023-11-30,TXN,True,covered
+2023-11-30,AMAT,True,covered
+2023-11-30,LRCX,True,covered
+2023-11-30,MCHP,True,covered
+2023-11-30,FSLR,False,no usable dated financial observation
+2023-11-30,ENPH,True,covered
+2023-11-30,PLUG,False,no usable dated financial observation
+2023-11-30,BE,False,no usable dated financial observation
+2023-11-30,ETN,False,no usable dated financial observation
+2023-11-30,GEV,False,not yet regularly listed
+2023-11-30,LIN,True,covered
+2023-11-30,NEE,True,covered
+2023-12-31,INTC,True,covered
+2023-12-31,TSM,False,no usable dated financial observation
+2023-12-31,MU,True,covered
+2023-12-31,GFS,True,covered
+2023-12-31,TXN,True,covered
+2023-12-31,AMAT,True,covered
+2023-12-31,LRCX,True,covered
+2023-12-31,MCHP,True,covered
+2023-12-31,FSLR,False,no usable dated financial observation
+2023-12-31,ENPH,True,covered
+2023-12-31,PLUG,False,no usable dated financial observation
+2023-12-31,BE,False,no usable dated financial observation
+2023-12-31,ETN,False,no usable dated financial observation
+2023-12-31,GEV,False,not yet regularly listed
+2023-12-31,LIN,True,covered
+2023-12-31,NEE,True,covered
+2024-01-31,INTC,True,covered
+2024-01-31,TSM,False,no usable dated financial observation
+2024-01-31,MU,True,covered
+2024-01-31,GFS,True,covered
+2024-01-31,TXN,True,covered
+2024-01-31,AMAT,True,covered
+2024-01-31,LRCX,True,covered
+2024-01-31,MCHP,True,covered
+2024-01-31,FSLR,False,no usable dated financial observation
+2024-01-31,ENPH,True,covered
+2024-01-31,PLUG,False,no usable dated financial observation
+2024-01-31,BE,False,no usable dated financial observation
+2024-01-31,ETN,False,no usable dated financial observation
+2024-01-31,GEV,False,not yet regularly listed
+2024-01-31,LIN,True,covered
+2024-01-31,NEE,True,covered
+2024-02-29,INTC,True,covered
+2024-02-29,TSM,False,no usable dated financial observation
+2024-02-29,MU,True,covered
+2024-02-29,GFS,True,covered
+2024-02-29,TXN,True,covered
+2024-02-29,AMAT,True,covered
+2024-02-29,LRCX,True,covered
+2024-02-29,MCHP,True,covered
+2024-02-29,FSLR,False,no usable dated financial observation
+2024-02-29,ENPH,True,covered
+2024-02-29,PLUG,False,no usable dated financial observation
+2024-02-29,BE,False,no usable dated financial observation
+2024-02-29,ETN,False,no usable dated financial observation
+2024-02-29,GEV,False,not yet regularly listed
+2024-02-29,LIN,True,covered
+2024-02-29,NEE,True,covered
+2024-03-31,INTC,True,covered
+2024-03-31,TSM,False,no usable dated financial observation
+2024-03-31,MU,True,covered
+2024-03-31,GFS,True,covered
+2024-03-31,TXN,True,covered
+2024-03-31,AMAT,True,covered
+2024-03-31,LRCX,True,covered
+2024-03-31,MCHP,True,covered
+2024-03-31,FSLR,False,no usable dated financial observation
+2024-03-31,ENPH,True,covered
+2024-03-31,PLUG,False,no usable dated financial observation
+2024-03-31,BE,False,no usable dated financial observation
+2024-03-31,ETN,False,no usable dated financial observation
+2024-03-31,GEV,False,not yet regularly listed
+2024-03-31,LIN,True,covered
+2024-03-31,NEE,True,covered
+2024-04-30,INTC,True,covered
+2024-04-30,TSM,False,no usable dated financial observation
+2024-04-30,MU,True,covered
+2024-04-30,GFS,True,covered
+2024-04-30,TXN,True,covered
+2024-04-30,AMAT,True,covered
+2024-04-30,LRCX,True,covered
+2024-04-30,MCHP,True,covered
+2024-04-30,FSLR,False,no usable dated financial observation
+2024-04-30,ENPH,True,covered
+2024-04-30,PLUG,False,no usable dated financial observation
+2024-04-30,BE,False,no usable dated financial observation
+2024-04-30,ETN,False,no usable dated financial observation
+2024-04-30,GEV,False,no usable dated financial observation
+2024-04-30,LIN,True,covered
+2024-04-30,NEE,True,covered
+2024-05-31,INTC,True,covered
+2024-05-31,TSM,False,no usable dated financial observation
+2024-05-31,MU,True,covered
+2024-05-31,GFS,True,covered
+2024-05-31,TXN,True,covered
+2024-05-31,AMAT,True,covered
+2024-05-31,LRCX,True,covered
+2024-05-31,MCHP,True,covered
+2024-05-31,FSLR,False,no usable dated financial observation
+2024-05-31,ENPH,True,covered
+2024-05-31,PLUG,False,no usable dated financial observation
+2024-05-31,BE,False,no usable dated financial observation
+2024-05-31,ETN,False,no usable dated financial observation
+2024-05-31,GEV,False,no usable dated financial observation
+2024-05-31,LIN,True,covered
+2024-05-31,NEE,True,covered
+2024-06-30,INTC,True,covered
+2024-06-30,TSM,False,no usable dated financial observation
+2024-06-30,MU,True,covered
+2024-06-30,GFS,True,covered
+2024-06-30,TXN,True,covered
+2024-06-30,AMAT,True,covered
+2024-06-30,LRCX,True,covered
+2024-06-30,MCHP,True,covered
+2024-06-30,FSLR,False,no usable dated financial observation
+2024-06-30,ENPH,True,covered
+2024-06-30,PLUG,False,no usable dated financial observation
+2024-06-30,BE,False,no usable dated financial observation
+2024-06-30,ETN,False,no usable dated financial observation
+2024-06-30,GEV,False,no usable dated financial observation
+2024-06-30,LIN,True,covered
+2024-06-30,NEE,True,covered
+2024-07-31,INTC,True,covered
+2024-07-31,TSM,False,no usable dated financial observation
+2024-07-31,MU,True,covered
+2024-07-31,GFS,True,covered
+2024-07-31,TXN,True,covered
+2024-07-31,AMAT,True,covered
+2024-07-31,LRCX,True,covered
+2024-07-31,MCHP,True,covered
+2024-07-31,FSLR,False,no usable dated financial observation
+2024-07-31,ENPH,True,covered
+2024-07-31,PLUG,False,no usable dated financial observation
+2024-07-31,BE,False,no usable dated financial observation
+2024-07-31,ETN,False,no usable dated financial observation
+2024-07-31,GEV,False,no usable dated financial observation
+2024-07-31,LIN,True,covered
+2024-07-31,NEE,True,covered
+2024-08-31,INTC,True,covered
+2024-08-31,TSM,False,no usable dated financial observation
+2024-08-31,MU,True,covered
+2024-08-31,GFS,True,covered
+2024-08-31,TXN,True,covered
+2024-08-31,AMAT,True,covered
+2024-08-31,LRCX,True,covered
+2024-08-31,MCHP,True,covered
+2024-08-31,FSLR,False,no usable dated financial observation
+2024-08-31,ENPH,True,covered
+2024-08-31,PLUG,False,no usable dated financial observation
+2024-08-31,BE,False,no usable dated financial observation
+2024-08-31,ETN,False,no usable dated financial observation
+2024-08-31,GEV,False,no usable dated financial observation
+2024-08-31,LIN,True,covered
+2024-08-31,NEE,True,covered
+2024-09-30,INTC,True,covered
+2024-09-30,TSM,False,no usable dated financial observation
+2024-09-30,MU,True,covered
+2024-09-30,GFS,True,covered
+2024-09-30,TXN,True,covered
+2024-09-30,AMAT,True,covered
+2024-09-30,LRCX,True,covered
+2024-09-30,MCHP,True,covered
+2024-09-30,FSLR,False,no usable dated financial observation
+2024-09-30,ENPH,True,covered
+2024-09-30,PLUG,False,no usable dated financial observation
+2024-09-30,BE,False,no usable dated financial observation
+2024-09-30,ETN,False,no usable dated financial observation
+2024-09-30,GEV,False,no usable dated financial observation
+2024-09-30,LIN,True,covered
+2024-09-30,NEE,True,covered
+2024-10-31,INTC,True,covered
+2024-10-31,TSM,False,no usable dated financial observation
+2024-10-31,MU,True,covered
+2024-10-31,GFS,True,covered
+2024-10-31,TXN,True,covered
+2024-10-31,AMAT,True,covered
+2024-10-31,LRCX,True,covered
+2024-10-31,MCHP,True,covered
+2024-10-31,FSLR,False,no usable dated financial observation
+2024-10-31,ENPH,True,covered
+2024-10-31,PLUG,False,no usable dated financial observation
+2024-10-31,BE,False,no usable dated financial observation
+2024-10-31,ETN,False,no usable dated financial observation
+2024-10-31,GEV,False,no usable dated financial observation
+2024-10-31,LIN,True,covered
+2024-10-31,NEE,True,covered
+2024-11-30,INTC,True,covered
+2024-11-30,TSM,False,no usable dated financial observation
+2024-11-30,MU,True,covered
+2024-11-30,GFS,True,covered
+2024-11-30,TXN,True,covered
+2024-11-30,AMAT,True,covered
+2024-11-30,LRCX,True,covered
+2024-11-30,MCHP,True,covered
+2024-11-30,FSLR,False,no usable dated financial observation
+2024-11-30,ENPH,True,covered
+2024-11-30,PLUG,False,no usable dated financial observation
+2024-11-30,BE,False,no usable dated financial observation
+2024-11-30,ETN,False,no usable dated financial observation
+2024-11-30,GEV,False,no usable dated financial observation
+2024-11-30,LIN,True,covered
+2024-11-30,NEE,True,covered
+2024-12-31,INTC,True,covered
+2024-12-31,TSM,False,no usable dated financial observation
+2024-12-31,MU,True,covered
+2024-12-31,GFS,True,covered
+2024-12-31,TXN,True,covered
+2024-12-31,AMAT,True,covered
+2024-12-31,LRCX,False,no usable dated financial observation
+2024-12-31,MCHP,True,covered
+2024-12-31,FSLR,False,no usable dated financial observation
+2024-12-31,ENPH,True,covered
+2024-12-31,PLUG,False,no usable dated financial observation
+2024-12-31,BE,False,no usable dated financial observation
+2024-12-31,ETN,False,no usable dated financial observation
+2024-12-31,GEV,False,no usable dated financial observation
+2024-12-31,LIN,True,covered
+2024-12-31,NEE,True,covered
+2025-01-31,INTC,True,covered
+2025-01-31,TSM,False,no usable dated financial observation
+2025-01-31,MU,True,covered
+2025-01-31,GFS,True,covered
+2025-01-31,TXN,True,covered
+2025-01-31,AMAT,True,covered
+2025-01-31,LRCX,False,no usable dated financial observation
+2025-01-31,MCHP,True,covered
+2025-01-31,FSLR,False,no usable dated financial observation
+2025-01-31,ENPH,True,covered
+2025-01-31,PLUG,False,no usable dated financial observation
+2025-01-31,BE,False,no usable dated financial observation
+2025-01-31,ETN,False,no usable dated financial observation
+2025-01-31,GEV,False,no usable dated financial observation
+2025-01-31,LIN,True,covered
+2025-01-31,NEE,True,covered
+2025-02-28,INTC,True,covered
+2025-02-28,TSM,False,no usable dated financial observation
+2025-02-28,MU,True,covered
+2025-02-28,GFS,True,covered
+2025-02-28,TXN,True,covered
+2025-02-28,AMAT,True,covered
+2025-02-28,LRCX,False,no usable dated financial observation
+2025-02-28,MCHP,True,covered
+2025-02-28,FSLR,False,no usable dated financial observation
+2025-02-28,ENPH,True,covered
+2025-02-28,PLUG,False,no usable dated financial observation
+2025-02-28,BE,False,no usable dated financial observation
+2025-02-28,ETN,False,no usable dated financial observation
+2025-02-28,GEV,False,no usable dated financial observation
+2025-02-28,LIN,True,covered
+2025-02-28,NEE,True,covered
+2025-03-31,INTC,True,covered
+2025-03-31,TSM,False,no usable dated financial observation
+2025-03-31,MU,True,covered
+2025-03-31,GFS,True,covered
+2025-03-31,TXN,True,covered
+2025-03-31,AMAT,True,covered
+2025-03-31,LRCX,False,no usable dated financial observation
+2025-03-31,MCHP,True,covered
+2025-03-31,FSLR,False,no usable dated financial observation
+2025-03-31,ENPH,True,covered
+2025-03-31,PLUG,False,no usable dated financial observation
+2025-03-31,BE,False,no usable dated financial observation
+2025-03-31,ETN,False,no usable dated financial observation
+2025-03-31,GEV,False,no usable dated financial observation
+2025-03-31,LIN,True,covered
+2025-03-31,NEE,True,covered
+2025-04-30,INTC,True,covered
+2025-04-30,TSM,False,no usable dated financial observation
+2025-04-30,MU,True,covered
+2025-04-30,GFS,True,covered
+2025-04-30,TXN,True,covered
+2025-04-30,AMAT,True,covered
+2025-04-30,LRCX,False,no usable dated financial observation
+2025-04-30,MCHP,True,covered
+2025-04-30,FSLR,False,no usable dated financial observation
+2025-04-30,ENPH,True,covered
+2025-04-30,PLUG,False,no usable dated financial observation
+2025-04-30,BE,False,no usable dated financial observation
+2025-04-30,ETN,False,no usable dated financial observation
+2025-04-30,GEV,False,no usable dated financial observation
+2025-04-30,LIN,True,covered
+2025-04-30,NEE,True,covered
+2025-05-31,INTC,True,covered
+2025-05-31,TSM,False,no usable dated financial observation
+2025-05-31,MU,True,covered
+2025-05-31,GFS,True,covered
+2025-05-31,TXN,True,covered
+2025-05-31,AMAT,True,covered
+2025-05-31,LRCX,False,no usable dated financial observation
+2025-05-31,MCHP,True,covered
+2025-05-31,FSLR,False,no usable dated financial observation
+2025-05-31,ENPH,True,covered
+2025-05-31,PLUG,False,no usable dated financial observation
+2025-05-31,BE,False,no usable dated financial observation
+2025-05-31,ETN,False,no usable dated financial observation
+2025-05-31,GEV,False,no usable dated financial observation
+2025-05-31,LIN,True,covered
+2025-05-31,NEE,True,covered
+2025-06-30,INTC,True,covered
+2025-06-30,TSM,False,no usable dated financial observation
+2025-06-30,MU,True,covered
+2025-06-30,GFS,True,covered
+2025-06-30,TXN,True,covered
+2025-06-30,AMAT,True,covered
+2025-06-30,LRCX,False,no usable dated financial observation
+2025-06-30,MCHP,True,covered
+2025-06-30,FSLR,False,no usable dated financial observation
+2025-06-30,ENPH,True,covered
+2025-06-30,PLUG,False,no usable dated financial observation
+2025-06-30,BE,False,no usable dated financial observation
+2025-06-30,ETN,False,no usable dated financial observation
+2025-06-30,GEV,False,no usable dated financial observation
+2025-06-30,LIN,True,covered
+2025-06-30,NEE,True,covered
+2025-07-31,INTC,True,covered
+2025-07-31,TSM,False,no usable dated financial observation
+2025-07-31,MU,True,covered
+2025-07-31,GFS,True,covered
+2025-07-31,TXN,True,covered
+2025-07-31,AMAT,True,covered
+2025-07-31,LRCX,False,no usable dated financial observation
+2025-07-31,MCHP,True,covered
+2025-07-31,FSLR,False,no usable dated financial observation
+2025-07-31,ENPH,True,covered
+2025-07-31,PLUG,False,no usable dated financial observation
+2025-07-31,BE,False,no usable dated financial observation
+2025-07-31,ETN,False,no usable dated financial observation
+2025-07-31,GEV,False,no usable dated financial observation
+2025-07-31,LIN,True,covered
+2025-07-31,NEE,True,covered
+2025-08-31,INTC,True,covered
+2025-08-31,TSM,False,no usable dated financial observation
+2025-08-31,MU,True,covered
+2025-08-31,GFS,True,covered
+2025-08-31,TXN,True,covered
+2025-08-31,AMAT,True,covered
+2025-08-31,LRCX,True,covered
+2025-08-31,MCHP,True,covered
+2025-08-31,FSLR,False,no usable dated financial observation
+2025-08-31,ENPH,True,covered
+2025-08-31,PLUG,False,no usable dated financial observation
+2025-08-31,BE,False,no usable dated financial observation
+2025-08-31,ETN,False,no usable dated financial observation
+2025-08-31,GEV,False,no usable dated financial observation
+2025-08-31,LIN,True,covered
+2025-08-31,NEE,True,covered
+2025-09-30,INTC,True,covered
+2025-09-30,TSM,False,no usable dated financial observation
+2025-09-30,MU,True,covered
+2025-09-30,GFS,True,covered
+2025-09-30,TXN,True,covered
+2025-09-30,AMAT,True,covered
+2025-09-30,LRCX,True,covered
+2025-09-30,MCHP,True,covered
+2025-09-30,FSLR,False,no usable dated financial observation
+2025-09-30,ENPH,True,covered
+2025-09-30,PLUG,False,no usable dated financial observation
+2025-09-30,BE,False,no usable dated financial observation
+2025-09-30,ETN,False,no usable dated financial observation
+2025-09-30,GEV,False,no usable dated financial observation
+2025-09-30,LIN,True,covered
+2025-09-30,NEE,True,covered
+2025-10-31,INTC,True,covered
+2025-10-31,TSM,False,no usable dated financial observation
+2025-10-31,MU,True,covered
+2025-10-31,GFS,True,covered
+2025-10-31,TXN,True,covered
+2025-10-31,AMAT,True,covered
+2025-10-31,LRCX,True,covered
+2025-10-31,MCHP,True,covered
+2025-10-31,FSLR,False,no usable dated financial observation
+2025-10-31,ENPH,True,covered
+2025-10-31,PLUG,False,no usable dated financial observation
+2025-10-31,BE,False,no usable dated financial observation
+2025-10-31,ETN,False,no usable dated financial observation
+2025-10-31,GEV,False,no usable dated financial observation
+2025-10-31,LIN,True,covered
+2025-10-31,NEE,True,covered
+2025-11-30,INTC,True,covered
+2025-11-30,TSM,False,no usable dated financial observation
+2025-11-30,MU,True,covered
+2025-11-30,GFS,True,covered
+2025-11-30,TXN,True,covered
+2025-11-30,AMAT,True,covered
+2025-11-30,LRCX,True,covered
+2025-11-30,MCHP,True,covered
+2025-11-30,FSLR,False,no usable dated financial observation
+2025-11-30,ENPH,True,covered
+2025-11-30,PLUG,False,no usable dated financial observation
+2025-11-30,BE,False,no usable dated financial observation
+2025-11-30,ETN,False,no usable dated financial observation
+2025-11-30,GEV,False,no usable dated financial observation
+2025-11-30,LIN,True,covered
+2025-11-30,NEE,True,covered
+2025-12-31,INTC,True,covered
+2025-12-31,TSM,False,no usable dated financial observation
+2025-12-31,MU,True,covered
+2025-12-31,GFS,True,covered
+2025-12-31,TXN,True,covered
+2025-12-31,AMAT,True,covered
+2025-12-31,LRCX,True,covered
+2025-12-31,MCHP,True,covered
+2025-12-31,FSLR,False,no usable dated financial observation
+2025-12-31,ENPH,True,covered
+2025-12-31,PLUG,False,no usable dated financial observation
+2025-12-31,BE,False,no usable dated financial observation
+2025-12-31,ETN,False,no usable dated financial observation
+2025-12-31,GEV,False,no usable dated financial observation
+2025-12-31,LIN,True,covered
+2025-12-31,NEE,True,covered
+2026-01-31,INTC,True,covered
+2026-01-31,TSM,False,no usable dated financial observation
+2026-01-31,MU,True,covered
+2026-01-31,GFS,True,covered
+2026-01-31,TXN,True,covered
+2026-01-31,AMAT,True,covered
+2026-01-31,LRCX,True,covered
+2026-01-31,MCHP,True,covered
+2026-01-31,FSLR,False,no usable dated financial observation
+2026-01-31,ENPH,True,covered
+2026-01-31,PLUG,False,no usable dated financial observation
+2026-01-31,BE,False,no usable dated financial observation
+2026-01-31,ETN,False,no usable dated financial observation
+2026-01-31,GEV,False,no usable dated financial observation
+2026-01-31,LIN,True,covered
+2026-01-31,NEE,True,covered
+2026-02-28,INTC,True,covered
+2026-02-28,TSM,False,no usable dated financial observation
+2026-02-28,MU,True,covered
+2026-02-28,GFS,True,covered
+2026-02-28,TXN,True,covered
+2026-02-28,AMAT,True,covered
+2026-02-28,LRCX,True,covered
+2026-02-28,MCHP,True,covered
+2026-02-28,FSLR,False,no usable dated financial observation
+2026-02-28,ENPH,True,covered
+2026-02-28,PLUG,False,no usable dated financial observation
+2026-02-28,BE,False,no usable dated financial observation
+2026-02-28,ETN,False,no usable dated financial observation
+2026-02-28,GEV,False,no usable dated financial observation
+2026-02-28,LIN,True,covered
+2026-02-28,NEE,True,covered
+2026-03-31,INTC,True,covered
+2026-03-31,TSM,False,no usable dated financial observation
+2026-03-31,MU,True,covered
+2026-03-31,GFS,True,covered
+2026-03-31,TXN,True,covered
+2026-03-31,AMAT,True,covered
+2026-03-31,LRCX,True,covered
+2026-03-31,MCHP,True,covered
+2026-03-31,FSLR,False,no usable dated financial observation
+2026-03-31,ENPH,True,covered
+2026-03-31,PLUG,False,no usable dated financial observation
+2026-03-31,BE,False,no usable dated financial observation
+2026-03-31,ETN,False,no usable dated financial observation
+2026-03-31,GEV,False,no usable dated financial observation
+2026-03-31,LIN,True,covered
+2026-03-31,NEE,True,covered
+2026-04-30,INTC,True,covered
+2026-04-30,TSM,False,no usable dated financial observation
+2026-04-30,MU,True,covered
+2026-04-30,GFS,True,covered
+2026-04-30,TXN,True,covered
+2026-04-30,AMAT,True,covered
+2026-04-30,LRCX,True,covered
+2026-04-30,MCHP,True,covered
+2026-04-30,FSLR,False,no usable dated financial observation
+2026-04-30,ENPH,True,covered
+2026-04-30,PLUG,False,no usable dated financial observation
+2026-04-30,BE,False,no usable dated financial observation
+2026-04-30,ETN,False,no usable dated financial observation
+2026-04-30,GEV,False,no usable dated financial observation
+2026-04-30,LIN,True,covered
+2026-04-30,NEE,True,covered
+2026-05-31,INTC,True,covered
+2026-05-31,TSM,False,no usable dated financial observation
+2026-05-31,MU,True,covered
+2026-05-31,GFS,True,covered
+2026-05-31,TXN,True,covered
+2026-05-31,AMAT,True,covered
+2026-05-31,LRCX,True,covered
+2026-05-31,MCHP,True,covered
+2026-05-31,FSLR,False,no usable dated financial observation
+2026-05-31,ENPH,True,covered
+2026-05-31,PLUG,False,no usable dated financial observation
+2026-05-31,BE,False,no usable dated financial observation
+2026-05-31,ETN,False,no usable dated financial observation
+2026-05-31,GEV,False,no usable dated financial observation
+2026-05-31,LIN,True,covered
+2026-05-31,NEE,True,covered
+2026-06-30,INTC,True,covered
+2026-06-30,TSM,False,no usable dated financial observation
+2026-06-30,MU,True,covered
+2026-06-30,GFS,True,covered
+2026-06-30,TXN,True,covered
+2026-06-30,AMAT,True,covered
+2026-06-30,LRCX,True,covered
+2026-06-30,MCHP,True,covered
+2026-06-30,FSLR,False,no usable dated financial observation
+2026-06-30,ENPH,True,covered
+2026-06-30,PLUG,False,no usable dated financial observation
+2026-06-30,BE,False,no usable dated financial observation
+2026-06-30,ETN,False,no usable dated financial observation
+2026-06-30,GEV,False,no usable dated financial observation
+2026-06-30,LIN,True,covered
+2026-06-30,NEE,True,covered
+2026-07-31,INTC,True,covered
+2026-07-31,TSM,False,no usable dated financial observation
+2026-07-31,MU,True,covered
+2026-07-31,GFS,True,covered
+2026-07-31,TXN,True,covered
+2026-07-31,AMAT,True,covered
+2026-07-31,LRCX,True,covered
+2026-07-31,MCHP,True,covered
+2026-07-31,FSLR,False,no usable dated financial observation
+2026-07-31,ENPH,True,covered
+2026-07-31,PLUG,False,no usable dated financial observation
+2026-07-31,BE,False,no usable dated financial observation
+2026-07-31,ETN,False,no usable dated financial observation
+2026-07-31,GEV,False,no usable dated financial observation
+2026-07-31,LIN,True,covered
+2026-07-31,NEE,True,covered
+2026-08-31,INTC,True,covered
+2026-08-31,TSM,False,no usable dated financial observation
+2026-08-31,MU,True,covered
+2026-08-31,GFS,True,covered
+2026-08-31,TXN,True,covered
+2026-08-31,AMAT,True,covered
+2026-08-31,LRCX,True,covered
+2026-08-31,MCHP,True,covered
+2026-08-31,FSLR,False,no usable dated financial observation
+2026-08-31,ENPH,True,covered
+2026-08-31,PLUG,False,no usable dated financial observation
+2026-08-31,BE,False,no usable dated financial observation
+2026-08-31,ETN,False,no usable dated financial observation
+2026-08-31,GEV,False,no usable dated financial observation
+2026-08-31,LIN,True,covered
+2026-08-31,NEE,True,covered
+2026-09-30,INTC,True,covered
+2026-09-30,TSM,False,no usable dated financial observation
+2026-09-30,MU,True,covered
+2026-09-30,GFS,True,covered
+2026-09-30,TXN,True,covered
+2026-09-30,AMAT,True,covered
+2026-09-30,LRCX,True,covered
+2026-09-30,MCHP,True,covered
+2026-09-30,FSLR,False,no usable dated financial observation
+2026-09-30,ENPH,True,covered
+2026-09-30,PLUG,False,no usable dated financial observation
+2026-09-30,BE,False,no usable dated financial observation
+2026-09-30,ETN,False,no usable dated financial observation
+2026-09-30,GEV,False,no usable dated financial observation
+2026-09-30,LIN,True,covered
+2026-09-30,NEE,True,covered
+2026-10-31,INTC,True,covered
+2026-10-31,TSM,False,no usable dated financial observation
+2026-10-31,MU,True,covered
+2026-10-31,GFS,True,covered
+2026-10-31,TXN,True,covered
+2026-10-31,AMAT,True,covered
+2026-10-31,LRCX,True,covered
+2026-10-31,MCHP,True,covered
+2026-10-31,FSLR,False,no usable dated financial observation
+2026-10-31,ENPH,True,covered
+2026-10-31,PLUG,False,no usable dated financial observation
+2026-10-31,BE,False,no usable dated financial observation
+2026-10-31,ETN,False,no usable dated financial observation
+2026-10-31,GEV,False,no usable dated financial observation
+2026-10-31,LIN,True,covered
+2026-10-31,NEE,True,covered

@@ -1,0 +1,10 @@
+Source: https://stockanalysis.com/stocks/asml/financials/income-statement/?p=quarterly
+As of: 2026-11-02 America/New_York
+Web evidence: 【turn54view0】
+Financials in millions EUR. Fiscal year is January - December.
+Fiscal Quarter  | Q3 2026  | Q2 2026  | Q1 2026  | Q4 2025  | Q3 2025  | Q2 2025  | Q1 2025  | Q4 2024  | Q3 2024  | Q2 2024  | Q1 2024  | Q4 2023  | Q3 2023  | Q2 2023  | Q1 2023  | Q4 2022  | Q3 2022  | Q2 2022  | Q1 2022  | Q4 2021
+Period Ending  | Sep '26  | Jun '26  | Mar '26  | Dec '25  | Sep '25  | Jun '25  | Mar '25  | Dec '24  | Sep '24  | Jun '24  | Mar '24  | Dec '23  | Oct '23  | Jul '23  | Apr '23  | Dec '22  | Oct '22  | Jul '22  | Apr '22  | Dec '21
+Operating Income  | 5,173  | 3,456  | 3,158  | 3,431  | 2,468  | 2,664  | 2,738  | 3,355  | 2,441  | 1,835  | 1,391  | 2,392  | 2,182  | 2,263  | 2,205  | 2,124  | 1,939  | 1,653  | 784.6  | 1,818
+Net Income  | 4,960  | 2,918  | 2,757  | 2,840  | 2,125  | 2,290  | 2,355  | 2,693  | 2,077  | 1,578  | 1,224  | 2,048  | 1,893  | 1,942  | 1,956  | 1,817  | 1,702  | 1,411  | 695.3  | 1,773
+Fiscal Quarter  | Q3 2026  | Q2 2026  | Q1 2026  | Q4 2025  | Q3 2025  | Q2 2025  | Q1 2025  | Q4 2024  | Q3 2024  | Q2 2024  | Q1 2024  | Q4 2023  | Q3 2023  | Q2 2023  | Q1 2023  | Q4 2022  | Q3 2022  | Q2 2022  | Q1 2022  | Q4 2021
+Period Ending  | Sep '26  | Jun '26  | Mar '26  | Dec '25  | Sep '25  | Jun '25  | Mar '25  | Dec '24  | Sep '24  | Jun '24  | Mar '24  | Dec '23  | Oct '23  | Jul '23  | Apr '23  | Dec '22  | Oct '22  | Jul '22  | Apr '22  | Dec '21

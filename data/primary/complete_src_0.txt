@@ -1,0 +1,41 @@
+Captured 2026-09-16. Numerical facts extracted from retrieved original issuer documents; source URLs retained.
+Source: https://www.veolia.com/sites/g/files/dvc4206/files/document/2023/04/VE_URD_2022_EN.pdf
+
+L26767@P354: 6.1 CONSOLIDATED FINANCIAL STATEMENTS 354
+L26768@P354: 6.1.1 Consolidated Statement of Financial Position 354
+L26769@P354: 6.1.2 Consolidated Income Statement 356
+L26770@P354: 6.1.3 Consolidated Statement of Comprehensive Income 357
+L26771@P354: 6.1.4 Consolidated Cash Flow Statement 358
+L26772@P354: 6.1.5 Statement of Changes in Equity 360
+L26773@P354: 6.1.6 Notes to the consolidated financial statements 362
+L26774@P354: 6.1.7 Statutory auditors’ report on the consolidated financial statements 452
+L26775@P354: 6.2 COMPANY FINANCIAL STATEMENTS 456
+L26776@P354: 6.2.1 Balance sheet as of December 31, 2022 456
+L26777@P354: 6.2.2 Income statement for the year ended December 31, 2022 460
+L26778@P354: 6.2.3 Proposed appropriation of 2022 net income 462
+L26779@P354: 6.2.4 Statement of source and application of funds 463
+L26780@P354: 6.2.5 Notes to the company financial statements 464
+L26781@P354: 6.2.6 Statutory auditors' report on the annual financial statements 491
+L26782@P354: 6.2.7 Parent company results for the last five years and other specific information 494
+L26828@P356: Reserves and retained earnings attributable to owners of the Company Note 10.2 -3,750.8 -4,284.7
+L31998@P421: As of December 31, 2021 As of December 31, 2022
+L32001@P421: Fair value hedges 22.2 - 0.0 633.6
+L32017@P421: Interest rate derivatives 69.3 633.8 100.0 % 100.0 % 0.0 % 0.0 %
+L32018@P421: Foreign currency derivatives 342.9 385.8 100.0 % 100.0 % 0.0 % 0.0 %
+L32827@P432: €9,000million (see Note 3).
+L32841@P432: Financial assets (1) 26
+L26859@P357: Cost of sales Note 6.2 -23,905.9 -35,739.8
+L26860@P357: Selling costs Note 6.2 -584.0 -954.2
+L26861@P357: General and administrative expenses Note 6.2 -2,308.6 -3,215.8
+L26862@P357: Other operating revenue and expenses Note 6.2 -496.9 -769.2
+L28704@P381: Other operating revenue and expenses -496.9 -769.2
+L28706@P381: • Restructuring costs* -68.2 -115.5
+L28707@P381: • (Impairment)/Reversal of impairment of goodwill** 10.8 -69.0
+L28708@P381: • Employee costs - share-based payments, excluding social security contributions -51.2 -54.1
+L28709@P381: • Other non-current charges, impairment losses and net provisions -232.4 -444.1
+L28710@P381: • Share acquisition costs -155.9 -86.5
+L20567@P273-274: 272 VEOLIA ENVIRONNEMENT / UNIVERSAL REGISTRATION DOCUMENT 20222019 2020 2021 2022
+L20569@P274: Permanent contract hires as a% of total external recruitment 63.4 % 58.6 % 65.1 % 66.6 %
+L26956@P359: Change in concession working capital requirements -146.3 -190.5
+L26957@P359: Income taxes paid -285.6 -557.4
+L26961@P359: Industrial investments, net of grants -1,728.8 -2,783.6

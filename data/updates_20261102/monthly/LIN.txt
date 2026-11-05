@@ -1,0 +1,8 @@
+Source: https://www.digrin.com/stocks/detail/LIN/price
+As of: 2026-11-02 America/New_York
+Web evidence: 【turn115view0】
+Month | Adjusted price | Real price
+November 2026  | $521.44  | $521.44
+October 2026  | $514.24  | $514.24
+September 2026  | $474.65  | $474.65
+August 2026  | $487.97  | $489.58

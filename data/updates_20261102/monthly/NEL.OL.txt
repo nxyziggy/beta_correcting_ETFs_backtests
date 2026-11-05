@@ -1,0 +1,8 @@
+Source: https://www.digrin.com/stocks/detail/NEL.OL/price
+As of: 2026-11-02 America/New_York
+Web evidence: 【turn131view0】
+Month | Adjusted price | Real price
+November 2026  | NOK1.95  | NOK1.95
+October 2026  | NOK1.95  | NOK1.95
+September 2026  | NOK2.09  | NOK2.09
+August 2026  | NOK2.08  | NOK2.08

@@ -1,0 +1,48 @@
+Captured 2026-09-16. Numerical facts extracted from retrieved original issuer documents; source URLs retained.
+Source: https://www.infineon.com/assets/row/public/documents/corporate/investors/annual-general-meeting/2021/infineon-annual-report-report-v03-00-en.pdf
+
+L73@P2: Fiscal year from 1 October to 30 September 2020 2019 2020/2019
+L85@P2: Europe, Middle East, Africa 2,322 27 2,430 30 (4)
+L86@P2: therein: Germany 1,056 12 1,169 15 (10)
+L91@P2: Americas 1,015 12 1,050 13 (3)
+L92@P2: therein: USA 845 10 862 11 (2)
+L95@P2: Industrial Power Control 1,406 17 1,418 18 (1)
+L98@P2: Other Operating Segments 16 0 21 0 (24)
+L100@P2: Gross profit/Gross margin 2,776 32.4 2,994 37.3 (7)
+L101@P2: Research and development expenses (1,113) 13.0 (945) 11.8 18
+L102@P2: Selling, general and administrative expenses (1,042) 12.2 (865) 10.8 20
+L103@P2: Operating income 581 1,161 (50)
+L104@P2: Income from continuing operations 372 889 (58)
+L106@P2: net of income taxes (4) (19) 79
+L107@P2: Net income 368 870 (58)
+L108@P2: Segment Result/Segment Result Margin 1,170 13.7 1,319 16.4 (11)
+L112@P2: Fiscal year from 1 October to 30 September 2020 2019 2020/2019
+L122@P2: from continuing operations (7,172) (2,488) 188
+L125@P2: Free cash flow2 (6,727) 39 (17,349)
+L127@P2: Investments2 1,099 1,451 (24)
+L128@P2: Gross cash position2 3,227 3,779 (15)
+L129@P2: Net cash position2 (3,806) 2,223 (271)
+L130@P2: Basic earnings per share in € 0.26 0.75 (65)
+L131@P2: Diluted earnings per share in € 0.26 0.75 (65)
+L132@P2: Adjusted earnings per share in € – diluted3 0.64 0.89 (28)
+L133@P2: Dividend per share in €4 0.22 0.27 (19)
+L134@P2: Equity ratio 46.5% 63.6%
+L135@P2: Return on equity5 3.6% 10.1%
+L136@P2: Return on assets5 1.7% 6.4%
+L137@P2: Inventory intensity5 9.3% 12.5%
+L138@P2: Debt-to-equity ratio5 68.8% 18.0%
+L139@P2: Debt-to-total-capital ratio6 32.0% 11.5%
+L140@P2: Return on Capital Employed (RoCE)2 3.0% 12.2%
+L141@P2: Infineon employees as of 30 September 46,665 41,418 13
+L144@P2: 3 See the chapter “Review of results of operations” for definition, p. 100.
+L145@P2: 4 A dividend per share of €0.22 for the 2020 fiscal year will be proposed to the Annual General Meeting on 25 February 2021.
+L146@P2: 5 See the chapter “Review of financial condition” for definition, p. 101.
+L180@P4: p. 55 p. 60 p. 65 p. 70
+L187@P4: #1 with a market share of 13.4%
+L191@P4: #3 with a market share of 19.5%
+L201@P4: #1 with a market share of 35.6%
+L205@P4: #3 with a market share of 11.5%
+L217@P4: #1 with a market share of 24.6%
+L221@P4: #1 with a market share of 43.5%
+L231@P4: #1 with a market share of 26.3%
+L235@P4: #5 with a market share of 9.8%

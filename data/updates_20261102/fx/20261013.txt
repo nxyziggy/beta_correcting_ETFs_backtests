@@ -1,0 +1,9 @@
+Source: https://www.federalreserve.gov/releases/h10/20261013/
+As of: 2026-11-02 America/New_York
+【turn42view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.federalreserve.gov/releases/h10/20261013/","lineno":null}); Total lines: 91
+Release Date: October 13, 2026
+COUNTRY  | CURRENCY  | Oct. 5  | Oct. 6  | Oct. 7  | Oct. 8  | Oct. 9
+DENMARK  | KRONE  | 6.6665  | 6.6373  | 6.6806  | 6.6786  | 6.6780
+*EMU MEMBERS  | EURO  | 1.1211  | 1.1262  | 1.1187  | 1.1192  | 1.1193
+NORWAY  | KRONE  | 9.5867  | 9.5593  | 9.5753  | 9.5823  | 9.5665
+SWITZERLAND  | FRANC  | 0.8313  | 0.8306  | 0.8338  | 0.8335  | 0.8308

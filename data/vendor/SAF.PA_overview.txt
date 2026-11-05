@@ -1,0 +1,67 @@
+Source: https://stockanalysis.com/quote/epa/SAF/financials/
+Captured: 2026-09-15. Current standardized history; not point-in-time vintages.
+Financials in millions EUR. Fiscal year is January - December.
+Millions EUR. Fiscal year is Jan - Dec.
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Revenue Revenue Growth  | 33,569  | 31,189  | 27,716  | 23,651  | 19,523  | 15,293
+Revenue Growth  | 7.63%  | 12.53%  | 17.19%  | 21.14%  | 27.66%  | -8.86%
+Gross Profit Gross Profit Growth  | 15,714  | 14,982  | 13,455  | 11,211  | 9,167  | 7,559
+Operating Income Operating Income Growth  | 4,678  | 4,560  | 4,038  | 3,181  | 2,411  | 1,246
+Net Income Net Income Growth  | 3,882  | 7,177  | -667  | 3,444  | -2,459  | 43
+Earnings Per Share EPS Growth  | 9.31  | 17.17  | -1.60  | 8.07  | -5.76  | 0.10
+EPS Growth  | -45.77%  | -  | -  | -  | -  | -87.50%
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Aerospace Propulsion Aerospace Propulsion Growth  | 17,305  | 15,668  | 13,652  | 11,876  | 9,506  | 7,439
+Aircraft Equipment, Defense Aerosystems Aircraft Equipment, Defense Aerosystems Growth  | 13,625  | 12,302  | 10,618  | 8,835  | 7,535  | 6,325
+Aircraft Interiors Aircraft Interiors Growth  | 3,188  | 3,349  | 3,037  | 2,477  | 1,978  | 1,475
+Revenue (Total) Revenue (Total) Growth  | 33,569  | 31,189  | 27,716  | 23,651  | 19,523  | 15,133
+Fiscal Year  | Current  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Cash & Investments Cash & Investments Growth  | 6,669  | 6,848  | 6,519  | 6,681  | 6,687  | 5,247
+Total Debt Total Debt Growth  | 5,107  | 5,326  | 5,078  | 6,599  | 6,975  | 7,149
+Net Cash (Debt) Net Cash Growth  | 1,562  | 1,522  | 1,441  | 82  | -288  | -1,902
+Net Cash Growth  | 2.63%  | 5.62%  | 1657.32%  | -  | -  | -
+Net Cash Per Share Net Cash Per Share Growth  | 3.75  | 3.64  | 3.46  | 0.19  | -0.67  | -4.32
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Operating Cash Flow Operating Cash Flow Growth  | 6,695  | 5,721  | 4,733  | 4,270  | 3,545  | 2,436
+Capital Expenditures CapEx Growth  | -1,463  | -1,238  | -1,044  | -823  | -536  | -442
+Free Cash Flow Free Cash Flow Growth  | 5,232  | 4,483  | 3,689  | 3,447  | 3,009  | 1,994
+Free Cash Flow Growth  | 16.71%  | 21.52%  | 7.02%  | 14.56%  | 50.90%  | 42.63%
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Gross Margin  | 46.81%  | 48.04%  | 48.55%  | 47.40%  | 46.96%  | 49.43%
+Operating Margin  | 13.94%  | 14.62%  | 14.57%  | 13.45%  | 12.35%  | 8.15%
+Pretax Margin  | 17.30%  | 32.93%  | -3.10%  | 20.11%  | -15.98%  | 1.75%
+Profit Margin  | 11.56%  | 23.01%  | -2.41%  | 14.56%  | -12.60%  | 0.28%
+FCF Margin  | 15.59%  | 14.37%  | 13.31%  | 14.57%  | 15.41%  | 13.04%
+Fiscal Year  | Current  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Sep '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Dividend Per Share Dividend Per Share Growth  | 3.350  | 3.350  | 2.900  | 2.200  | 1.350  | 0.500
+Dividend Per Share Growth  | 15.52%  | 15.52%  | 31.82%  | 62.96%  | 170.00%  | 16.28%
+Dividend Yield  | 1.01%  | 1.14%  | 1.40%  | 1.43%  | 1.20%  | 0.49%
+Fiscal Year  | Current  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Sep '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+PE Ratio  | 34.54  | 17.30  | -  | 19.34  | -  | 1067.24
+Forward PE  | 27.46  | 29.68  | 27.03  | 25.05  | 24.91  | 29.00
+P/FCF Ratio  | 25.48  | 27.69  | 23.96  | 19.32  | 16.59  | 23.02
+PS Ratio  | 3.97  | 3.98  | 3.19  | 2.82  | 2.56  | 3.00
+Data Sources: cite61†S&P Global Market Intelligence†www.spglobal.com and cite62†Fiscal.ai†www.fiscal.ai Last updated: Jul 28, 2026
+cite63†Data Sources cite64†Report a data error L217: [Button: Back to Top ↑]
+  * cite69†Login L239:   * cite70†Create Account L240:   * cite71†Changelog L241:   * cite63†Data Sources L242:   * cite72†Advertise L243:   * cite73†Help Center L244: #### Company

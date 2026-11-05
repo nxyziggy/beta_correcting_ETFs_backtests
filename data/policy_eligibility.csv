@@ -1,0 +1,12 @@
+ticker,region,start_date,end_date,evidence_status,programme,source,note
+"INTC","US","2024-11-26","","final award","CHIPS direct funding","https://content.govdelivery.com/accounts/USDOC/bulletins/3c3f229","Award up to USD 7.865bn. Historical participation only; later changes are not treated as a subsidy cash balance."
+"TSM","US","2024-11-15","","final award","CHIPS direct funding","https://content.govdelivery.com/accounts/USDOC/bulletins/3c1f9df","TSMC Arizona subsidiary; up to USD 6.6bn."
+"GFS","US","2024-11-20","","final award","CHIPS direct funding","https://content.govdelivery.com/accounts/USDOC/bulletins/3c2ed54","Up to USD 1.5bn."
+"MU","US","2024-12-10","","final award","CHIPS direct funding","https://content.govdelivery.com/accounts/USDOC/bulletins/3c6799f","Idaho and New York award; Virginia preliminary proposal is not used."
+"TXN","US","2024-12-20","","final award","CHIPS direct funding","https://www.ti.com/about-ti/newsroom/news-releases/2024/2024-12-20-texas-instruments-announces-award-agreement-for-chips-and-science-act-funding.html","Up to USD 1.61bn."
+"ENEL.MI","EU","2022-04-01","","signed grant agreement","EU Innovation Fund","https://www.enel.com/media/explore/search-press-releases/press/2022/04/enel-green-power-signs-grant-agreement-with-the-eu-for-solar-panel-gigafactory-in-italy","3Sun subsidiary; historical participation, not continuous subsidy ownership."
+"IFX.DE","EU","2023-06-08","","programme approval; national notice pending","IPCEI ME/CT","https://www.infineon.com/assets/row/public/documents/corporate/press/press-releases/business-financial-press/2023-06-08-infineon-austria-ipcei-de-final.pdf","Infineon Austria. EC approval; national grant commitment still expected."
+"NXPI","EU","2023-09-19","","programme participation; national funding pending","IPCEI ME/CT","https://www.nxp.com/company/about-nxp/newsroom/NW-PR-NXP-EMBRACES-EUS-IPCEI-ME-CT","Final investment decision pending confirmation of public funding."
+"AMS.SW","EU","2023-09-20","","programme participation; final grant notice pending","IPCEI ME/CT","https://ams-osram.com/news/press-releases/ipcei","Expected EUR 300m subject to final grant notice; no cash amount enters the score."
+"NEL.OL","EU","2024-10-22","","grant award announcement","EU Innovation Fund","https://nelhydrogen.com/press-release/nel-asa-awarded-eur-135-million-in-grants-for-industrialization-of-next-generation-electrolyser-technology-in-norway/","Up to EUR 135m announced; project conditions remain. No disbursement inferred."
+

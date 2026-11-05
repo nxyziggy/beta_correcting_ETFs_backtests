@@ -1,0 +1,60 @@
+Source: https://stockanalysis.com/quote/cph/ORSTED/financials/income-statement/
+Captured: 2026-09-15. Current standardized history; not point-in-time vintages.
+Financials in millions DKK. Fiscal year is January - December.
+Millions DKK. Fiscal year is Jan - Dec.
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+cite54†Revenue | 83,672  | 73,244  | 71,034  | 79,255  | 114,417  | 77,673
+Revenue Growth  | 12.04%  | 3.11%  | -10.37%  | -30.73%  | 47.31%  | 54.88%
+Selling, General & Admin  | 9,161  | 9,063  | 8,697  | 7,406  | 7,049  | 5,760
+Depreciation & Amortization  | 10,309  | 10,195  | 10,225  | 9,795  | 9,754  | 7,972
+Other Operating Expenses  | 49,146  | 41,491  | 37,994  | 49,201  | 86,310  | 55,520
+Total Operating Expenses  | 68,616  | 60,749  | 56,916  | 66,402  | 103,113  | 69,252
+Operating Income  | 15,056  | 12,495  | 14,118  | 12,853  | 11,304  | 8,421
+Interest Expense  | -3,414  | -4,115  | -4,095  | -4,279  | -3,032  | -1,841
+Interest Income  | 1,678  | 1,178  | 1,553  | 1,642  | 368  | 335
+Net Interest Expense  | -1,736  | -2,937  | -2,542  | -2,637  | -2,664  | -1,506
+Income (Loss) on Equity Investments  | -153  | -62  | -31  | -19  | 154  | -27
+Currency Exchange Gain (Loss)  | -215  | 1,147  | -684  | -368  | 903  | 32
+Other Non-Operating Income (Expenses)  | -509  | -1,068  | -799  | 1,073  | 787  | -191
+EBT Excluding Unusual Items  | 12,443  | 9,575  | 10,062  | 10,902  | 10,484  | 6,729
+Gain (Loss) on Sale of Investments  | 137  | -23  | 434  | 489  | -1,562  | -501
+Gain (Loss) on Sale of Assets  | -4,163  | -751  | 338  | 5,979  | 11,216  | 7,178
+Asset Writedown  | -6,422  | -3,633  | -15,563  | -26,775  | -2,529  | -129
+Other Unusual Items  | 820  | 820  | 7,335  | -9,621  | -  | -
+Pretax Income  | 2,815  | 5,988  | 2,606  | -19,026  | 17,609  | 13,277
+Income Tax Expense  | 4,580  | 2,823  | 2,590  | 1,156  | 2,613  | 2,390
+Earnings From Continuing Ops.  | -1,765  | 3,165  | 16  | -20,182  | 14,996  | 10,887
+Net Income to Company  | -1,765  | 3,165  | 16  | -20,182  | 14,996  | 10,887
+Minority Interest in Earnings  | -644  | -725  | -222  | -324  | 130  | 75
+Net Income  | -2,409  | 2,440  | -206  | -20,506  | 15,126  | 10,962
+Preferred Dividends & Other Adjustments  | 709  | 713  | 717  | 553  | 577  | 740
+Net Income to Common  | -3,118  | 1,727  | -923  | -21,059  | 14,549  | 10,222
+Net Income Growth  | -  | -  | -  | -  | 42.33%  | -32.35%
+Shares Outstanding (Basic)  | 1,335  | 885  | 756  | 420  | 420  | 420
+Shares Outstanding (Diluted)  | 1,335  | 886  | 757  | 421  | 420  | 420
+Shares Change  | 76.42%  | 17.09%  | 79.97%  | 0.01%  | 0.01%  | 0.01%
+EPS (Basic)  | -2.34  | 1.95  | -1.22  | -50.11  | 34.62  | 24.33
+EPS (Diluted)  | -2.41  | 1.90  | -1.22  | -50.11  | 34.60  | 24.30
+EPS Growth  | -  | -  | -  | -  | 42.39%  | -32.40%
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Free Cash Flow  | -23,338  | -31,035  | -24,298  | -9,671  | -21,080  | -22,421
+Free Cash Flow Per Share  | -17.48  | -35.02  | -32.11  | -23.00  | -50.14  | -53.34
+Dividend Per Share  | -  | -  | -  | -  | 13.500  | 12.500
+Dividend Growth  | -  | -  | -  | -  | 8.00%  | 8.70%
+Profit Margin  | -3.73%  | 2.36%  | -1.30%  | -26.57%  | 12.72%  | 13.16%
+Free Cash Flow Margin  | -27.89%  | -42.37%  | -34.21%  | -12.20%  | -18.42%  | -28.87%
+EBITDA  | 24,258  | 21,583  | 23,347  | 21,732  | 20,253  | 15,718
+EBITDA Margin  | 28.99%  | 29.47%  | 32.87%  | 27.42%  | 17.70%  | 20.24%
+D&A For EBITDA  | 9,202  | 9,088  | 9,229  | 8,879  | 8,949  | 7,297
+EBIT  | 15,056  | 12,495  | 14,118  | 12,853  | 11,304  | 8,421
+EBIT Margin  | 17.99%  | 17.06%  | 19.88%  | 16.22%  | 9.88%  | 10.84%
+Effective Tax Rate  | 162.70%  | 47.14%  | 99.39%  | -  | 14.84%  | 18.00%
+Data Source: cite55†S&P Global Market Intelligence†www.spglobal.com Last updated: Jun 30, 2026
+cite56†Data Sources cite57†Report a data error L179: #### Install The App
+  * cite62†Login L200:   * cite63†Create Account L201:   * cite64†Changelog L202:   * cite56†Data Sources L203:   * cite65†Advertise L204:   * cite66†Help Center L205: #### Company

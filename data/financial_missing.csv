@@ -1,0 +1,12 @@
+ticker,period_end,fiscal_label,reason
+GEV,2021-12-31,FY 2021,"missing total_assets,current_liabilities"
+ENEL.MI,2021-12-31,FY 2021,missing operating_income
+ENEL.MI,2022-12-31,FY 2022,missing operating_income
+ENEL.MI,2023-12-31,FY 2023,missing operating_income
+ENEL.MI,2024-12-31,FY 2024,missing operating_income
+ENEL.MI,2025-12-31,FY 2025,missing operating_income
+VIE.PA,2021-12-31,FY 2021,missing operating_income
+VIE.PA,2022-12-31,FY 2022,missing operating_income
+VIE.PA,2023-12-31,FY 2023,missing operating_income
+VIE.PA,2024-12-31,FY 2024,missing operating_income
+VIE.PA,2025-12-31,FY 2025,missing operating_income

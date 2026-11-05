@@ -1,0 +1,8 @@
+Source: https://www.digrin.com/stocks/detail/VIE.PA/price
+As of: 2026-11-02 America/New_York
+Web evidence: 【turn124view0】
+Month | Adjusted price | Real price
+November 2026  | €33.01  | €33.01
+October 2026  | €33.01  | €33.01
+September 2026  | €30.81  | €30.81
+August 2026  | €32.60  | €32.60

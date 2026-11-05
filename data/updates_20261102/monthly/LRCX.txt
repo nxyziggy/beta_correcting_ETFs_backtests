@@ -1,0 +1,8 @@
+Source: https://www.digrin.com/stocks/detail/LRCX/price
+As of: 2026-11-02 America/New_York
+Web evidence: 【turn135view0】
+Month | Adjusted price | Real price
+November 2026  | $226.67  | $226.67
+October 2026  | $239.11  | $239.11
+September 2026  | $328.51  | $328.51
+August 2026  | $301.17  | $301.49

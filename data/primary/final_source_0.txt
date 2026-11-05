@@ -1,0 +1,60 @@
+Captured 2026-09-16. Numerical facts extracted from retrieved original issuer documents; source URLs retained.
+Source: https://www.veolia.com/en/veolia-group/finance/regulated-information
+Source: https://www.infineon.com/assets/row/public/documents/corporate/investors/annual-general-meeting/2021/infineon-annual-report-report-v03-00-en.pdf
+
+L34: Paris €31.5 (+0.48%)
+L7633@P145: Notes 30 September 202030 September 2019
+L7655@P145: Notes 30 September 202030 September 2019
+L7678@P145: Other reserves (460) 254
+L7679@P145: Own shares (33) (37)
+L7684@P145: as of 30 September 2020 and 2019
+L7697@P146: Gains on disposals of property, plant and equipment (22) (11)
+L7703@P146: Change in inventories 11 124 (239)
+L7704@P146: Change in trade payables (71) (109)
+L7705@P146: Change in provisions 18 65 (25)
+L7708@P146: Interest paid 4 (129) (67)
+L7709@P146: Income tax paid 6 (68) (125)
+L7711@P146: Net cash used in operating activities from discontinued operations (6) (2)
+L7714@P146: Purchases of financial investments 9 (6,045) (3,760)
+L7716@P146: Acquisitions of businesses, net of cash acquired 3 (7,433) (123)
+L7719@P146: Investments in related companies 3 (44) (5)
+L7720@P146: Purchases of other intangible assets and other assets 14 (184) (156)
+L7721@P146: Purchases of property, plant and equipment 14 (915) (1,295)
+L7723@P146: Net cash used in investing activities from continuing operations (7,172) (2,488)
+L7725@P146: Net cash used in investing activities (7,172) (2,488)
+L7726@P146: Net change in related party financial receivables and payables 26 – (14)
+L7728@P146: Repayments of long-term financial debt 17 (5,372) (23)
+L7729@P146: Payments for leasing liabilities 16 (63) –
+L7730@P146: Payments for financing-related derivatives 4 – (41)
+L7734@P146: Dividend payments 21 (336) (305)
+L7736@P146: Cash outflow to hybrid capital investors 21 (20) –
+L7741@P146: Effect of foreign exchange rate changes on cash and cash equivalents (83) 9
+L7745@P146: for the fiscal years ended 30 September 2020 and 2019
+L7765@P147: Balance as of 30 September 2018 1,136,995,834 2,274 4,486 – (333) 59 (3) – (37) 6,446
+L7766@P147: Effects from the transition to IFRS 9 and IFRS 15 – – – – 37 – – – – 37
+L7767@P147: Balance as of 1 October 2018 1,136,995,834 2,274 4,486 – (296) 59 (3) – (37) 6,483
+L7768@P147: Net income – – – – 870 – – – – 870
+L7769@P147: Other comprehensive income (loss), net of tax – – – – (153) 85 155 (42) – 45
+L7770@P147: Total comprehensive income (loss), net of tax – – – – 717 85 155 (42) – 915
+L7771@P147: Dividends – – (305) – – – – – – (305)
+L7773@P147: Exercise of stock options 914,314 1 4 – – – – – – 5
+L7774@P147: Share-based compensation 23 – – 10 – – – – – – 10
+L7775@P147: Capital increase 112,773,923 226 1,299 – – – – – – 1,525
+L7776@P147: Balance as of 30 September 2019 1,250,684,071 2,501 5,494 – 421 144 152 (42) (37) 8,633
+L7777@P147: Balance as of 1 October 2019 1,250,684,071 2,501 5,494 – 421 144 152 (42) (37) 8,633
+L7778@P147: Net income – – – 39 329 – – – – 368
+L7779@P147: Other comprehensive income (loss), net of tax – – – – 21 (543) (213) 42 – (693)
+L7780@P147: Total comprehensive income (loss), net of tax – – – 39 350 (543) (213) 42 – (325)
+L7781@P147: Dividends – – – – (336) – – – – (336)
+L7783@P147: Exercise of stock options 237,066 1 1 – – – – – – 2
+L7784@P147: Emission hybrid capital – – – 1,184 – – – – – 1,184
+L7785@P147: Compensations to hybrid capital investors – – – (20) – – – – – (20)
+L7786@P147: Share-based compensation 23 – – 11 – – – – – – 11
+L7787@P147: Capital increase 55,000,000 110 934 – – – – – – 1,044
+L7789@P147: Other changes in equity – – 22 – – – – – – 22
+L7790@P147: Balance as of 30 September 2020 1,305,921,137 2,612 6,462 1,203 435 (399) (61) – (33) 10,219
+L7792@P147: for the fiscal years ended 30 September 2020 and 2019
+L7807@P148: parent company of Infineon. The principal office of the Company is Am Campeon 1–15,
+L7826@P148: on 20 November 2020.
+L7845@P148: to IFRS 3 and IFRS 11 as well as IAS 12 and IAS 23
+L7850@P148: and lease accounting interpretations including IAS 17, IFRIC 4, and SIC 15 and SIC 27.

@@ -1,0 +1,68 @@
+Captured 2026-09-16. Numerical facts extracted from retrieved original issuer documents; source URLs retained.
+Source: https://www.veolia.com/sites/g/files/dvc4206/files/document/2022/03/Finance_Veolia%20Consolidated%20financial%20statements%20on%20december%2031st%202021_0.pdf
+
+L156@P5: Amount net of tax (1.7) 62.6
+L158@P5: equity not subsequently released to net income (1) (375.2) 662.1
+L159@P5: Income tax expense (0.2) 2.7
+L160@P5: Amount net of tax (375.4) 664.8
+L162@P5: to net income (377.1) 727.4
+L165@P5: Fair value adjustments on hedging costs (3.4) 50.3
+L167@P5: Amount net of tax (3.4) 50.3
+L173@P5: Income tax expense (4.7) (37.4)
+L177@P5: a foreign currency (373.2) 235.4
+L178@P5: Amount net of tax (373.2) 235.4
+L179@P5: • on the net financing of foreign operations 8.2 (53.1)
+L181@P5: Amount net of tax 8.2 (53.3)
+L183@P5: net income (341.6) 335.6
+L184@P5: o/w attributable to joint ventures (41.0) 64.3
+L185@P5: o/w attributable to associates (18.0) 8.7
+L186@P5: Total Other comprehensive income (718.7) 1,063.0
+L187@P5: TOTAL COMPREHENSIVE INCOME FOR THE PERIOD (510.2) 1,617.9
+L188@P5: Attributable to owners of the Company (586.9) 1,383.0
+L190@P5: (1) Including €671.8 million relating to the acquisition of Suez in the year ended December 31, 2021, compared with -€376.0
+L194@P6: CONSOLIDATED FINANCIAL STATEMENTS - DECEMBER 31, 2021/ VEOLIA ENVIRONNEMENT 7
+L210@P6: Gains (losses) on disposal of operating assets 19.2 (39.2)
+L211@P6: Gains (losses) on disposal of financial assets (46.6) 1.2
+L212@P6: Share of net income (loss) of joint ventures Note 6.2.4 (87.4) (74.1)
+L213@P6: Share of net income (loss) of associates Note 6.2.4 (23.1) (30.8)
+L214@P6: Dividends received Note 9.4.2 (2.8) (124.2)
+L220@P6: Change in concession working capital requirements (130.0) (146.3)
+L221@P6: Income taxes paid (258.3) (285.6)
+L225@P6: operations (12.7) (16.6)
+L227@P6: Industrial investments, net of grants (1,608.6) (1,728.8)
+L229@P6: Purchases of investments Note 4.2 (5,026.2) (327.2)
+L232@P6: New operating financial assets Note 6.4 (160.0) (166.6)
+L236@P6: New non-current loans granted (526.0) (141.8)
+L240@P6: operations (6,135.3) (850.6)
+L245@P7: 8 VEOLIA ENVIRONNEMENT / CONSOLIDATED FINANCIAL STATEMENTS - DECEMBER 31, 2021
+L254@P7: Net increase (decrease) in current financial liabilities Note 9.1.1 1,083.5 (38.6)
+L255@P7: Repayment of current IFRS 16 lease debt Note 9.1.1 (478.9) (455.2)
+L256@P7: Other changes in non-current IFRS 16 lease debt Note 9.1.1 (140.5) (123.3)
+L258@P7: Principal payments on non-current borrowings and other debt Note 9.1.1 (70.6) (51.2)
+L259@P7: Change in liquid assets and financing financial assets Note 9.1.2 (368.7) (135.5)
+L262@P7: Transactions with non-controlling interests: partial purchases (4.8) (2.7)
+L265@P7: Coupons on deeply subordinated securities Note 10.4 - (23.9)
+L266@P7: Purchases of/proceeds from treasury shares (8.3) 20.0
+L267@P7: Dividends paid (426.0) (534.3)
+L268@P7: Interest paid Note 9.4.1 (404.8) (357.4)
+L269@P7: Interest on IFRIC 12 operating assets (79.8) (76.5)
+L270@P7: Interest on IFRS 16 lease debt Note 9.4.2 (32.2) (28.2)
+L274@P7: discontinued operations (0.1) (0.3)
+L276@P7: Effect of foreign exchange rate changes and other (25.7) 63.2
+L286@P8: CONSOLIDATED FINANCIAL STATEMENTS - DECEMBER 31, 2021 / VEOLIA ENVIRONNEMENT 9
+L319@P8: published 567,266,539 2,836.3 7,197.9 - (442.4) (3,508.4) (92.6) (57.1) 5,933.7 1,144.7 7,078.4
+L320@P8: IAS 19 impacts 0 - - - - 23.2 - - 23.2 0.8 24.0
+L321@P8: As of December 31, 2019, represented 567,266,539 2,836.3 7,197.9 - (442.4) (3,485.2) (92.6) (57.1) 5,956.9 1,145.5 7,102.4
+L323@P8: company 11,344,823 56.8 93.9 - - (3.5) - - 147.2 - 147.2
+L325@P8: subordinated securities - - - 1,987.1 - - - - 1,987.1 - 1,987.1
+L331@P8: Parent company dividend distribution - - - - - (277.1) - - (277.1) - (277.1)
+L332@P8: Movements in treasury shares - - - - (8.3) - - - (8.3) - (8.3)
+L333@P8: Share-based payments - - - - - 33.3 - - 33.3 - 33.3
+L337@P8: distributions of subsidiaries - - - - - - - - - (148.9) (148.9)
+L339@P8: interests - - - - - (3.5) - - (3.5) 4.3 0.8
+L340@P8: Total transactions with noncontrolling interests 11,344,823 56.8 93.9 1,987.1 (8.3) (250.8) 0 0 1,878.7 (123.7) 1,755.0
+L342@P8: year (*) - - - - - (1.8) (313.0) (360.9) (675.7) (43.0) (718.7)
+L343@P8: Net income for the year - - - - 88.8 - - 88.8 119.7 208.5
+L345@P8: period - - - - - 87.0 (313.0) (360.9) (586.9) 76.7 (510.2)
+L346@P8: Other movements - - - - - (9.3) - - (9.3) 0.8 (8.5)
+L348@P8: re-presented 578,611,362 2,893.1 7,291.8 1,987.1 (450.7) (3,658.3) (405.6) (418.0) 7,239.4 1,099.3 8,338.7

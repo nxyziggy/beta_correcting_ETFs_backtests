@@ -1,0 +1,25 @@
+{
+  "as_of": "2026-11-02",
+  "complete_month_end": "2026-10-31",
+  "runs": 114,
+  "matched_starts": {
+    "US": "2022-09-30",
+    "EU": "2021-09-30"
+  },
+  "cross_region_start": "2022-09-30",
+  "original_quarterly_names": [
+    "AMAT",
+    "ASML",
+    "ENPH",
+    "INTC",
+    "LIN",
+    "MCHP",
+    "MU",
+    "NEE",
+    "TXN"
+  ],
+  "timing_control": "max(actual publication date, period end + 180 annual / 90 interim days)",
+  "failures": [],
+  "source_policy": "original observed data only; no vendor fallback",
+  "limits": "Reduced two-factor score, retrospective universe, incomplete original-report coverage; not a certified point-in-time investable index."
+}

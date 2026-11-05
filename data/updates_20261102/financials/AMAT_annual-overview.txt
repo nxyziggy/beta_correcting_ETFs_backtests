@@ -1,0 +1,20 @@
+Source: https://stockanalysis.com/stocks/amat/financials/
+As of: 2026-11-02 America/New_York
+Web evidence: 【turn83view0】
+Financials in millions USD. Fiscal year is November - October.
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+Period Ending  | Jul '26  | Oct '25  | Oct '24  | Oct '23  | Oct '22  | Oct '21
+Operating Income Operating Income Growth  | 9,628  | 8,511  | 7,867  | 7,654  | 7,784  | 7,200
+Net Income Net Income Growth  | 9,267  | 6,998  | 7,177  | 6,856  | 6,525  | 5,888
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+Period Ending  | Jul '26  | Oct '25  | Oct '24  | Oct '23  | Oct '22  | Oct '21
+Fiscal Year  | Current  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+Period Ending  | Jul '26  | Oct '25  | Oct '24  | Oct '23  | Oct '22  | Oct '21
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+Period Ending  | Jul '26  | Oct '25  | Oct '24  | Oct '23  | Oct '22  | Oct '21
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+Period Ending  | Jul '26  | Oct '25  | Oct '24  | Oct '23  | Oct '22  | Oct '21
+Fiscal Year  | Current  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+Period Ending  | Nov '26  | Oct '25  | Oct '24  | Oct '23  | Oct '22  | Oct '21
+Fiscal Year  | Current  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+Period Ending  | Nov '26  | Oct '25  | Oct '24  | Oct '23  | Oct '22  | Oct '21

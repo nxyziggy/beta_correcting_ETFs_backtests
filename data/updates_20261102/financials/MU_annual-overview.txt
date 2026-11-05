@@ -1,0 +1,20 @@
+Source: https://stockanalysis.com/stocks/mu/financials/
+As of: 2026-11-02 America/New_York
+Web evidence: 【turn82view0】
+Financials in millions USD. Fiscal year is October - September.
+Fiscal Year  | TTM  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+Period Ending  | Sep '26  | Sep '26  | Aug '25  | Aug '24  | Aug '23  | Sep '22
+Operating Income Operating Income Growth  | 99,340  | 99,340  | 9,770  | 1,304  | -3,574  | 9,709
+Net Income Net Income Growth  | 84,969  | 84,969  | 8,539  | 778  | -5,833  | 8,687
+Fiscal Year  | TTM  | FY 2026  | FY 2025  | FY 2024  | FY 2023
+Period Ending  | Sep '26  | Sep '26  | Aug '25  | Aug '24  | Aug '23
+Fiscal Year  | Current  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+Period Ending  | Sep '26  | Sep '26  | Aug '25  | Aug '24  | Aug '23  | Sep '22
+Fiscal Year  | TTM  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+Period Ending  | Sep '26  | Sep '26  | Aug '25  | Aug '24  | Aug '23  | Sep '22
+Fiscal Year  | TTM  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+Period Ending  | Sep '26  | Sep '26  | Aug '25  | Aug '24  | Aug '23  | Sep '22
+Fiscal Year  | Current  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+Period Ending  | Nov '26  | Sep '26  | Aug '25  | Aug '24  | Aug '23  | Sep '22
+Fiscal Year  | Current  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+Period Ending  | Nov '26  | Sep '26  | Aug '25  | Aug '24  | Aug '23  | Sep '22

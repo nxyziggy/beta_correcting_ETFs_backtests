@@ -1,0 +1,59 @@
+Source: https://stockanalysis.com/stocks/nee/financials/income-statement/
+Captured: 2026-09-15. Current standardized history; not point-in-time vintages.
+Financials in millions USD. Fiscal year is January - December.
+Millions USD. Fiscal year is Jan - Dec.
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+cite54†Revenue | 28,700  | 27,412  | 24,753  | 28,114  | 20,956  | 17,069
+Revenue Growth  | 10.81%  | 10.74%  | -11.96%  | 34.16%  | 22.77%  | -5.16%
+Fuel & Purchased Power  | 5,299  | 4,944  | 5,029  | 5,457  | 6,389  | 4,527
+Operations & Maintenance  | 5,887  | 5,399  | 4,857  | 4,681  | 4,428  | 3,981
+Depreciation & Amortization  | 6,840  | 6,580  | 5,462  | 5,879  | 4,389  | 3,924
+Other Operating Expenses  | 2,237  | 2,202  | 2,016  | 2,020  | 1,823  | 1,544
+Total Operating Expenses  | 20,263  | 19,125  | 17,364  | 18,037  | 17,029  | 13,976
+Operating Income  | 8,437  | 8,287  | 7,389  | 10,077  | 3,927  | 3,093
+Interest Expense  | -3,512  | -4,572  | -2,235  | -3,324  | -585  | -1,270
+Net Interest Expense  | -3,512  | -4,572  | -2,235  | -3,324  | -585  | -1,270
+Income (Loss) on Equity Investments  | 789  | -184  | -246  | -648  | 203  | 666
+Allowance for Equity Funds for Construction  | 211  | 181  | 198  | 161  | 112  | 142
+Other Non-Operating Income (Expenses)  | 249  | 272  | 336  | 333  | 200  | 130
+EBT Excluding Unusual Items  | 6,174  | 3,984  | 5,442  | 6,599  | 3,857  | 2,761
+Restructuring Charges  | -75  | -  | -27  | -  | -52  | -
+Total Merger & Restructuring Charges  | -32  | -  | -  | -  | -  | -
+Gain (Loss) on Sale of Investments  | 416  | 286  | 270  | 284  | -381  | 337
+Gain (Loss) on Sale of Assets  | 456  | 260  | 352  | 405  | 522  | 77
+Asset Writedown  | -  | -  | -  | -  | -114  | -
+Pretax Income  | 6,939  | 4,530  | 6,037  | 7,288  | 3,832  | 3,175
+Income Tax Expense  | -598  | -802  | 339  | 1,006  | 586  | 348
+Earnings From Continuing Ops.  | 7,537  | 5,332  | 5,698  | 6,282  | 3,246  | 2,827
+Minority Interest in Earnings  | 1,762  | 1,503  | 1,248  | 1,028  | 901  | 746
+Net Income  | 9,299  | 6,835  | 6,946  | 7,310  | 4,147  | 3,573
+Net Income to Common  | 9,299  | 6,835  | 6,946  | 7,310  | 4,147  | 3,573
+Net Income Growth  | 57.13%  | -1.60%  | -4.98%  | 76.27%  | 16.06%  | 22.41%
+Shares Outstanding (Basic)  | 2,078  | 2,065  | 2,053  | 2,026  | 1,973  | 1,963
+Shares Outstanding (Diluted)  | 2,087  | 2,071  | 2,059  | 2,031  | 1,979  | 1,972
+Shares Change  | 1.22%  | 0.55%  | 1.40%  | 2.64%  | 0.33%  | 0.17%
+EPS (Basic)  | 4.48  | 3.31  | 3.38  | 3.61  | 2.10  | 1.82
+EPS (Diluted)  | 4.45  | 3.30  | 3.37  | 3.60  | 2.10  | 1.81
+EPS Growth  | 55.01%  | -2.08%  | -6.39%  | 71.43%  | 16.02%  | 22.30%
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Free Cash Flow  | -16,566  | -12,121  | -11,469  | -13,812  | -11,021  | -8,524
+Free Cash Flow Per Share  | -7.94  | -5.85  | -5.57  | -6.80  | -5.57  | -4.32
+Dividend Per Share  | 2.379  | 2.266  | 2.060  | 1.870  | 1.700  | 1.540
+Dividend Growth  | 10.01%  | 10.00%  | 10.16%  | 10.00%  | 10.39%  | 10.00%
+Profit Margin  | 32.40%  | 24.93%  | 28.06%  | 26.00%  | 19.79%  | 20.93%
+Free Cash Flow Margin  | -57.72%  | -44.22%  | -46.33%  | -49.13%  | -52.59%  | -49.94%
+EBITDA  | 14,593  | 14,138  | 13,150  | 16,228  | 8,717  | 7,307
+EBITDA Margin  | 50.85%  | 51.58%  | 53.13%  | 57.72%  | 41.60%  | 42.81%
+D&A For EBITDA  | 6,156  | 5,851  | 5,761  | 6,151  | 4,790  | 4,214
+EBIT  | 8,437  | 8,287  | 7,389  | 10,077  | 3,927  | 3,093
+EBIT Margin  | 29.40%  | 30.23%  | 29.85%  | 35.84%  | 18.74%  | 18.12%
+Effective Tax Rate  | -  | -  | 5.62%  | 13.80%  | 15.29%  | 10.96%
+Data Source: cite57†S&P Global Market Intelligence†www.spglobal.com Last updated: Jun 30, 2026
+cite58†Data Sources cite59†Report a data error L181: #### Install The App
+  * cite64†Login L202:   * cite65†Create Account L203:   * cite66†Changelog L204:   * cite58†Data Sources L205:   * cite67†Advertise L206:   * cite68†Help Center L207: #### Company

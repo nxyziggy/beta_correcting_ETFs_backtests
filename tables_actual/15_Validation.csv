@@ -1,0 +1,8 @@
+check,records,result,detail
+Dated original components,310,PASS,All five inputs present; every component published by availability; no vendor fallback.
+Quarter-to-annual reconciliation,140,PASS,Four observed quarters sum to original annual values within source rounding tolerance.
+"Frozen prices, FX and universe",112,PASS,Byte-for-byte unchanged against inherited input hashes.
+Information cutoff and freshness,49149,PASS,Every source component strictly predates the first day of the decision month; 550/275-day age limits.
+Monthly portfolio accounting,6600,PASS,"No monthly gaps; weights, positions, turnover, costs and 1-9 bounds reconcile."
+Trade cost ledgers,39120,PASS,Costs equal specified bps times actual absolute traded value.
+Inherited result reproduction,12,PASS,"Unmodified baseline financial inputs reproduce prior NAV, return, CAGR, drawdown and costs."

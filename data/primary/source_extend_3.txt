@@ -1,0 +1,47 @@
+Captured 2026-09-16. Numerical facts extracted from retrieved original issuer documents; source URLs retained.
+Source: https://www.enel.com/content/dam/enel-common/press/it/2021-Marzo/Enel%20risultati%20FY%202020.pdf
+
+L1461@P36: Effetti adeguamento cambi attività e passività in valuta (162) 107
+L1463@P36: Dividendi da società controllate, collegate e altre imprese (3.148) (3.148) (5.548) (5.547)
+L1464@P36: (Proventi)/Oneri finanziari netti 739 (289) 310 (186)
+L1465@P36: Cash flow da attività operativa prima delle variazioni del capitale circolante netto (155) (148)
+L1466@P36: Incremento/(Decremento) fondi 37 (38)
+L1467@P36: (Incremento)/Decremento di crediti commerciali 16 15 (64) (67)
+L1468@P36: (Incremento)/Decremento di attività/passività finanziarie e non 2.679 (12) 424 (497)
+L1469@P36: Incremento/(Decremento) di debiti commerciali (73) (41) 1 (2)
+L1471@P36: Interessi passivi e altri oneri finanziari pagati (1.296) (346) (1.230) (301)
+L1473@P36: Imposte pagate (consolidato fiscale) (787) (571)
+L1475@P36: Investimenti in attività materiali e immateriali (71) (48)
+L1476@P36: Investimenti in partecipazioni (5.238) (5.226) (2.351) (2.351)
+L1478@P36: Cash flow da attività di investimento/disinvestimento (b) (3.784) (2.399)
+L1480@P36: Finanziamenti a lungo termine rimborsati nel periodo (1.346) (46) (2.814) (1.500)
+L1481@P36: Variazione netta dei debiti/(crediti) finanziari a lungo (2.535) (2.833) (352) (178)
+L1482@P36: Variazione netta dei debiti/(crediti) finanziari a breve (3.102) (2.218) 2.727 2.256
+L1483@P36: Dividendi pagati (3.334) (2.845)
+L1486@P36: (13) (10)
+L1487@P36: Cash flow da attività di finanziamento (c) (2.741) 550
+L1488@P36: Incremento/(Decremento) disponibilità liquide e mezzi equivalenti (a+b+c) (2.026) 2.146
+L1214@P28: euro al 31 dicembre 2019) e 408 milioni di euro (416 milioni di euro al 31 dicembre 2019).
+L1215@P28: (2) Di cui quota corrente dei crediti finanziari a lungo termine, crediti finanziari a breve termine e titoli diversi al 31 dicembre 2020
+L467@P10: • Utile dell’esercizio pari a 2.326 milioni di euro, a fronte di 4.792 milioni di euro del 2019 (-
+L1357@P32: Imposte (122) (50)
+L1422@P35: Riserva azioni proprie (3) (1) (2)
+L1423@P35: Strumenti di capitale – obbligazioni ibride perpetue 2.386 - 2.386
+L1424@P35: Altre riserve 11.300 11.366 (66)
+L1426@P35: Utile dell'esercizio (*) 547 3.165 (2.618)
+L1430@P35: Benefíci ai dipendenti 200 216 (16)
+L1431@P35: Fondi rischi e oneri 14 18 (4)
+L1432@P35: Passività per imposte differite 149 163 (14)
+L1443@P35: Altre passività correnti 2.154 158 2.209 160 (55)
+L1444@P35: (Subtotale) 8.866 12.189 (3.323)
+L1445@P35: TOTALE PASSIVITA' 28.308 28.349 (41)
+L1447@P35-36: (*) L’utile dell’esercizio è esposto al netto dell'acconto sul dividendo, pari a 1.779 milioni di euro (pari a 1.627 milioni di euro nel 2019).
+L1482@P36: Variazione netta dei debiti/(crediti) finanziari a breve (3.102) (2.218) 2.727 2.256
+L1434@P35: Altre passività non correnti 19 8 21 8 (2)
+L1437@P35: Finanziamenti a breve termine 5.303 5.057 8.367 7.834 (3.064)
+L1438@P35: Quote correnti dei finanziamenti a lungo termine 820 46 1.102 46 (282)
+L1442@P35: Altre passività finanziarie correnti 228 53 234 23 (6)
+L1443@P35: Altre passività correnti 2.154 158 2.209 160 (55)
+L1444@P35: (Subtotale) 8.866 12.189 (3.323)
+L1445@P35: TOTALE PASSIVITA' 28.308 28.349 (41)
+L1447@P35-36: (*) L’utile dell’esercizio è esposto al netto dell'acconto sul dividendo, pari a 1.779 milioni di euro (pari a 1.627 milioni di euro nel 2019).

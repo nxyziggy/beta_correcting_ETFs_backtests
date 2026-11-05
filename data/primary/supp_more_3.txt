@@ -1,0 +1,31 @@
+Captured 2026-09-16. Numerical facts extracted from retrieved original issuer documents; source URLs retained.
+Source: https://www.enel.com/content/dam/enel-common/press/en/2026-march/Enel%20results%20FY2025.pdf
+
+L847@P21: line with the above Warning Notice no. 5/2021 issued by CONSOB on April 29th, 2021.
+L881@P22: Capitalized costs (3,259) (3,042)
+L890@P22: Share of profit/(loss) of equity-accounted investments (74) (210)
+L925@P23: Effective portion of change in the fair value of cash flow hedges 466 (628)
+L926@P23: Change in the fair value of hedging costs (21) 225
+L927@P23: Share of the other comprehensive expense of equity-accounted investments 1 (35)
+L928@P23: Change in the fair value of financial assets at FVOCI (12) 14
+L929@P23: Change in translation reserve (1,994) (1,812)
+L931@P23: non-current assets and disposal groups classified as held for sale/discontinued operations (85) (41)
+L935@P23: Change in the fair value of equity investments in other companies (15) 109
+L938@P23: Total other comprehensive income/(expense) for the year (1,528) (2,041)
+L945@P24: ASSETS at Dec. 31, 2025 at Dec. 31, 2024
+L959@P24: Non-current financial derivative assets 1,170 - 2,003 2
+L969@P24: Current financial derivative assets 2,408 - 3,512
+L978@P25: LIABILITIES AND EQUITY at Dec. 31, 2025 at Dec. 31, 2024
+L987@P25: Negative reserve for treasury share (1,077) (78)
+L1001@P25: Other non-current liabilities 3,219 - 3,287
+L1009@P25: Current financial derivative liabilities 2,343 - 3,584 6
+L1035@P26: Changes in net working capital: (1,316) (1,108)
+L1037@P26: - trade receivables 310 468 490 (220)
+L1038@P26: - trade payables (1,471) (1,234) (2,451) (93)
+L1040@P26: - other contract liabilities 246 22 209 (16)
+L1041@P26: - other assets/liabilities (811) 715 66 (736)
+L1043@P26: Utilization of provisions (1,776) (1,698)
+L1045@P26: Interest expense and other financial expense paid (4,212) (88) (5,276) (100)
+L1046@P26: Net (income)/expense from measurement of commodities (210) (16)
+L1047@P26: Income taxes paid (3,542) (3,912)
+L1048@P26: Net capital gains 444 (2,313)

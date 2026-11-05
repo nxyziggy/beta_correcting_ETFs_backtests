@@ -1,0 +1,17 @@
+Captured 2026-09-16. Numerical facts extracted from retrieved original issuer documents; source URLs retained.
+Source: https://www.veolia.com/en/veolia-group/finance/financial-publications?finance_publication_type=11
+Source: https://www.infineon.com/assets/row/public/documents/corporate/investors/annual-general-meeting/2021/infineon-annual-report-report-v03-00-en.pdf
+Source: https://www.asml.com/en/news/press-releases/2021/asml-reports-eur-14dot0-billion-net-sales-and-eur3dot6-billion-net-income-in-2020
+
+L276: 22 March 2023
+L6681@P127: Association rests with the Annual General Meeting. However, section 10, paragraph 4,
+L6702@P128: be found in note 21 to the Consolidated Financial Statements. p. 188
+L6770@P129: According to a resolution passed by the Annual General Meeting on 22 February 2018,
+L9865@P188: €750,000,000 was reduced to €640,000,000 by the capital increase of €110,000,000
+L9866@P188: as decided by the Management Board and the Supervisory Board on 26 May 2020
+L9870@P188: with subscription rights excluded pursuant to section 186, paragraph 3, sentence 4,
+L9892@P188: conditionally increased by up to €260,000,000 through the issue of up to 130,000,000
+L9904@P188: tranche 1 was 99.385 percent of the principal amount, the issue price for tranche 2
+L11885@P228: Neubiberg, 20 November 2020
+L976@P18: currently all recommendations of the DCGK in the version dated 16 December 2019
+L11885@P228: Neubiberg, 20 November 2020

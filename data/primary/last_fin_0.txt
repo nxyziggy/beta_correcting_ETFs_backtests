@@ -1,0 +1,10 @@
+Captured 2026-09-16. Numerical facts extracted from retrieved original issuer documents; source URLs retained.
+Source: https://www.infineon.com/assets/row/public/documents/corporate/press/press-releases/business-financial-press/2023-06-08-infineon-austria-ipcei-de-final.pdf
+Source: https://www.veolia.com/sites/g/files/dvc4206/files/document/2026/02/Finance_Veolia_Annexes_comptes_consolides_31-12-25.pdf
+
+L3@P0: Tel.: +43 51777-18169
+L37@P1: Tel.: +43 51777-18169
+L54@P1: und über 100 Workshops und Konferenzen stattgefunden. Es wurden 35
+L67@P1-2: Beschäftigten (davon rund 2.390 in Forschung & Entwicklung) aus 79 Nationen - 3 -
+L71@P2: Tel.: +43 51777-18169
+L79@P2: Tel.: 051777-18169

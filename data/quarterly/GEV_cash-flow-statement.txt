@@ -1,0 +1,73 @@
+Source: https://stockanalysis.com/stocks/gev/financials/cash-flow-statement/?p=quarterly
+Captured: 2026-09-15. Current standardized quarterly history; not point-in-time vintages.
+Financials in millions USD. Fiscal year is January - December.
+Millions USD. Fiscal year is Jan - Dec.
+Fiscal Quarter  | Q2 2026  | Q1 2026  | Q4 2025  | Q3 2025  | Q2 2025  | Q1 2025  | Q4 2024  | Q3 2024  | Q2 2024  | Q1 2024  | Q4 2023  | Q3 2023  | Q2 2023  | Q1 2023
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Mar '26  | Dec '25  | Sep '25  | Jun '25  | Mar '25  | Dec '24  | Sep '24  | Jun '24  | Mar '24  | Dec '23  | Sep '23  | Jun '23  | Mar '23
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Net Income  | 668  | 4,745  | 3,664  | 452  | 514  | 254  | 484  | -96  | 1,294  | -130  | 197  | -170  | -150  | -315
+Depreciation & Amortization  | 417  | 342  | 230  | 213  | 205  | 205  | 269  | 290  | 254  | 251  | 252  | 242  | 239  | 231
+Loss (Gain) From Sale of Assets  | -  | -  | -  | -  | -  | -  | -964  | -  | -  | -  | -  | -  | -  | -
+Asset Writedown & Restructuring Costs  | -  | -  | -  | -  | -  | -  | -  | 108  | -  | -  | -  | -  | -  | -
+Loss (Gain) From Sale of Investments  | -  | -  | -138  | -  | -  | -  | -66  | -  | -  | -  | -90  | -  | -  | -
+Other Operating Activities  | -1,982  | -5,209  | -3,529  | 38  | -924  | -294  | 982  | 209  | -1,326  | -95  | 403  | 67  | -523  | -327
+Change in Accounts Receivable  | -1,394  | 193  | -2,291  | -477  | -189  | 573  | -1,496  | -479  | 236  | 33  | -816  | -185  | -278  | 555
+Change in Inventory  | -814  | -930  | -386  | -164  | -451  | -432  | 510  | 137  | -571  | -717  | 811  | 114  | -426  | -739
+Change in Accounts Payable  | 476  | 473  | -671  | 359  | 476  | -269  | 63  | 894  | 381  | -671  | -453  | -124  | 220  | -306
+Change in Unearned Revenue  | 8,121  | 5,574  | 5,600  | 559  | 736  | 1,124  | 1,139  | 64  | 711  | 885  | 1,804  | 220  | 471  | 317
+Change in Other Net Operating Assets  | -  | -  | -  | -  | -  | -  | -  | -  | -  | -  | -177  | 69  | 159  | -106
+Operating Cash Flow  | 5,492  | 5,188  | 2,479  | 980  | 367  | 1,161  | 921  | 1,127  | 979  | -444  | 1,931  | 233  | -288  | -690
+Operating Cash Flow Growth (YoY)  | 1396.46%  | 346.86%  | 169.16%  | -13.04%  | -62.51%  | -  | -52.30%  | 383.69%  | -  | -  | -  | -  | -  | -
+Fiscal Quarter  | Q2 2026  | Q1 2026  | Q4 2025  | Q3 2025  | Q2 2025  | Q1 2025  | Q4 2024  | Q3 2024  | Q2 2024  | Q1 2024  | Q4 2023  | Q3 2023  | Q2 2023  | Q1 2023
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Mar '26  | Dec '25  | Sep '25  | Jun '25  | Mar '25  | Dec '24  | Sep '24  | Jun '24  | Mar '24  | Dec '23  | Sep '23  | Jun '23  | Mar '23
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Capital Expenditures  | -386  | -397  | -671  | -247  | -173  | -186  | -350  | -159  | -157  | -217  | -280  | -181  | -159  | -124
+Sale of Property, Plant & Equipment  | 24  | 177  | 6  | -1  | -  | 34  | 9  | 3  | 9  | 4  | 6  | 10  | 42  | 2
+Cash Acquisitions  | 1  | -4,886  | -  | -  | -5  | -40  | -  | -  | -  | -  | -  | -  | -  | -
+Divestitures  | -4  | 598  | -  | 59  | 1  | -  | 174  | -  | 639  | -  | -  | -  | -  | -
+Investment in Securities  | 24  | 34  | 186  | 130  | -23  | 84  | 208  | -1  | -15  | -62  | 6  | 150  | -2  | -5
+Other Investing Activities  | 570  | 183  | 105  | -108  | 79  | 15  | -216  | 43  | 61  | -10  | 11  | -15  | -281  | 86
+Investing Cash Flow  | 229  | -4,291  | -374  | -167  | -121  | -93  | -175  | -114  | 537  | -285  | -257  | -36  | -400  | -41
+Fiscal Quarter  | Q2 2026  | Q1 2026  | Q4 2025  | Q3 2025  | Q2 2025  | Q1 2025  | Q4 2024  | Q3 2024  | Q2 2024  | Q1 2024  | Q4 2023  | Q3 2023  | Q2 2023  | Q1 2023
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Mar '26  | Dec '25  | Sep '25  | Jun '25  | Mar '25  | Dec '24  | Sep '24  | Jun '24  | Mar '24  | Dec '23  | Sep '23  | Jun '23  | Mar '23
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Short-Term Debt Issued  | -  | -  | -  | -  | -  | -  | -  | -  | -  | -  | -  | -  | -  | 18
+Long-Term Debt Issued  | -  | 2,567  | -  | -  | -  | -  | -  | -  | -  | -  | -  | -  | -  | -
+Total Debt Issued  | -  | 2,567  | -  | -  | -  | -  | -  | -  | -  | -  | -14  | 1  | 11  | 18
+Short-Term Debt Repaid  | -  | -  | -  | -  | -  | -  | -  | -  | -  | -23  | -  | -  | -  | -
+Total Debt Repaid  | -  | -  | -  | -  | -  | -  | -  | -  | -  | -23  | -  | -  | -  | -
+Net Debt Issued (Repaid)  | -  | 2,567  | -  | -  | -  | -  | -  | -  | -  | -23  | -14  | 1  | 11  | 18
+Repurchase of Common Stock  | -2,393  | -1,278  | -1,075  | -660  | -480  | -1,101  | -3  | -40  | -  | -  | -  | -  | -  | -
+Common Dividends Paid  | -136  | -137  | -68  | -68  | -70  | -69  | -  | -  | -  | -  | -  | -  | -  | -
+Other Financing Activities  | -214  | -710  | -35  | -46  | -54  | -87  | 166  | 625  | 970  | 1,957  | -1,050  | -287  | 227  | 686
+Financing Cash Flow  | -2,743  | 442  | -1,178  | -774  | -604  | -1,257  | 163  | 585  | 970  | 1,934  | -1,064  | -286  | 238  | 704
+Fiscal Quarter  | Q2 2026  | Q1 2026  | Q4 2025  | Q3 2025  | Q2 2025  | Q1 2025  | Q4 2024  | Q3 2024  | Q2 2024  | Q1 2024  | Q4 2023  | Q3 2023  | Q2 2023  | Q1 2023
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Mar '26  | Dec '25  | Sep '25  | Jun '25  | Mar '25  | Dec '24  | Sep '24  | Jun '24  | Mar '24  | Dec '23  | Sep '23  | Jun '23  | Mar '23
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Foreign Exchange Rate Adjustments  | -30  | -16  | -26  | 15  | 145  | 90  | -99  | 18  | -34  | -32  | 44  | -31  | -4  | 13
+Miscellaneous Cash Flow Adjustments  | 1  | 1  | 4  | -2  | -1  | 1  | -1,206  | -  | 72  | 531  | 575  | -14  | 1  | 20
+Net Cash Flow  | 2,949  | 1,324  | 905  | 52  | -214  | -98  | -396  | 1,616  | 2,524  | 1,704  | 1,229  | -134  | -453  | 6
+Fiscal Quarter  | Q2 2026  | Q1 2026  | Q4 2025  | Q3 2025  | Q2 2025  | Q1 2025  | Q4 2024  | Q3 2024  | Q2 2024  | Q1 2024  | Q4 2023  | Q3 2023  | Q2 2023  | Q1 2023
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Mar '26  | Dec '25  | Sep '25  | Jun '25  | Mar '25  | Dec '24  | Sep '24  | Jun '24  | Mar '24  | Dec '23  | Sep '23  | Jun '23  | Mar '23
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Free Cash Flow  | 5,106  | 4,791  | 1,808  | 733  | 194  | 975  | 571  | 968  | 822  | -661  | 1,651  | 52  | -447  | -814
+Free Cash Flow Growth (YoY)  | 2531.96%  | 391.38%  | 216.64%  | -24.28%  | -76.40%  | -  | -65.42%  | 1761.54%  | -  | -  | -  | -  | -  | -
+Free Cash Flow Margin  | 45.98%  | 51.30%  | 16.50%  | 7.35%  | 2.13%  | 12.14%  | 5.41%  | 10.86%  | 10.02%  | -9.11%  | 16.44%  | 0.63%  | -5.51%  | -11.93%
+Free Cash Flow Per Share  | 18.91  | 17.61  | 6.60  | 2.67  | 0.70  | 3.50  | 2.04  | 3.52  | 2.96  | -2.41  | 6.03  | 0.19  | -1.63  | -2.97
+Levered Free Cash Flow  | 6,765  | 5,689  | 2,947  | 318.5  | 364.88  | 1,651  | 42.5  | 1,482  | 1,118  | 531.75  | -  | -  | -  | -
+Unlevered Free Cash Flow  | 6,765  | 5,689  | 2,947  | 318.5  | 364.88  | 1,651  | 88.75  | 1,482  | 1,118  | 540.5  | -  | -  | -  | -
+Fiscal Quarter  | Q2 2026  | Q1 2026  | Q4 2025  | Q3 2025  | Q2 2025  | Q1 2025  | Q4 2024  | Q3 2024  | Q2 2024  | Q1 2024  | Q4 2023  | Q3 2023  | Q2 2023  | Q1 2023
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Mar '26  | Dec '25  | Sep '25  | Jun '25  | Mar '25  | Dec '24  | Sep '24  | Jun '24  | Mar '24  | Dec '23  | Sep '23  | Jun '23  | Mar '23
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Cash Interest Paid  | -  | -  | 53  | -  | -  | -  | 74  | -  | -  | -  | 83  | -  | -  | -
+Cash Income Tax Paid  | 724  | 534  | 341  | 126  | 218  | 145  | 324  | 126  | 115  | 58  | 30  | -  | -  | 45
+Change in Working Capital  | 6,389  | 5,310  | 2,252  | 277  | 572  | 996  | 216  | 616  | 757  | -470  | 1,169  | 94  | 146  | -279
+Data Source: cite56†S&P Global Market Intelligence†www.spglobal.com Last updated: Jul 22, 2026
+cite57†Data Sources cite58†Report a data error L237: #### Install The App
+  * cite63†Login L258:   * cite64†Create Account L259:   * cite65†Changelog L260:   * cite57†Data Sources L261:   * cite66†Advertise L262:   * cite67†Help Center L263: #### Company

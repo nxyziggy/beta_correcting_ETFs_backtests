@@ -1,0 +1,253 @@
+[
+  {
+    "observation_id": "f7c5bb06804accd6cfa3",
+    "ticker": "AMAT",
+    "period_end": "2019-01-27",
+    "published": "2019-02-14",
+    "missing_fields": [
+      "operating_income",
+      "net_income",
+      "operating_cash_flow"
+    ]
+  },
+  {
+    "observation_id": "80e66c9f9f30445b03dd",
+    "ticker": "AMAT",
+    "period_end": "2019-04-28",
+    "published": "2019-05-16",
+    "missing_fields": [
+      "operating_income",
+      "net_income",
+      "operating_cash_flow"
+    ]
+  },
+  {
+    "observation_id": "0ab685eeaf7d8a7e5b48",
+    "ticker": "AMAT",
+    "period_end": "2019-07-28",
+    "published": "2019-08-15",
+    "missing_fields": [
+      "operating_income",
+      "net_income",
+      "operating_cash_flow"
+    ]
+  },
+  {
+    "observation_id": "c12123ee3d68427884b8",
+    "ticker": "AMAT",
+    "period_end": "2021-01-31",
+    "published": "2021-02-18",
+    "missing_fields": [
+      "operating_income",
+      "net_income",
+      "operating_cash_flow"
+    ]
+  },
+  {
+    "observation_id": "6282598d099c943782ef",
+    "ticker": "AMAT",
+    "period_end": "2021-05-02",
+    "published": "2021-05-20",
+    "missing_fields": [
+      "operating_income",
+      "net_income",
+      "operating_cash_flow"
+    ]
+  },
+  {
+    "observation_id": "6fe8317709b9e1be3f39",
+    "ticker": "AMAT",
+    "period_end": "2021-08-01",
+    "published": "2021-08-19",
+    "missing_fields": [
+      "operating_income",
+      "net_income",
+      "operating_cash_flow"
+    ]
+  },
+  {
+    "observation_id": "85307b11d1a2efcb1c41",
+    "ticker": "ENPH",
+    "period_end": "2020-03-31",
+    "published": "2020-05-05",
+    "missing_fields": [
+      "operating_income",
+      "net_income",
+      "operating_cash_flow"
+    ]
+  },
+  {
+    "observation_id": "6376ef06cca80a72d246",
+    "ticker": "ENPH",
+    "period_end": "2020-09-30",
+    "published": "2020-10-27",
+    "missing_fields": [
+      "operating_income",
+      "net_income",
+      "operating_cash_flow"
+    ]
+  },
+  {
+    "observation_id": "374707a51802efd88653",
+    "ticker": "GFS",
+    "period_end": "2021-09-30",
+    "published": "2021-11-30",
+    "missing_fields": [
+      "operating_income",
+      "net_income",
+      "operating_cash_flow"
+    ]
+  },
+  {
+    "observation_id": "6bff71a61a650413be72",
+    "ticker": "INTC",
+    "period_end": "2022-07-02",
+    "published": "2022-07-28",
+    "missing_fields": [
+      "operating_income",
+      "net_income"
+    ]
+  },
+  {
+    "observation_id": "35f8b3d871613611b4d0",
+    "ticker": "INTC",
+    "period_end": "2022-10-01",
+    "published": "2022-10-27",
+    "missing_fields": [
+      "operating_income",
+      "net_income"
+    ]
+  },
+  {
+    "observation_id": "ef435568873abf0381ab",
+    "ticker": "LRCX",
+    "period_end": "2020-03-29",
+    "published": "2020-04-22",
+    "missing_fields": [
+      "operating_income",
+      "net_income",
+      "operating_cash_flow"
+    ]
+  },
+  {
+    "observation_id": "485746f3996a52822ec7",
+    "ticker": "LRCX",
+    "period_end": "2024-09-29",
+    "published": "2024-10-23",
+    "missing_fields": [
+      "operating_income",
+      "net_income",
+      "operating_cash_flow"
+    ]
+  },
+  {
+    "observation_id": "21186271f61880e71c1b",
+    "ticker": "LRCX",
+    "period_end": "2024-12-29",
+    "published": "2025-01-29",
+    "missing_fields": [
+      "operating_income",
+      "net_income",
+      "operating_cash_flow"
+    ]
+  },
+  {
+    "observation_id": "02f59ee2a5c2b4abccf4",
+    "ticker": "MU",
+    "period_end": "2019-11-28",
+    "published": "2019-12-18",
+    "missing_fields": [
+      "operating_income",
+      "net_income",
+      "operating_cash_flow"
+    ]
+  },
+  {
+    "observation_id": "5f555503a7932a97964c",
+    "ticker": "MU",
+    "period_end": "2020-05-28",
+    "published": "2020-06-29",
+    "missing_fields": [
+      "operating_income",
+      "net_income",
+      "operating_cash_flow"
+    ]
+  },
+  {
+    "observation_id": "43de6a514ffa024c4096",
+    "ticker": "NEE",
+    "period_end": "2020-06-30",
+    "published": "2020-07-24",
+    "missing_fields": [
+      "operating_income",
+      "net_income",
+      "operating_cash_flow"
+    ]
+  },
+  {
+    "observation_id": "00edd3efa57057d2b85f",
+    "ticker": "NEE",
+    "period_end": "2020-09-30",
+    "published": "2020-10-21",
+    "missing_fields": [
+      "operating_income",
+      "net_income",
+      "operating_cash_flow"
+    ]
+  },
+  {
+    "observation_id": "ad11ce202949e9a97ecb",
+    "ticker": "TXN",
+    "period_end": "2020-06-30",
+    "published": "2020-07-21",
+    "missing_fields": [
+      "operating_income",
+      "net_income",
+      "operating_cash_flow"
+    ]
+  },
+  {
+    "observation_id": "d954b03a52614578230a",
+    "ticker": "TXN",
+    "period_end": "2020-09-30",
+    "published": "2020-10-20",
+    "missing_fields": [
+      "operating_income",
+      "net_income",
+      "operating_cash_flow"
+    ]
+  },
+  {
+    "observation_id": "9db5e24285208194c4a8",
+    "ticker": "TXN",
+    "period_end": "2024-09-30",
+    "published": "2024-10-22",
+    "missing_fields": [
+      "operating_income",
+      "net_income",
+      "operating_cash_flow"
+    ]
+  },
+  {
+    "observation_id": "f04455f22fc89c2871ef",
+    "ticker": "TXN",
+    "period_end": "2025-06-30",
+    "published": "2025-07-22",
+    "missing_fields": [
+      "operating_income",
+      "net_income",
+      "operating_cash_flow"
+    ]
+  },
+  {
+    "observation_id": "d62088a587f2b3361b09",
+    "ticker": "TXN",
+    "period_end": "2025-09-30",
+    "published": "2025-10-21",
+    "missing_fields": [
+      "operating_income",
+      "net_income",
+      "operating_cash_flow"
+    ]
+  }
+]

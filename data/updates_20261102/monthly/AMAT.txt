@@ -1,0 +1,8 @@
+Source: https://www.digrin.com/stocks/detail/AMAT/price
+As of: 2026-11-02 America/New_York
+Web evidence: 【turn102view0】
+Month | Adjusted price | Real price
+November 2026  | $376.59  | $376.59
+October 2026  | $390.09  | $390.09
+September 2026  | $511.38  | $511.38
+August 2026  | $458.39  | $458.39

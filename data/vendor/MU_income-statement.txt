@@ -1,0 +1,63 @@
+Source: https://stockanalysis.com/stocks/mu/financials/income-statement/
+Captured: 2026-09-15. Current standardized history; not point-in-time vintages.
+Financials in millions USD. Fiscal year is September - August.
+Millions USD. Fiscal year is Sep - Aug.
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | May '26  | Aug '25  | Aug '24  | Aug '23  | Sep '22  | Sep '21
+--- | --- | --- | --- | --- | --- | ---
+cite54†Revenue | 90,274  | 37,378  | 25,111  | 15,540  | 30,758  | 27,705
+Revenue Growth  | 166.98%  | 48.85%  | 61.59%  | -49.48%  | 11.02%  | 29.25%
+Cost of Revenue  | 24,763  | 22,505  | 19,498  | 15,125  | 16,860  | 17,233
+Gross Profit  | 65,511  | 14,873  | 5,613  | 415  | 13,898  | 10,472
+Selling, General & Admin  | 1,402  | 1,205  | 1,129  | 920  | 1,066  | 894
+Research & Development  | 4,784  | 3,798  | 3,430  | 3,114  | 3,116  | 2,663
+Other Operating Expenses  | 43  | 61  | -251  | -45  | 7  | 119
+Operating Expenses  | 6,229  | 5,064  | 4,308  | 3,989  | 4,189  | 3,676
+Operating Income  | 59,282  | 9,809  | 1,305  | -3,574  | 9,709  | 6,796
+Interest Expense  | -230  | -477  | -562  | -388  | -189  | -183
+Interest & Investment Income  | 655  | 496  | 529  | 468  | 96  | 37
+Earnings From Equity Investments  | 12  | 9  | -11  | 2  | 4  | 37
+Currency Exchange Gain (Loss)  | -72  | -72  | -13  | 10  | -  | -
+Other Non Operating Income (Expenses)  | 37  | 6  | 15  | 4  | -74  | -
+EBT Excluding Unusual Items  | 59,684  | 9,771  | 1,263  | -3,478  | 9,546  | 6,687
+Merger & Restructuring Charges  | -30  | -30  | -1  | -163  | -48  | -537
+Impairment of Goodwill  | -  | -  | -  | -101  | -  | -
+Gain (Loss) on Sale of Investments  | -10  | -10  | -32  | -7  | 36  | 82
+Gain (Loss) on Sale of Assets  | -  | -  | -  | -  | 41  | 24
+Asset Writedown  | -9  | -9  | -  | -1,839  | -  | -
+Legal Settlements  | -  | -  | -  | -68  | -  | -
+Other Unusual Items  | -559  | -59  | -1  | -  | -  | -1
+Pretax Income  | 59,076  | 9,663  | 1,229  | -5,656  | 9,575  | 6,255
+Income Tax Expense  | 8,607  | 1,124  | 451  | 177  | 888  | 394
+Earnings From Continuing Operations  | 50,469  | 8,539  | 778  | -5,833  | 8,687  | 5,861
+Net Income  | 50,469  | 8,539  | 778  | -5,833  | 8,687  | 5,861
+Net Income to Common  | 50,469  | 8,539  | 778  | -5,833  | 8,687  | 5,861
+Net Income Growth  | 710.75%  | 997.56%  | -  | -  | 48.22%  | 118.12%
+Shares Outstanding (Basic)  | 1,125  | 1,116  | 1,105  | 1,093  | 1,112  | 1,120
+Shares Outstanding (Diluted)  | 1,139  | 1,125  | 1,118  | 1,093  | 1,122  | 1,141
+Shares Change  | 0.62%  | 0.63%  | 2.29%  | -2.58%  | -1.67%  | 0.88%
+EPS (Basic)  | 44.86  | 7.65  | 0.70  | -5.34  | 7.81  | 5.23
+EPS (Diluted)  | 44.31  | 7.59  | 0.70  | -5.34  | 7.75  | 5.14
+EPS Growth  | 705.70%  | 984.29%  | -  | -  | 50.78%  | 116.67%
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | May '26  | Aug '25  | Aug '24  | Aug '23  | Sep '22  | Sep '21
+--- | --- | --- | --- | --- | --- | ---
+Free Cash Flow  | 26,172  | 1,668  | 121  | -6,117  | 3,114  | 2,438
+Free Cash Flow Per Share  | 22.97  | 1.48  | 0.11  | -5.60  | 2.77  | 2.14
+Dividend Per Share  | 0.530  | 0.460  | 0.460  | 0.460  | 0.315  | 0.100
+Dividend Growth  | 15.22%  | 0%  | 0%  | 46.03%  | 215.00%  | -
+Gross Margin  | 72.57%  | 39.79%  | 22.35%  | 2.67%  | 45.18%  | 37.80%
+Operating Margin  | 65.67%  | 26.24%  | 5.20%  | -23.00%  | 31.57%  | 24.53%
+Profit Margin  | 55.91%  | 22.84%  | 3.10%  | -37.54%  | 28.24%  | 21.15%
+Free Cash Flow Margin  | 28.99%  | 4.46%  | 0.48%  | -39.36%  | 10.12%  | 8.80%
+EBITDA  | 68,222  | 18,090  | 9,003  | 4,096  | 16,740  | 12,928
+EBITDA Margin  | 75.57%  | 48.40%  | 35.85%  | 26.36%  | 54.43%  | 46.66%
+D&A For EBITDA  | 8,940  | 8,281  | 7,698  | 7,670  | 7,031  | 6,132
+EBIT  | 59,282  | 9,809  | 1,305  | -3,574  | 9,709  | 6,796
+EBIT Margin  | 65.67%  | 26.24%  | 5.20%  | -23.00%  | 31.57%  | 24.53%
+Effective Tax Rate  | 14.57%  | 11.63%  | 36.70%  | -  | 9.27%  | 6.30%
+Data Source: cite57†S&P Global Market Intelligence†www.spglobal.com Last updated: Jun 25, 2026
+cite58†Data Sources cite59†Report a data error L185: #### Install The App
+  * cite64†Login L206:   * cite65†Create Account L207:   * cite66†Changelog L208:   * cite58†Data Sources L209:   * cite67†Advertise L210:   * cite68†Help Center L211: #### Company

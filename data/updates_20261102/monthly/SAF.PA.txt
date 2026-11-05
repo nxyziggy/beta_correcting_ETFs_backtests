@@ -1,0 +1,8 @@
+Source: https://www.digrin.com/stocks/detail/SAF.PA/price
+As of: 2026-11-02 America/New_York
+Web evidence: 【turn129view0】
+Month | Adjusted price | Real price
+November 2026  | €288.20  | €288.20
+October 2026  | €275.70  | €275.70
+September 2026  | €334.40  | €334.40
+August 2026  | €337  | €337

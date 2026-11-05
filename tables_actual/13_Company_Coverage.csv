@@ -1,0 +1,32 @@
+Ticker,Company,Region,Original_reports,Annual_inputs,TTM_inputs,First_period,Latest_period,Status
+INTC,Intel,US,19,5,12,2021-12-25,2026-09-26,Verified original inputs captured
+TSM,Taiwan Semiconductor ADR,US,0,0,0,,,No complete original dated inputs verified in this reconstruction
+MU,Micron,US,27,7,18,2020-09-03,2026-09-03,Verified original inputs captured
+GFS,GlobalFoundries,US,20,5,14,2021-12-31,2026-06-30,Verified original inputs captured
+TXN,Texas Instruments,US,24,6,13,2020-12-31,2026-09-30,Verified original inputs captured
+AMAT,Applied Materials,US,26,6,14,2019-10-27,2026-07-26,Verified original inputs captured
+LRCX,Lam Research,US,17,5,9,2021-06-27,2026-06-28,Verified original inputs captured
+MCHP,Microchip Technology,US,15,5,10,2022-03-31,2026-06-30,Verified original inputs captured
+FSLR,First Solar,US,0,0,0,,,No complete original dated inputs verified in this reconstruction
+ENPH,Enphase Energy,US,26,6,18,2020-12-31,2026-09-30,Verified original inputs captured
+PLUG,Plug Power,US,0,0,0,,,No complete original dated inputs verified in this reconstruction
+BE,Bloom Energy,US,0,0,0,,,No complete original dated inputs verified in this reconstruction
+ETN,Eaton,US,0,0,0,,,No complete original dated inputs verified in this reconstruction
+GEV,GE Vernova,US,0,0,0,,,No complete original dated inputs verified in this reconstruction
+LIN,Linde,US,18,6,12,2020-12-31,2026-06-30,Verified original inputs captured
+NEE,NextEra Energy,US,24,6,16,2020-12-31,2026-09-30,Verified original inputs captured
+STMPA.PA,STMicroelectronics Paris,EU,26,7,19,2019-12-31,2026-09-26,Verified original inputs captured
+IFX.DE,Infineon,EU,9,6,3,2020-09-30,2026-06-30,Verified original inputs captured
+NXPI,NXP,EU,24,6,18,2020-12-31,2026-09-27,Verified original inputs captured
+ASML,ASML Nasdaq,EU,20,6,14,2020-12-31,2026-09-27,Verified original inputs captured
+AMS.SW,ams OSRAM SIX,EU,0,0,0,,,No complete original dated inputs verified in this reconstruction
+AIR.PA,Airbus,EU,24,7,17,2019-12-31,2026-09-30,Verified original inputs captured
+SAF.PA,Safran,EU,0,0,0,,,No complete original dated inputs verified in this reconstruction
+ENEL.MI,Enel,EU,6,6,0,2020-12-31,2025-12-31,Verified original inputs captured
+ORSTED.CO,Orsted,EU,0,0,0,,,No complete original dated inputs verified in this reconstruction
+VWS.CO,Vestas,EU,0,0,0,,,No complete original dated inputs verified in this reconstruction
+ENR.DE,Siemens Energy,EU,0,0,0,,,No complete original dated inputs verified in this reconstruction
+NEL.OL,Nel,EU,0,0,0,,,No complete original dated inputs verified in this reconstruction
+ALFEN.AS,Alfen,EU,0,0,0,,,No complete original dated inputs verified in this reconstruction
+EDF.PA,EDF,EU,3,3,0,2020-12-31,2022-12-31,Verified original inputs captured
+VIE.PA,Veolia,EU,5,5,0,2021-12-31,2025-12-31,Verified original inputs captured

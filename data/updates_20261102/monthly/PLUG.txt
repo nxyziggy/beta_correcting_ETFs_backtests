@@ -1,0 +1,8 @@
+Source: https://www.digrin.com/stocks/detail/PLUG/price
+As of: 2026-11-02 America/New_York
+Web evidence: 【turn126view0】
+Month | Adjusted price | Real price
+November 2026  | $1.32  | $1.32
+October 2026  | $1.37  | $1.37
+September 2026  | $1.94  | $1.94
+August 2026  | $2.16  | $2.16

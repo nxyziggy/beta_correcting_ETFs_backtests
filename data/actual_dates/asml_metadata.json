@@ -1,0 +1,182 @@
+[
+  {
+    "ticker": "ASML",
+    "fiscal_year": 2026,
+    "fiscal_quarter": 3,
+    "period_end": "2026-09-27",
+    "published": "2026-10-14",
+    "source": "https://www.investor.asml.com/static-files/d310262b-d037-485d-83b5-92c93cc462f0",
+    "date_source": "https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026"
+  },
+  {
+    "ticker": "ASML",
+    "fiscal_year": 2026,
+    "fiscal_quarter": 2,
+    "period_end": "2026-06-28",
+    "published": "2026-07-15",
+    "source": "https://www.investor.asml.com/static-files/5dc79e92-9e59-4a06-af63-22eb4408af16",
+    "date_source": "https://www.investor.asml.com/news-releases/news-release-details/q2-2026-financial-results"
+  },
+  {
+    "ticker": "ASML",
+    "fiscal_year": 2025,
+    "fiscal_quarter": 1,
+    "period_end": "2025-03-30",
+    "published": "2025-04-16",
+    "source": "https://www.investor.asml.com/static-files/04f05146-9225-43a0-a2c1-66bc4007cf83",
+    "date_source": "https://www.investor.asml.com/news-releases/news-release-details/q1-2025-financial-results"
+  },
+  {
+    "ticker": "ASML",
+    "fiscal_year": 2024,
+    "fiscal_quarter": 4,
+    "period_end": "2024-12-31",
+    "published": "2025-01-29",
+    "source": "https://www.investor.asml.com/static-files/119a4042-2016-4c35-af15-fc0c53f3dae3",
+    "date_source": "https://www.investor.asml.com/news-releases/news-release-details/q4-2024-financial-results"
+  },
+  {
+    "ticker": "ASML",
+    "fiscal_year": 2024,
+    "fiscal_quarter": 3,
+    "period_end": "2024-09-29",
+    "published": "2024-10-15",
+    "source": "https://www.investor.asml.com/static-files/cfd600f9-dc8a-4571-a52d-362f2c85f335",
+    "date_source": "https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu7.5-billion-total-net-sales-and-eu2.1-billion-net-income-q3-2024"
+  },
+  {
+    "ticker": "ASML",
+    "fiscal_year": 2024,
+    "fiscal_quarter": 2,
+    "period_end": "2024-06-30",
+    "published": "2024-07-17",
+    "source": "https://www.investor.asml.com/static-files/1f9c8fd7-912b-4e6a-92e7-7703435d514b",
+    "date_source": "https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu6.2-billion-total-net-sales-and-eu1.6-billion-net-income-q2-2024"
+  },
+  {
+    "ticker": "ASML",
+    "fiscal_year": 2023,
+    "fiscal_quarter": 4,
+    "period_end": "2023-12-31",
+    "published": "2024-01-24",
+    "source": "https://www.investor.asml.com/static-files/67093530-0dc6-417c-b5b7-6b1bdc2bcee0",
+    "date_source": "https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu27.6-billion-net-sales-and-eu7.8-billion-net-income-2023"
+  },
+  {
+    "ticker": "ASML",
+    "fiscal_year": 2023,
+    "fiscal_quarter": 2,
+    "period_end": "2023-07-02",
+    "published": "2023-07-19",
+    "source": "https://www.investor.asml.com/static-files/27ebed86-786c-4427-bb21-427b5fe55cff",
+    "date_source": "https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu6.9-billion-net-sales-and-eu1.9-billion-net-income-q2-2023"
+  },
+  {
+    "ticker": "ASML",
+    "fiscal_year": 2022,
+    "fiscal_quarter": 4,
+    "period_end": "2022-12-31",
+    "published": "2023-01-25",
+    "source": "https://www.investor.asml.com/static-files/595040df-1967-4e07-a9ab-5687e1248457",
+    "date_source": "https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu21.2-billion-net-sales-and-eu5.6-billion-net-income-2022"
+  },
+  {
+    "ticker": "ASML",
+    "fiscal_year": 2022,
+    "fiscal_quarter": 3,
+    "period_end": "2022-10-02",
+    "published": "2022-10-19",
+    "source": "https://www.investor.asml.com/static-files/7aba952e-8bf3-43ce-a8e3-37e2be5da3ea",
+    "date_source": "https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu5.8-billion-net-sales-and-eu1.7-billion-net-income-q3-2022"
+  },
+  {
+    "ticker": "ASML",
+    "fiscal_year": 2022,
+    "fiscal_quarter": 2,
+    "period_end": "2022-07-03",
+    "published": "2022-07-20",
+    "source": "https://www.investor.asml.com/static-files/816779fb-112c-4f02-a166-f384ea5a1211",
+    "date_source": "https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu5.4-billion-net-sales-and-eu1.4-billion-net-income-q2-2022"
+  },
+  {
+    "ticker": "ASML",
+    "fiscal_year": 2022,
+    "fiscal_quarter": 1,
+    "period_end": "2022-04-03",
+    "published": "2022-04-20",
+    "source": "https://www.investor.asml.com/static-files/3a2eedcf-aa0a-4187-9523-8b327c805291",
+    "date_source": "https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu3.5-billion-net-sales-and-eu695-million-net-income-q1-2022"
+  },
+  {
+    "ticker": "ASML",
+    "fiscal_year": 2021,
+    "fiscal_quarter": 4,
+    "period_end": "2021-12-31",
+    "published": "2022-01-19",
+    "source": "https://www.investor.asml.com/static-files/e58250c2-43b0-4274-8e90-163b81f5432a",
+    "date_source": "https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu18.6-billion-net-sales-and-eu5.9-billion-net-income-2021"
+  },
+  {
+    "ticker": "ASML",
+    "fiscal_year": 2021,
+    "fiscal_quarter": 3,
+    "period_end": "2021-10-03",
+    "published": "2021-10-20",
+    "source": "https://www.investor.asml.com/static-files/66511e13-8c79-47c6-a118-f18cc071d8d5",
+    "date_source": "https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu5.2-billion-net-sales-and-eu1.7-billion-net-income-q3-2021"
+  },
+  {
+    "ticker": "ASML",
+    "fiscal_year": 2021,
+    "fiscal_quarter": 2,
+    "period_end": "2021-07-04",
+    "published": "2021-07-21",
+    "source": "https://www.investor.asml.com/static-files/9618a699-e4c1-411e-8992-fdf6cd414325",
+    "date_source": "https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu4.0-billion-net-sales-and-eu1.0-billion-net-income-q2-2021"
+  },
+  {
+    "ticker": "ASML",
+    "fiscal_year": 2026,
+    "fiscal_quarter": 1,
+    "period_end": "2026-03-29",
+    "published": "2026-04-15",
+    "source": "https://www.sec.gov/Archives/edgar/data/937966/000162828026025147/financialstatementsusgaa.htm",
+    "date_source": "https://www.investor.asml.com/news-releases/news-release-details/q1-2026-financial-results"
+  },
+  {
+    "ticker": "ASML",
+    "fiscal_year": 2025,
+    "fiscal_quarter": 4,
+    "period_end": "2025-12-31",
+    "published": "2026-01-28",
+    "source": "https://www.sec.gov/Archives/edgar/data/937966/000162828026003701/financialstatementsusgaa.htm",
+    "date_source": "https://www.investor.asml.com/news-releases/news-release-details/q4-2025-financial-results"
+  },
+  {
+    "ticker": "ASML",
+    "fiscal_year": 2025,
+    "fiscal_quarter": 3,
+    "period_end": "2025-09-28",
+    "published": "2025-10-15",
+    "source": "https://www.sec.gov/Archives/edgar/data/937966/000162828025045043/financialstatementsusgaa.htm",
+    "date_source": "https://www.investor.asml.com/news-releases/news-release-details/q3-2025-financial-results"
+  },
+  {
+    "ticker": "ASML",
+    "fiscal_year": 2025,
+    "fiscal_quarter": 2,
+    "period_end": "2025-06-29",
+    "published": "2025-07-16",
+    "source": "https://www.sec.gov/Archives/edgar/data/937966/000162828025034992/financialstatementsusgaa.htm",
+    "date_source": "https://www.investor.asml.com/news-releases/news-release-details/q2-2025-financial-results"
+  },
+  {
+    "ticker": "ASML",
+    "fiscal_year": 2024,
+    "fiscal_quarter": 1,
+    "period_end": "2024-03-31",
+    "published": "2024-04-17",
+    "source": "https://www.investor.asml.com/static-files/ee2e95dc-db9a-4e25-b492-3071bc80a880",
+    "date_source": "https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu5.3-billion-total-net-sales-and-eu1.2-billion-net-income-q1-2024"
+  }
+]

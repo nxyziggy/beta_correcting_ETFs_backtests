@@ -1,0 +1,73 @@
+Source: https://stockanalysis.com/quote/cph/VWS/financials/balance-sheet/
+Captured: 2026-09-15. Current standardized history; not point-in-time vintages.
+Financials in millions EUR. Fiscal year is January - December.
+Millions EUR. Fiscal year is Jan - Dec.
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Cash & Equivalents  | 3,462  | 4,384  | 3,817  | 3,318  | 2,378  | 2,420
+Short-Term Investments  | 165  | 164  | 160  | 3  | -  | 116
+Cash & Short-Term Investments  | 3,627  | 4,548  | 3,977  | 3,321  | 2,378  | 2,536
+Cash Growth  | 11.74%  | 14.36%  | 19.75%  | 39.66%  | -6.23%  | -20.10%
+Accounts Receivable  | 4,875  | 4,223  | 3,846  | 3,082  | 2,679  | 2,758
+Other Receivables  | 1,805  | 1,778  | 1,732  | 1,483  | 1,272  | 1,207
+Receivables  | 6,680  | 6,001  | 5,578  | 4,565  | 3,951  | 3,965
+Inventory  | 6,229  | 5,721  | 6,008  | 6,530  | 6,373  | 5,673
+Other Current Assets  | 903  | 566  | 526  | 505  | 926  | 690
+Total Current Assets  | 17,439  | 16,836  | 16,089  | 14,921  | 13,628  | 12,864
+Property, Plant & Equipment  | 3,101  | 2,792  | 2,353  | 1,911  | 1,752  | 2,091
+Long-Term Investments  | 723  | 739  | 841  | 790  | 829  | 790
+Goodwill  | 1,613  | 1,497  | 1,513  | 1,507  | 1,514  | 1,508
+Other Intangible Assets  | 1,906  | 1,939  | 1,872  | 1,696  | 1,551  | 1,554
+Long-Term Deferred Tax Assets  | 904  | 883  | 722  | 795  | 497  | 378
+Other Long-Term Assets  | 1,029  | 1,046  | 1,254  | 894  | 319  | 463
+Total Assets  | 26,715  | 25,732  | 24,644  | 22,514  | 20,090  | 19,648
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Accounts Payable  | 4,948  | 4,766  | 4,129  | 3,738  | 4,089  | 4,286
+Current Portion of Long-Term Debt  | 332  | 528  | 4  | 9  | 106  | 560
+Current Portion of Leases  | -  | 254  | 196  | 154  | 142  | 144
+Current Income Taxes Payable  | 41  | 115  | 141  | 176  | 58  | 75
+Current Unearned Revenue  | 9,998  | 9,270  | 8,997  | 7,995  | 6,937  | 6,180
+Other Current Liabilities  | 1,676  | 1,914  | 2,013  | 1,948  | 2,181  | 1,455
+Total Current Liabilities  | 16,995  | 16,847  | 15,480  | 14,020  | 13,513  | 12,700
+Long-Term Debt  | 3,203  | 1,721  | 2,205  | 2,649  | 1,828  | 331
+Long-Term Leases  | -  | 871  | 866  | 575  | 351  | 401
+Long-Term Deferred Tax Liabilities  | 272  | 225  | 179  | 164  | 158  | 362
+Other Long-Term Liabilities  | 2,280  | 2,187  | 2,372  | 2,064  | 1,180  | 1,157
+Total Liabilities  | 22,750  | 21,851  | 21,102  | 19,472  | 17,030  | 14,951
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Common Stock  | 27  | 27  | 27  | 27  | 27  | 27
+Retained Earnings  | 4,101  | 4,055  | 3,580  | 3,102  | 3,002  | 4,635
+Comprehensive Income & Other  | -171  | -215  | -78  | -102  | 15  | 22
+Total Common Equity  | 3,957  | 3,867  | 3,529  | 3,027  | 3,044  | 4,684
+Minority Interest  | 8  | 14  | 13  | 15  | 16  | 13
+Shareholders' Equity  | 3,965  | 3,881  | 3,542  | 3,042  | 3,060  | 4,697
+Total Liabilities & Equity  | 26,715  | 25,732  | 24,644  | 22,514  | 20,090  | 19,648
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Total Debt  | 3,535  | 3,374  | 3,271  | 3,387  | 2,427  | 1,436
+Net Cash (Debt)  | 92  | 1,174  | 706  | -66  | -49  | 1,100
+Net Cash Growth  | -  | 66.29%  | -  | -  | -  | -39.56%
+Net Cash Per Share  | 0.09  | 1.17  | 0.70  | -0.07  | -0.05  | 1.09
+Filing Date Shares Outstanding  | 982.97  | 990.42  | 1,006  | 1,006  | 1,006  | 1,005
+Total Common Shares Outstanding  | 982.97  | 990.42  | 1,006  | 1,006  | 1,006  | 1,005
+Working Capital  | 444  | -11  | 609  | 901  | 115  | 164
+Book Value Per Share  | 4.03  | 3.90  | 3.51  | 3.01  | 3.03  | 4.66
+Tangible Book Value  | 438  | 431  | 144  | -176  | -21  | 1,622
+Tangible Book Value Per Share  | 0.45  | 0.44  | 0.14  | -0.17  | -0.02  | 1.61
+Land  | -  | 1,154  | 1,094  | 1,059  | 1,135  | 1,135
+Machinery  | -  | 3,895  | 3,395  | 3,057  | 2,882  | 2,882
+Construction In Progress  | -  | 323  | 445  | 247  | 136  | 136
+Order Backlog  | -  | 71,900  | 68,400  | 60,100  | 49,500  | 45,900
+Data Source: cite55†S&P Global Market Intelligence†www.spglobal.com Last updated: Jun 30, 2026
+cite56†Data Sources cite57†Report a data error L211: #### Install The App
+  * cite62†Login L232:   * cite63†Create Account L233:   * cite64†Changelog L234:   * cite56†Data Sources L235:   * cite65†Advertise L236:   * cite66†Help Center L237: #### Company

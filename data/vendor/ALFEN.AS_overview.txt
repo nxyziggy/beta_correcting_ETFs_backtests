@@ -1,0 +1,60 @@
+Source: https://stockanalysis.com/quote/ams/ALFEN/financials/
+Captured: 2026-09-15. Current standardized history; not point-in-time vintages.
+Financials in millions EUR. Fiscal year is January - December.
+Millions EUR. Fiscal year is Jan - Dec.
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Revenue Revenue Growth  | 485.58  | 435.62  | 487.64  | 504.48  | 439.88  | 249.68
+Revenue Growth  | 11.47%  | -10.67%  | -3.34%  | 14.69%  | 76.18%  | 32.10%
+Gross Profit Gross Profit Growth  | 129.81  | 124.89  | 115.39  | 151.09  | 153.51  | 89.8
+Operating Income Operating Income Growth  | 8.03  | 5.77  | -21.6  | 42.91  | 68.74  | 28.33
+Net Income Net Income Growth  | 0.66  | -0.19  | -27.01  | 29.68  | 53.05  | 21.45
+Earnings Per Share EPS Growth  | 0.03  | -0.01  | -1.24  | 1.36  | 2.43  | 0.99
+EPS Growth  | -  | -  | -  | -44.03%  | 145.77%  | 73.46%
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Smart Grid Solutions Smart Grid Solutions Growth  | 203.63  | 189.13  | 210.62  | 188.38  | 142.62  | 128.18
+Energy Storage Systems Energy Storage Systems Growth  | 171.82  | 125.64  | 123.7  | 162.98  | 45.5  | 17.73
+EV Charging Equipment EV Charging Equipment Growth  | 110.12  | 120.85  | 153.33  | 153.12  | 251.76  | 103.77
+Total Total Growth  | 485.58  | 435.62  | 487.64  | 504.48  | 439.88  | 249.68
+Fiscal Year  | Current  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Cash & Investments Cash & Investments Growth  | 51.09  | 26.67  | 17.07  | 2.07  | 22.84  | 47.28
+Total Debt Total Debt Growth  | 44.93  | 47.37  | 49.75  | 57.17  | 18.4  | 18.4
+Net Cash (Debt) Net Cash Growth  | 6.15  | -20.7  | -32.68  | -55.1  | 4.44  | 28.88
+Net Cash Growth  | -  | -  | -  | -  | -84.64%  | -10.75%
+Net Cash Per Share Net Cash Per Share Growth  | 0.28  | -0.95  | -1.50  | -2.53  | 0.20  | 1.33
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Operating Cash Flow Operating Cash Flow Growth  | 58.24  | 32.54  | 55.82  | 5.64  | 0.43  | 10.54
+Capital Expenditures CapEx Growth  | -4.44  | -3.54  | -13.8  | -23.99  | -11.46  | -4.03
+Free Cash Flow Free Cash Flow Growth  | 53.8  | 29.01  | 42.03  | -18.36  | -11.03  | 6.51
+Free Cash Flow Growth  | 85.48%  | -30.98%  | -  | -  | -  | -57.96%
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Gross Margin  | 26.73%  | 28.67%  | 23.66%  | 29.95%  | 34.90%  | 35.97%
+Operating Margin  | 1.65%  | 1.32%  | -4.43%  | 8.51%  | 15.63%  | 11.35%
+Pretax Margin  | 0.24%  | 0.02%  | -7.28%  | 7.63%  | 15.18%  | 10.69%
+Profit Margin  | 0.14%  | -0.04%  | -5.54%  | 5.88%  | 12.06%  | 8.59%
+FCF Margin  | 11.08%  | 6.66%  | 8.62%  | -3.64%  | -2.51%  | 2.61%
+Fiscal Year  | Current  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Sep '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+PE Ratio  | 392.79  | -  | -  | 44.11  | 34.44  | 89.26
+Forward PE  | 51.05  | 63.21  | 44.02  | 32.64  | 29.39  | 103.42
+P/FCF Ratio  | 4.82  | 7.89  | 6.22  | -  | -  | 294.09
+PS Ratio  | 0.53  | 0.53  | 0.54  | 2.60  | 4.15  | 7.67
+Data Source: cite59†S&P Global Market Intelligence†www.spglobal.com Last updated: Jun 30, 2026
+cite60†Data Sources cite61†Report a data error L202: 
+  * cite66†Login L225:   * cite67†Create Account L226:   * cite68†Changelog L227:   * cite60†Data Sources L228:   * cite69†Advertise L229:   * cite70†Help Center L230: #### Company

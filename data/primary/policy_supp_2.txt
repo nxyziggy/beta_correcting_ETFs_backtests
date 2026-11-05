@@ -1,0 +1,21 @@
+Captured 2026-09-16. Numerical facts extracted from retrieved original issuer documents; source URLs retained.
+Source: https://www.veolia.com/sites/g/files/dvc4206/files/document/2026/02/Finance_PR_Veolia_2025_results.pdf
+
+L5@P0: Paris, 26 February 2026
+L33@P0: Net income group share 1,098 1,217 +10.9%
+L37@P0: (3) 17,819 19,657
+L40@P0: ROCE after taxes 8.8% 9.4%
+L72@P1: improvement of our operating performance leading to an EBITDA margin close to 16%, up 150
+L83@P2: (+1.4%(4))
+L86@P2: (+2.2%(3))
+L87@P2: ● Including the impact of lower energy prices, total Group Revenue is up by +1.4%(4)
+L97@P2: (5) up +8.9 %(4)
+L100@P2: of c.+9%(6).
+L101@P2: Net income Group share of €1,217M, up +10.9%.
+L102@P2: ROCE after tax target achieved 2 years ahead of plan, with a historical high level of 9.4%.
+L109@P2: Board of Directors will propose the payment of a dividend of €1.50 per share in respect of the 2025
+L111@P2: be paid from 13 May 2026.
+L133@P3: France, notably in Americas, Asia Pacific, Africa Middle-East with +4.1%(7)revenue growth in 2025.
+L145@P3: and value creation, with +11.8%(9) growth in current net income Group share between 2023
+L147@P3: 9.4% in 2025.
+L185@P4: (10) EBITDA growth of +5% to +6%

@@ -1,0 +1,39 @@
+Captured 2026-09-16. Numerical facts extracted from retrieved original issuer documents; source URLs retained.
+Source: https://www.enel.com/content/dam/enel-common/press/it/2023-marzo/Enel%20risultati%20FY%202022.pdf
+
+L258@P6: Trading 4.385 (2.642) -
+L259@P6: Enel Green Power 1.970 2.951 -33,2%
+L261@P6: Mercati Finali (300) 1.723 -
+L263@P6: Holding, Servizi e Altro (538) 1.099 -
+L391@P9: Ricavi 133 1.769 -92,48%
+L392@P9: EBITDA (margine operativo lordo) (205) 1.378
+L393@P9: Ebit (Risultato operativo) (1.535) 644
+L396@P9-10: Indebitamento finanziario netto al 31 dicembre 20.111 23.199 -13,31%11
+L400@P10: • Oneri finanziari netti e proventi da partecipazioni positivi per 8.586 milioni di euro (4.004
+L1028@P26: Costi per lavori interni capitalizzati (3.415) (3.041)
+L1267@P33: Risultato operativo (1.535) 644
+L1137@P30: PATRIMONIO NETTO E PASSIVITÀ al 31.12.2022 al 31.12.2021
+L1204@P31: Interessi passivi e altri oneri finanziari pagati (1) (5.016) (34) (4.277) (32)
+L1205@P31: (Proventi)/oneri netti da valutazione commodity (927) (304)
+L1206@P31: Imposte pagate (1.934) (1.846)
+L1207@P31: (Plusvalenze)/Minusvalenze (355) (1.771)
+L1208@P31: Cash flow da attività operativa (A)(1) 8.674 9.915
+L1209@P31: di cui discontinued operation (391) 280
+L1210@P31: Investimenti in attività materiali non correnti (11.281) (10.545)
+L1211@P31: Investimenti in attività immateriali (1.961) (1.656)
+L1370@P37: Dividendi da società controllate, collegate e altre imprese (8.770) (8.770) (4.451) (4.450)
+L1373@P37: netto (209) 1.434
+L1374@P37: Incremento/(Decremento) fondi (74) (50)
+L1375@P37: (Incremento)/Decremento di crediti commerciali (19) (19) (36) (34)
+L1376@P37: (Incremento)/Decremento di attività/passività finanziarie e non 574 1.028 1.454 (78)
+L1377@P37: Incremento/(Decremento) di debiti commerciali (13) (19) 75 67
+L1379@P37: Interessi passivi e altri oneri finanziari pagati (2.059) (1.055) (1.102) (352)
+L1381@P37: Imposte pagate (426) (553)
+L1383@P37: Investimenti in attività materiali e immateriali (45) (70)
+L1384@P37: Investimenti in partecipazioni (1.739) (1.739) (10.338) (10.338)
+L1386@P37: Cash flow da attività di investimento (b) (1.647) (9.739)
+L1388@P37: Rimborsi di debiti finanziari (10.466) (5.118) (847) (46)
+L1389@P37: Variazione netta dei debiti/(crediti) finanziari a lungo (1.159) (1.215) 183 887
+L1390@P37: Variazione netta dei debiti/(crediti) finanziari a breve 8.267 8.090 (5.199) (5.453)
+L1391@P37: Dividendi e acconti sui dividendi pagati (3.882) (3.664)
+L1393@P38: Coupon pagati a titolari di obbligazioni ibride (1) (123) (70)

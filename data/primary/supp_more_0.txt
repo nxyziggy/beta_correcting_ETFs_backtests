@@ -1,0 +1,34 @@
+Captured 2026-09-16. Numerical facts extracted from retrieved original issuer documents; source URLs retained.
+Source: https://www.enel.com/content/dam/enel-common/press/en/2022-march/Enel%20results%20FY%202021.pdf
+
+L940@P23-24: 17 Determined by the difference between “Assets held for sale” and “Liabilities held for sale”.25
+L953@P24: Revenue from sales and services (1)(2) 84,104 7,010 63,64
+L960@P24: Electricity, gas and fuel (1) 49,093 13,826 26,02
+L963@P24: Services and other materials (1) 19,609 3,152 18,36
+L970@P24: Capitalized costs (3,117) (2,385
+L974@P24: Net results from commodity contracts (1) 2,522 24 (99) 1
+L975@P24: Operating profit/(loss) (2) 7,680 8,455
+L977@P24: Other financial income (2) 1,882 138 2,676 62
+L981@P24: Share of profit/(loss) of equity-accounted investments 571 (299)
+L1009@P25-26: distribution activities in Brazil falling within the scope of IFRIC 12. This last classification had an effect of the same amount on the Operating profit.27
+L1016@P26: Effective portion of change in the fair value of cash flow hedges (725) (268)
+L1017@P26: Change in fair value of hedging costs 195 (99)
+L1018@P26: Share of the other comprehensive expense of equity-accounted investments (645) (9)
+L1019@P26: Change in the fair value of financial assets at FVOCI 11 (1)
+L1020@P26: Change in translation reserve (90) (4,510)
+L1023@P26: Remeasurement of liabilities/(assets) for defined benefit plans 30 (353)
+L1025@P26: Total other comprehensive income/(expense) for the year (1,224) (5,261)
+L1026@P26: Comprehensive income/(expense) for the year 2,633 (1,639)
+L1028@P26: - owners of the Parent 2,562 (1,028)
+L1029@P26-27: - non-controlling interests 71 (611)28
+L1032@P27: ASSETS at Dec. 31, 2021 at Dec. 31, 2020
+L1064@P28: LIABILITIES AND EQUITY at Dec. 31, 2021 at Dec. 31,
+L1075@P28: Treasury share reserve (36) (3)
+L1076@P28: Other reserves 1,721 (39)
+L1122@P29: Net financial (income)/expense (1) 2,751 2,693
+L1123@P29: Net (gains)/losses from equity-accounted investments (571) 299
+L1124@P29: Changes in net working capital: (1,097) (1,654)
+L1125@P29: - inventories (649) (8)
+L1126@P29: - trade receivables (4,951) (458) (1,350) 33
+L1127@P29: - trade payables 4,357 1,877 698 (86)
+L1128@P29: - other contract assets 56 (15)

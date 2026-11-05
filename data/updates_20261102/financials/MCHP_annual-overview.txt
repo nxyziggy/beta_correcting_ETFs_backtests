@@ -1,0 +1,19 @@
+Source: https://stockanalysis.com/stocks/mchp/financials/
+As of: 2026-11-02 America/New_York
+Web evidence: 【turn78view0】
+Fiscal Year  | TTM  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+Period Ending  | Jun '26  | Mar '26  | Mar '25  | Mar '24  | Mar '23  | Mar '22
+Operating Income Operating Income Growth  | 831.2  | 529.8  | 375.5  | 2,559  | 3,112  | 1,879
+Net Income Net Income Growth  | 367.2  | 118.8  | -2.7  | 1,907  | 2,238  | 1,286
+Fiscal Year  | TTM  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+Period Ending  | Jun '26  | Mar '26  | Mar '25  | Mar '24  | Mar '23  | Mar '22
+Fiscal Year  | Current  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+Period Ending  | Jun '26  | Mar '26  | Mar '25  | Mar '24  | Mar '23  | Mar '22
+Fiscal Year  | TTM  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+Period Ending  | Jun '26  | Mar '26  | Mar '25  | Mar '24  | Mar '23  | Mar '22
+Fiscal Year  | TTM  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+Period Ending  | Jun '26  | Mar '26  | Mar '25  | Mar '24  | Mar '23  | Mar '22
+Fiscal Year  | Current  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+Period Ending  | Nov '26  | Mar '26  | Mar '25  | Mar '24  | Mar '23  | Mar '22
+Fiscal Year  | Current  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+Period Ending  | Nov '26  | Mar '26  | Mar '25  | Mar '24  | Mar '23  | Mar '22

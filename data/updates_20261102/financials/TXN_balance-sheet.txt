@@ -1,0 +1,14 @@
+Source: https://stockanalysis.com/stocks/txn/financials/balance-sheet/?p=quarterly
+As of: 2026-11-02 America/New_York
+Web evidence: 【turn59view0】
+Financials in millions USD. Fiscal year is January - December.
+Fiscal Quarter  | Q3 2026  | Q2 2026  | Q1 2026  | Q4 2025  | Q3 2025  | Q2 2025  | Q1 2025  | Q4 2024  | Q3 2024  | Q2 2024  | Q1 2024  | Q4 2023  | Q3 2023  | Q2 2023  | Q1 2023  | Q4 2022  | Q3 2022  | Q2 2022  | Q1 2022  | Q4 2021
+Period Ending  | Sep '26  | Jun '26  | Mar '26  | Dec '25  | Sep '25  | Jun '25  | Mar '25  | Dec '24  | Sep '24  | Jun '24  | Mar '24  | Dec '23  | Sep '23  | Jun '23  | Mar '23  | Dec '22  | Sep '22  | Jun '22  | Mar '22  | Dec '21
+Total Assets  | 36,839  | 35,882  | 34,393  | 34,585  | 35,004  | 34,933  | 33,757  | 35,509  | 35,321  | 35,048  | 34,885  | 32,348  | 31,638  | 30,939  | 29,220  | 27,207  | 26,057  | 24,723  | 25,276  | 24,676
+Fiscal Quarter  | Q3 2026  | Q2 2026  | Q1 2026  | Q4 2025  | Q3 2025  | Q2 2025  | Q1 2025  | Q4 2024  | Q3 2024  | Q2 2024  | Q1 2024  | Q4 2023  | Q3 2023  | Q2 2023  | Q1 2023  | Q4 2022  | Q3 2022  | Q2 2022  | Q1 2022  | Q4 2021
+Period Ending  | Sep '26  | Jun '26  | Mar '26  | Dec '25  | Sep '25  | Jun '25  | Mar '25  | Dec '24  | Sep '24  | Jun '24  | Mar '24  | Dec '23  | Sep '23  | Jun '23  | Mar '23  | Dec '22  | Sep '22  | Jun '22  | Mar '22  | Dec '21
+Total Current Liabilities  | 3,017  | 3,244  | 3,096  | 3,159  | 3,118  | 2,492  | 2,489  | 3,643  | 3,686  | 3,637  | 3,553  | 3,320  | 2,652  | 2,711  | 2,904  | 2,985  | 2,798  | 2,560  | 2,528  | 2,569
+Fiscal Quarter  | Q3 2026  | Q2 2026  | Q1 2026  | Q4 2025  | Q3 2025  | Q2 2025  | Q1 2025  | Q4 2024  | Q3 2024  | Q2 2024  | Q1 2024  | Q4 2023  | Q3 2023  | Q2 2023  | Q1 2023  | Q4 2022  | Q3 2022  | Q2 2022  | Q1 2022  | Q4 2021
+Period Ending  | Sep '26  | Jun '26  | Mar '26  | Dec '25  | Sep '25  | Jun '25  | Mar '25  | Dec '24  | Sep '24  | Jun '24  | Mar '24  | Dec '23  | Sep '23  | Jun '23  | Mar '23  | Dec '22  | Sep '22  | Jun '22  | Mar '22  | Dec '21
+Fiscal Quarter  | Q3 2026  | Q2 2026  | Q1 2026  | Q4 2025  | Q3 2025  | Q2 2025  | Q1 2025  | Q4 2024  | Q3 2024  | Q2 2024  | Q1 2024  | Q4 2023  | Q3 2023  | Q2 2023  | Q1 2023  | Q4 2022  | Q3 2022  | Q2 2022  | Q1 2022  | Q4 2021
+Period Ending  | Sep '26  | Jun '26  | Mar '26  | Dec '25  | Sep '25  | Jun '25  | Mar '25  | Dec '24  | Sep '24  | Jun '24  | Mar '24  | Dec '23  | Sep '23  | Jun '23  | Mar '23  | Dec '22  | Sep '22  | Jun '22  | Mar '22  | Dec '21

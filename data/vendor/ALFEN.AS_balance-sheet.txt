@@ -1,0 +1,58 @@
+Source: https://stockanalysis.com/quote/ams/ALFEN/financials/balance-sheet/
+Captured: 2026-09-15. Current standardized history; not point-in-time vintages.
+Financials in millions EUR. Fiscal year is January - December.
+Millions EUR. Fiscal year is Jan - Dec.
+Fiscal Year  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | ---
+Period Ending  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | ---
+Cash & Equivalents  | 26.67  | 17.07  | 2.07  | 22.84  | 47.28
+Cash & Short-Term Investments  | 26.67  | 17.07  | 2.07  | 22.84  | 47.28
+Cash Growth  | 56.27%  | 723.35%  | -90.92%  | -51.69%  | -9.68%
+Accounts Receivable  | 76.59  | 110.69  | 107.38  | 88.56  | 53.51
+Other Receivables  | 20.28  | 22.17  | 28.56  | 19.18  | 8.7
+Receivables  | 96.87  | 132.86  | 161.65  | 107.74  | 62.21
+Inventory  | 81.69  | 101.53  | 150.78  | 131.82  | 41.58
+Total Current Assets  | 205.24  | 251.46  | 314.5  | 262.4  | 151.07
+Property, Plant & Equipment  | 74.41  | 83.98  | 52.55  | 33.56  | 24.96
+Goodwill  | 0.13  | 0.13  | 0.13  | 0.13  | 0.13
+Other Intangible Assets  | 0.36  | 0.2  | 0.61  | 1.02  | 1.43
+Long-Term Deferred Tax Assets  | 0.06  | -  | -  | -  | -
+Long-Term Deferred Charges  | 32.02  | 26.59  | 27.88  | 22.39  | 16.3
+Other Long-Term Assets  | 0.32  | 0.39  | 0.3  | 0.28  | 0.32
+Total Assets  | 312.53  | 362.75  | 395.97  | 321.07  | 194.18
+Accounts Payable  | 97.19  | 69.15  | 75.29  | 71.5  | 48.33
+Accrued Expenses  | -  | 10.22  | 6.78  | 2.32  | 3.45
+Short-Term Debt  | 1.72  | 1.29  | 7.38  | 1.81  | 1.19
+Current Portion of Long-Term Debt  | 2.15  | 0.29  | 27.65  | 1.05  | 1.05
+Current Portion of Leases  | 4.94  | 6.13  | 3.64  | 2.75  | 2.53
+Current Income Taxes Payable  | 0.13  | 0.11  | 3.47  | 10.22  | 3.8
+Current Unearned Revenue  | -  | 46.66  | 43.1  | 32.37  | 9.63
+Other Current Liabilities  | -  | 16.24  | 23.4  | 29.89  | 9.98
+Total Current Liabilities  | 106.13  | 150.09  | 190.7  | 151.91  | 79.95
+Long-Term Debt  | 4.24  | 8.36  | 9.05  | 2.69  | 3.73
+Long-Term Leases  | 34.33  | 33.67  | 9.46  | 10.1  | 9.91
+Long-Term Deferred Tax Liabilities  | 0.65  | 0.8  | 7.1  | 5.74  | 4.22
+Other Long-Term Liabilities  | 14.42  | 17.59  | 0.05  | 0.05  | 0.06
+Total Liabilities  | 159.77  | 210.52  | 216.36  | 170.49  | 97.87
+Common Stock  | 2.18  | 2.18  | 2.18  | 2.18  | 2.18
+Additional Paid-In Capital  | 48.08  | 48.12  | 48.94  | 50.65  | 50.43
+Retained Earnings  | 102.51  | 101.94  | 128.5  | 97.76  | 43.72
+Shareholders' Equity  | 152.77  | 152.24  | 179.61  | 150.58  | 96.32
+Total Liabilities & Equity  | 312.53  | 362.75  | 395.97  | 321.07  | 194.18
+Total Debt  | 47.37  | 49.75  | 57.17  | 18.4  | 18.4
+Net Cash (Debt)  | -20.7  | -32.68  | -55.1  | 4.44  | 28.88
+Net Cash Growth  | -  | -  | -  | -84.64%  | -10.75%
+Net Cash Per Share  | -0.95  | -1.50  | -2.53  | 0.20  | 1.33
+Filing Date Shares Outstanding  | 21.74  | 21.74  | 21.72  | 21.7  | 21.69
+Total Common Shares Outstanding  | 21.74  | 21.74  | 21.72  | 21.7  | 21.69
+Working Capital  | 99.1  | 101.37  | 123.8  | 110.49  | 71.12
+Book Value Per Share  | 7.03  | 7.00  | 8.27  | 6.94  | 4.44
+Tangible Book Value  | 152.28  | 151.9  | 178.88  | 149.44  | 94.77
+Tangible Book Value Per Share  | 7.00  | 6.99  | 8.24  | 6.89  | 4.37
+Buildings  | 30.5  | 29.28  | 18.94  | 8.26  | 7.97
+Machinery  | 42.46  | 40.63  | 31.89  | 23.78  | 13.13
+Construction In Progress  | 0.04  | 0.18  | 6.14  | 1.01  | 0.64
+Data Source: cite53†S&P Global Market Intelligence†www.spglobal.com Last updated: Dec 31, 2025
+cite54†Data Sources cite55†Report a data error L165: #### Install The App
+  * cite60†Login L186:   * cite61†Create Account L187:   * cite62†Changelog L188:   * cite54†Data Sources L189:   * cite63†Advertise L190:   * cite64†Help Center L191: #### Company

@@ -1,0 +1,9 @@
+Region,Panel,Entry,Start,Prior_method_return,Original_data_return,Change_percentage_points,Interpretation
+US,annual,Q75,2022-09-30,1.120975278559634,0.8126016069297477,-30.837367162988638,"Joint source, timing and coverage changes; not an isolated timing effect."
+US,hybrid,Q75,2022-09-30,1.9920040342262677,1.7331943986839895,-25.88096355422782,"Joint source, timing and coverage changes; not an isolated timing effect."
+US,annual,Q50,2022-09-30,1.37566894940979,1.5958116727727054,22.01427233629154,"Joint source, timing and coverage changes; not an isolated timing effect."
+US,hybrid,Q50,2022-09-30,1.731130305594219,1.895176544354935,16.4046238760716,"Joint source, timing and coverage changes; not an isolated timing effect."
+EU,annual,Q75,2021-09-30,0.7883008292539546,0.6367808631782024,-15.151996607575224,"Joint source, timing and coverage changes; not an isolated timing effect."
+EU,hybrid,Q75,2021-09-30,0.9008652058330255,0.5707090841219047,-33.01561217111208,"Joint source, timing and coverage changes; not an isolated timing effect."
+EU,annual,Q50,2021-09-30,0.3456146279023997,0.5363558861083875,19.074125820598773,"Joint source, timing and coverage changes; not an isolated timing effect."
+EU,hybrid,Q50,2021-09-30,0.35305072912626945,0.7137548728866434,36.0704143760374,"Joint source, timing and coverage changes; not an isolated timing effect."

@@ -1,0 +1,62 @@
+Captured 2026-09-16. Numerical facts extracted from retrieved original issuer documents; source URLs retained.
+Source: https://www.veolia.com/sites/g/files/dvc4206/files/document/2026/02/Finance_Veolia_Annexes_comptes_consolides_31-12-25.pdf
+
+L119@P5: Autres éléments du résultat global non reclassés ultérieurement en résultat net 16 -43
+L122@P5: Ajustements de valeur sur coût de la couverture 6 -11
+L124@P5: Montant net d’impôts 6 -11
+L128@P5: Ajustements de valeur sur dérivés de couverture de flux de trésorerie 51 -61
+L130@P5: Montant net d’impôts 39 -43
+L132@P5: • sur les filiales dont les comptes sont établis en devises étrangères 366 -1 286
+L133@P5: Montant net d’impôts 366 -1 286
+L137@P5: Autres éléments du résultat global reclassés ultérieurement en résultat net 343 -1 292
+L138@P5: Dont part des co-entreprises 6 -81
+L139@P5: Dont part des entreprises associées 5 -14
+L140@P5: Total Autres éléments du résultat global 359 -1 335
+L142@P5: dont quote-part des propriétaires de la société mère 1 465 -9
+L150@P6: (en millions d’euros) Notes Au 31 décembre 2024 Au 31 décembre 2025
+L153@P6: Résultat net des activités non poursuivies -103 -118
+L156@P6: Plus ou moins-values de cessions d’actifs opérationnels -36 -38
+L157@P6: Plus ou moins-values de cessions d’actifs financiers -64 -6
+L158@P6: Quote-part de résultat net des co-entreprises Note 5.2.4 -71 -32
+L159@P6: Quote-part de résultat net des entreprises associées Note 5.2.4 -61 -58
+L160@P6: Dividendes reçus Note 8.4.2 -3 -4
+L165@P6: Variation du besoin en fonds de roulement opérationnel 75 -120
+L166@P6: Variation du besoin en fonds de roulement du domaine concédé -270 -278
+L167@P6: Impôts versés -579 -596
+L171@P6: Investissements industriels nets de subvention -2 965 -3 056
+L173@P6: Investissements financiers Note 3.2 -482 -702
+L176@P6: Nouveaux actifs financiers opérationnels Note 5.4 -225 -156
+L179@P6: Créances financières non courantes décaissées -132 -74
+L182@P6: Flux nets de trésorerie liés aux opérations d’investissement des activités poursuivies -2 115 -3 296
+L184@P6: Flux nets de trésorerie liés aux opérations d’investissement -2 115 -3 296
+L187@P6-7: VEOLIA ENVIRONNEMENT / COMPTES CONSOLIDÉS AU 31 DÉCEMBRE 2025 7(en millions d’euros) Notes Au 31 décembre 2024 Au 31 décembre 2025
+L188@P7: Variation des dettes financières courantes Note 8.1.1 -5 -2 170
+L189@P7: Remboursement des dettes locatives courantes IFRS 16 Note 8.1.1 -541 -506
+L190@P7: Autres variations des dettes locatives IFRS 16 non courantes Note 8.1.1 -73 -50
+L192@P7: Remboursements d’emprunts et autres dettes non courantes Note 8.1.1 -619 -186
+L193@P7: Variation des actifs liquides et des actifs financiers liés au financement Note 8.1.2 -125 64
+L196@P7: Transactions entre actionnaires : acquisitions partielles (1) -32 -1 563
+L198@P7: Emission / Remboursement de titres super subordonnés Note 9.4 -221 492
+L199@P7: Coupons sur les titres super subordonnés Note 9.4 -81 -121
+L201@P7: Dividendes versés -1 218 -1 280
+L202@P7: Intérêts financiers versés -585 -619
+L203@P7: Intérêts sur actifs opérationnels IFRIC 12 -86 -78
+L204@P7: Intérêts sur dettes locatives IFRS 16 (2) Note 8.4.2 -66 -67
+L205@P7: Flux nets de trésorerie liés aux opérations de financement des activités poursuivies -1 857 -3 358
+L207@P7: Flux nets de trésorerie liés aux opérations de financement -1 857 -3 358
+L208@P7: Effets de change et divers 20 -98
+L215@P7: (1) Principalement relatives à l'acquisition des 30% d'intérêts minoritaires de Water Technologies and Solutions (cf note 3.2)
+L257@P8: 2023 725 411 667 3 627 9 631 3 630 -375 -3 925 -583 306 12 311 2 391 14 702
+L259@P8: de la société mère 15 240 941 76 271 - - -11 - - 336 - 336
+L262@P8: super subordonnés - - - -229 - 8 - - -221 - -221
+L264@P8: subordonnés - - - -63 - -18 - - -81 - -81
+L266@P8: de la société mère - - - - - -895 - - -895 - -895
+L268@P8: d’autocontrôle - - - - -8 - - - -8 - -8
+L270@P8: actions - - - - - 57 - - 57 - 57
+L276@P8: des filiales - - - - - - - - - -323 -323
+L278@P8: actionnaires - - - - - -99 - - -99 -23 -122
+L279@P8: Total 15 240 941 76 271 -293 -8 -958 - - -911 -342 -1 253
+L281@P8: du résultat global - - - - - 12 323 32 367 -8 359
+L282@P8: Résultat de l’exercice - - - - - 1 098 - - 1 098 347 1 445
+L285@P8: Autres variations - - - - - 51 – – 51 3 54
+L287@P8: 2024 740 652 608 3 703 9 902 3 337 -383 -3 722 -260 337 12 915 2 391 15 306

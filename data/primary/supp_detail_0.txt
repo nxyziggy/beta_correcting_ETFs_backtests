@@ -1,0 +1,61 @@
+Captured 2026-09-16. Numerical facts extracted from retrieved original issuer documents; source URLs retained.
+Source: https://www.edf.fr/sites/groupe/files/2023-02/annual-results-2021-consolidated-financial-statements-2023-02-17.pdf
+
+L90@P2: recycling 4,557 (302) 4,255 655 175 830
+L91@P2: Total gains and losses recorded in equity 577 (805) (228) (1,004) 756 (248)
+L92@P2: CONSOLIDATED COMPREHENSIVE INCOME (17,363) (1,090) (18,453) 4,109 471 4,580
+L93@P2: Comprehensive income of continuing operations (17,369) (1,090) (18,459) 4,110 471 4,581
+L94@P2: Comprehensive income of discontinued operations 6 - 6 (1) - (1)
+L100@P2-3: than 10 years, and for which no corresponding deferred tax asset was recognised at 31 December 2021.Page 4 of 144
+L103@P3: (in millions of euros) 31/12/2022 31/12/2021
+L126@P3: EQUITY AND LIABILITIES Notes 31/12/2022 31/12/2021
+L144@P3: Current provisions 15, 16.1 and 17 7,943 6,836
+L151@P3-4: TOTAL EQUITY AND LIABILITIES 388,132 360,966Page 5 of 144
+L155@P4: Consolidated net income (18,225) 4,828
+L156@P4: Net income of discontinued operations 6 (1)
+L157@P4: Net income of continuing operations (18,231) 4,829
+L160@P4: Financial income and expenses 446 (89)
+L162@P4: Capital gains/losses (143) (67)
+L163@P4: Income taxes (3,926) 1,401
+L164@P4: Share in net income of associates and joint ventures (759) (644)
+L165@P4: Change in working capital 13.1.3 8,301 (1,526)
+L166@P4: Net cash flow from operations (5,140) 15,512
+L167@P4: Net financial expenses disbursed (1,003) (588)
+L168@P4: Income taxes paid (1,282) (2,276)
+L169@P4: Net cash flow from continuing operating activities (7,425) 12,648
+L171@P4: Net cash flow from operating activities (7,425) 12,648
+L173@P4: Acquisitions of equity investments, net of cash acquired (198) (165)
+L175@P4: Investments in intangible assets and property, plant and equipment 10.7 (18,324) (17,606)
+L177@P4: Changes in financial assets (7,344) 1,776
+L178@P4: Net cash flow from continuing investing activities (25,085) (14,577)
+L180@P4: Net cash flow from investing activities (25,085) (14,577)
+L183@P4: Transactions with non-controlling interests(1) 1,795 2,076
+L184@P4: Dividends paid by parent company 14.3 (72) (84)
+L185@P4: Dividends paid to non-controlling interests (407) (163)
+L186@P4: Purchases/sales of treasury shares 4 (3)
+L189@P4: Repayment of borrowings 18.3.2.1 (5,876) (5,161)
+L191@P4: Payments to bearers of perpetual subordinated bonds 14.4 (606) (547)
+L202@P4: Currency fluctuations (397) 180
+L204@P4: Other non-monetary changes (107) 387
+L232@P5: Equity as published at 31/12/2020 1,550 (10) (871) (1,116) 46,080 45,633 9,593 55,226
+L233@P5: Gains and losses recorded in equity - - 1,699 (3,358) 655 (1,004) 756 (248)
+L234@P5: Net income - - - - 5,113 5,113 (285) 4,828
+L235@P5: Consolidated comprehensive income - - 1,699 (3,358) 5,768 4,109 471 4,580
+L236@P5: Payments on perpetual subordinated bonds - - - - (547) (547) - (547)
+L239@P5: - - - - 972 972 - 972
+L240@P5: Dividends paid - - - - (1,599) (1,599) (163) (1,762)
+L241@P5: Purchases/sales of treasury shares - (4) - - - (4) - (4)
+L242@P5: Capital increase by EDF (see note 14.1) 69 - - - 1,446 1,515 - 1,515
+L243@P5: Other changes(4)- - - - 132 132 1,877 2,009
+L244@P5: EQUITY AT 31/12/2021 1,619 (14) 828 (4,474) 52,252 50,211 11,778 61,989
+L245@P5: Gains and losses recorded in equity - - (1,003) (2,977) 4,557 577 (805) (228)
+L246@P5: Net income - - - - (17,940) (17,940) (285) (18,225)
+L247@P5: Consolidated comprehensive income - - (1,003) (2,977) (13,383) (17,363) (1,090) (18,453)
+L248@P5: Payments on perpetual subordinated bonds - - - - (606) (606) (606)
+L250@P5: subordinated bonds (see notes 14.4) - - - - (1,025) (1,025) (1,025)
+L251@P5: Dividends paid - - - - (1,050) (1,050) (407) (1,457)
+L252@P5: Purchases/sales of treasury shares - 7 - - - 7 - 7
+L253@P5: Capital increase by EDF (see note 14.1) 325 - - - 3,915 4,240 - 4,240
+L254@P5: Other changes(5)- - - - (74) (74) 1,991 1,917
+L255@P5: EQUITY AT 31/12/2022 1,944 (7) (175) (7,451) 40,029 34,340 12,272 46,612
+L257@P5: at 31 December 2021 and £1 = €1.127 at 31 December 2022).

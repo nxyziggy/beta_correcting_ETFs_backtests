@@ -1,0 +1,48 @@
+Captured 2026-09-16. Numerical facts extracted from retrieved original issuer documents; source URLs retained.
+Source: https://www.enel.com/content/dam/enel-common/press/en/2026-march/Enel%20results%20FY2025.pdf
+
+L938@P23: Total other comprehensive income/(expense) for the year (1,528) (2,041)
+L945@P24: ASSETS at Dec. 31, 2025 at Dec. 31, 2024
+L959@P24: Non-current financial derivative assets 1,170 - 2,003 2
+L969@P24: Current financial derivative assets 2,408 - 3,512
+L978@P25: LIABILITIES AND EQUITY at Dec. 31, 2025 at Dec. 31, 2024
+L987@P25: Negative reserve for treasury share (1,077) (78)
+L1001@P25: Other non-current liabilities 3,219 - 3,287
+L1009@P25: Current financial derivative liabilities 2,343 - 3,584 6
+L1035@P26: Changes in net working capital: (1,316) (1,108)
+L1037@P26: - trade receivables 310 468 490 (220)
+L1038@P26: - trade payables (1,471) (1,234) (2,451) (93)
+L1040@P26: - other contract liabilities 246 22 209 (16)
+L1041@P26: - other assets/liabilities (811) 715 66 (736)
+L1043@P26: Utilization of provisions (1,776) (1,698)
+L1045@P26: Interest expense and other financial expense paid (4,212) (88) (5,276) (100)
+L1046@P26: Net (income)/expense from measurement of commodities (210) (16)
+L1047@P26: Income taxes paid (3,542) (3,912)
+L1048@P26: Net capital gains 444 (2,313)
+L1051@P26: Investments in property, plant and equipment (8,506) (8,931)
+L1052@P26: Investments in intangible assets (1,125) (1,235)
+L1054@P26: Investments in non-current contract assets (1,042) (844)
+L1058@P26: Cash flows used in investing activities (B) (11,072) (4,108)
+L1061@P26: Repayments of borrowings (7,654) 104 (10,430) (2)
+L1062@P26: Other changes in net financial debt (400) (691)
+L1065@P26: transactions in non-controlling interests 16 (22)
+L1067@P26: Redemptions of perpetual hybrid bonds (900) (297)
+L1068@P26: Purchase of treasury shares (1,947) (27)
+L1069@P26: Dividends and interim dividends paid (5,794) (5,126)
+L1070@P26: Coupons paid to holders of hybrid bonds (266) (246)
+L1071@P26: Cash flows used in financing activities (C) (5,448) (7,989)
+L1073@P26: Impact of exchange rate fluctuations on cash and cash equivalents (D) (282) (74)
+L1074@P26: Increase/(Decrease) in cash and cash equivalents (A+B+C+D) (2,876) 1,052
+L1075@P26: Cash and cash equivalents at the beginning of the year(1) 8,195 7,143
+L1076@P26: Cash and cash equivalents at the end of the year (2) 5,319 8,195
+L1079@P26: the amount of €6 million at January 1, 2025 (€261 million at January 1, 2024).
+L1082@P26-27: “Assets held for sale” in the amount of €24 million at December 31, 2025 (€6 million at December 31, 2024). 28
+L1101@P27: Operating profit/(loss) (1,276) (3,801)
+L1109@P27: Income taxes (149) (144)
+L1117@P28: Effective portion of change in the fair value of cash flow hedges 39 (70)
+L1118@P28: Change in fair value of hedging costs (5) 6
+L1121@P28: Remeasurement of liabilities/(assets) for defined benefit plans (5) 1
+L1122@P28: Change in fair value of equity investments in other companies (1) 1
+L1123@P28: Total other comprehensive income/(expense) for the year 28 (62)
+L1127@P29: ASSETS at Dec. 31, 2025 at Dec. 31, 2024
+L1138@P29: Other non-current financial assets (1) 21 4

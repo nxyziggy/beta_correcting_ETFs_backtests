@@ -1,0 +1,74 @@
+Source: https://stockanalysis.com/quote/osl/NEL/financials/balance-sheet/
+Captured: 2026-09-15. Current standardized history; not point-in-time vintages.
+Financials in millions NOK. Fiscal year is January - December.
+Millions NOK. Fiscal year is Jan - Dec.
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Cash & Equivalents  | 1,328  | 1,617  | 1,876  | 3,363  | 3,139  | 2,723
+Short-Term Investments  | -  | 11.73  | -  | 24.01  | 547.16  | 608.1
+Cash & Short-Term Investments  | 1,328  | 1,629  | 1,876  | 3,387  | 3,686  | 3,331
+Cash Growth  | -31.11%  | -13.14%  | -44.63%  | -8.09%  | 10.65%  | -18.10%
+Accounts Receivable  | 332.55  | 308.12  | 724.83  | 862.17  | 557.06  | 390.18
+Other Receivables  | -  | 20.69  | 32.03  | 41.62  | 34.04  | 7.9
+Receivables  | 332.55  | 328.81  | 756.87  | 903.8  | 591.1  | 398.08
+Inventory  | 889.51  | 918.79  | 531.75  | 703.99  | 504.6  | 328.47
+Prepaid Expenses  | -  | 104.45  | 230.73  | 214.85  | 147.42  | 55.53
+Restricted Cash  | -  | -  | 2.26  | -  | -  | -
+Other Current Assets  | 113.94  | 5.58  | 10.5  | 166.85  | 48.79  | 31.2
+Total Current Assets  | 2,664  | 2,987  | 3,408  | 5,377  | 4,978  | 4,144
+Property, Plant & Equipment  | 1,157  | 1,190  | 1,664  | 1,306  | 785.49  | 623.51
+Long-Term Investments  | -  | 40.16  | 44.36  | 158.79  | 252.61  | 93.14
+Goodwill  | 61.36  | 61.36  | 411.75  | 375.31  | 365.58  | 615.18
+Other Intangible Assets  | 570.22  | 523.09  | 617.42  | 639.74  | 568.88  | 528.96
+Other Long-Term Assets  | 186.38  | 155.17  | 158.91  | 0.57  | 0.35  | 2.05
+Total Assets  | 4,639  | 4,957  | 6,304  | 7,857  | 6,951  | 6,007
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Accounts Payable  | 47.44  | 126.8  | 110.74  | 204.86  | 201.74  | 132.96
+Accrued Expenses  | -  | 123.4  | 140.48  | 140.57  | 87.34  | 59.04
+Current Portion of Leases  | 40.7  | 42.96  | 44.48  | 38.07  | 30.44  | 19.92
+Current Unearned Revenue  | 370.41  | 372.42  | 583.39  | 715.29  | 672.29  | 360.82
+Other Current Liabilities  | 207.73  | 99.15  | 122.97  | 229.37  | 199.8  | 132.31
+Total Current Liabilities  | 666.27  | 764.73  | 1,002  | 1,328  | 1,192  | 705.05
+Long-Term Debt  | -  | -  | -  | 22.46  | 22.43  | 23.19
+Long-Term Leases  | 177.75  | 190.19  | 215.52  | 199.14  | 170.18  | 113.51
+Long-Term Unearned Revenue  | -  | 60.49  | 69.28  | 66.24  | 64.05  | 69.54
+Long-Term Deferred Tax Liabilities  | -  | -  | 34.81  | 38.44  | 45.53  | 48.54
+Other Long-Term Liabilities  | 193.87  | 8.25  | 5.26  | 4.86  | 7.1  | 8.45
+Total Liabilities  | 1,038  | 1,024  | 1,327  | 1,659  | 1,501  | 968.28
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Common Stock  | 367.69  | 367.69  | 334.27  | 334.27  | 312.67  | 292.16
+Additional Paid-In Capital  | 7,914  | 7,914  | 7,599  | 8,661  | 7,098  | 5,596
+Retained Earnings  | -4,766  | -4,507  | -3,242  | -2,998  | -2,143  | -971.64
+Treasury Stock  | -0.08  | -0.08  | -0.08  | -0.08  | -0.08  | -0.08
+Comprehensive Income & Other  | 85.55  | 158.67  | 286.88  | 200.47  | 181.65  | 122.01
+Shareholders' Equity  | 3,602  | 3,933  | 4,977  | 6,198  | 5,450  | 5,039
+Total Liabilities & Equity  | 4,639  | 4,957  | 6,304  | 7,857  | 6,951  | 6,007
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Total Debt  | 218.45  | 233.15  | 260  | 259.66  | 223.05  | 156.61
+Net Cash (Debt)  | 1,110  | 1,396  | 1,616  | 3,128  | 3,463  | 3,174
+Net Cash Growth  | -33.94%  | -13.59%  | -48.35%  | -9.67%  | 9.09%  | -19.55%
+Net Cash Per Share  | 0.60  | 0.77  | 0.97  | 1.89  | 2.25  | 2.17
+Filing Date Shares Outstanding  | 1,838  | 1,838  | 1,671  | 1,671  | 1,563  | 1,460
+Total Common Shares Outstanding  | 1,838  | 1,838  | 1,671  | 1,671  | 1,563  | 1,460
+Working Capital  | 1,998  | 2,222  | 2,406  | 4,049  | 3,786  | 3,439
+Book Value Per Share  | 1.96  | 2.14  | 2.98  | 3.71  | 3.49  | 3.45
+Tangible Book Value  | 2,970  | 3,349  | 3,948  | 5,183  | 4,515  | 3,895
+Tangible Book Value Per Share  | 1.62  | 1.82  | 2.36  | 3.10  | 2.89  | 2.67
+Buildings  | -  | 43.82  | 39.71  | 135.03  | 125.22  | 120.31
+Machinery  | -  | 1,537  | 1,352  | 652.97  | 560.29  | 124.55
+Construction In Progress  | -  | 230.16  | 336.13  | 552.18  | 81.61  | 348.94
+Order Backlog  | -  | 1,319  | 1,614  | 2,093  | 2,613  | 1,230
+Data Source: cite53†S&P Global Market Intelligence†www.spglobal.com Last updated: Jul 15, 2026
+cite54†Data Sources cite55†Report a data error L211: #### Install The App
+  * cite60†Login L232:   * cite61†Create Account L233:   * cite62†Changelog L234:   * cite54†Data Sources L235:   * cite63†Advertise L236:   * cite64†Help Center L237: #### Company

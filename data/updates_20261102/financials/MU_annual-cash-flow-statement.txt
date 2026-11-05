@@ -1,0 +1,18 @@
+Source: https://stockanalysis.com/stocks/mu/financials/cash-flow-statement/
+As of: 2026-11-02 America/New_York
+Web evidence: 【turn136view0】
+Financials in millions USD. Fiscal year is October - September.
+Fiscal Year  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+Period Ending  | Sep '26  | Aug '25  | Aug '24  | Aug '23  | Sep '22
+Net Income  | 84,969  | 8,539  | 778  | -5,833  | 8,687
+Operating Cash Flow  | 89,675  | 17,525  | 8,507  | 1,559  | 15,181
+Fiscal Year  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+Period Ending  | Sep '26  | Aug '25  | Aug '24  | Aug '23  | Sep '22
+Fiscal Year  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+Period Ending  | Sep '26  | Aug '25  | Aug '24  | Aug '23  | Sep '22
+Fiscal Year  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+Period Ending  | Sep '26  | Aug '25  | Aug '24  | Aug '23  | Sep '22
+Fiscal Year  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+Period Ending  | Sep '26  | Aug '25  | Aug '24  | Aug '23  | Sep '22
+Fiscal Year  | FY 2026  | FY 2025  | FY 2024  | FY 2023  | FY 2022
+Period Ending  | Sep '26  | Aug '25  | Aug '24  | Aug '23  | Sep '22

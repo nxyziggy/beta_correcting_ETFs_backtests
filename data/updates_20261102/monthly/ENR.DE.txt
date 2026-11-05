@@ -1,0 +1,8 @@
+Source: https://www.digrin.com/stocks/detail/ENR.DE/price
+As of: 2026-11-02 America/New_York
+Web evidence: 【turn110view0】
+Month | Adjusted price | Real price
+November 2026  | €130  | €130
+October 2026  | €126.92  | €126.92
+September 2026  | €142.60  | €142.60
+August 2026  | €142.18  | €142.18

@@ -1,0 +1,7 @@
+Captured 2026-09-16. Numerical facts extracted from retrieved original issuer documents; source URLs retained.
+Source: https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_23_3087/IP_23_3087_EN.pdf
+
+L4@P0: Brussels, 8 June 2023
+L134@P4: IP/23/3087
+L140@P4: Margrethe Vestager, Executive Vice-President in charge of competition policy - 08/06/2023
+L145@P4: Thierry Breton, Commissioner for Internal Market - 08/06/2023

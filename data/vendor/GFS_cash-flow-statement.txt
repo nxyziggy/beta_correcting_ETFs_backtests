@@ -1,0 +1,68 @@
+Source: https://stockanalysis.com/stocks/gfs/financials/cash-flow-statement/
+Captured: 2026-09-15. Current standardized history; not point-in-time vintages.
+Financials in millions USD. Fiscal year is January - December.
+Millions USD. Fiscal year is Jan - Dec.
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Net Income  | 716  | 885  | -265  | 1,020  | 1,448  | -250
+Depreciation & Amortization  | 1,232  | 1,301  | 1,565  | 1,451  | 1,623  | 1,618
+Other Amortization  | 13  | 13  | 3  | -  | -  | -
+Loss (Gain) From Sale of Assets  | -69  | -126  | -52  | -19  | -506  | -39
+Asset Writedown & Restructuring Costs  | -  | -  | 935  | -  | -  | -
+Stock-Based Compensation  | 234  | 200  | 186  | 150  | 181  | 223
+Other Operating Activities  | 159  | -4  | -31  | 30  | 44  | 57
+Change in Accounts Receivable  | -69  | -280  | -71  | -169  | 35  | -387
+Change in Inventory  | 125  | 81  | -137  | -148  | -261  | -202
+Change in Accounts Payable  | -425  | -339  | -411  | -190  | 60  | 1,819
+Operating Cash Flow  | 1,916  | 1,731  | 1,722  | 2,125  | 2,624  | 2,839
+Operating Cash Flow Growth  | 20.20%  | 0.52%  | -18.96%  | -19.02%  | -7.57%  | 182.77%
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Capital Expenditures  | -1,120  | -722  | -625  | -1,804  | -3,059  | -1,767
+Sale of Property, Plant & Equipment  | 111  | 170  | 56  | 24  | 41  | 324
+Cash Acquisitions  | -1,103  | -682  | -69  | -  | -  | -
+Divestitures  | -  | -  | -  | 236  | -  | -
+Investment in Securities  | -82  | -187  | -496  | -474  | -996  | -
+Other Investing Activities  | 168  | 147  | 9  | 136  | -44  | -7
+Investing Cash Flow  | -2,026  | -1,274  | -1,125  | -1,882  | -4,058  | -1,450
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Long-Term Debt Issued  | -  | 20  | 31  | 46  | 971  | 617
+Long-Term Debt Repaid  | -  | -860  | -637  | -305  | -390  | -1,528
+Net Debt Issued (Repaid)  | -136  | -840  | -606  | -259  | 581  | -911
+Issuance of Common Stock  | -  | -  | 23  | 42  | 168  | 1,444
+Repurchase of Common Stock  | -417  | -  | -200  | -  | -  | -
+Other Financing Activities  | -38  | -5  | -2  | 5  | 93  | 117
+Financing Cash Flow  | -591  | -845  | -785  | -212  | 842  | 650
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Foreign Exchange Rate Adjustments  | -2  | 5  | -7  | 4  | 5  | -8
+Net Cash Flow  | -703  | -383  | -195  | 35  | -587  | 2,031
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Free Cash Flow  | 796  | 1,009  | 1,097  | 321  | -435  | 1,072
+Free Cash Flow Growth  | -18.11%  | -8.02%  | 241.75%  | -  | -  | 160.19%
+Free Cash Flow Margin  | 11.47%  | 14.86%  | 16.25%  | 4.34%  | -5.37%  | 16.28%
+Free Cash Flow Per Share  | 1.43  | 1.81  | 1.98  | 0.58  | -0.79  | 2.12
+Levered Free Cash Flow  | 758.25  | 1,151  | 1,082  | -124.13  | -666.38  | 1,055
+Unlevered Free Cash Flow  | 789.5  | 1,182  | 1,148  | -61  | -608.88  | 1,117
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Cash Interest Paid  | 60  | 59  | 118  | 121  | 96  | 101
+Cash Income Tax Paid  | 30  | 19  | 31  | 11  | 4  | 7
+Change in Working Capital  | -369  | -538  | -619  | -507  | -166  | 1,230
+Data Source: cite55†S&P Global Market Intelligence†www.spglobal.com Last updated: Aug 5, 2026
+cite56†Data Sources cite57†Report a data error L234: #### Install The App
+  * cite62†Login L255:   * cite63†Create Account L256:   * cite64†Changelog L257:   * cite56†Data Sources L258:   * cite65†Advertise L259:   * cite66†Help Center L260: #### Company

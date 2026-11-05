@@ -1,0 +1,61 @@
+Source: https://stockanalysis.com/quote/ams/ALFEN/financials/cash-flow-statement/
+Captured: 2026-09-15. Current standardized history; not point-in-time vintages.
+Financials in millions EUR. Fiscal year is January - December.
+Millions EUR. Fiscal year is Jan - Dec.
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Net Income  | 0.66  | -0.19  | -27.01  | 29.68  | 53.05  | 21.45
+Depreciation & Amortization  | 18.31  | 17.3  | 21.61  | 8.94  | 6.68  | 5.51
+Other Amortization  | 4.86  | 4.86  | 4.66  | 5.21  | 3.48  | 3
+Asset Writedown & Restructuring Costs  | -  | -  | -  | -  | -  | 0
+Stock-Based Compensation  | 0.49  | 0.76  | 0.46  | 1.05  | 1  | 0.64
+Other Operating Activities  | 1.1  | -2.49  | 5.86  | -3.96  | 7.12  | 2
+Change in Accounts Receivable  | 7.41  | 31.43  | 1.26  | -17.29  | -34.74  | -28.28
+Change in Inventory  | 24.63  | 19.84  | 49.24  | -18.96  | -90.23  | -21.6
+Change in Accounts Payable  | 11.37  | -40.89  | -9.64  | 1.18  | 42.08  | 21.03
+Change in Other Net Operating Assets  | -10.59  | 1.92  | 9.39  | -0.23  | 12  | 6.78
+Operating Cash Flow  | 58.24  | 32.54  | 55.82  | 5.64  | 0.43  | 10.54
+Operating Cash Flow Growth  | -10.38%  | -41.70%  | 890.24%  | 1213.99%  | -95.93%  | -47.60%
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Capital Expenditures  | -4.44  | -3.54  | -13.8  | -23.99  | -11.46  | -4.03
+Sale (Purchase) of Intangibles  | -10.66  | -10.45  | -10.77  | -10.71  | -9.57  | -7.65
+Investing Cash Flow  | -15.1  | -13.99  | 1.15  | -59.1  | -21.03  | -11.68
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Long-Term Debt Issued  | -  | 0.43  | 0.32  | 35  | -  | -
+Long-Term Debt Repaid  | -  | -9.34  | -34.82  | -6.63  | -3.8  | -3.92
+Net Debt Issued (Repaid)  | -9.32  | -8.91  | -34.5  | 28.37  | -3.8  | -3.92
+Repurchase of Common Stock  | -0.06  | -0.05  | -1.07  | -2.07  | -0.04  | -
+Financing Cash Flow  | -9.38  | -8.95  | -35.57  | 26.3  | -3.84  | -3.92
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Net Cash Flow  | 33.76  | 9.61  | 21.4  | -27.17  | -24.44  | -5.07
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Free Cash Flow  | 53.8  | 29.01  | 42.03  | -18.36  | -11.03  | 6.51
+Free Cash Flow Growth  | -10.02%  | -30.98%  | -  | -  | -  | -57.96%
+Free Cash Flow Margin  | 11.08%  | 6.66%  | 8.62%  | -3.64%  | -2.51%  | 2.61%
+Free Cash Flow Per Share  | 2.47  | 1.33  | 1.93  | -0.84  | -0.51  | 0.30
+Levered Free Cash Flow  | 43.35  | 21.27  | 53.91  | -61.93  | -32.18  | -7.01
+Unlevered Free Cash Flow  | 45.04  | 23.36  | 57.08  | -59.8  | -31.57  | -6.39
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Cash Interest Paid  | 0.23  | 1.5  | 3.23  | 2.36  | 0.73  | 0.63
+Cash Income Tax Paid  | -  | -2.7  | 4.91  | 13.78  | 5.57  | 3.45
+Change in Working Capital  | 32.82  | 12.31  | 50.24  | -35.3  | -70.89  | -22.06
+Data Source: cite54†S&P Global Market Intelligence†www.spglobal.com Last updated: Jun 30, 2026
+cite55†Data Sources cite56†Report a data error L217: #### Install The App
+  * cite61†Login L238:   * cite62†Create Account L239:   * cite63†Changelog L240:   * cite55†Data Sources L241:   * cite64†Advertise L242:   * cite65†Help Center L243: #### Company

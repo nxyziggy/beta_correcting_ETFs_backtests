@@ -1,0 +1,54 @@
+Source: https://stockanalysis.com/stocks/fslr/financials/income-statement/
+Captured: 2026-09-15. Current standardized history; not point-in-time vintages.
+Financials in millions USD. Fiscal year is January - December.
+Millions USD. Fiscal year is Jan - Dec.
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+cite54†Revenue | 5,378  | 5,219  | 4,206  | 3,319  | 2,619  | 2,923
+Revenue Growth  | 23.82%  | 24.09%  | 26.75%  | 26.70%  | -10.40%  | 7.82%
+Cost of Revenue  | 3,011  | 3,099  | 2,348  | 2,018  | 2,549  | 2,193
+Gross Profit  | 2,367  | 2,120  | 1,858  | 1,301  | 69.86  | 729.95
+Selling, General & Admin  | 215.28  | 203.76  | 188.26  | 197.62  | 164.72  | 170.32
+Research & Development  | 269.73  | 233.42  | 191.38  | 152.31  | 112.8  | 99.12
+Operating Expenses  | 557.52  | 523.48  | 464.13  | 414.71  | 350.61  | 290.49
+Operating Income  | 1,810  | 1,597  | 1,394  | 885.97  | -280.75  | 439.47
+Interest Expense  | -38.6  | -44.13  | -38.87  | -12.97  | -12.23  | -13.11
+Interest & Investment Income  | 109.58  | 81.76  | 89.09  | 97.67  | 33.28  | 6.18
+Currency Exchange Gain (Loss)  | -41.14  | -40.76  | -29.64  | -23.3  | -15.46  | -9.18
+Other Non Operating Income (Expenses)  | -13.39  | -12.81  | -8.67  | -27.37  | 30.23  | -10.18
+EBT Excluding Unusual Items  | 1,826  | 1,581  | 1,406  | 920.01  | -244.91  | 413.18
+Gain (Loss) on Sale of Investments  | -0.75  | -0.01  | 0.01  | -0.01  | -  | 11.7
+Gain (Loss) on Sale of Assets  | -  | -  | 1.12  | 6.88  | 253.51  | 147.28
+Legal Settlements  | -  | -  | -0.43  | -35.59  | -  | -
+Pretax Income  | 1,825  | 1,581  | 1,406  | 891.29  | 8.6  | 572.16
+Income Tax Expense  | 79.38  | 52.68  | 114.29  | 60.51  | 52.76  | 103.47
+Net Income  | 1,746  | 1,528  | 1,292  | 830.78  | -44.17  | 468.69
+Net Income to Common  | 1,746  | 1,528  | 1,292  | 830.78  | -44.17  | 468.69
+Net Income Growth  | 38.85%  | 18.28%  | 55.52%  | -  | -  | 17.66%
+Shares Outstanding (Basic)  | 107  | 107  | 107  | 107  | 107  | 106
+Shares Outstanding (Diluted)  | 108  | 108  | 108  | 107  | 107  | 107
+Shares Change  | 0.12%  | 0.01%  | 0.14%  | 0.77%  | -0.35%  | 0.22%
+EPS (Basic)  | 16.27  | 14.25  | 12.07  | 7.78  | -0.41  | 4.41
+EPS (Diluted)  | 16.22  | 14.21  | 12.02  | 7.74  | -0.41  | 4.38
+EPS Growth  | 38.60%  | 18.22%  | 55.30%  | -  | -  | 17.43%
+Fiscal Year  | TTM  | FY 2025  | FY 2024  | FY 2023  | FY 2022  | FY 2021
+--- | --- | --- | --- | --- | --- | ---
+Period Ending  | Jun '26  | Dec '25  | Dec '24  | Dec '23  | Dec '22  | Dec '21
+--- | --- | --- | --- | --- | --- | ---
+Free Cash Flow  | 1,500  | 1,187  | -308.08  | -784.52  | -30.24  | -302.73
+Free Cash Flow Per Share  | 13.94  | 11.04  | -2.87  | -7.31  | -0.28  | -2.83
+Gross Margin  | 44.02%  | 40.62%  | 44.17%  | 39.19%  | 2.67%  | 24.97%
+Operating Margin  | 33.65%  | 30.59%  | 33.13%  | 26.70%  | -10.72%  | 15.03%
+Profit Margin  | 32.46%  | 29.28%  | 30.72%  | 25.03%  | -1.69%  | 16.03%
+Free Cash Flow Margin  | 27.89%  | 22.75%  | -7.32%  | -23.64%  | -1.15%  | -10.36%
+EBITDA  | 2,386  | 2,126  | 1,817  | 1,194  | -11.02  | 699.37
+EBITDA Margin  | 44.36%  | 40.73%  | 43.20%  | 35.98%  | -0.42%  | 23.92%
+D&A For EBITDA  | 576.2  | 529.22  | 423.5  | 307.99  | 269.72  | 259.9
+EBIT  | 1,810  | 1,597  | 1,394  | 885.97  | -280.75  | 439.47
+EBIT Margin  | 33.65%  | 30.59%  | 33.13%  | 26.70%  | -10.72%  | 15.03%
+Effective Tax Rate  | 4.35%  | 3.33%  | 8.13%  | 6.79%  | 613.68%  | 18.08%
+Data Source: cite57†S&P Global Market Intelligence†www.spglobal.com Last updated: Jul 30, 2026
+cite58†Data Sources cite59†Report a data error L176: #### Install The App
+  * cite64†Login L197:   * cite65†Create Account L198:   * cite66†Changelog L199:   * cite58†Data Sources L200:   * cite67†Advertise L201:   * cite68†Help Center L202: #### Company

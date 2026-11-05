@@ -1,0 +1,128 @@
+{
+  "AIR.PA": {
+    "original_reports": 24,
+    "annual": 7,
+    "trailing": 17,
+    "first": "2019-12-31",
+    "latest": "2026-09-30"
+  },
+  "AMAT": {
+    "original_reports": 26,
+    "annual": 6,
+    "trailing": 14,
+    "first": "2019-10-27",
+    "latest": "2026-07-26"
+  },
+  "ASML": {
+    "original_reports": 20,
+    "annual": 6,
+    "trailing": 14,
+    "first": "2020-12-31",
+    "latest": "2026-09-27"
+  },
+  "EDF.PA": {
+    "original_reports": 3,
+    "annual": 3,
+    "trailing": 0,
+    "first": "2020-12-31",
+    "latest": "2022-12-31"
+  },
+  "ENEL.MI": {
+    "original_reports": 6,
+    "annual": 6,
+    "trailing": 0,
+    "first": "2020-12-31",
+    "latest": "2025-12-31"
+  },
+  "ENPH": {
+    "original_reports": 26,
+    "annual": 6,
+    "trailing": 18,
+    "first": "2020-12-31",
+    "latest": "2026-09-30"
+  },
+  "GFS": {
+    "original_reports": 20,
+    "annual": 5,
+    "trailing": 14,
+    "first": "2021-12-31",
+    "latest": "2026-06-30"
+  },
+  "IFX.DE": {
+    "original_reports": 9,
+    "annual": 6,
+    "trailing": 3,
+    "first": "2020-09-30",
+    "latest": "2026-06-30"
+  },
+  "INTC": {
+    "original_reports": 19,
+    "annual": 5,
+    "trailing": 12,
+    "first": "2021-12-25",
+    "latest": "2026-09-26"
+  },
+  "LIN": {
+    "original_reports": 18,
+    "annual": 6,
+    "trailing": 12,
+    "first": "2020-12-31",
+    "latest": "2026-06-30"
+  },
+  "LRCX": {
+    "original_reports": 17,
+    "annual": 5,
+    "trailing": 9,
+    "first": "2021-06-27",
+    "latest": "2026-06-28"
+  },
+  "MCHP": {
+    "original_reports": 15,
+    "annual": 5,
+    "trailing": 10,
+    "first": "2022-03-31",
+    "latest": "2026-06-30"
+  },
+  "MU": {
+    "original_reports": 27,
+    "annual": 7,
+    "trailing": 18,
+    "first": "2020-09-03",
+    "latest": "2026-09-03"
+  },
+  "NEE": {
+    "original_reports": 24,
+    "annual": 6,
+    "trailing": 16,
+    "first": "2020-12-31",
+    "latest": "2026-09-30"
+  },
+  "NXPI": {
+    "original_reports": 24,
+    "annual": 6,
+    "trailing": 18,
+    "first": "2020-12-31",
+    "latest": "2026-09-27"
+  },
+  "STMPA.PA": {
+    "original_reports": 26,
+    "annual": 7,
+    "trailing": 19,
+    "first": "2019-12-31",
+    "latest": "2026-09-26"
+  },
+  "TXN": {
+    "original_reports": 24,
+    "annual": 6,
+    "trailing": 13,
+    "first": "2020-12-31",
+    "latest": "2026-09-30"
+  },
+  "VIE.PA": {
+    "original_reports": 5,
+    "annual": 5,
+    "trailing": 0,
+    "first": "2021-12-31",
+    "latest": "2025-12-31"
+  }
+}
