@@ -1,0 +1,206 @@
+{
+  "status": "PASS",
+  "source_observations": 30,
+  "tsm_original_filings_checked": 18,
+  "tsm_field_checks": 129,
+  "gev_registration_fields_checked": 10,
+  "gev_tagged_facts_checked": 84,
+  "checks": [
+    {
+      "ticker": "TSM",
+      "period_end": "2021-12-31",
+      "original_file": "TSM_2022-02-25_0001564590-22-006898.txt",
+      "filed_date_header_verified": "20220225",
+      "column_headers": [],
+      "selected_rows_verified": 5
+    },
+    {
+      "ticker": "TSM",
+      "period_end": "2022-06-30",
+      "original_file": "TSM_2022-08-12.txt",
+      "filed_date_header_verified": "20220812",
+      "column_headers": [
+        "For the Three Months Ended June 30  For the Six Months Ended June 30"
+      ],
+      "selected_rows_verified": 5
+    },
+    {
+      "ticker": "TSM",
+      "period_end": "2022-09-30",
+      "original_file": "TSM_2022-11-14.txt",
+      "filed_date_header_verified": "20221114",
+      "column_headers": [
+        "For the Three Months Ended September 30  For the Nine Months Ended September 30"
+      ],
+      "selected_rows_verified": 5
+    },
+    {
+      "ticker": "TSM",
+      "period_end": "2022-12-31",
+      "original_file": "TSM_2023-02-24_0001564590-23-002381.txt",
+      "filed_date_header_verified": "20230224",
+      "column_headers": [],
+      "selected_rows_verified": 5
+    },
+    {
+      "ticker": "TSM",
+      "period_end": "2023-03-31",
+      "original_file": "TSM_2023-05-12.txt",
+      "filed_date_header_verified": "20230512",
+      "column_headers": [],
+      "selected_rows_verified": 5
+    },
+    {
+      "ticker": "TSM",
+      "period_end": "2023-06-30",
+      "original_file": "TSM_2023-08-14.txt",
+      "filed_date_header_verified": "20230814",
+      "column_headers": [
+        "For the Three Months Ended June 30  For the Six Months Ended June 30"
+      ],
+      "selected_rows_verified": 5
+    },
+    {
+      "ticker": "TSM",
+      "period_end": "2023-09-30",
+      "original_file": "TSM_2023-11-14.txt",
+      "filed_date_header_verified": "20231114",
+      "column_headers": [
+        "For the Three Months Ended September 30  For the Nine Months Ended September 30"
+      ],
+      "selected_rows_verified": 5
+    },
+    {
+      "ticker": "TSM",
+      "period_end": "2023-12-31",
+      "original_file": "TSM_2024-02-29_0001046179-24-000020.txt",
+      "filed_date_header_verified": "20240229",
+      "column_headers": [],
+      "selected_rows_verified": 5
+    },
+    {
+      "ticker": "TSM",
+      "period_end": "2024-03-31",
+      "original_file": "TSM_2024-05-15.txt",
+      "filed_date_header_verified": "20240515",
+      "column_headers": [],
+      "selected_rows_verified": 5
+    },
+    {
+      "ticker": "TSM",
+      "period_end": "2024-06-30",
+      "original_file": "TSM_2024-08-14.txt",
+      "filed_date_header_verified": "20240814",
+      "column_headers": [
+        "For the Three Months Ended June 30  For the Six Months Ended June 30"
+      ],
+      "selected_rows_verified": 5
+    },
+    {
+      "ticker": "TSM",
+      "period_end": "2024-09-30",
+      "original_file": "TSM_2024-11-14.txt",
+      "filed_date_header_verified": "20241114",
+      "column_headers": [
+        "For the Three Months Ended September 30  For the Nine Months Ended September 30"
+      ],
+      "selected_rows_verified": 5
+    },
+    {
+      "ticker": "TSM",
+      "period_end": "2024-12-31",
+      "original_file": "TSM_2025-02-27_0001046179-25-000019.txt",
+      "filed_date_header_verified": "20250227",
+      "column_headers": [],
+      "selected_rows_verified": 5
+    },
+    {
+      "ticker": "TSM",
+      "period_end": "2025-03-31",
+      "original_file": "TSM_2025-05-15.txt",
+      "filed_date_header_verified": "20250515",
+      "column_headers": [],
+      "selected_rows_verified": 5
+    },
+    {
+      "ticker": "TSM",
+      "period_end": "2025-06-30",
+      "original_file": "TSM_2025-08-14.txt",
+      "filed_date_header_verified": "20250814",
+      "column_headers": [
+        "For the Three Months Ended June 30  For the Six Months Ended June 30"
+      ],
+      "selected_rows_verified": 5
+    },
+    {
+      "ticker": "TSM",
+      "period_end": "2025-09-30",
+      "original_file": "TSM_2025-11-14.txt",
+      "filed_date_header_verified": "20251114",
+      "column_headers": [
+        "For the Three Months Ended September 30  For the Nine Months Ended September 30"
+      ],
+      "selected_rows_verified": 5
+    },
+    {
+      "ticker": "TSM",
+      "period_end": "2025-12-31",
+      "original_file": "TSM_2026-02-26.txt",
+      "filed_date_header_verified": "20260226",
+      "column_headers": [],
+      "selected_rows_verified": 5
+    },
+    {
+      "ticker": "TSM",
+      "period_end": "2026-03-31",
+      "original_file": "TSM_2026-05-15.txt",
+      "filed_date_header_verified": "20260515",
+      "column_headers": [],
+      "selected_rows_verified": 5
+    },
+    {
+      "ticker": "TSM",
+      "period_end": "2026-06-30",
+      "original_file": "TSM_2026-08-14.txt",
+      "filed_date_header_verified": "20260814",
+      "column_headers": [
+        "For the Three Months Ended June 30  For the Six Months Ended June 30"
+      ],
+      "selected_rows_verified": 5
+    },
+    {
+      "ticker": "GEV",
+      "periods": [
+        "2022-12-31",
+        "2023-12-31"
+      ],
+      "source": "GEV_registration_exhibit.html",
+      "verified": "Actual combined statements on F-4/F-6/F-7, with group NI before NCI attribution. Earlier pro forma tables are not used.",
+      "values_by_year_2023_2022": {
+        "operating_income": [
+          -923.0,
+          -2881.0
+        ],
+        "net_income": [
+          -474.0,
+          -2722.0
+        ],
+        "operating_cash_flow": [
+          1186.0,
+          -114.0
+        ],
+        "total_assets": [
+          46121.0,
+          44471.0
+        ],
+        "current_liabilities": [
+          29306.0,
+          26042.0
+        ]
+      }
+    }
+  ],
+  "scope": "Read-only independent original HTML table-row extraction and SEC accession/date validation; no portfolio returns computed. TSM retains Taiwan-endorsed IFRS 6-K basis consistently rather than mixing 20-F accounting bases.",
+  "gev_raw_component_fields_checked": 74,
+  "gev_registration_publication_date_verified": true
+}

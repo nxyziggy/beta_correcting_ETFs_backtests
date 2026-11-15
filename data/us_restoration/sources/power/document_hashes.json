@@ -1,0 +1,182 @@
+[
+  {
+    "file": "be-20211231.htm",
+    "sha256": "dd983c77e6086131b546db78f967a67a92df29d575d8010c40d316a3b80da811",
+    "source": "https://www.sec.gov/Archives/edgar/data/1664703/000166470322000034/be-20211231.htm"
+  },
+  {
+    "file": "be-20220630.htm",
+    "sha256": "abf5eb943f96f5861bd857f87a48423e469063b1479dff3f6b98f8a78dc8e28c",
+    "source": "https://www.sec.gov/Archives/edgar/data/1664703/000166470322000068/be-20220630.htm"
+  },
+  {
+    "file": "be-20220930.htm",
+    "sha256": "80e41eba96fc1f1453bd6cac7cc3ea0eedfd396b7caa2927bd2dc0c9f533840e",
+    "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828022028193/be-20220930.htm"
+  },
+  {
+    "file": "be-20221231.htm",
+    "sha256": "fe890b237f9a79859067ee0426c354d4382ab2254a1be423f28f7f0e595bd8e3",
+    "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828023004301/be-20221231.htm"
+  },
+  {
+    "file": "be-20230331.htm",
+    "sha256": "e7d506a0a9cb2bceab5a8fd9276095bb9ece97b33a864a68101817fe37e13c08",
+    "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828023016818/be-20230331.htm"
+  },
+  {
+    "file": "be-20230630.htm",
+    "sha256": "0d46138df05b07f748b58bdf1593341a94a21ba427e36a0913c427762d2bf7ef",
+    "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828023027213/be-20230630.htm"
+  },
+  {
+    "file": "be-20230930.htm",
+    "sha256": "6044e7e28191cc23f9ce19dd20ebc890b46358bd07b41177b2ba30e33674b24f",
+    "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828023037836/be-20230930.htm"
+  },
+  {
+    "file": "be-20231231.htm",
+    "sha256": "3c6c135ed39dc85f80134d6f38847a5776269e4f699671f6f85f059220805e28",
+    "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828024005035/be-20231231.htm"
+  },
+  {
+    "file": "be-20240331.htm",
+    "sha256": "39dcb130fb6c42996df54950b3910853781d91a90048478496e1b8d570aeb644",
+    "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828024022309/be-20240331.htm"
+  },
+  {
+    "file": "be-20240630.htm",
+    "sha256": "8cc36c4fabf212cc5f046c52f18db79628d14c69a12c44e96adce913c9948404",
+    "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828024036219/be-20240630.htm"
+  },
+  {
+    "file": "be-20240930.htm",
+    "sha256": "e84bfe19c7ed8bf424c4de8d40e802c35205f433f96955e16b238612fef243f9",
+    "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828024046411/be-20240930.htm"
+  },
+  {
+    "file": "be-20241231.htm",
+    "sha256": "852aaa090448bc3cc23fae04c37566d3c6791396a215611b501430c95ffa523c",
+    "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025008747/be-20241231.htm"
+  },
+  {
+    "file": "be-20250331.htm",
+    "sha256": "a76cda46ca2ff11881d5fc9041c1df27e492d3bc7a820e2439566eb8fce0b164",
+    "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025021160/be-20250331.htm"
+  },
+  {
+    "file": "be-20250630.htm",
+    "sha256": "bbc78e5a11bc76a523f0896fecef26159709c5da93d04cddba796dd64f9d78cc",
+    "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025037074/be-20250630.htm"
+  },
+  {
+    "file": "be-20250930.htm",
+    "sha256": "d31993a624b88c1ae9396e1642ba2c9e00258c43cc444fa2c7244700c98ff177",
+    "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025046844/be-20250930.htm"
+  },
+  {
+    "file": "be-20251231.htm",
+    "sha256": "29b1560eb7ebff3cf6e9d17eca467db958d1434e8b496a07a3bb5daf943abf35",
+    "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026006516/be-20251231.htm"
+  },
+  {
+    "file": "be-20260331.htm",
+    "sha256": "2849159cf7abd733464f8f61b209682071cac0243749f22aecc2d2a1ed7d41c8",
+    "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026028021/be-20260331.htm"
+  },
+  {
+    "file": "be-20260630.htm",
+    "sha256": "c91d114bf33489181502838271f65f9cf35a92ac9f448ba5827d10a67ae72ef3",
+    "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026050247/be-20260630.htm"
+  },
+  {
+    "file": "etn-20211231.htm",
+    "sha256": "716f39e88d0f44e2b4e43bbfa84668532c3b0da6898e6183eff302a733a16beb",
+    "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118222000004/etn-20211231.htm"
+  },
+  {
+    "file": "etn-20220630.htm",
+    "sha256": "29e1cf05201ee76354841e86bf2b54b7fce72145248dc83fc870c974ec2d0979",
+    "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118222000020/etn-20220630.htm"
+  },
+  {
+    "file": "etn-20220930.htm",
+    "sha256": "2c34d03de836c83ecbf20af05bee528fe34ed5d9343bc81fceb4fba10bdfd712",
+    "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118222000024/etn-20220930.htm"
+  },
+  {
+    "file": "etn-20221231.htm",
+    "sha256": "381d34d7d989d3e580c46db42582d54cdc5e7f87b9f4b3ab8a3c6d89d3ce9633",
+    "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000004/etn-20221231.htm"
+  },
+  {
+    "file": "etn-20230331.htm",
+    "sha256": "833ff911ea87d0791c1c9b6446848a16d88e05b4f7991cbe87236574b9202b4b",
+    "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000008/etn-20230331.htm"
+  },
+  {
+    "file": "etn-20230630.htm",
+    "sha256": "0157ea5195b9ae8e2e20528f3c0c5ddca2b1ecfa82f58e3648e8bdc91aa576c3",
+    "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000024/etn-20230630.htm"
+  },
+  {
+    "file": "etn-20230930.htm",
+    "sha256": "749b6df0797be51a055ca058b477e8c8349bf395fcdc4c28ff05b2d67a3adca2",
+    "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000029/etn-20230930.htm"
+  },
+  {
+    "file": "etn-20231231.htm",
+    "sha256": "478913511215703e79835c1930fe96cd6a5ecd970d59cda32835f77b03814e78",
+    "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000006/etn-20231231.htm"
+  },
+  {
+    "file": "etn-20240331.htm",
+    "sha256": "2bf9dbde2c58d592a9901b31e4a8d03bc362f875ba0d0a0aba283aa6eb0aaccd",
+    "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000013/etn-20240331.htm"
+  },
+  {
+    "file": "etn-20240630.htm",
+    "sha256": "4db0b2eab73eb4bbdd9fb0f2e3e95dd002e6ed0fb6073a857c1c973b6d689f36",
+    "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000035/etn-20240630.htm"
+  },
+  {
+    "file": "etn-20240930.htm",
+    "sha256": "db27b648de3765c53cf3b49763bfcbbff955337f9337371aa285fe31c2e84eb9",
+    "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000041/etn-20240930.htm"
+  },
+  {
+    "file": "etn-20241231.htm",
+    "sha256": "da8444d4e2f9443282620fa489d91907a7e7178cf86a518af1773032a146804f",
+    "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000006/etn-20241231.htm"
+  },
+  {
+    "file": "etn-20250331.htm",
+    "sha256": "263208e94153b68ef9cb2fede14c2998aa54608dd18b34696eb21ec8f7d47a23",
+    "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000014/etn-20250331.htm"
+  },
+  {
+    "file": "etn-20250630.htm",
+    "sha256": "cfaaa9d0e0d953d5fd149f53dc607fd8676290214251e43880c82a65d3150613",
+    "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000028/etn-20250630.htm"
+  },
+  {
+    "file": "etn-20250930.htm",
+    "sha256": "b850b90b22862b1f4211601a56f1375720f65d807eb71ad760bdd134dfa65efe",
+    "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000036/etn-20250930.htm"
+  },
+  {
+    "file": "etn-20251231.htm",
+    "sha256": "7b28812d7405beba284a13c013d9e6ce1f767cb72331d8e1af42f5ab141da10f",
+    "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000007/etn-20251231.htm"
+  },
+  {
+    "file": "etn-20260331.htm",
+    "sha256": "8ddfeaf54bb252b83de544f6d41d6c9fac1b52c1f4b106c950a430c6d1477615",
+    "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000013/etn-20260331.htm"
+  },
+  {
+    "file": "etn-20260630.htm",
+    "sha256": "f5dcbae54a17bb956b9b9b08dc1b2fab69e350de4fdbcdf3a5b1904d45ac536d",
+    "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000030/etn-20260630.htm"
+  }
+]

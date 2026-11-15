@@ -1,0 +1,91 @@
+https://www.sec.gov/Archives/edgar/data/1551182/000155118222000020/etn-20220630.htm
+Filed 2022-08-02
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | Three months endedJune 30 |  | Six months ended June 30
+ | (In millions except for per share data) | 2022 |  | 2021 |  | 2022 |  | 2021
+ | Net sales | $ | 5,212  |  |  | $ | 5,215  |  |  | $ | 10,054  |  |  | $ | 9,907  | 
+ |  |  |  |  |  |  |  | 
+ | Cost of products sold | 3,505  |  |  | 3,545  |  |  | 6,774  |  |  | 6,729  | 
+ | Selling and administrative expense | 828  |  |  | 876  |  |  | 1,618  |  |  | 1,671  | 
+ |  |  |  |  |  |  |  | 
+ | Research and development expense | 168  |  |  | 154  |  |  | 333  |  |  | 302  | 
+ | Interest expense - net | 31  |  |  | 37  |  |  | 63  |  |  | 75  | 
+ | Gain on sale of business | —  |  |  | —  |  |  | 24  |  |  | —  | 
+ |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+ | Other income - net | (41) |  |  | (17) |  |  | (50) |  |  | (28) | 
+ | Income before income taxes | 720  |  |  | 620  |  |  | 1,339  |  |  | 1,158  | 
+ | Income tax expense | 119  |  |  | 114  |  |  | 205  |  |  | 193  | 
+ | Net income | 601  |  |  | 506  |  |  | 1,135  |  |  | 965  | 
+ | Less net income for noncontrolling interests | —  |  |  | —  |  |  | (1) |  |  | (1) | 
+ | Net income attributable to Eaton ordinary shareholders | $ | 601  |  |  | $ | 506  |  |  | $ | 1,133  |  |  | $ | 964  | 
+ |  |  |  |  |  |  |  | 
+ | Net income per share attributable to Eaton ordinary shareholders |   |  |   |  |  |  | 
+ | Diluted | $ | 1.50  |  |  | $ | 1.26  |  |  | $ | 2.82  |  |  | $ | 2.40  | 
+ | Basic | 1.51  |  |  | 1.27  |  |  | 2.84  |  |  | 2.42  | 
+ |  |  |  |  |  |  |  | 
+ | Weighted-average number of ordinary shares outstanding |   |  |   |  |  |  | 
+ | Diluted | 400.7  |  |  | 401.4  |  |  | 401.2  |  |  | 401.2  | 
+ | Basic | 399.0  |  |  | 398.8  |  |  | 399.1  |  |  | 398.6  | 
+ |  |  |  |  |  |  |  | 
+ | Cash dividends declared per ordinary share | $ | 0.81  |  |  | $ | 0.76  |  |  | $ | 1.62  |  |  | $ | 1.52  | 
+
+
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ | (In millions) | June 30,2022 |  | December 31,2021
+ | Assets |   |  |  
+ | Current assets |   |  |  
+ | Cash | $ | 364  |  |  | $ | 297  | 
+ | Short-term investments | 259  |  |  | 271  | 
+ | Accounts receivable - net | 3,837  |  |  | 3,297  | 
+ | Inventory | 3,445  |  |  | 2,969  | 
+ |  |  |  | 
+ | Prepaid expenses and other current assets | 781  |  |  | 677  | 
+ | Total current assets | 8,687  |  |  | 7,511  | 
+ |  |  |  | 
+ | Property, plant and equipment |  |  | 
+ | Land and buildings | 2,156  |  |  | 2,227  | 
+ | Machinery and equipment | 5,654  |  |  | 5,591  | 
+ | Gross property, plant and equipment | 7,810  |  |  | 7,818  | 
+ | Accumulated depreciation | (4,768) |  |  | (4,754) | 
+ | Net property, plant and equipment | 3,043  |  |  | 3,064  | 
+ |  |  |  | 
+ | Other noncurrent assets |  |  | 
+ | Goodwill | 14,805  |  |  | 14,751  | 
+ | Other intangible assets | 5,689  |  |  | 5,855  | 
+ |  |  |  | 
+ | Operating lease assets | 493  |  |  | 442  | 
+ | Deferred income taxes | 403  |  |  | 392  | 
+ | Other assets | 2,033  |  |  | 2,012  | 
+ | Total assets | $ | 35,153  |  |  | $ | 34,027  | 
+ |  |  |  | 
+ | Liabilities and shareholders’ equity |   |  |  
+ | Current liabilities |   |  |  
+ | Short-term debt | $ | 1,392  |  |  | $ | 13  | 
+ | Current portion of long-term debt | 2,030  |  |  | 1,735  | 
+ | Accounts payable | 3,013  |  |  | 2,797  | 
+ | Accrued compensation | 363  |  |  | 501  | 
+ |  |  |  | 
+ | Other current liabilities | 2,176  |  |  | 2,166  | 
+ | Total current liabilities | 8,974  |  |  | 7,212  | 
+ |  |  |  | 
+ | Noncurrent liabilities |   |  |  
+ | Long-term debt | 6,277  |  |  | 6,831  | 
+ | Pension liabilities | 772  |  |  | 872  | 
+ | Other postretirement benefits liabilities | 253  |  |  | 263  | 
+ | Operating lease liabilities | 386  |  |  | 337  | 
+ | Deferred income taxes | 628  |  |  | 559  | 
+ | Other noncurrent liabilities | 1,446  |  |  | 1,502  | 
+ | Total noncurrent liabilities | 9,762  |  |  | 10,364  | 
+ |  |  |  | 
+ | Shareholders’ equity |   |  |  
+ | Ordinary shares (398.3 million outstanding in 2022 and 398.8 million in 2021) | 4  |  |  | 4  | 
+ | Capital in excess of par value | 12,452  |  |  | 12,449  | 
+ | Retained earnings | 7,886  |  |  | 7,594  | 
+ | Accumulated other comprehensive loss | (3,961) |  |  | (3,633) | 
+ | Shares held in trust | (1) |  |  | (1) | 
+ | Total Eaton shareholders’ equity | 16,380  |  |  | 16,413  | 
+ | Noncontrolling interests | 36  |  |  | 38  | 
+ | Total equity | 16,416  |  |  | 16,451  | 
+ | Total liabilities and equity | $ | 35,153  |  |  | $ | 34,027  | 

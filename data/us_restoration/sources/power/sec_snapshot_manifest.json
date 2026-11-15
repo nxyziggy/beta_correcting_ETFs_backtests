@@ -1,0 +1,30 @@
+[
+  {
+    "ticker": "BE",
+    "kind": "facts",
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001664703.json",
+    "sha256": "7680d329aec9de53ab3ee6c1cf50ee373d586c21d9e719244bc1a6c00ccf6bf9",
+    "bytes": 2619451
+  },
+  {
+    "ticker": "BE",
+    "kind": "submissions",
+    "url": "https://data.sec.gov/submissions/CIK0001664703.json",
+    "sha256": "b5319319dfbe04d2b5ae8fc807c5cf1b9c54100b17bc781215f883ac2cba1263",
+    "bytes": 157912
+  },
+  {
+    "ticker": "ETN",
+    "kind": "facts",
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001551182.json",
+    "sha256": "c1ef3cbb7cc1226ff23bdd5c364f0923c23121844efb9d82d188fe2a667b2761",
+    "bytes": 2977595
+  },
+  {
+    "ticker": "ETN",
+    "kind": "submissions",
+    "url": "https://data.sec.gov/submissions/CIK0001551182.json",
+    "sha256": "b356df1dd1bd0f6cc55a20ed534bff0f5b8a520c64998f2b6a36910dce3eb553",
+    "bytes": 166973
+  }
+]

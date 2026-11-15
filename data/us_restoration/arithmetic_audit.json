@@ -1,0 +1,3259 @@
+[
+  {
+    "observation_id": "us_input_e33d14bc4f02aa548d8d",
+    "ticker": "BE",
+    "period_end": "2021-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_4eca4bee7ef646dde27b"
+    ],
+    "available": "2022-02-25",
+    "calculations": [],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ]
+  },
+  {
+    "observation_id": "us_input_18dd45e11f9e1097890e",
+    "ticker": "BE",
+    "period_end": "2022-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_f3b2d7550064bb40fdb7"
+    ],
+    "available": "2023-02-21",
+    "calculations": [],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ]
+  },
+  {
+    "observation_id": "us_input_df63922e9a374ce8d88f",
+    "ticker": "BE",
+    "period_end": "2023-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_c92d9c373b358dad0458"
+    ],
+    "available": "2024-02-15",
+    "calculations": [],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ]
+  },
+  {
+    "observation_id": "us_input_70ad7889a2b6b428607e",
+    "ticker": "BE",
+    "period_end": "2024-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_f4780ac0d7ad16df1d5d"
+    ],
+    "available": "2025-02-27",
+    "calculations": [],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ]
+  },
+  {
+    "observation_id": "us_input_91a165403b0f51f60241",
+    "ticker": "BE",
+    "period_end": "2025-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_965855b192feb1fc4a27"
+    ],
+    "available": "2026-02-09",
+    "calculations": [],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ]
+  },
+  {
+    "observation_id": "us_input_6614d01eb991b44ba438",
+    "ticker": "ETN",
+    "period_end": "2021-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_650478d973b5a270a41e"
+    ],
+    "available": "2022-02-23",
+    "calculations": [],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ]
+  },
+  {
+    "observation_id": "us_input_641514935506dcbe0762",
+    "ticker": "ETN",
+    "period_end": "2022-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_b1a62b9f92de15b8ab08"
+    ],
+    "available": "2023-02-23",
+    "calculations": [],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ]
+  },
+  {
+    "observation_id": "us_input_d7f99ac3e0719bd3e914",
+    "ticker": "ETN",
+    "period_end": "2023-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_a5c92f205449baed1a9a"
+    ],
+    "available": "2024-02-29",
+    "calculations": [],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ]
+  },
+  {
+    "observation_id": "us_input_5d74ced22a33ae39d4b4",
+    "ticker": "ETN",
+    "period_end": "2024-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_75b730322e36a32bff30"
+    ],
+    "available": "2025-02-27",
+    "calculations": [],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ]
+  },
+  {
+    "observation_id": "us_input_3afa0abf82bfd29bbe08",
+    "ticker": "ETN",
+    "period_end": "2025-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_53fe3c7b1ee5f1cf9ada"
+    ],
+    "available": "2026-02-26",
+    "calculations": [],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ]
+  },
+  {
+    "observation_id": "us_input_4856d4b378cf76e4bc18",
+    "ticker": "FSLR",
+    "period_end": "2021-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_a9bf950422d6f80a8b69"
+    ],
+    "available": "2022-03-01",
+    "calculations": [],
+    "notes": [
+      "Accession-specific current-period facts from original 10-K; subsequent comparative values are not backdated.",
+      "NetIncomeLoss is the consolidated net-income line; no separate noncontrolling-interest allocation is reported."
+    ]
+  },
+  {
+    "observation_id": "us_input_67e3efb54ae395606766",
+    "ticker": "FSLR",
+    "period_end": "2022-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_ee1ad4711f37eb1ba131"
+    ],
+    "available": "2023-02-28",
+    "calculations": [],
+    "notes": [
+      "Accession-specific current-period facts from original 10-K; subsequent comparative values are not backdated.",
+      "NetIncomeLoss is the consolidated net-income line; no separate noncontrolling-interest allocation is reported."
+    ]
+  },
+  {
+    "observation_id": "us_input_6b8ecf7f5c2bc27153fd",
+    "ticker": "FSLR",
+    "period_end": "2023-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_17fd6f7ea1953519614e"
+    ],
+    "available": "2024-02-27",
+    "calculations": [],
+    "notes": [
+      "Accession-specific current-period facts from original 10-K; subsequent comparative values are not backdated.",
+      "NetIncomeLoss is the consolidated net-income line; no separate noncontrolling-interest allocation is reported."
+    ]
+  },
+  {
+    "observation_id": "us_input_9a5e2e7470342f0947fa",
+    "ticker": "FSLR",
+    "period_end": "2024-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_99b7d10a9199d45bc8e7"
+    ],
+    "available": "2025-02-25",
+    "calculations": [],
+    "notes": [
+      "Accession-specific current-period facts from original 10-K; subsequent comparative values are not backdated.",
+      "NetIncomeLoss is the consolidated net-income line; no separate noncontrolling-interest allocation is reported."
+    ]
+  },
+  {
+    "observation_id": "us_input_ac0c541e72101cbd63a6",
+    "ticker": "FSLR",
+    "period_end": "2025-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_820f96f64b95c96d3b15"
+    ],
+    "available": "2026-02-24",
+    "calculations": [],
+    "notes": [
+      "Accession-specific current-period facts from original 10-K; subsequent comparative values are not backdated.",
+      "NetIncomeLoss is the consolidated net-income line; no separate noncontrolling-interest allocation is reported."
+    ]
+  },
+  {
+    "observation_id": "us_input_54311a713b1654c1aeb1",
+    "ticker": "GEV",
+    "period_end": "2022-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_9c7e048ea12bab9e6cec"
+    ],
+    "available": "2024-03-05",
+    "calculations": [],
+    "notes": [
+      "Actual combined financial statements, not pro forma, in March 5, 2024 public Form 10 amendment exhibit 99.1, pages F-4/F-6/F-7. Historical financial coverage does not permit trading before April 2, 2024 listing."
+    ]
+  },
+  {
+    "observation_id": "us_input_cfa8f7bd3ffbcb297781",
+    "ticker": "GEV",
+    "period_end": "2023-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_fd045e6bcadb4d2e50ac"
+    ],
+    "available": "2024-03-05",
+    "calculations": [],
+    "notes": [
+      "Actual combined financial statements, not pro forma, in March 5, 2024 public Form 10 amendment exhibit 99.1, pages F-4/F-6/F-7. Historical financial coverage does not permit trading before April 2, 2024 listing."
+    ]
+  },
+  {
+    "observation_id": "us_input_243b2ba722f500be8acd",
+    "ticker": "GEV",
+    "period_end": "2024-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_c779e843bf5aa442c428"
+    ],
+    "available": "2025-02-06",
+    "calculations": [],
+    "notes": [
+      "SEC original filing accession selected; USD facts divided by 1,000,000. ProfitLoss is group net income including noncontrolling interests, not parent-only NetIncomeLoss.",
+      "Contemporaneous YTD comparative flows reconcile with previously reported originals; prior annual flows are compatible."
+    ]
+  },
+  {
+    "observation_id": "us_input_614284aec79771da439b",
+    "ticker": "GEV",
+    "period_end": "2025-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_f3570d8c1f0ec5c1af6d"
+    ],
+    "available": "2026-01-29",
+    "calculations": [],
+    "notes": [
+      "SEC original filing accession selected; USD facts divided by 1,000,000. ProfitLoss is group net income including noncontrolling interests, not parent-only NetIncomeLoss.",
+      "Contemporaneous YTD comparative flows reconcile with previously reported originals; prior annual flows are compatible."
+    ]
+  },
+  {
+    "observation_id": "us_input_31e2a5a0bf79e771d2b3",
+    "ticker": "PLUG",
+    "period_end": "2021-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_495da1f2b01513c81bfb"
+    ],
+    "available": "2022-03-01",
+    "calculations": [],
+    "notes": [
+      "Accession-specific current-period facts from original 10-K; subsequent comparative values are not backdated.",
+      "Group net income uses ProfitLoss where noncontrolling interests exist. FY2021 NetIncomeLoss equals group net loss; the original 2021 statement has no separate noncontrolling-interest result, corroborated by the FY2022 group comparative."
+    ]
+  },
+  {
+    "observation_id": "us_input_cc0c7d75eaa8eac37d9b",
+    "ticker": "PLUG",
+    "period_end": "2022-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_738edff63134a9bfd866"
+    ],
+    "available": "2023-03-01",
+    "calculations": [],
+    "notes": [
+      "Accession-specific current-period facts from original 10-K; subsequent comparative values are not backdated.",
+      "Group net income uses ProfitLoss where noncontrolling interests exist. FY2021 NetIncomeLoss equals group net loss; the original 2021 statement has no separate noncontrolling-interest result, corroborated by the FY2022 group comparative."
+    ]
+  },
+  {
+    "observation_id": "us_input_61260f77d63a6dec1ef1",
+    "ticker": "PLUG",
+    "period_end": "2023-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_a5113e5e8858b135196a"
+    ],
+    "available": "2024-02-29",
+    "calculations": [],
+    "notes": [
+      "Accession-specific current-period facts from original 10-K; subsequent comparative values are not backdated.",
+      "Group net income uses ProfitLoss where noncontrolling interests exist. FY2021 NetIncomeLoss equals group net loss; the original 2021 statement has no separate noncontrolling-interest result, corroborated by the FY2022 group comparative."
+    ]
+  },
+  {
+    "observation_id": "us_input_59ce87145607527f7db6",
+    "ticker": "PLUG",
+    "period_end": "2024-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_890b9d0d92e05595d3a7"
+    ],
+    "available": "2025-03-03",
+    "calculations": [],
+    "notes": [
+      "Accession-specific current-period facts from original 10-K; subsequent comparative values are not backdated.",
+      "Group net income uses ProfitLoss where noncontrolling interests exist. FY2021 NetIncomeLoss equals group net loss; the original 2021 statement has no separate noncontrolling-interest result, corroborated by the FY2022 group comparative."
+    ]
+  },
+  {
+    "observation_id": "us_input_54c4b940d3197b497db6",
+    "ticker": "PLUG",
+    "period_end": "2025-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_1f37a1d0c7fd2dd22214"
+    ],
+    "available": "2026-03-02",
+    "calculations": [],
+    "notes": [
+      "Accession-specific current-period facts from original 10-K; subsequent comparative values are not backdated.",
+      "Group net income uses ProfitLoss where noncontrolling interests exist. FY2021 NetIncomeLoss equals group net loss; the original 2021 statement has no separate noncontrolling-interest result, corroborated by the FY2022 group comparative."
+    ]
+  },
+  {
+    "observation_id": "us_input_c128b7db9e71cd72924e",
+    "ticker": "TSM",
+    "period_end": "2021-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_d919ca63dcd5aec6c9d2"
+    ],
+    "available": "2022-02-25",
+    "calculations": [],
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ]
+  },
+  {
+    "observation_id": "us_input_ab681c8e08f515483997",
+    "ticker": "TSM",
+    "period_end": "2022-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_3004feddc4ef690e2a70"
+    ],
+    "available": "2023-02-24",
+    "calculations": [],
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ]
+  },
+  {
+    "observation_id": "us_input_a4d26207c1d1e66268af",
+    "ticker": "TSM",
+    "period_end": "2023-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_35ac3c65a17078658871"
+    ],
+    "available": "2024-02-29",
+    "calculations": [],
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ]
+  },
+  {
+    "observation_id": "us_input_20cef8750c2050a986f4",
+    "ticker": "TSM",
+    "period_end": "2024-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_caddf6d00cff59f70e0d"
+    ],
+    "available": "2025-02-27",
+    "calculations": [],
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ]
+  },
+  {
+    "observation_id": "us_input_73b702e2e86ca2864cae",
+    "ticker": "TSM",
+    "period_end": "2025-12-31",
+    "kind": "annual",
+    "source_ids": [
+      "us_source_671d43da85ccf147bf04"
+    ],
+    "available": "2026-02-26",
+    "calculations": [],
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ]
+  },
+  {
+    "observation_id": "us_input_62328244539969ae39a5",
+    "ticker": "BE",
+    "period_end": "2022-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_2d129a96312d3a39947b",
+      "us_annual_component_1f59e23431d3f477e0c1"
+    ],
+    "available": "2022-08-09",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -114.502,
+        "current_ytd": -167.832,
+        "prior_ytd": -57.108,
+        "value": -225.226
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -193.369,
+        "current_ytd": -203.912,
+        "prior_ytd": -88.202,
+        "value": -309.079
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": -60.681,
+        "current_ytd": -98.514,
+        "prior_ytd": -35.302,
+        "value": -123.893
+      }
+    ],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ]
+  },
+  {
+    "observation_id": "us_input_a92d5d67e05bdefd43a2",
+    "ticker": "BE",
+    "period_end": "2022-09-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_332d2f8e4ca2f0d87392",
+      "us_annual_component_1f59e23431d3f477e0c1"
+    ],
+    "available": "2022-11-03",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -114.502,
+        "current_ytd": -220.424,
+        "prior_ytd": -100.997,
+        "value": -233.92899999999997
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -193.369,
+        "current_ytd": -264.304,
+        "prior_ytd": -144.864,
+        "value": -312.80899999999997
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": -60.681,
+        "current_ytd": -168.453,
+        "prior_ytd": -107.956,
+        "value": -121.17800000000001
+      }
+    ],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "2021 nine-month cashflow comparative is -107.956 million versus -107.907 million in the original 2021 Q3 filing. Use the contemporaneous 2022 Q3 comparative; the 2021 audited annual cashflow (-60.681 million), published after original Q3, is unchanged in subsequent annual comparisons. The current filing states prior-period amounts were reclassified to conform to current presentation. The 0.049 million interim correction is not retroactively applied to any earlier score."
+    ]
+  },
+  {
+    "observation_id": "us_input_876f590edc608f95e3b2",
+    "ticker": "BE",
+    "period_end": "2023-03-31",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_12bc94dea9470844be4e",
+      "us_annual_component_53f49b4e4b5fef535666"
+    ],
+    "available": "2023-05-09",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -260.992,
+        "current_ytd": -63.681,
+        "prior_ytd": -65.659,
+        "value": -259.014
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -315.086,
+        "current_ytd": -74.917,
+        "prior_ytd": -82.747,
+        "value": -307.25600000000003
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": -191.723,
+        "current_ytd": -314.71,
+        "prior_ytd": -92.443,
+        "value": -413.99
+      }
+    ],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ]
+  },
+  {
+    "observation_id": "us_input_32cbd70ecb9894f0e044",
+    "ticker": "BE",
+    "period_end": "2023-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_f350266d0c89ea803d69",
+      "us_annual_component_53f49b4e4b5fef535666"
+    ],
+    "available": "2023-08-03",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -260.992,
+        "current_ytd": -118.137,
+        "prior_ytd": -167.832,
+        "value": -211.29700000000003
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -315.086,
+        "current_ytd": -143.976,
+        "prior_ytd": -203.912,
+        "value": -255.15
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": -191.723,
+        "current_ytd": -361.195,
+        "prior_ytd": -98.514,
+        "value": -454.404
+      }
+    ],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ]
+  },
+  {
+    "observation_id": "us_input_afa4306dcc1b5f94345c",
+    "ticker": "BE",
+    "period_end": "2023-09-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_e80391832d107394b896",
+      "us_annual_component_53f49b4e4b5fef535666"
+    ],
+    "available": "2023-11-08",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -260.992,
+        "current_ytd": -221.845,
+        "prior_ytd": -220.424,
+        "value": -262.413
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -315.086,
+        "current_ytd": -312.054,
+        "prior_ytd": -264.304,
+        "value": -362.836
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": -191.723,
+        "current_ytd": -494.364,
+        "prior_ytd": -168.453,
+        "value": -517.634
+      }
+    ],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ]
+  },
+  {
+    "observation_id": "us_input_61d8c72104037d192721",
+    "ticker": "BE",
+    "period_end": "2024-03-31",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_d9fb2a6b5f6d781d6f54",
+      "us_annual_component_5a6a5485690dec0f7325"
+    ],
+    "available": "2024-05-09",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -208.907,
+        "current_ytd": -49.017,
+        "prior_ytd": -63.681,
+        "value": -194.24300000000005
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -307.937,
+        "current_ytd": -56.543,
+        "prior_ytd": -74.917,
+        "value": -289.563
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": -372.531,
+        "current_ytd": -147.266,
+        "prior_ytd": -314.71,
+        "value": -205.08700000000005
+      }
+    ],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ]
+  },
+  {
+    "observation_id": "us_input_df38e49bb9794e3f25eb",
+    "ticker": "BE",
+    "period_end": "2024-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_d55c043df08a34f5fe2b",
+      "us_annual_component_5a6a5485690dec0f7325"
+    ],
+    "available": "2024-08-08",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -208.907,
+        "current_ytd": -72.145,
+        "prior_ytd": -118.137,
+        "value": -162.91500000000002
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -307.937,
+        "current_ytd": -117.728,
+        "prior_ytd": -143.976,
+        "value": -281.689
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": -372.531,
+        "current_ytd": -322.761,
+        "prior_ytd": -361.195,
+        "value": -334.09700000000004
+      }
+    ],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ]
+  },
+  {
+    "observation_id": "us_input_2c2fbac657f858ddb851",
+    "ticker": "BE",
+    "period_end": "2024-09-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_bb56cb92fdc00741f581",
+      "us_annual_component_5a6a5485690dec0f7325"
+    ],
+    "available": "2024-11-07",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -208.907,
+        "current_ytd": -81.797,
+        "prior_ytd": -221.845,
+        "value": -68.85900000000001
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -307.937,
+        "current_ytd": -132.36,
+        "prior_ytd": -312.054,
+        "value": -128.24300000000005
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": -372.531,
+        "current_ytd": -392.23,
+        "prior_ytd": -494.364,
+        "value": -270.397
+      }
+    ],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ]
+  },
+  {
+    "observation_id": "us_input_cb24071d781e6315e465",
+    "ticker": "BE",
+    "period_end": "2025-03-31",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_cbd1a49daf693351194f",
+      "us_annual_component_443e31b61e098b865501"
+    ],
+    "available": "2025-04-30",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 22.909,
+        "current_ytd": -19.07,
+        "prior_ytd": -49.017,
+        "value": 52.856
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -27.203,
+        "current_ytd": -23.414,
+        "prior_ytd": -56.543,
+        "value": 5.925999999999995
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 91.998,
+        "current_ytd": -110.682,
+        "prior_ytd": -147.266,
+        "value": 128.582
+      }
+    ],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ]
+  },
+  {
+    "observation_id": "us_input_3e8988d3e783efb1daf6",
+    "ticker": "BE",
+    "period_end": "2025-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_09fd84df3e5e239e41b4",
+      "us_annual_component_443e31b61e098b865501"
+    ],
+    "available": "2025-07-31",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 22.909,
+        "current_ytd": -22.573,
+        "prior_ytd": -72.145,
+        "value": 72.481
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -27.203,
+        "current_ytd": -65.606,
+        "prior_ytd": -117.728,
+        "value": 24.918999999999997
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 91.998,
+        "current_ytd": -323.793,
+        "prior_ytd": -322.761,
+        "value": 90.96600000000001
+      }
+    ],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ]
+  },
+  {
+    "observation_id": "us_input_f0bb4664858008ad17ab",
+    "ticker": "BE",
+    "period_end": "2025-09-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_1ec49c8127e55609970d",
+      "us_annual_component_443e31b61e098b865501"
+    ],
+    "available": "2025-10-28",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 22.909,
+        "current_ytd": -14.727,
+        "prior_ytd": -81.797,
+        "value": 89.979
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -27.203,
+        "current_ytd": -88.566,
+        "prior_ytd": -132.36,
+        "value": 16.591000000000008
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 91.998,
+        "current_ytd": -304.124,
+        "prior_ytd": -392.23,
+        "value": 180.10399999999998
+      }
+    ],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ]
+  },
+  {
+    "observation_id": "us_input_dbf675062f94d9a22323",
+    "ticker": "BE",
+    "period_end": "2026-03-31",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_a7ac68114eb6a173f9c9",
+      "us_annual_component_6128de35a6b3a69846fa"
+    ],
+    "available": "2026-04-29",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 72.802,
+        "current_ytd": 72.19,
+        "prior_ytd": -19.07,
+        "value": 164.062
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -87.14,
+        "current_ytd": 73.691,
+        "prior_ytd": -23.414,
+        "value": 9.965000000000003
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 113.949,
+        "current_ytd": 73.61,
+        "prior_ytd": -110.682,
+        "value": 298.241
+      }
+    ],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ]
+  },
+  {
+    "observation_id": "us_input_74f93db5116f92db9e18",
+    "ticker": "BE",
+    "period_end": "2026-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_e751e3bfa0f05672d800",
+      "us_annual_component_6128de35a6b3a69846fa"
+    ],
+    "available": "2026-07-28",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 72.802,
+        "current_ytd": 254.427,
+        "prior_ytd": -22.573,
+        "value": 349.80199999999996
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -87.14,
+        "current_ytd": 272.547,
+        "prior_ytd": -65.606,
+        "value": 251.01300000000003
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 113.949,
+        "current_ytd": 300.042,
+        "prior_ytd": -323.793,
+        "value": 737.784
+      }
+    ],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ]
+  },
+  {
+    "observation_id": "us_input_a87e14ae5b07aaf8a80c",
+    "ticker": "ETN",
+    "period_end": "2022-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_7be651bb9e90718854b4",
+      "us_annual_component_9b609992c05939ce7bae"
+    ],
+    "available": "2022-08-02",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 2463.0,
+        "current_ytd": 1329.0,
+        "prior_ytd": 1205.0,
+        "value": 2587.0
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 2146.0,
+        "current_ytd": 1135.0,
+        "prior_ytd": 965.0,
+        "value": 2316.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 2163.0,
+        "current_ytd": 382.0,
+        "prior_ytd": 897.0,
+        "value": 1648.0
+      }
+    ],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ]
+  },
+  {
+    "observation_id": "us_input_61ada26161a89b5ba41c",
+    "ticker": "ETN",
+    "period_end": "2022-09-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_43a9403593769446d098",
+      "us_annual_component_9b609992c05939ce7bae"
+    ],
+    "available": "2022-11-01",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 2463.0,
+        "current_ytd": 2120.0,
+        "prior_ytd": 1804.0,
+        "value": 2779.0
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 2146.0,
+        "current_ytd": 1743.0,
+        "prior_ytd": 1595.0,
+        "value": 2294.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 2163.0,
+        "current_ytd": 1347.0,
+        "prior_ytd": 1368.0,
+        "value": 2142.0
+      }
+    ],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ]
+  },
+  {
+    "observation_id": "us_input_dc085bb4115aab513e41",
+    "ticker": "ETN",
+    "period_end": "2023-03-31",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_990c75d9e4b19d6d0c8b",
+      "us_annual_component_e118bab436118e18612b"
+    ],
+    "available": "2023-05-02",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 2995.0,
+        "current_ytd": 801.0,
+        "prior_ytd": 619.0,
+        "value": 3177.0
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 2465.0,
+        "current_ytd": 639.0,
+        "prior_ytd": 533.0,
+        "value": 2571.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 2533.0,
+        "current_ytd": 335.0,
+        "prior_ytd": 42.0,
+        "value": 2826.0
+      }
+    ],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ]
+  },
+  {
+    "observation_id": "us_input_42cdaa08de0835e32f8c",
+    "ticker": "ETN",
+    "period_end": "2023-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_68ae6eb33555918dc99d",
+      "us_annual_component_e118bab436118e18612b"
+    ],
+    "available": "2023-08-01",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 2995.0,
+        "current_ytd": 1747.0,
+        "prior_ytd": 1329.0,
+        "value": 3413.0
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 2465.0,
+        "current_ytd": 1384.0,
+        "prior_ytd": 1135.0,
+        "value": 2714.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 2533.0,
+        "current_ytd": 1185.0,
+        "prior_ytd": 382.0,
+        "value": 3336.0
+      }
+    ],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ]
+  },
+  {
+    "observation_id": "us_input_ca6cdbb723e4c7f02373",
+    "ticker": "ETN",
+    "period_end": "2023-09-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_450d7487f832dd04c90f",
+      "us_annual_component_e118bab436118e18612b"
+    ],
+    "available": "2023-10-31",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 2995.0,
+        "current_ytd": 2807.0,
+        "prior_ytd": 2120.0,
+        "value": 3682.0
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 2465.0,
+        "current_ytd": 2277.0,
+        "prior_ytd": 1743.0,
+        "value": 2999.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 2533.0,
+        "current_ytd": 2326.0,
+        "prior_ytd": 1347.0,
+        "value": 3512.0
+      }
+    ],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ]
+  },
+  {
+    "observation_id": "us_input_0bd953901a25c7bf2965",
+    "ticker": "ETN",
+    "period_end": "2024-03-31",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_5a02ad7649e9d0aedf0d",
+      "us_annual_component_9cf6d193c1a0c1fc1418"
+    ],
+    "available": "2024-04-30",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 3885.0,
+        "current_ytd": 1004.0,
+        "prior_ytd": 801.0,
+        "value": 4088.0
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 3223.0,
+        "current_ytd": 822.0,
+        "prior_ytd": 639.0,
+        "value": 3406.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 3624.0,
+        "current_ytd": 475.0,
+        "prior_ytd": 335.0,
+        "value": 3764.0
+      }
+    ],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ]
+  },
+  {
+    "observation_id": "us_input_fcbe3b0a754b6ea7c075",
+    "ticker": "ETN",
+    "period_end": "2024-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_355ba59fa346bae676c4",
+      "us_annual_component_9cf6d193c1a0c1fc1418"
+    ],
+    "available": "2024-08-01",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 3885.0,
+        "current_ytd": 2197.0,
+        "prior_ytd": 1747.0,
+        "value": 4335.0
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 3223.0,
+        "current_ytd": 1816.0,
+        "prior_ytd": 1384.0,
+        "value": 3655.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 3624.0,
+        "current_ytd": 1421.0,
+        "prior_ytd": 1185.0,
+        "value": 3860.0
+      }
+    ],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ]
+  },
+  {
+    "observation_id": "us_input_9aa704c466bcda2829ac",
+    "ticker": "ETN",
+    "period_end": "2024-09-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_6ad684eab0bc0549c456",
+      "us_annual_component_9cf6d193c1a0c1fc1418"
+    ],
+    "available": "2024-10-31",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 3885.0,
+        "current_ytd": 3407.0,
+        "prior_ytd": 2807.0,
+        "value": 4485.0
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 3223.0,
+        "current_ytd": 2827.0,
+        "prior_ytd": 2277.0,
+        "value": 3773.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 3624.0,
+        "current_ytd": 2730.0,
+        "prior_ytd": 2326.0,
+        "value": 4028.0
+      }
+    ],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ]
+  },
+  {
+    "observation_id": "us_input_b1c40c1166156094368c",
+    "ticker": "ETN",
+    "period_end": "2025-03-31",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_3ddb98a3f6c844365a01",
+      "us_annual_component_4e63fb12a087c4440e7a"
+    ],
+    "available": "2025-05-02",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 4632.0,
+        "current_ytd": 1201.0,
+        "prior_ytd": 1004.0,
+        "value": 4829.0
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 3798.0,
+        "current_ytd": 965.0,
+        "prior_ytd": 822.0,
+        "value": 3941.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 4327.0,
+        "current_ytd": 238.0,
+        "prior_ytd": 475.0,
+        "value": 4090.0
+      }
+    ],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ]
+  },
+  {
+    "observation_id": "us_input_c8cbad081d6a1dcaeea0",
+    "ticker": "ETN",
+    "period_end": "2025-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_084baf6f050ac3e2395d",
+      "us_annual_component_4e63fb12a087c4440e7a"
+    ],
+    "available": "2025-08-05",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 4632.0,
+        "current_ytd": 2456.0,
+        "prior_ytd": 2197.0,
+        "value": 4891.0
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 3798.0,
+        "current_ytd": 1947.0,
+        "prior_ytd": 1816.0,
+        "value": 3929.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 4327.0,
+        "current_ytd": 1156.0,
+        "prior_ytd": 1421.0,
+        "value": 4062.0
+      }
+    ],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ]
+  },
+  {
+    "observation_id": "us_input_2230831ab978a2438c38",
+    "ticker": "ETN",
+    "period_end": "2025-09-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_ad5e1cfb1420b5ab162c",
+      "us_annual_component_4e63fb12a087c4440e7a"
+    ],
+    "available": "2025-11-04",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 4632.0,
+        "current_ytd": 3823.0,
+        "prior_ytd": 3407.0,
+        "value": 5048.0
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 3798.0,
+        "current_ytd": 2958.0,
+        "prior_ytd": 2827.0,
+        "value": 3929.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 4327.0,
+        "current_ytd": 2507.0,
+        "prior_ytd": 2730.0,
+        "value": 4104.0
+      }
+    ],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ]
+  },
+  {
+    "observation_id": "us_input_298a1b38dfa3d47b8a01",
+    "ticker": "ETN",
+    "period_end": "2026-03-31",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_ccee6ead52b15c16fc77",
+      "us_annual_component_ce32fb2521344291976f"
+    ],
+    "available": "2026-05-05",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 5209.0,
+        "current_ytd": 1172.0,
+        "prior_ytd": 1201.0,
+        "value": 5180.0
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 4090.0,
+        "current_ytd": 868.0,
+        "prior_ytd": 965.0,
+        "value": 3993.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 4472.0,
+        "current_ytd": 507.0,
+        "prior_ytd": 238.0,
+        "value": 4741.0
+      }
+    ],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ]
+  },
+  {
+    "observation_id": "us_input_98f2adaa3478c8d7dcb8",
+    "ticker": "ETN",
+    "period_end": "2026-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_17c27262a763c7c4b993",
+      "us_annual_component_ce32fb2521344291976f"
+    ],
+    "available": "2026-07-31",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 5209.0,
+        "current_ytd": 2563.0,
+        "prior_ytd": 2456.0,
+        "value": 5316.0
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 4090.0,
+        "current_ytd": 1690.0,
+        "prior_ytd": 1947.0,
+        "value": 3833.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 4472.0,
+        "current_ytd": 1634.0,
+        "prior_ytd": 1156.0,
+        "value": 4950.0
+      }
+    ],
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ]
+  },
+  {
+    "observation_id": "us_input_7985824dfd7e0fdc244a",
+    "ticker": "FSLR",
+    "period_end": "2022-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_205d0ee5daec32e1ead0",
+      "us_annual_component_1b92963a7636ffdcf8ba"
+    ],
+    "available": "2022-07-29",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 586.751,
+        "current_ytd": 87.023,
+        "prior_ytd": 362.725,
+        "value": 311.049
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 468.693,
+        "current_ytd": 12.55,
+        "prior_ytd": 292.12,
+        "value": 189.123
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 237.559,
+        "current_ytd": -50.821,
+        "prior_ytd": -102.229,
+        "value": 288.967
+      }
+    ],
+    "notes": [
+      "Current and comparative YTD flows selected from the same original 10-Q accession; all three comparative YTD values reconcile to their original prior-year filings.",
+      "Prior annual uses the already-filed original preceding-year 10-K. No accounting-basis adjustment is required for these selected flows."
+    ]
+  },
+  {
+    "observation_id": "us_input_9bb935b65207ff4c47aa",
+    "ticker": "FSLR",
+    "period_end": "2022-09-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_857f9afeaa3beeb531a7",
+      "us_annual_component_1b92963a7636ffdcf8ba"
+    ],
+    "available": "2022-10-28",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 586.751,
+        "current_ytd": 18.67,
+        "prior_ytd": 413.592,
+        "value": 191.82899999999995
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 468.693,
+        "current_ytd": -36.618,
+        "prior_ytd": 337.323,
+        "value": 94.75200000000001
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 237.559,
+        "current_ytd": 78.154,
+        "prior_ytd": 203.092,
+        "value": 112.62099999999995
+      }
+    ],
+    "notes": [
+      "Current and comparative YTD flows selected from the same original 10-Q accession; all three comparative YTD values reconcile to their original prior-year filings.",
+      "Prior annual uses the already-filed original preceding-year 10-K. No accounting-basis adjustment is required for these selected flows."
+    ]
+  },
+  {
+    "observation_id": "us_input_377857192551717acec5",
+    "ticker": "FSLR",
+    "period_end": "2023-03-31",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_5671c0e01d12433a36d3",
+      "us_annual_component_5649aececeae78fcf95d"
+    ],
+    "available": "2023-04-27",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -27.236,
+        "current_ytd": 18.002,
+        "prior_ytd": -57.804,
+        "value": 48.57
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -44.166,
+        "current_ytd": 42.561,
+        "prior_ytd": -43.255,
+        "value": 41.650000000000006
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 873.369,
+        "current_ytd": -34.598,
+        "prior_ytd": -138.839,
+        "value": 977.6100000000001
+      }
+    ],
+    "notes": [
+      "Current and comparative YTD flows selected from the same original 10-Q accession; all three comparative YTD values reconcile to their original prior-year filings.",
+      "Prior annual uses the already-filed original preceding-year 10-K. No accounting-basis adjustment is required for these selected flows."
+    ]
+  },
+  {
+    "observation_id": "us_input_83ed3964a962d4fc2be0",
+    "ticker": "FSLR",
+    "period_end": "2023-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_954c7f1c3643c63eaa44",
+      "us_annual_component_5649aececeae78fcf95d"
+    ],
+    "available": "2023-07-27",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -27.236,
+        "current_ytd": 186.517,
+        "prior_ytd": 87.023,
+        "value": 72.25800000000001
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -44.166,
+        "current_ytd": 213.14,
+        "prior_ytd": 12.55,
+        "value": 156.42399999999998
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 873.369,
+        "current_ytd": -124.276,
+        "prior_ytd": -50.821,
+        "value": 799.9140000000001
+      }
+    ],
+    "notes": [
+      "Current and comparative YTD flows selected from the same original 10-Q accession; all three comparative YTD values reconcile to their original prior-year filings.",
+      "Prior annual uses the already-filed original preceding-year 10-K. No accounting-basis adjustment is required for these selected flows."
+    ]
+  },
+  {
+    "observation_id": "us_input_c79ed80ca4be6093cb90",
+    "ticker": "FSLR",
+    "period_end": "2023-09-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_f2b2ee997804a6ab5ecc",
+      "us_annual_component_5649aececeae78fcf95d"
+    ],
+    "available": "2023-10-31",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -27.236,
+        "current_ytd": 459.482,
+        "prior_ytd": 18.67,
+        "value": 413.576
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -44.166,
+        "current_ytd": 481.538,
+        "prior_ytd": -36.618,
+        "value": 473.99
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 873.369,
+        "current_ytd": 41.151,
+        "prior_ytd": 78.154,
+        "value": 836.366
+      }
+    ],
+    "notes": [
+      "Current and comparative YTD flows selected from the same original 10-Q accession; all three comparative YTD values reconcile to their original prior-year filings.",
+      "Prior annual uses the already-filed original preceding-year 10-K. No accounting-basis adjustment is required for these selected flows."
+    ]
+  },
+  {
+    "observation_id": "us_input_a063ca4be80ac3bc6556",
+    "ticker": "FSLR",
+    "period_end": "2024-03-31",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_921cbf692b4b80998ebd",
+      "us_annual_component_14632489247225613e4c"
+    ],
+    "available": "2024-05-01",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 857.266,
+        "current_ytd": 243.141,
+        "prior_ytd": 18.002,
+        "value": 1082.405
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 830.777,
+        "current_ytd": 236.616,
+        "prior_ytd": 42.561,
+        "value": 1024.832
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 602.26,
+        "current_ytd": 267.723,
+        "prior_ytd": -34.598,
+        "value": 904.5809999999999
+      }
+    ],
+    "notes": [
+      "Current and comparative YTD flows selected from the same original 10-Q accession; all three comparative YTD values reconcile to their original prior-year filings.",
+      "Prior annual uses the already-filed original preceding-year 10-K. No accounting-basis adjustment is required for these selected flows."
+    ]
+  },
+  {
+    "observation_id": "us_input_d998b9dcaedccc3cc24e",
+    "ticker": "FSLR",
+    "period_end": "2024-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_b7246cec3d6ad43df97c",
+      "us_annual_component_14632489247225613e4c"
+    ],
+    "available": "2024-07-30",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 857.266,
+        "current_ytd": 615.652,
+        "prior_ytd": 186.517,
+        "value": 1286.401
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 830.777,
+        "current_ytd": 585.972,
+        "prior_ytd": 213.14,
+        "value": 1203.609
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 602.26,
+        "current_ytd": 460.737,
+        "prior_ytd": -124.276,
+        "value": 1187.2730000000001
+      }
+    ],
+    "notes": [
+      "Current and comparative YTD flows selected from the same original 10-Q accession; all three comparative YTD values reconcile to their original prior-year filings.",
+      "Prior annual uses the already-filed original preceding-year 10-K. No accounting-basis adjustment is required for these selected flows."
+    ]
+  },
+  {
+    "observation_id": "us_input_cbc015c50d335efe04cc",
+    "ticker": "FSLR",
+    "period_end": "2024-09-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_fc2d996016e17a6761bd",
+      "us_annual_component_14632489247225613e4c"
+    ],
+    "available": "2024-10-29",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 857.266,
+        "current_ytd": 937.651,
+        "prior_ytd": 459.482,
+        "value": 1335.435
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 830.777,
+        "current_ytd": 898.928,
+        "prior_ytd": 481.538,
+        "value": 1248.167
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 602.26,
+        "current_ytd": 407.003,
+        "prior_ytd": 41.151,
+        "value": 968.112
+      }
+    ],
+    "notes": [
+      "Current and comparative YTD flows selected from the same original 10-Q accession; all three comparative YTD values reconcile to their original prior-year filings.",
+      "Prior annual uses the already-filed original preceding-year 10-K. No accounting-basis adjustment is required for these selected flows."
+    ]
+  },
+  {
+    "observation_id": "us_input_37f06cafd40b0acb2c40",
+    "ticker": "FSLR",
+    "period_end": "2025-03-31",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_2edb0e918a0250e87f8b",
+      "us_annual_component_e7a26e18bbac3dfd8ddb"
+    ],
+    "available": "2025-04-29",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 1394.42,
+        "current_ytd": 221.244,
+        "prior_ytd": 243.141,
+        "value": 1372.523
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 1292.044,
+        "current_ytd": 209.535,
+        "prior_ytd": 236.616,
+        "value": 1264.9630000000002
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 1217.999,
+        "current_ytd": -607.982,
+        "prior_ytd": 267.723,
+        "value": 342.29400000000004
+      }
+    ],
+    "notes": [
+      "Current and comparative YTD flows selected from the same original 10-Q accession; all three comparative YTD values reconcile to their original prior-year filings.",
+      "Prior annual uses the already-filed original preceding-year 10-K. No accounting-basis adjustment is required for these selected flows."
+    ]
+  },
+  {
+    "observation_id": "us_input_584fa948930dfd92dffa",
+    "ticker": "FSLR",
+    "period_end": "2025-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_09c94bcb6535fa2f69a9",
+      "us_annual_component_e7a26e18bbac3dfd8ddb"
+    ],
+    "available": "2025-07-31",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 1394.42,
+        "current_ytd": 582.851,
+        "prior_ytd": 615.652,
+        "value": 1361.6190000000001
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 1292.044,
+        "current_ytd": 551.403,
+        "prior_ytd": 585.972,
+        "value": 1257.4750000000001
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 1217.999,
+        "current_ytd": -458.405,
+        "prior_ytd": 460.737,
+        "value": 298.857
+      }
+    ],
+    "notes": [
+      "Current and comparative YTD flows selected from the same original 10-Q accession; all three comparative YTD values reconcile to their original prior-year filings.",
+      "Prior annual uses the already-filed original preceding-year 10-K. No accounting-basis adjustment is required for these selected flows."
+    ]
+  },
+  {
+    "observation_id": "us_input_ffac9629fbe06bf5ade7",
+    "ticker": "FSLR",
+    "period_end": "2025-09-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_08f5e1723b3c1b4783e7",
+      "us_annual_component_e7a26e18bbac3dfd8ddb"
+    ],
+    "available": "2025-10-30",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 1394.42,
+        "current_ytd": 1048.946,
+        "prior_ytd": 937.651,
+        "value": 1505.7150000000001
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 1292.044,
+        "current_ytd": 1007.346,
+        "prior_ytd": 898.928,
+        "value": 1400.4620000000004
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 1217.999,
+        "current_ytd": 815.212,
+        "prior_ytd": 407.003,
+        "value": 1626.208
+      }
+    ],
+    "notes": [
+      "Current and comparative YTD flows selected from the same original 10-Q accession; all three comparative YTD values reconcile to their original prior-year filings.",
+      "Prior annual uses the already-filed original preceding-year 10-K. No accounting-basis adjustment is required for these selected flows."
+    ]
+  },
+  {
+    "observation_id": "us_input_3e1a9456ae6d55341500",
+    "ticker": "FSLR",
+    "period_end": "2026-03-31",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_9afdbe1e2478c1205395",
+      "us_annual_component_e30a76dafc1d0f0f640a"
+    ],
+    "available": "2026-04-30",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 1596.864,
+        "current_ytd": 345.303,
+        "prior_ytd": 221.244,
+        "value": 1720.923
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 1528.229,
+        "current_ytd": 346.619,
+        "prior_ytd": 209.535,
+        "value": 1665.3129999999999
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 2057.105,
+        "current_ytd": -214.866,
+        "prior_ytd": -607.982,
+        "value": 2450.221
+      }
+    ],
+    "notes": [
+      "Current and comparative YTD flows selected from the same original 10-Q accession; all three comparative YTD values reconcile to their original prior-year filings.",
+      "Prior annual uses the already-filed original preceding-year 10-K. No accounting-basis adjustment is required for these selected flows."
+    ]
+  },
+  {
+    "observation_id": "us_input_b7eac6faf2dd5c663a3b",
+    "ticker": "FSLR",
+    "period_end": "2026-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_1d4300d21d7bc1831d2c",
+      "us_annual_component_e30a76dafc1d0f0f640a"
+    ],
+    "available": "2026-07-30",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 1596.864,
+        "current_ytd": 795.689,
+        "prior_ytd": 582.851,
+        "value": 1809.7019999999998
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 1528.229,
+        "current_ytd": 769.188,
+        "prior_ytd": 551.403,
+        "value": 1746.014
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 2057.105,
+        "current_ytd": -359.767,
+        "prior_ytd": -458.405,
+        "value": 2155.743
+      }
+    ],
+    "notes": [
+      "Current and comparative YTD flows selected from the same original 10-Q accession; all three comparative YTD values reconcile to their original prior-year filings.",
+      "Prior annual uses the already-filed original preceding-year 10-K. No accounting-basis adjustment is required for these selected flows."
+    ]
+  },
+  {
+    "observation_id": "us_input_582225f30aa49b1ff8f8",
+    "ticker": "GEV",
+    "period_end": "2024-03-31",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_937a69cb234872ca7654",
+      "us_annual_component_84f0616b6b85ab110d1a"
+    ],
+    "available": "2024-04-30",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -923.0,
+        "current_ytd": -289.0,
+        "prior_ytd": -469.0,
+        "value": -743.0
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -474.0,
+        "current_ytd": -106.0,
+        "prior_ytd": -346.0,
+        "value": -234.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 1186.0,
+        "current_ytd": -444.0,
+        "prior_ytd": -690.0,
+        "value": 1432.0
+      }
+    ],
+    "notes": [
+      "SEC original filing accession selected; USD facts divided by 1,000,000. ProfitLoss is group net income including noncontrolling interests, not parent-only NetIncomeLoss.",
+      "Contemporaneous YTD comparative flows reconcile with previously reported originals; prior annual flows are compatible."
+    ]
+  },
+  {
+    "observation_id": "us_input_4a5a4aabe8e210224006",
+    "ticker": "GEV",
+    "period_end": "2024-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_3a12fca09c299d43c1fc",
+      "us_annual_component_84f0616b6b85ab110d1a"
+    ],
+    "available": "2024-07-24",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -923.0,
+        "current_ytd": 238.0,
+        "prior_ytd": -811.0,
+        "value": 126.0
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -474.0,
+        "current_ytd": 1174.0,
+        "prior_ytd": -495.0,
+        "value": 1195.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 1186.0,
+        "current_ytd": 535.0,
+        "prior_ytd": -978.0,
+        "value": 2699.0
+      }
+    ],
+    "notes": [
+      "SEC original filing accession selected; USD facts divided by 1,000,000. ProfitLoss is group net income including noncontrolling interests, not parent-only NetIncomeLoss.",
+      "Contemporaneous YTD comparative flows reconcile with previously reported originals; prior annual flows are compatible."
+    ]
+  },
+  {
+    "observation_id": "us_input_0e80e92e759a71b4faab",
+    "ticker": "GEV",
+    "period_end": "2024-09-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_a304deb7f13efe2c3d6d",
+      "us_annual_component_84f0616b6b85ab110d1a"
+    ],
+    "available": "2024-10-23",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -923.0,
+        "current_ytd": -122.0,
+        "prior_ytd": -1118.0,
+        "value": 73.0
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -474.0,
+        "current_ytd": 1075.0,
+        "prior_ytd": -680.0,
+        "value": 1281.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 1186.0,
+        "current_ytd": 1662.0,
+        "prior_ytd": -745.0,
+        "value": 3593.0
+      }
+    ],
+    "notes": [
+      "SEC original filing accession selected; USD facts divided by 1,000,000. ProfitLoss is group net income including noncontrolling interests, not parent-only NetIncomeLoss.",
+      "Contemporaneous YTD comparative flows reconcile with previously reported originals; prior annual flows are compatible."
+    ]
+  },
+  {
+    "observation_id": "us_input_4991ee0785f0c1b43207",
+    "ticker": "GEV",
+    "period_end": "2025-03-31",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_ba51428aba59a39a783a",
+      "us_annual_component_ab914355075cd7f0e15e"
+    ],
+    "available": "2025-04-23",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 471.0,
+        "current_ytd": 43.0,
+        "prior_ytd": -289.0,
+        "value": 803.0
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 1559.0,
+        "current_ytd": 264.0,
+        "prior_ytd": -106.0,
+        "value": 1929.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 2583.0,
+        "current_ytd": 1161.0,
+        "prior_ytd": -444.0,
+        "value": 4188.0
+      }
+    ],
+    "notes": [
+      "SEC original filing accession selected; USD facts divided by 1,000,000. ProfitLoss is group net income including noncontrolling interests, not parent-only NetIncomeLoss.",
+      "Contemporaneous YTD comparative flows reconcile with previously reported originals; prior annual flows are compatible."
+    ]
+  },
+  {
+    "observation_id": "us_input_d040b8ce30d3cf8e42b1",
+    "ticker": "GEV",
+    "period_end": "2025-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_523d1200804f88ea104e",
+      "us_annual_component_ab914355075cd7f0e15e"
+    ],
+    "available": "2025-07-23",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 471.0,
+        "current_ytd": 421.0,
+        "prior_ytd": 238.0,
+        "value": 654.0
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 1559.0,
+        "current_ytd": 756.0,
+        "prior_ytd": 1174.0,
+        "value": 1141.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 2583.0,
+        "current_ytd": 1528.0,
+        "prior_ytd": 535.0,
+        "value": 3576.0
+      }
+    ],
+    "notes": [
+      "SEC original filing accession selected; USD facts divided by 1,000,000. ProfitLoss is group net income including noncontrolling interests, not parent-only NetIncomeLoss.",
+      "Contemporaneous YTD comparative flows reconcile with previously reported originals; prior annual flows are compatible."
+    ]
+  },
+  {
+    "observation_id": "us_input_bd210883c862b328d418",
+    "ticker": "GEV",
+    "period_end": "2025-09-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_a2bb578d0aff97c8d2d2",
+      "us_annual_component_ab914355075cd7f0e15e"
+    ],
+    "available": "2025-10-22",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 471.0,
+        "current_ytd": 787.0,
+        "prior_ytd": -122.0,
+        "value": 1380.0
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 1559.0,
+        "current_ytd": 1209.0,
+        "prior_ytd": 1075.0,
+        "value": 1693.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 2583.0,
+        "current_ytd": 2508.0,
+        "prior_ytd": 1662.0,
+        "value": 3429.0
+      }
+    ],
+    "notes": [
+      "SEC original filing accession selected; USD facts divided by 1,000,000. ProfitLoss is group net income including noncontrolling interests, not parent-only NetIncomeLoss.",
+      "Contemporaneous YTD comparative flows reconcile with previously reported originals; prior annual flows are compatible."
+    ]
+  },
+  {
+    "observation_id": "us_input_c59af60d03901b67738f",
+    "ticker": "GEV",
+    "period_end": "2026-03-31",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_6478ef12f7f88ac7ddc0",
+      "us_annual_component_720d136af63194710147"
+    ],
+    "available": "2026-04-22",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 1388.0,
+        "current_ytd": 179.0,
+        "prior_ytd": 43.0,
+        "value": 1524.0
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 4879.0,
+        "current_ytd": 4750.0,
+        "prior_ytd": 264.0,
+        "value": 9365.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 4987.0,
+        "current_ytd": 5188.0,
+        "prior_ytd": 1161.0,
+        "value": 9014.0
+      }
+    ],
+    "notes": [
+      "SEC original filing accession selected; USD facts divided by 1,000,000. ProfitLoss is group net income including noncontrolling interests, not parent-only NetIncomeLoss.",
+      "Contemporaneous YTD comparative flows reconcile with previously reported originals; prior annual flows are compatible."
+    ]
+  },
+  {
+    "observation_id": "us_input_40416233712faea2ae71",
+    "ticker": "GEV",
+    "period_end": "2026-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_900b5e264ab8d8ca8f4b",
+      "us_annual_component_720d136af63194710147"
+    ],
+    "available": "2026-07-22",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 1388.0,
+        "current_ytd": 833.0,
+        "prior_ytd": 421.0,
+        "value": 1800.0
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 4879.0,
+        "current_ytd": 5398.0,
+        "prior_ytd": 756.0,
+        "value": 9521.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 4987.0,
+        "current_ytd": 10680.0,
+        "prior_ytd": 1528.0,
+        "value": 14139.0
+      }
+    ],
+    "notes": [
+      "SEC original filing accession selected; USD facts divided by 1,000,000. ProfitLoss is group net income including noncontrolling interests, not parent-only NetIncomeLoss.",
+      "Contemporaneous YTD comparative flows reconcile with previously reported originals; prior annual flows are compatible."
+    ]
+  },
+  {
+    "observation_id": "us_input_e530e59cb32c1866973f",
+    "ticker": "PLUG",
+    "period_end": "2022-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_2c1f0145aa5220005733",
+      "us_annual_component_77c737effcdcf06e5f3c"
+    ],
+    "available": "2022-08-09",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -437.324,
+        "current_ytd": -286.07,
+        "prior_ytd": -137.919,
+        "value": -585.475
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -459.965,
+        "current_ytd": -329.785,
+        "prior_ytd": -160.38,
+        "value": -629.37
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": -358.176,
+        "current_ytd": -405.113,
+        "prior_ytd": -246.635,
+        "value": -516.654
+      }
+    ],
+    "notes": [
+      "Current and comparative YTD flows selected from the same original 10-Q accession; all three comparative YTD values reconcile to their original prior-year filings.",
+      "Prior annual uses the already-filed original preceding-year 10-K. No accounting-basis adjustment is required for these selected flows.",
+      "Net income includes noncontrolling interests (ProfitLoss). Prior-year 2021 group comparatives equal original NetIncomeLoss values."
+    ]
+  },
+  {
+    "observation_id": "us_input_7c5573602eb89c22ad57",
+    "ticker": "PLUG",
+    "period_end": "2022-09-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_846a23291c07b564c40a",
+      "us_annual_component_77c737effcdcf06e5f3c"
+    ],
+    "available": "2022-11-08",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -437.324,
+        "current_ytd": -445.816,
+        "prior_ytd": -236.582,
+        "value": -646.558
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -459.965,
+        "current_ytd": -500.543,
+        "prior_ytd": -267.051,
+        "value": -693.4570000000001
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": -358.176,
+        "current_ytd": -522.049,
+        "prior_ytd": -348.501,
+        "value": -531.7239999999999
+      }
+    ],
+    "notes": [
+      "Current and comparative YTD flows selected from the same original 10-Q accession; all three comparative YTD values reconcile to their original prior-year filings.",
+      "Prior annual uses the already-filed original preceding-year 10-K. No accounting-basis adjustment is required for these selected flows.",
+      "Net income includes noncontrolling interests (ProfitLoss). Prior-year 2021 group comparatives equal original NetIncomeLoss values."
+    ]
+  },
+  {
+    "observation_id": "us_input_302d1c21732a0a407be2",
+    "ticker": "PLUG",
+    "period_end": "2023-03-31",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_1628a0eae102a74aa923",
+      "us_annual_component_8158a8f33612ef01903c"
+    ],
+    "available": "2023-05-09",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -679.55,
+        "current_ytd": -209.799,
+        "prior_ytd": -139.161,
+        "value": -750.1879999999999
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -724.008,
+        "current_ytd": -206.561,
+        "prior_ytd": -156.489,
+        "value": -774.08
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": -828.623,
+        "current_ytd": -276.919,
+        "prior_ytd": -209.919,
+        "value": -895.6229999999999
+      }
+    ],
+    "notes": [
+      "Current and comparative YTD flows selected from the same original 10-Q accession; all three comparative YTD values reconcile to their original prior-year filings.",
+      "Prior annual uses the already-filed original preceding-year 10-K. No accounting-basis adjustment is required for these selected flows.",
+      "Net income includes noncontrolling interests (ProfitLoss). Prior-year 2021 group comparatives equal original NetIncomeLoss values."
+    ]
+  },
+  {
+    "observation_id": "us_input_51ce4c896532c662aa08",
+    "ticker": "PLUG",
+    "period_end": "2023-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_5aa7272d67dc4ca80668",
+      "us_annual_component_8158a8f33612ef01903c"
+    ],
+    "available": "2023-08-09",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -679.55,
+        "current_ytd": -443.641,
+        "prior_ytd": -286.07,
+        "value": -837.1210000000001
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -724.008,
+        "current_ytd": -442.959,
+        "prior_ytd": -329.785,
+        "value": -837.182
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": -828.623,
+        "current_ytd": -625.011,
+        "prior_ytd": -405.113,
+        "value": -1048.521
+      }
+    ],
+    "notes": [
+      "Current and comparative YTD flows selected from the same original 10-Q accession; all three comparative YTD values reconcile to their original prior-year filings.",
+      "Prior annual uses the already-filed original preceding-year 10-K. No accounting-basis adjustment is required for these selected flows.",
+      "Net income includes noncontrolling interests (ProfitLoss). Prior-year 2021 group comparatives equal original NetIncomeLoss values."
+    ]
+  },
+  {
+    "observation_id": "us_input_6fac26745f239502e21f",
+    "ticker": "PLUG",
+    "period_end": "2023-09-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_e8ad8acedc63858ae68f",
+      "us_annual_component_8158a8f33612ef01903c"
+    ],
+    "available": "2023-11-09",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -679.55,
+        "current_ytd": -717.612,
+        "prior_ytd": -445.816,
+        "value": -951.3459999999998
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -724.008,
+        "current_ytd": -726.438,
+        "prior_ytd": -500.543,
+        "value": -949.9029999999999
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": -828.623,
+        "current_ytd": -863.919,
+        "prior_ytd": -522.049,
+        "value": -1170.493
+      }
+    ],
+    "notes": [
+      "Current and comparative YTD flows selected from the same original 10-Q accession; all three comparative YTD values reconcile to their original prior-year filings.",
+      "Prior annual uses the already-filed original preceding-year 10-K. No accounting-basis adjustment is required for these selected flows.",
+      "Net income includes noncontrolling interests (ProfitLoss). Prior-year 2021 group comparatives equal original NetIncomeLoss values."
+    ]
+  },
+  {
+    "observation_id": "us_input_6548ae2f419075eb6915",
+    "ticker": "PLUG",
+    "period_end": "2024-03-31",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_35390a0596ad597eaf9e",
+      "us_annual_component_8ffcb19e02c2acc8bb90"
+    ],
+    "available": "2024-05-09",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -1343.523,
+        "current_ytd": -259.409,
+        "prior_ytd": -209.799,
+        "value": -1393.1329999999998
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -1368.833,
+        "current_ytd": -295.776,
+        "prior_ytd": -206.561,
+        "value": -1458.0480000000002
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": -1106.57,
+        "current_ytd": -167.728,
+        "prior_ytd": -276.919,
+        "value": -997.379
+      }
+    ],
+    "notes": [
+      "Current and comparative YTD flows selected from the same original 10-Q accession; all three comparative YTD values reconcile to their original prior-year filings.",
+      "Prior annual uses the already-filed original preceding-year 10-K. No accounting-basis adjustment is required for these selected flows.",
+      "Net income includes noncontrolling interests (ProfitLoss). Prior-year 2021 group comparatives equal original NetIncomeLoss values."
+    ]
+  },
+  {
+    "observation_id": "us_input_174e69ad45d958e9bd95",
+    "ticker": "PLUG",
+    "period_end": "2024-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_ff8bf9983efd6cb96962",
+      "us_annual_component_8ffcb19e02c2acc8bb90"
+    ],
+    "available": "2024-08-08",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -1343.523,
+        "current_ytd": -504.082,
+        "prior_ytd": -443.641,
+        "value": -1403.964
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -1368.833,
+        "current_ytd": -558.109,
+        "prior_ytd": -442.959,
+        "value": -1483.983
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": -1106.57,
+        "current_ytd": -422.466,
+        "prior_ytd": -625.011,
+        "value": -904.0250000000001
+      }
+    ],
+    "notes": [
+      "Current and comparative YTD flows selected from the same original 10-Q accession; all three comparative YTD values reconcile to their original prior-year filings.",
+      "Prior annual uses the already-filed original preceding-year 10-K. No accounting-basis adjustment is required for these selected flows.",
+      "Net income includes noncontrolling interests (ProfitLoss). Prior-year 2021 group comparatives equal original NetIncomeLoss values."
+    ]
+  },
+  {
+    "observation_id": "us_input_d3c6b032f7c07e5cb2c7",
+    "ticker": "PLUG",
+    "period_end": "2024-09-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_accf374bcfa7b2b92a2b",
+      "us_annual_component_8ffcb19e02c2acc8bb90"
+    ],
+    "available": "2024-11-12",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -1343.523,
+        "current_ytd": -720.25,
+        "prior_ytd": -717.612,
+        "value": -1346.161
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -1368.833,
+        "current_ytd": -769.277,
+        "prior_ytd": -726.438,
+        "value": -1411.672
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": -1106.57,
+        "current_ytd": -597.402,
+        "prior_ytd": -863.919,
+        "value": -840.053
+      }
+    ],
+    "notes": [
+      "Current and comparative YTD flows selected from the same original 10-Q accession; all three comparative YTD values reconcile to their original prior-year filings.",
+      "Prior annual uses the already-filed original preceding-year 10-K. No accounting-basis adjustment is required for these selected flows.",
+      "Net income includes noncontrolling interests (ProfitLoss). Prior-year 2021 group comparatives equal original NetIncomeLoss values."
+    ]
+  },
+  {
+    "observation_id": "us_input_9fc450bcb0cbc85c9329",
+    "ticker": "PLUG",
+    "period_end": "2025-03-31",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_904b1f88571a5e892145",
+      "us_annual_component_3d8e88f965ab92a35ccc"
+    ],
+    "available": "2025-05-12",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -2019.844,
+        "current_ytd": -178.456,
+        "prior_ytd": -259.409,
+        "value": -1938.891
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -2104.905,
+        "current_ytd": -196.859,
+        "prior_ytd": -295.776,
+        "value": -2005.988
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": -728.643,
+        "current_ytd": -105.568,
+        "prior_ytd": -167.728,
+        "value": -666.483
+      }
+    ],
+    "notes": [
+      "Current and comparative YTD flows selected from the same original 10-Q accession; all three comparative YTD values reconcile to their original prior-year filings.",
+      "Prior annual uses the already-filed original preceding-year 10-K. No accounting-basis adjustment is required for these selected flows.",
+      "Net income includes noncontrolling interests (ProfitLoss). Prior-year 2021 group comparatives equal original NetIncomeLoss values."
+    ]
+  },
+  {
+    "observation_id": "us_input_1e2bc9b72971130db3f7",
+    "ticker": "PLUG",
+    "period_end": "2025-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_8a31f70e2d0ab4343657",
+      "us_annual_component_3d8e88f965ab92a35ccc"
+    ],
+    "available": "2025-08-11",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -2019.844,
+        "current_ytd": -355.402,
+        "prior_ytd": -504.082,
+        "value": -1871.1640000000002
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -2104.905,
+        "current_ytd": -425.586,
+        "prior_ytd": -558.109,
+        "value": -1972.382
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": -728.643,
+        "current_ytd": -297.378,
+        "prior_ytd": -422.466,
+        "value": -603.555
+      }
+    ],
+    "notes": [
+      "Current and comparative YTD flows selected from the same original 10-Q accession; all three comparative YTD values reconcile to their original prior-year filings.",
+      "Prior annual uses the already-filed original preceding-year 10-K. No accounting-basis adjustment is required for these selected flows.",
+      "Net income includes noncontrolling interests (ProfitLoss). Prior-year 2021 group comparatives equal original NetIncomeLoss values."
+    ]
+  },
+  {
+    "observation_id": "us_input_2000376c10b68e5071a3",
+    "ticker": "PLUG",
+    "period_end": "2025-09-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_a5875cb9786a1ba1f64a",
+      "us_annual_component_3d8e88f965ab92a35ccc"
+    ],
+    "available": "2025-11-10",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -2019.844,
+        "current_ytd": -704.191,
+        "prior_ytd": -720.25,
+        "value": -2003.7849999999999
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -2104.905,
+        "current_ytd": -789.091,
+        "prior_ytd": -769.277,
+        "value": -2124.719
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": -728.643,
+        "current_ytd": -387.192,
+        "prior_ytd": -597.402,
+        "value": -518.433
+      }
+    ],
+    "notes": [
+      "Current and comparative YTD flows selected from the same original 10-Q accession; all three comparative YTD values reconcile to their original prior-year filings.",
+      "Prior annual uses the already-filed original preceding-year 10-K. No accounting-basis adjustment is required for these selected flows.",
+      "Net income includes noncontrolling interests (ProfitLoss). Prior-year 2021 group comparatives equal original NetIncomeLoss values."
+    ]
+  },
+  {
+    "observation_id": "us_input_89b8ce919f4b3864d870",
+    "ticker": "PLUG",
+    "period_end": "2026-03-31",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_d14a8acec4e089d4f1f6",
+      "us_annual_component_5f7b32a95a2dbf70cd3d"
+    ],
+    "available": "2026-05-11",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -1467.385,
+        "current_ytd": -109.489,
+        "prior_ytd": -178.456,
+        "value": -1398.4180000000001
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -1693.668,
+        "current_ytd": -246.037,
+        "prior_ytd": -196.859,
+        "value": -1742.846
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": -535.835,
+        "current_ytd": -150.041,
+        "prior_ytd": -105.568,
+        "value": -580.308
+      }
+    ],
+    "notes": [
+      "Current and comparative YTD flows selected from the same original 10-Q accession; all three comparative YTD values reconcile to their original prior-year filings.",
+      "Prior annual uses the already-filed original preceding-year 10-K. No accounting-basis adjustment is required for these selected flows.",
+      "Net income includes noncontrolling interests (ProfitLoss). Prior-year 2021 group comparatives equal original NetIncomeLoss values."
+    ]
+  },
+  {
+    "observation_id": "us_input_5445b4a6d804669ba465",
+    "ticker": "PLUG",
+    "period_end": "2026-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_07dac070e3ce69a9584f",
+      "us_annual_component_5f7b32a95a2dbf70cd3d"
+    ],
+    "available": "2026-08-10",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": -1467.385,
+        "current_ytd": -173.597,
+        "prior_ytd": -355.402,
+        "value": -1285.58
+      },
+      {
+        "field": "net_income",
+        "prior_annual": -1693.668,
+        "current_ytd": -436.139,
+        "prior_ytd": -425.586,
+        "value": -1704.2209999999998
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": -535.835,
+        "current_ytd": -244.105,
+        "prior_ytd": -297.378,
+        "value": -482.56200000000007
+      }
+    ],
+    "notes": [
+      "Current and comparative YTD flows selected from the same original 10-Q accession; all three comparative YTD values reconcile to their original prior-year filings.",
+      "Prior annual uses the already-filed original preceding-year 10-K. No accounting-basis adjustment is required for these selected flows.",
+      "Net income includes noncontrolling interests (ProfitLoss). Prior-year 2021 group comparatives equal original NetIncomeLoss values."
+    ]
+  },
+  {
+    "observation_id": "us_input_31daf25bc01fce53ab59",
+    "ticker": "TSM",
+    "period_end": "2022-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_d2785bb39592359d1a33",
+      "us_annual_component_fc69e492bcde376bf127"
+    ],
+    "available": "2022-08-12",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 649980.897,
+        "current_ytd": 485913.867,
+        "prior_ytd": 296205.395,
+        "value": 839689.369
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 597073.134,
+        "current_ytd": 440053.626,
+        "prior_ytd": 274220.465,
+        "value": 762906.2949999999
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 1112160.722,
+        "current_ytd": 711019.117,
+        "prior_ytd": 415255.198,
+        "value": 1407924.6410000003
+      }
+    ],
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ]
+  },
+  {
+    "observation_id": "us_input_86fab331e2d5f3edbfd4",
+    "ticker": "TSM",
+    "period_end": "2022-09-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_b120dd172235a3ced281",
+      "us_annual_component_fc69e492bcde376bf127"
+    ],
+    "available": "2022-11-14",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 649980.897,
+        "current_ytd": 796238.081,
+        "prior_ytd": 467208.943,
+        "value": 979010.0350000001
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 597073.134,
+        "current_ytd": 721022.033,
+        "prior_ytd": 430699.619,
+        "value": 887395.548
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 1112160.722,
+        "current_ytd": 1123717.284,
+        "prior_ytd": 733961.405,
+        "value": 1501916.601
+      }
+    ],
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ]
+  },
+  {
+    "observation_id": "us_input_df46d41d6b5e1ed03796",
+    "ticker": "TSM",
+    "period_end": "2023-03-31",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_33f0e08860fbe6b3b643",
+      "us_annual_component_55a8b43c534ee30bba01"
+    ],
+    "available": "2023-05-12",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 1121278.851,
+        "current_ytd": 231238.157,
+        "prior_ytd": 223790.118,
+        "value": 1128726.89
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 1016900.515,
+        "current_ytd": 206949.036,
+        "prior_ytd": 202873.374,
+        "value": 1020976.1769999999
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 1610599.188,
+        "current_ytd": 385244.745,
+        "prior_ytd": 372169.688,
+        "value": 1623674.245
+      }
+    ],
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ]
+  },
+  {
+    "observation_id": "us_input_56160d7c76ed33196650",
+    "ticker": "TSM",
+    "period_end": "2023-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_491be48904bb98312152",
+      "us_annual_component_55a8b43c534ee30bba01"
+    ],
+    "available": "2023-08-14",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 1121278.851,
+        "current_ytd": 433196.2,
+        "prior_ytd": 485913.867,
+        "value": 1068561.184
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 1016900.515,
+        "current_ytd": 388666.042,
+        "prior_ytd": 440053.626,
+        "value": 965512.9310000001
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 1610599.188,
+        "current_ytd": 552492.724,
+        "prior_ytd": 711019.117,
+        "value": 1452072.795
+      }
+    ],
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ]
+  },
+  {
+    "observation_id": "us_input_df7a95b950454cb649e8",
+    "ticker": "TSM",
+    "period_end": "2023-09-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_30281da988b568b7ce08",
+      "us_annual_component_55a8b43c534ee30bba01"
+    ],
+    "available": "2023-11-14",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 1121278.851,
+        "current_ytd": 661261.103,
+        "prior_ytd": 796238.081,
+        "value": 986301.8729999999
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 1016900.515,
+        "current_ytd": 599461.316,
+        "prior_ytd": 721022.033,
+        "value": 895339.798
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 1610599.188,
+        "current_ytd": 847138.0,
+        "prior_ytd": 1123717.284,
+        "value": 1334019.904
+      }
+    ],
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ]
+  },
+  {
+    "observation_id": "us_input_a3366063de8a221e2961",
+    "ticker": "TSM",
+    "period_end": "2024-03-31",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_87fc7e54f174fdfd36fe",
+      "us_annual_component_8087c13693b6e9bc33f8"
+    ],
+    "available": "2024-05-15",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 921465.606,
+        "current_ytd": 249018.306,
+        "prior_ytd": 231238.157,
+        "value": 939245.755
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 837767.517,
+        "current_ytd": 225221.263,
+        "prior_ytd": 206949.036,
+        "value": 856039.7440000001
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 1241967.347,
+        "current_ytd": 436311.108,
+        "prior_ytd": 385244.745,
+        "value": 1293033.71
+      }
+    ],
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ]
+  },
+  {
+    "observation_id": "us_input_828539f1afb31cb82fde",
+    "ticker": "TSM",
+    "period_end": "2024-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_843b8d118df6629406f0",
+      "us_annual_component_8087c13693b6e9bc33f8"
+    ],
+    "available": "2024-08-14",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 921465.606,
+        "current_ytd": 535573.848,
+        "prior_ytd": 433196.2,
+        "value": 1023843.254
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 837767.517,
+        "current_ytd": 472882.701,
+        "prior_ytd": 388666.042,
+        "value": 921984.1759999999
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 1241967.347,
+        "current_ytd": 813979.318,
+        "prior_ytd": 552492.724,
+        "value": 1503453.941
+      }
+    ],
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ]
+  },
+  {
+    "observation_id": "us_input_305f71b272a73a06907c",
+    "ticker": "TSM",
+    "period_end": "2024-09-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_1fcb74144ef906ea1b02",
+      "us_annual_component_8087c13693b6e9bc33f8"
+    ],
+    "available": "2024-11-14",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 921465.606,
+        "current_ytd": 896340.137,
+        "prior_ytd": 661261.103,
+        "value": 1156544.6400000001
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 837767.517,
+        "current_ytd": 797962.871,
+        "prior_ytd": 599461.316,
+        "value": 1036269.072
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 1241967.347,
+        "current_ytd": 1205971.785,
+        "prior_ytd": 847138.0,
+        "value": 1600801.1320000002
+      }
+    ],
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ]
+  },
+  {
+    "observation_id": "us_input_949fbebfd276c2314dd2",
+    "ticker": "TSM",
+    "period_end": "2025-03-31",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_9ae11668074ddb307298",
+      "us_annual_component_7716854323cc1d4936b1"
+    ],
+    "available": "2025-05-15",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 1322053.05,
+        "current_ytd": 407080.808,
+        "prior_ytd": 249018.306,
+        "value": 1480115.552
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 1172431.759,
+        "current_ytd": 360732.661,
+        "prior_ytd": 225221.263,
+        "value": 1307943.1570000001
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 1826177.068,
+        "current_ytd": 625573.672,
+        "prior_ytd": 436311.108,
+        "value": 2015439.6320000002
+      }
+    ],
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ]
+  },
+  {
+    "observation_id": "us_input_7e029e5c3bb28067a5cd",
+    "ticker": "TSM",
+    "period_end": "2025-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_c8449c38723a8102612c",
+      "us_annual_component_7716854323cc1d4936b1"
+    ],
+    "available": "2025-08-14",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 1322053.05,
+        "current_ytd": 870504.446,
+        "prior_ytd": 535573.848,
+        "value": 1656983.6480000003
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 1172431.759,
+        "current_ytd": 758226.085,
+        "prior_ytd": 472882.701,
+        "value": 1457775.1430000002
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 1826177.068,
+        "current_ytd": 1122637.757,
+        "prior_ytd": 813979.318,
+        "value": 2134835.507
+      }
+    ],
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ]
+  },
+  {
+    "observation_id": "us_input_6036a4592b402389799f",
+    "ticker": "TSM",
+    "period_end": "2025-09-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_53c7d728e5c5bc54fe40",
+      "us_annual_component_7716854323cc1d4936b1"
+    ],
+    "available": "2025-11-14",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 1322053.05,
+        "current_ytd": 1371189.264,
+        "prior_ytd": 896340.137,
+        "value": 1796902.1770000001
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 1172431.759,
+        "current_ytd": 1209981.447,
+        "prior_ytd": 797962.871,
+        "value": 1584450.3350000002
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 1826177.068,
+        "current_ytd": 1549466.838,
+        "prior_ytd": 1205971.785,
+        "value": 2169672.1210000003
+      }
+    ],
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ]
+  },
+  {
+    "observation_id": "us_input_db12b279b2a35195646b",
+    "ticker": "TSM",
+    "period_end": "2026-03-31",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_946054d03922dc478f4f",
+      "us_annual_component_a93d84db77fc0ece3874"
+    ],
+    "available": "2026-05-15",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 1936091.677,
+        "current_ytd": 658966.142,
+        "prior_ytd": 407080.808,
+        "value": 2187977.011
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 1715396.78,
+        "current_ytd": 572801.304,
+        "prior_ytd": 360732.661,
+        "value": 1927465.4229999997
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 2274975.625,
+        "current_ytd": 698976.265,
+        "prior_ytd": 625573.672,
+        "value": 2348378.2180000003
+      }
+    ],
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ]
+  },
+  {
+    "observation_id": "us_input_6b0dcc0a2203a0591d9f",
+    "ticker": "TSM",
+    "period_end": "2026-06-30",
+    "kind": "interim",
+    "source_ids": [
+      "us_source_77e7559c96f150a67768",
+      "us_annual_component_a93d84db77fc0ece3874"
+    ],
+    "available": "2026-08-14",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "prior_annual": 1936091.677,
+        "current_ytd": 1425568.793,
+        "prior_ytd": 870504.446,
+        "value": 2491156.0239999997
+      },
+      {
+        "field": "net_income",
+        "prior_annual": 1715396.78,
+        "current_ytd": 1279582.227,
+        "prior_ytd": 758226.085,
+        "value": 2236752.9220000003
+      },
+      {
+        "field": "operating_cash_flow",
+        "prior_annual": 2274975.625,
+        "current_ytd": 1482341.242,
+        "prior_ytd": 1122637.757,
+        "value": 2634679.1100000003
+      }
+    ],
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ]
+  }
+]

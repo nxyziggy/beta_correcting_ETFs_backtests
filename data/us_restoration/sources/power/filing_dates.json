@@ -1,0 +1,326 @@
+[
+  {
+    "ticker": "BE",
+    "accessionNumber": "0001664703-22-000034",
+    "filingDate": "2022-02-25",
+    "reportDate": "2021-12-31",
+    "primaryDocument": "be-20211231.htm",
+    "form": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1664703/000166470322000034/be-20211231.htm"
+  },
+  {
+    "ticker": "BE",
+    "accessionNumber": "0001664703-22-000068",
+    "filingDate": "2022-08-09",
+    "reportDate": "2022-06-30",
+    "primaryDocument": "be-20220630.htm",
+    "form": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1664703/000166470322000068/be-20220630.htm"
+  },
+  {
+    "ticker": "BE",
+    "accessionNumber": "0001628280-22-028193",
+    "filingDate": "2022-11-03",
+    "reportDate": "2022-09-30",
+    "primaryDocument": "be-20220930.htm",
+    "form": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828022028193/be-20220930.htm"
+  },
+  {
+    "ticker": "BE",
+    "accessionNumber": "0001628280-23-004301",
+    "filingDate": "2023-02-21",
+    "reportDate": "2022-12-31",
+    "primaryDocument": "be-20221231.htm",
+    "form": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828023004301/be-20221231.htm"
+  },
+  {
+    "ticker": "BE",
+    "accessionNumber": "0001628280-23-016818",
+    "filingDate": "2023-05-09",
+    "reportDate": "2023-03-31",
+    "primaryDocument": "be-20230331.htm",
+    "form": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828023016818/be-20230331.htm"
+  },
+  {
+    "ticker": "BE",
+    "accessionNumber": "0001628280-23-027213",
+    "filingDate": "2023-08-03",
+    "reportDate": "2023-06-30",
+    "primaryDocument": "be-20230630.htm",
+    "form": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828023027213/be-20230630.htm"
+  },
+  {
+    "ticker": "BE",
+    "accessionNumber": "0001628280-23-037836",
+    "filingDate": "2023-11-08",
+    "reportDate": "2023-09-30",
+    "primaryDocument": "be-20230930.htm",
+    "form": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828023037836/be-20230930.htm"
+  },
+  {
+    "ticker": "BE",
+    "accessionNumber": "0001628280-24-005035",
+    "filingDate": "2024-02-15",
+    "reportDate": "2023-12-31",
+    "primaryDocument": "be-20231231.htm",
+    "form": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828024005035/be-20231231.htm"
+  },
+  {
+    "ticker": "BE",
+    "accessionNumber": "0001628280-24-022309",
+    "filingDate": "2024-05-09",
+    "reportDate": "2024-03-31",
+    "primaryDocument": "be-20240331.htm",
+    "form": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828024022309/be-20240331.htm"
+  },
+  {
+    "ticker": "BE",
+    "accessionNumber": "0001628280-24-036219",
+    "filingDate": "2024-08-08",
+    "reportDate": "2024-06-30",
+    "primaryDocument": "be-20240630.htm",
+    "form": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828024036219/be-20240630.htm"
+  },
+  {
+    "ticker": "BE",
+    "accessionNumber": "0001628280-24-046411",
+    "filingDate": "2024-11-07",
+    "reportDate": "2024-09-30",
+    "primaryDocument": "be-20240930.htm",
+    "form": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828024046411/be-20240930.htm"
+  },
+  {
+    "ticker": "BE",
+    "accessionNumber": "0001628280-25-008747",
+    "filingDate": "2025-02-27",
+    "reportDate": "2024-12-31",
+    "primaryDocument": "be-20241231.htm",
+    "form": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025008747/be-20241231.htm"
+  },
+  {
+    "ticker": "BE",
+    "accessionNumber": "0001628280-25-021160",
+    "filingDate": "2025-04-30",
+    "reportDate": "2025-03-31",
+    "primaryDocument": "be-20250331.htm",
+    "form": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025021160/be-20250331.htm"
+  },
+  {
+    "ticker": "BE",
+    "accessionNumber": "0001628280-25-037074",
+    "filingDate": "2025-07-31",
+    "reportDate": "2025-06-30",
+    "primaryDocument": "be-20250630.htm",
+    "form": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025037074/be-20250630.htm"
+  },
+  {
+    "ticker": "BE",
+    "accessionNumber": "0001628280-25-046844",
+    "filingDate": "2025-10-28",
+    "reportDate": "2025-09-30",
+    "primaryDocument": "be-20250930.htm",
+    "form": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025046844/be-20250930.htm"
+  },
+  {
+    "ticker": "BE",
+    "accessionNumber": "0001628280-26-006516",
+    "filingDate": "2026-02-09",
+    "reportDate": "2025-12-31",
+    "primaryDocument": "be-20251231.htm",
+    "form": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026006516/be-20251231.htm"
+  },
+  {
+    "ticker": "BE",
+    "accessionNumber": "0001628280-26-028021",
+    "filingDate": "2026-04-29",
+    "reportDate": "2026-03-31",
+    "primaryDocument": "be-20260331.htm",
+    "form": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026028021/be-20260331.htm"
+  },
+  {
+    "ticker": "BE",
+    "accessionNumber": "0001628280-26-050247",
+    "filingDate": "2026-07-28",
+    "reportDate": "2026-06-30",
+    "primaryDocument": "be-20260630.htm",
+    "form": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026050247/be-20260630.htm"
+  },
+  {
+    "ticker": "ETN",
+    "accessionNumber": "0001551182-22-000004",
+    "filingDate": "2022-02-23",
+    "reportDate": "2021-12-31",
+    "primaryDocument": "etn-20211231.htm",
+    "form": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118222000004/etn-20211231.htm"
+  },
+  {
+    "ticker": "ETN",
+    "accessionNumber": "0001551182-22-000020",
+    "filingDate": "2022-08-02",
+    "reportDate": "2022-06-30",
+    "primaryDocument": "etn-20220630.htm",
+    "form": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118222000020/etn-20220630.htm"
+  },
+  {
+    "ticker": "ETN",
+    "accessionNumber": "0001551182-22-000024",
+    "filingDate": "2022-11-01",
+    "reportDate": "2022-09-30",
+    "primaryDocument": "etn-20220930.htm",
+    "form": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118222000024/etn-20220930.htm"
+  },
+  {
+    "ticker": "ETN",
+    "accessionNumber": "0001551182-23-000004",
+    "filingDate": "2023-02-23",
+    "reportDate": "2022-12-31",
+    "primaryDocument": "etn-20221231.htm",
+    "form": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000004/etn-20221231.htm"
+  },
+  {
+    "ticker": "ETN",
+    "accessionNumber": "0001551182-23-000008",
+    "filingDate": "2023-05-02",
+    "reportDate": "2023-03-31",
+    "primaryDocument": "etn-20230331.htm",
+    "form": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000008/etn-20230331.htm"
+  },
+  {
+    "ticker": "ETN",
+    "accessionNumber": "0001551182-23-000024",
+    "filingDate": "2023-08-01",
+    "reportDate": "2023-06-30",
+    "primaryDocument": "etn-20230630.htm",
+    "form": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000024/etn-20230630.htm"
+  },
+  {
+    "ticker": "ETN",
+    "accessionNumber": "0001551182-23-000029",
+    "filingDate": "2023-10-31",
+    "reportDate": "2023-09-30",
+    "primaryDocument": "etn-20230930.htm",
+    "form": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000029/etn-20230930.htm"
+  },
+  {
+    "ticker": "ETN",
+    "accessionNumber": "0001551182-24-000006",
+    "filingDate": "2024-02-29",
+    "reportDate": "2023-12-31",
+    "primaryDocument": "etn-20231231.htm",
+    "form": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000006/etn-20231231.htm"
+  },
+  {
+    "ticker": "ETN",
+    "accessionNumber": "0001551182-24-000013",
+    "filingDate": "2024-04-30",
+    "reportDate": "2024-03-31",
+    "primaryDocument": "etn-20240331.htm",
+    "form": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000013/etn-20240331.htm"
+  },
+  {
+    "ticker": "ETN",
+    "accessionNumber": "0001551182-24-000035",
+    "filingDate": "2024-08-01",
+    "reportDate": "2024-06-30",
+    "primaryDocument": "etn-20240630.htm",
+    "form": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000035/etn-20240630.htm"
+  },
+  {
+    "ticker": "ETN",
+    "accessionNumber": "0001551182-24-000041",
+    "filingDate": "2024-10-31",
+    "reportDate": "2024-09-30",
+    "primaryDocument": "etn-20240930.htm",
+    "form": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000041/etn-20240930.htm"
+  },
+  {
+    "ticker": "ETN",
+    "accessionNumber": "0001551182-25-000006",
+    "filingDate": "2025-02-27",
+    "reportDate": "2024-12-31",
+    "primaryDocument": "etn-20241231.htm",
+    "form": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000006/etn-20241231.htm"
+  },
+  {
+    "ticker": "ETN",
+    "accessionNumber": "0001551182-25-000014",
+    "filingDate": "2025-05-02",
+    "reportDate": "2025-03-31",
+    "primaryDocument": "etn-20250331.htm",
+    "form": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000014/etn-20250331.htm"
+  },
+  {
+    "ticker": "ETN",
+    "accessionNumber": "0001551182-25-000028",
+    "filingDate": "2025-08-05",
+    "reportDate": "2025-06-30",
+    "primaryDocument": "etn-20250630.htm",
+    "form": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000028/etn-20250630.htm"
+  },
+  {
+    "ticker": "ETN",
+    "accessionNumber": "0001551182-25-000036",
+    "filingDate": "2025-11-04",
+    "reportDate": "2025-09-30",
+    "primaryDocument": "etn-20250930.htm",
+    "form": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000036/etn-20250930.htm"
+  },
+  {
+    "ticker": "ETN",
+    "accessionNumber": "0001551182-26-000007",
+    "filingDate": "2026-02-26",
+    "reportDate": "2025-12-31",
+    "primaryDocument": "etn-20251231.htm",
+    "form": "10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000007/etn-20251231.htm"
+  },
+  {
+    "ticker": "ETN",
+    "accessionNumber": "0001551182-26-000013",
+    "filingDate": "2026-05-05",
+    "reportDate": "2026-03-31",
+    "primaryDocument": "etn-20260331.htm",
+    "form": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000013/etn-20260331.htm"
+  },
+  {
+    "ticker": "ETN",
+    "accessionNumber": "0001551182-26-000030",
+    "filingDate": "2026-07-31",
+    "reportDate": "2026-06-30",
+    "primaryDocument": "etn-20260630.htm",
+    "form": "10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000030/etn-20260630.htm"
+  }
+]

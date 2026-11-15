@@ -1,0 +1,7 @@
+{
+  "checked": 446,
+  "filings": 42,
+  "errors": [],
+  "method": "Independently parse original SEC inline-XBRL context dates, dimensions, numeric scales and signs; compare every SEC companyfacts source fact to the same accession HTML.",
+  "independent_review": "Solar/fuel recovery agent: all 446 tagged facts, 68 derivations, 336 raw field/component mappings and 36 dates matched; statement excerpts manually checked; no corrections."
+}

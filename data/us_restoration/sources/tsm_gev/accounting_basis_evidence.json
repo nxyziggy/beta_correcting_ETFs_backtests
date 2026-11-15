@@ -1,0 +1,336 @@
+{
+  "selected_basis": "Taiwan-IFRSs: Regulations Governing the Preparation of Financial Reports by Securities Issuers and IFRSs endorsed by Taiwan FSC.",
+  "basis_source": "https://www.sec.gov/Archives/edgar/data/1046179/000156459022006898/0001564590-22-006898.txt",
+  "basis_locator": "2021 consolidated financial statements, Note 4 Statement of Compliance and Taxation/Current tax policy.",
+  "alternative_basis": "IASB-issued IFRS in Form 20-F; auditor opinion and Note 5.",
+  "alternative_source": "https://www.sec.gov/Archives/edgar/data/1046179/000119312522104891/d204786d20f.htm",
+  "policy_difference": "Domestic statements expense income tax on unappropriated earnings in the year shareholders approve appropriation, after the earning year. The 20-F tax note includes an accrual for current-year unappropriated earnings. Other balance-sheet differences are not fully harmonized here.",
+  "decision": "Use one consistent original Taiwan-IFRS basis for all annual and interim inputs, fixed without portfolio return inspection. Do not splice IASB-IFRS companyfacts annuals into Taiwan-IFRS interims.",
+  "comparison": [
+    {
+      "period_end": "2021-12-31",
+      "unit": "TWD million",
+      "selected_source": "https://www.sec.gov/Archives/edgar/data/1046179/000156459022006898/0001564590-22-006898.txt",
+      "values": {
+        "operating_income": {
+          "selected_Taiwan_IFRS_6K": 649980.897,
+          "IASB_IFRS_20F": 649980.9,
+          "IASB_minus_selected": 0.003,
+          "20F_fact": {
+            "start": "2021-01-01",
+            "end": "2021-12-31",
+            "val": 649980900000,
+            "accn": "0001193125-22-104891",
+            "fy": 2021,
+            "fp": "FY",
+            "form": "20-F",
+            "filed": "2022-04-14"
+          }
+        },
+        "net_income": {
+          "selected_Taiwan_IFRS_6K": 597073.134,
+          "IASB_IFRS_20F": 592880.6,
+          "IASB_minus_selected": -4192.534,
+          "20F_fact": {
+            "start": "2021-01-01",
+            "end": "2021-12-31",
+            "val": 592880600000,
+            "accn": "0001193125-22-104891",
+            "fy": 2021,
+            "fp": "FY",
+            "form": "20-F",
+            "filed": "2022-04-14"
+          }
+        },
+        "operating_cash_flow": {
+          "selected_Taiwan_IFRS_6K": 1112160.722,
+          "IASB_IFRS_20F": 1112160.7,
+          "IASB_minus_selected": -0.022,
+          "20F_fact": {
+            "start": "2021-01-01",
+            "end": "2021-12-31",
+            "val": 1112160700000,
+            "accn": "0001193125-22-104891",
+            "fy": 2021,
+            "fp": "FY",
+            "form": "20-F",
+            "filed": "2022-04-14"
+          }
+        },
+        "total_assets": {
+          "selected_Taiwan_IFRS_6K": 3725503.455,
+          "IASB_IFRS_20F": 3725302.2,
+          "IASB_minus_selected": -201.255,
+          "20F_fact": {
+            "end": "2021-12-31",
+            "val": 3725302200000,
+            "accn": "0001193125-22-104891",
+            "fy": 2021,
+            "fp": "FY",
+            "form": "20-F",
+            "filed": "2022-04-14"
+          }
+        },
+        "current_liabilities": {
+          "selected_Taiwan_IFRS_6K": 739503.358,
+          "IASB_IFRS_20F": 758352.8,
+          "IASB_minus_selected": 18849.442,
+          "20F_fact": {
+            "end": "2021-12-31",
+            "val": 758352800000,
+            "accn": "0001193125-22-104891",
+            "fy": 2021,
+            "fp": "FY",
+            "form": "20-F",
+            "filed": "2022-04-14"
+          }
+        }
+      }
+    },
+    {
+      "period_end": "2022-12-31",
+      "unit": "TWD million",
+      "selected_source": "https://www.sec.gov/Archives/edgar/data/1046179/000156459023002381/0001564590-23-002381.txt",
+      "values": {
+        "operating_income": {
+          "selected_Taiwan_IFRS_6K": 1121278.851,
+          "IASB_IFRS_20F": 1121278.9,
+          "IASB_minus_selected": 0.049,
+          "20F_fact": {
+            "start": "2022-01-01",
+            "end": "2022-12-31",
+            "val": 1121278900000,
+            "accn": "0001193125-23-107214",
+            "fy": 2022,
+            "fp": "FY",
+            "form": "20-F",
+            "filed": "2023-04-20"
+          }
+        },
+        "net_income": {
+          "selected_Taiwan_IFRS_6K": 1016900.515,
+          "IASB_IFRS_20F": 993294.7,
+          "IASB_minus_selected": -23605.815,
+          "20F_fact": {
+            "start": "2022-01-01",
+            "end": "2022-12-31",
+            "val": 993294700000,
+            "accn": "0001193125-23-107214",
+            "fy": 2022,
+            "fp": "FY",
+            "form": "20-F",
+            "filed": "2023-04-20"
+          }
+        },
+        "operating_cash_flow": {
+          "selected_Taiwan_IFRS_6K": 1610599.188,
+          "IASB_IFRS_20F": 1610599.2,
+          "IASB_minus_selected": 0.012,
+          "20F_fact": {
+            "start": "2022-01-01",
+            "end": "2022-12-31",
+            "val": 1610599200000,
+            "accn": "0001193125-23-107214",
+            "fy": 2022,
+            "fp": "FY",
+            "form": "20-F",
+            "filed": "2023-04-20"
+          }
+        },
+        "total_assets": {
+          "selected_Taiwan_IFRS_6K": 4964778.878,
+          "IASB_IFRS_20F": 4964459.1,
+          "IASB_minus_selected": -319.778,
+          "20F_fact": {
+            "end": "2022-12-31",
+            "val": 4964459100000,
+            "accn": "0001193125-23-107214",
+            "fy": 2022,
+            "fp": "FY",
+            "form": "20-F",
+            "filed": "2023-04-20"
+          }
+        },
+        "current_liabilities": {
+          "selected_Taiwan_IFRS_6K": 944226.817,
+          "IASB_IFRS_20F": 986563.6,
+          "IASB_minus_selected": 42336.783,
+          "20F_fact": {
+            "end": "2022-12-31",
+            "val": 986563600000,
+            "accn": "0001193125-23-107214",
+            "fy": 2022,
+            "fp": "FY",
+            "form": "20-F",
+            "filed": "2023-04-20"
+          }
+        }
+      }
+    },
+    {
+      "period_end": "2023-12-31",
+      "unit": "TWD million",
+      "selected_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617924000020/0001046179-24-000020.txt",
+      "values": {
+        "operating_income": {
+          "selected_Taiwan_IFRS_6K": 921465.606,
+          "IASB_IFRS_20F": 921465.6,
+          "IASB_minus_selected": -0.006,
+          "20F_fact": {
+            "start": "2023-01-01",
+            "end": "2023-12-31",
+            "val": 921465600000,
+            "accn": "0001193125-24-099840",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "20-F",
+            "filed": "2024-04-18"
+          }
+        },
+        "net_income": {
+          "selected_Taiwan_IFRS_6K": 837767.517,
+          "IASB_IFRS_20F": 851027.7,
+          "IASB_minus_selected": 13260.183,
+          "20F_fact": {
+            "start": "2023-01-01",
+            "end": "2023-12-31",
+            "val": 851027700000,
+            "accn": "0001193125-24-099840",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "20-F",
+            "filed": "2024-04-18"
+          }
+        },
+        "operating_cash_flow": {
+          "selected_Taiwan_IFRS_6K": 1241967.347,
+          "IASB_IFRS_20F": 1241967.3,
+          "IASB_minus_selected": -0.047,
+          "20F_fact": {
+            "start": "2023-01-01",
+            "end": "2023-12-31",
+            "val": 1241967300000,
+            "accn": "0001193125-24-099840",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "20-F",
+            "filed": "2024-04-18"
+          }
+        },
+        "total_assets": {
+          "selected_Taiwan_IFRS_6K": 5532371.215,
+          "IASB_IFRS_20F": 5532196.6,
+          "IASB_minus_selected": -174.615,
+          "20F_fact": {
+            "end": "2023-12-31",
+            "val": 5532196600000,
+            "accn": "0001193125-24-099840",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "20-F",
+            "filed": "2024-04-18"
+          }
+        },
+        "current_liabilities": {
+          "selected_Taiwan_IFRS_6K": 913583.316,
+          "IASB_IFRS_20F": 942805.1,
+          "IASB_minus_selected": 29221.784,
+          "20F_fact": {
+            "end": "2023-12-31",
+            "val": 942805100000,
+            "accn": "0001193125-24-099840",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "20-F",
+            "filed": "2024-04-18"
+          }
+        }
+      }
+    },
+    {
+      "period_end": "2024-12-31",
+      "unit": "TWD million",
+      "selected_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617925000019/0001046179-25-000019.txt",
+      "values": {
+        "operating_income": {
+          "selected_Taiwan_IFRS_6K": 1322053.05,
+          "IASB_IFRS_20F": 1322053.0,
+          "IASB_minus_selected": -0.05,
+          "20F_fact": {
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "val": 1322053000000,
+            "accn": "0001193125-25-083423",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "20-F",
+            "filed": "2025-04-17",
+            "frame": "CY2024"
+          }
+        },
+        "net_income": {
+          "selected_Taiwan_IFRS_6K": 1172431.759,
+          "IASB_IFRS_20F": 1157523.9,
+          "IASB_minus_selected": -14907.859,
+          "20F_fact": {
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "val": 1157523900000,
+            "accn": "0001193125-25-083423",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "20-F",
+            "filed": "2025-04-17",
+            "frame": "CY2024"
+          }
+        },
+        "operating_cash_flow": {
+          "selected_Taiwan_IFRS_6K": 1826177.068,
+          "IASB_IFRS_20F": 1826177.1,
+          "IASB_minus_selected": 0.032,
+          "20F_fact": {
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "val": 1826177100000,
+            "accn": "0001193125-25-083423",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "20-F",
+            "filed": "2025-04-17",
+            "frame": "CY2024"
+          }
+        },
+        "total_assets": {
+          "selected_Taiwan_IFRS_6K": 6691938.0,
+          "IASB_IFRS_20F": 6691764.7,
+          "IASB_minus_selected": -173.3,
+          "20F_fact": {
+            "end": "2024-12-31",
+            "val": 6691764700000,
+            "accn": "0001193125-25-083423",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "20-F",
+            "filed": "2025-04-17",
+            "frame": "CY2024Q4I"
+          }
+        },
+        "current_liabilities": {
+          "selected_Taiwan_IFRS_6K": 1264524.964,
+          "IASB_IFRS_20F": 1308655.9,
+          "IASB_minus_selected": 44130.936,
+          "20F_fact": {
+            "end": "2024-12-31",
+            "val": 1308655900000,
+            "accn": "0001193125-25-083423",
+            "fy": 2024,
+            "fp": "FY",
+            "form": "20-F",
+            "filed": "2025-04-17",
+            "frame": "CY2024Q4I"
+          }
+        }
+      }
+    }
+  ]
+}

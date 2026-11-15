@@ -1,0 +1,1056 @@
+[
+  {
+    "ticker": "BE",
+    "period_end": "2022-06-30",
+    "publication_date": "2022-08-09",
+    "availability_date": "2022-08-09",
+    "currency": "USD",
+    "unit": "million",
+    "total_assets": 1580.833,
+    "current_liabilities": 393.688,
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1664703/000166470322000068/be-20220630.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1664703/000166470322000068/be-20220630.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1664703/000166470322000068/be-20220630.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1664703/000166470322000068/0001664703-22-000068-index.html",
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ],
+    "fiscal_year": 2022,
+    "fiscal_quarter": 2,
+    "ytd": {
+      "operating_income": -167.832,
+      "net_income": -203.912,
+      "operating_cash_flow": -98.514
+    },
+    "prior_ytd": {
+      "operating_income": -57.108,
+      "net_income": -88.202,
+      "operating_cash_flow": -35.302
+    },
+    "prior_annual": {
+      "operating_income": -114.502,
+      "net_income": -193.369,
+      "operating_cash_flow": -60.681,
+      "period_end": "2021-12-31",
+      "publication_date": "2022-02-25",
+      "availability_date": "2022-02-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1664703/000166470322000034/be-20211231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "BE",
+    "period_end": "2022-09-30",
+    "publication_date": "2022-11-03",
+    "availability_date": "2022-11-03",
+    "currency": "USD",
+    "unit": "million",
+    "total_assets": 1902.069,
+    "current_liabilities": 392.727,
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828022028193/be-20220930.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828022028193/be-20220930.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828022028193/be-20220930.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828022028193/0001628280-22-028193-index.html",
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "2021 nine-month cashflow comparative is -107.956 million versus -107.907 million in the original 2021 Q3 filing. Use the contemporaneous 2022 Q3 comparative; the 2021 audited annual cashflow (-60.681 million), published after original Q3, is unchanged in subsequent annual comparisons. The current filing states prior-period amounts were reclassified to conform to current presentation. The 0.049 million interim correction is not retroactively applied to any earlier score."
+    ],
+    "fiscal_year": 2022,
+    "fiscal_quarter": 3,
+    "ytd": {
+      "operating_income": -220.424,
+      "net_income": -264.304,
+      "operating_cash_flow": -168.453
+    },
+    "prior_ytd": {
+      "operating_income": -100.997,
+      "net_income": -144.864,
+      "operating_cash_flow": -107.956
+    },
+    "prior_annual": {
+      "operating_income": -114.502,
+      "net_income": -193.369,
+      "operating_cash_flow": -60.681,
+      "period_end": "2021-12-31",
+      "publication_date": "2022-02-25",
+      "availability_date": "2022-02-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1664703/000166470322000034/be-20211231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "BE",
+    "period_end": "2023-03-31",
+    "publication_date": "2023-05-09",
+    "availability_date": "2023-05-09",
+    "currency": "USD",
+    "unit": "million",
+    "total_assets": 2192.21,
+    "current_liabilities": 771.591,
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828023016818/be-20230331.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828023016818/be-20230331.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828023016818/be-20230331.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828023016818/0001628280-23-016818-index.html",
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ],
+    "fiscal_year": 2023,
+    "fiscal_quarter": 1,
+    "ytd": {
+      "operating_income": -63.681,
+      "net_income": -74.917,
+      "operating_cash_flow": -314.71
+    },
+    "prior_ytd": {
+      "operating_income": -65.659,
+      "net_income": -82.747,
+      "operating_cash_flow": -92.443
+    },
+    "prior_annual": {
+      "operating_income": -260.992,
+      "net_income": -315.086,
+      "operating_cash_flow": -191.723,
+      "period_end": "2022-12-31",
+      "publication_date": "2023-02-21",
+      "availability_date": "2023-02-21",
+      "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828023004301/be-20221231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "BE",
+    "period_end": "2023-06-30",
+    "publication_date": "2023-08-03",
+    "availability_date": "2023-08-03",
+    "currency": "USD",
+    "unit": "million",
+    "total_assets": 2719.902,
+    "current_liabilities": 828.548,
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828023027213/be-20230630.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828023027213/be-20230630.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828023027213/be-20230630.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828023027213/0001628280-23-027213-index.html",
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ],
+    "fiscal_year": 2023,
+    "fiscal_quarter": 2,
+    "ytd": {
+      "operating_income": -118.137,
+      "net_income": -143.976,
+      "operating_cash_flow": -361.195
+    },
+    "prior_ytd": {
+      "operating_income": -167.832,
+      "net_income": -203.912,
+      "operating_cash_flow": -98.514
+    },
+    "prior_annual": {
+      "operating_income": -260.992,
+      "net_income": -315.086,
+      "operating_cash_flow": -191.723,
+      "period_end": "2022-12-31",
+      "publication_date": "2023-02-21",
+      "availability_date": "2023-02-21",
+      "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828023004301/be-20221231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "BE",
+    "period_end": "2023-09-30",
+    "publication_date": "2023-11-08",
+    "availability_date": "2023-11-08",
+    "currency": "USD",
+    "unit": "million",
+    "total_assets": 2376.172,
+    "current_liabilities": 461.726,
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828023037836/be-20230930.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828023037836/be-20230930.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828023037836/be-20230930.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828023037836/0001628280-23-037836-index.html",
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ],
+    "fiscal_year": 2023,
+    "fiscal_quarter": 3,
+    "ytd": {
+      "operating_income": -221.845,
+      "net_income": -312.054,
+      "operating_cash_flow": -494.364
+    },
+    "prior_ytd": {
+      "operating_income": -220.424,
+      "net_income": -264.304,
+      "operating_cash_flow": -168.453
+    },
+    "prior_annual": {
+      "operating_income": -260.992,
+      "net_income": -315.086,
+      "operating_cash_flow": -191.723,
+      "period_end": "2022-12-31",
+      "publication_date": "2023-02-21",
+      "availability_date": "2023-02-21",
+      "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828023004301/be-20221231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "BE",
+    "period_end": "2024-03-31",
+    "publication_date": "2024-05-09",
+    "availability_date": "2024-05-09",
+    "currency": "USD",
+    "unit": "million",
+    "total_assets": 2286.054,
+    "current_liabilities": 354.671,
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828024022309/be-20240331.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828024022309/be-20240331.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828024022309/be-20240331.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828024022309/0001628280-24-022309-index.html",
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ],
+    "fiscal_year": 2024,
+    "fiscal_quarter": 1,
+    "ytd": {
+      "operating_income": -49.017,
+      "net_income": -56.543,
+      "operating_cash_flow": -147.266
+    },
+    "prior_ytd": {
+      "operating_income": -63.681,
+      "net_income": -74.917,
+      "operating_cash_flow": -314.71
+    },
+    "prior_annual": {
+      "operating_income": -208.907,
+      "net_income": -307.937,
+      "operating_cash_flow": -372.531,
+      "period_end": "2023-12-31",
+      "publication_date": "2024-02-15",
+      "availability_date": "2024-02-15",
+      "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828024005035/be-20231231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "BE",
+    "period_end": "2024-06-30",
+    "publication_date": "2024-08-08",
+    "availability_date": "2024-08-08",
+    "currency": "USD",
+    "unit": "million",
+    "total_assets": 2548.044,
+    "current_liabilities": 393.475,
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828024036219/be-20240630.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828024036219/be-20240630.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828024036219/be-20240630.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828024036219/0001628280-24-036219-index.html",
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ],
+    "fiscal_year": 2024,
+    "fiscal_quarter": 2,
+    "ytd": {
+      "operating_income": -72.145,
+      "net_income": -117.728,
+      "operating_cash_flow": -322.761
+    },
+    "prior_ytd": {
+      "operating_income": -118.137,
+      "net_income": -143.976,
+      "operating_cash_flow": -361.195
+    },
+    "prior_annual": {
+      "operating_income": -208.907,
+      "net_income": -307.937,
+      "operating_cash_flow": -372.531,
+      "period_end": "2023-12-31",
+      "publication_date": "2024-02-15",
+      "availability_date": "2024-02-15",
+      "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828024005035/be-20231231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "BE",
+    "period_end": "2024-09-30",
+    "publication_date": "2024-11-07",
+    "availability_date": "2024-11-07",
+    "currency": "USD",
+    "unit": "million",
+    "total_assets": 2604.517,
+    "current_liabilities": 566.923,
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828024046411/be-20240930.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828024046411/be-20240930.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828024046411/be-20240930.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828024046411/0001628280-24-046411-index.html",
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ],
+    "fiscal_year": 2024,
+    "fiscal_quarter": 3,
+    "ytd": {
+      "operating_income": -81.797,
+      "net_income": -132.36,
+      "operating_cash_flow": -392.23
+    },
+    "prior_ytd": {
+      "operating_income": -221.845,
+      "net_income": -312.054,
+      "operating_cash_flow": -494.364
+    },
+    "prior_annual": {
+      "operating_income": -208.907,
+      "net_income": -307.937,
+      "operating_cash_flow": -372.531,
+      "period_end": "2023-12-31",
+      "publication_date": "2024-02-15",
+      "availability_date": "2024-02-15",
+      "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828024005035/be-20231231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "BE",
+    "period_end": "2025-03-31",
+    "publication_date": "2025-04-30",
+    "availability_date": "2025-04-30",
+    "currency": "USD",
+    "unit": "million",
+    "total_assets": 2607.984,
+    "current_liabilities": 584.419,
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025021160/be-20250331.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025021160/be-20250331.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025021160/be-20250331.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025021160/0001628280-25-021160-index.html",
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ],
+    "fiscal_year": 2025,
+    "fiscal_quarter": 1,
+    "ytd": {
+      "operating_income": -19.07,
+      "net_income": -23.414,
+      "operating_cash_flow": -110.682
+    },
+    "prior_ytd": {
+      "operating_income": -49.017,
+      "net_income": -56.543,
+      "operating_cash_flow": -147.266
+    },
+    "prior_annual": {
+      "operating_income": 22.909,
+      "net_income": -27.203,
+      "operating_cash_flow": 91.998,
+      "period_end": "2024-12-31",
+      "publication_date": "2025-02-27",
+      "availability_date": "2025-02-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025008747/be-20241231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "BE",
+    "period_end": "2025-06-30",
+    "publication_date": "2025-07-31",
+    "availability_date": "2025-07-31",
+    "currency": "USD",
+    "unit": "million",
+    "total_assets": 2530.422,
+    "current_liabilities": 387.339,
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025037074/be-20250630.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025037074/be-20250630.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025037074/be-20250630.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025037074/0001628280-25-037074-index.html",
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ],
+    "fiscal_year": 2025,
+    "fiscal_quarter": 2,
+    "ytd": {
+      "operating_income": -22.573,
+      "net_income": -65.606,
+      "operating_cash_flow": -323.793
+    },
+    "prior_ytd": {
+      "operating_income": -72.145,
+      "net_income": -117.728,
+      "operating_cash_flow": -322.761
+    },
+    "prior_annual": {
+      "operating_income": 22.909,
+      "net_income": -27.203,
+      "operating_cash_flow": 91.998,
+      "period_end": "2024-12-31",
+      "publication_date": "2025-02-27",
+      "availability_date": "2025-02-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025008747/be-20241231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "BE",
+    "period_end": "2025-09-30",
+    "publication_date": "2025-10-28",
+    "availability_date": "2025-10-28",
+    "currency": "USD",
+    "unit": "million",
+    "total_assets": 2638.199,
+    "current_liabilities": 465.951,
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025046844/be-20250930.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025046844/be-20250930.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025046844/be-20250930.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025046844/0001628280-25-046844-index.html",
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ],
+    "fiscal_year": 2025,
+    "fiscal_quarter": 3,
+    "ytd": {
+      "operating_income": -14.727,
+      "net_income": -88.566,
+      "operating_cash_flow": -304.124
+    },
+    "prior_ytd": {
+      "operating_income": -81.797,
+      "net_income": -132.36,
+      "operating_cash_flow": -392.23
+    },
+    "prior_annual": {
+      "operating_income": 22.909,
+      "net_income": -27.203,
+      "operating_cash_flow": 91.998,
+      "period_end": "2024-12-31",
+      "publication_date": "2025-02-27",
+      "availability_date": "2025-02-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025008747/be-20241231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "BE",
+    "period_end": "2026-03-31",
+    "publication_date": "2026-04-29",
+    "availability_date": "2026-04-29",
+    "currency": "USD",
+    "unit": "million",
+    "total_assets": 4664.729,
+    "current_liabilities": 786.804,
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026028021/be-20260331.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026028021/be-20260331.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026028021/be-20260331.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026028021/0001628280-26-028021-index.html",
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ],
+    "fiscal_year": 2026,
+    "fiscal_quarter": 1,
+    "ytd": {
+      "operating_income": 72.19,
+      "net_income": 73.691,
+      "operating_cash_flow": 73.61
+    },
+    "prior_ytd": {
+      "operating_income": -19.07,
+      "net_income": -23.414,
+      "operating_cash_flow": -110.682
+    },
+    "prior_annual": {
+      "operating_income": 72.802,
+      "net_income": -87.14,
+      "operating_cash_flow": 113.949,
+      "period_end": "2025-12-31",
+      "publication_date": "2026-02-09",
+      "availability_date": "2026-02-09",
+      "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026006516/be-20251231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "BE",
+    "period_end": "2026-06-30",
+    "publication_date": "2026-07-28",
+    "availability_date": "2026-07-28",
+    "currency": "USD",
+    "unit": "million",
+    "total_assets": 5628.401,
+    "current_liabilities": 1123.187,
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026050247/be-20260630.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026050247/be-20260630.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026050247/be-20260630.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026050247/0001628280-26-050247-index.html",
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests."
+    ],
+    "fiscal_year": 2026,
+    "fiscal_quarter": 2,
+    "ytd": {
+      "operating_income": 254.427,
+      "net_income": 272.547,
+      "operating_cash_flow": 300.042
+    },
+    "prior_ytd": {
+      "operating_income": -22.573,
+      "net_income": -65.606,
+      "operating_cash_flow": -323.793
+    },
+    "prior_annual": {
+      "operating_income": 72.802,
+      "net_income": -87.14,
+      "operating_cash_flow": 113.949,
+      "period_end": "2025-12-31",
+      "publication_date": "2026-02-09",
+      "availability_date": "2026-02-09",
+      "source": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026006516/be-20251231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "ETN",
+    "period_end": "2022-06-30",
+    "publication_date": "2022-08-02",
+    "availability_date": "2022-08-02",
+    "currency": "USD",
+    "unit": "million",
+    "total_assets": 35153.0,
+    "current_liabilities": 8974.0,
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118222000020/etn-20220630.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118222000020/etn-20220630.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118222000020/etn-20220630.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118222000020/0001551182-22-000020-index.html",
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ],
+    "fiscal_year": 2022,
+    "fiscal_quarter": 2,
+    "ytd": {
+      "operating_income": 1329.0,
+      "net_income": 1135.0,
+      "operating_cash_flow": 382.0
+    },
+    "prior_ytd": {
+      "operating_income": 1205.0,
+      "net_income": 965.0,
+      "operating_cash_flow": 897.0
+    },
+    "prior_annual": {
+      "operating_income": 2463.0,
+      "net_income": 2146.0,
+      "operating_cash_flow": 2163.0,
+      "period_end": "2021-12-31",
+      "publication_date": "2022-02-23",
+      "availability_date": "2022-02-23",
+      "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118222000004/etn-20211231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "ETN",
+    "period_end": "2022-09-30",
+    "publication_date": "2022-11-01",
+    "availability_date": "2022-11-01",
+    "currency": "USD",
+    "unit": "million",
+    "total_assets": 34364.0,
+    "current_liabilities": 6653.0,
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118222000024/etn-20220930.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118222000024/etn-20220930.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118222000024/etn-20220930.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118222000024/0001551182-22-000024-index.html",
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ],
+    "fiscal_year": 2022,
+    "fiscal_quarter": 3,
+    "ytd": {
+      "operating_income": 2120.0,
+      "net_income": 1743.0,
+      "operating_cash_flow": 1347.0
+    },
+    "prior_ytd": {
+      "operating_income": 1804.0,
+      "net_income": 1595.0,
+      "operating_cash_flow": 1368.0
+    },
+    "prior_annual": {
+      "operating_income": 2463.0,
+      "net_income": 2146.0,
+      "operating_cash_flow": 2163.0,
+      "period_end": "2021-12-31",
+      "publication_date": "2022-02-23",
+      "availability_date": "2022-02-23",
+      "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118222000004/etn-20211231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "ETN",
+    "period_end": "2023-03-31",
+    "publication_date": "2023-05-02",
+    "availability_date": "2023-05-02",
+    "currency": "USD",
+    "unit": "million",
+    "total_assets": 35517.0,
+    "current_liabilities": 6087.0,
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000008/etn-20230331.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000008/etn-20230331.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000008/etn-20230331.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000008/0001551182-23-000008-index.html",
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ],
+    "fiscal_year": 2023,
+    "fiscal_quarter": 1,
+    "ytd": {
+      "operating_income": 801.0,
+      "net_income": 639.0,
+      "operating_cash_flow": 335.0
+    },
+    "prior_ytd": {
+      "operating_income": 619.0,
+      "net_income": 533.0,
+      "operating_cash_flow": 42.0
+    },
+    "prior_annual": {
+      "operating_income": 2995.0,
+      "net_income": 2465.0,
+      "operating_cash_flow": 2533.0,
+      "period_end": "2022-12-31",
+      "publication_date": "2023-02-23",
+      "availability_date": "2023-02-23",
+      "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000004/etn-20221231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "ETN",
+    "period_end": "2023-06-30",
+    "publication_date": "2023-08-01",
+    "availability_date": "2023-08-01",
+    "currency": "USD",
+    "unit": "million",
+    "total_assets": 36772.0,
+    "current_liabilities": 6725.0,
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000024/etn-20230630.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000024/etn-20230630.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000024/etn-20230630.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000024/0001551182-23-000024-index.html",
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ],
+    "fiscal_year": 2023,
+    "fiscal_quarter": 2,
+    "ytd": {
+      "operating_income": 1747.0,
+      "net_income": 1384.0,
+      "operating_cash_flow": 1185.0
+    },
+    "prior_ytd": {
+      "operating_income": 1329.0,
+      "net_income": 1135.0,
+      "operating_cash_flow": 382.0
+    },
+    "prior_annual": {
+      "operating_income": 2995.0,
+      "net_income": 2465.0,
+      "operating_cash_flow": 2533.0,
+      "period_end": "2022-12-31",
+      "publication_date": "2023-02-23",
+      "availability_date": "2023-02-23",
+      "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000004/etn-20221231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "ETN",
+    "period_end": "2023-09-30",
+    "publication_date": "2023-10-31",
+    "availability_date": "2023-10-31",
+    "currency": "USD",
+    "unit": "million",
+    "total_assets": 37289.0,
+    "current_liabilities": 7563.0,
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000029/etn-20230930.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000029/etn-20230930.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000029/etn-20230930.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000029/0001551182-23-000029-index.html",
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ],
+    "fiscal_year": 2023,
+    "fiscal_quarter": 3,
+    "ytd": {
+      "operating_income": 2807.0,
+      "net_income": 2277.0,
+      "operating_cash_flow": 2326.0
+    },
+    "prior_ytd": {
+      "operating_income": 2120.0,
+      "net_income": 1743.0,
+      "operating_cash_flow": 1347.0
+    },
+    "prior_annual": {
+      "operating_income": 2995.0,
+      "net_income": 2465.0,
+      "operating_cash_flow": 2533.0,
+      "period_end": "2022-12-31",
+      "publication_date": "2023-02-23",
+      "availability_date": "2023-02-23",
+      "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000004/etn-20221231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "ETN",
+    "period_end": "2024-03-31",
+    "publication_date": "2024-04-30",
+    "availability_date": "2024-04-30",
+    "currency": "USD",
+    "unit": "million",
+    "total_assets": 38535.0,
+    "current_liabilities": 7613.0,
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000013/etn-20240331.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000013/etn-20240331.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000013/etn-20240331.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000013/0001551182-24-000013-index.html",
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ],
+    "fiscal_year": 2024,
+    "fiscal_quarter": 1,
+    "ytd": {
+      "operating_income": 1004.0,
+      "net_income": 822.0,
+      "operating_cash_flow": 475.0
+    },
+    "prior_ytd": {
+      "operating_income": 801.0,
+      "net_income": 639.0,
+      "operating_cash_flow": 335.0
+    },
+    "prior_annual": {
+      "operating_income": 3885.0,
+      "net_income": 3223.0,
+      "operating_cash_flow": 3624.0,
+      "period_end": "2023-12-31",
+      "publication_date": "2024-02-29",
+      "availability_date": "2024-02-29",
+      "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000006/etn-20231231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "ETN",
+    "period_end": "2024-06-30",
+    "publication_date": "2024-08-01",
+    "availability_date": "2024-08-01",
+    "currency": "USD",
+    "unit": "million",
+    "total_assets": 39381.0,
+    "current_liabilities": 8120.0,
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000035/etn-20240630.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000035/etn-20240630.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000035/etn-20240630.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000035/0001551182-24-000035-index.html",
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ],
+    "fiscal_year": 2024,
+    "fiscal_quarter": 2,
+    "ytd": {
+      "operating_income": 2197.0,
+      "net_income": 1816.0,
+      "operating_cash_flow": 1421.0
+    },
+    "prior_ytd": {
+      "operating_income": 1747.0,
+      "net_income": 1384.0,
+      "operating_cash_flow": 1185.0
+    },
+    "prior_annual": {
+      "operating_income": 3885.0,
+      "net_income": 3223.0,
+      "operating_cash_flow": 3624.0,
+      "period_end": "2023-12-31",
+      "publication_date": "2024-02-29",
+      "availability_date": "2024-02-29",
+      "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000006/etn-20231231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "ETN",
+    "period_end": "2024-09-30",
+    "publication_date": "2024-10-31",
+    "availability_date": "2024-10-31",
+    "currency": "USD",
+    "unit": "million",
+    "total_assets": 39236.0,
+    "current_liabilities": 7941.0,
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000041/etn-20240930.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000041/etn-20240930.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000041/etn-20240930.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000041/0001551182-24-000041-index.html",
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ],
+    "fiscal_year": 2024,
+    "fiscal_quarter": 3,
+    "ytd": {
+      "operating_income": 3407.0,
+      "net_income": 2827.0,
+      "operating_cash_flow": 2730.0
+    },
+    "prior_ytd": {
+      "operating_income": 2807.0,
+      "net_income": 2277.0,
+      "operating_cash_flow": 2326.0
+    },
+    "prior_annual": {
+      "operating_income": 3885.0,
+      "net_income": 3223.0,
+      "operating_cash_flow": 3624.0,
+      "period_end": "2023-12-31",
+      "publication_date": "2024-02-29",
+      "availability_date": "2024-02-29",
+      "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000006/etn-20231231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "ETN",
+    "period_end": "2025-03-31",
+    "publication_date": "2025-05-02",
+    "availability_date": "2025-05-02",
+    "currency": "USD",
+    "unit": "million",
+    "total_assets": 39206.0,
+    "current_liabilities": 9522.0,
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000014/etn-20250331.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000014/etn-20250331.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000014/etn-20250331.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000014/0001551182-25-000014-index.html",
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ],
+    "fiscal_year": 2025,
+    "fiscal_quarter": 1,
+    "ytd": {
+      "operating_income": 1201.0,
+      "net_income": 965.0,
+      "operating_cash_flow": 238.0
+    },
+    "prior_ytd": {
+      "operating_income": 1004.0,
+      "net_income": 822.0,
+      "operating_cash_flow": 475.0
+    },
+    "prior_annual": {
+      "operating_income": 4632.0,
+      "net_income": 3798.0,
+      "operating_cash_flow": 4327.0,
+      "period_end": "2024-12-31",
+      "publication_date": "2025-02-27",
+      "availability_date": "2025-02-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000006/etn-20241231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "ETN",
+    "period_end": "2025-06-30",
+    "publication_date": "2025-08-05",
+    "availability_date": "2025-08-05",
+    "currency": "USD",
+    "unit": "million",
+    "total_assets": 40507.0,
+    "current_liabilities": 9594.0,
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000028/etn-20250630.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000028/etn-20250630.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000028/etn-20250630.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000028/0001551182-25-000028-index.html",
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ],
+    "fiscal_year": 2025,
+    "fiscal_quarter": 2,
+    "ytd": {
+      "operating_income": 2456.0,
+      "net_income": 1947.0,
+      "operating_cash_flow": 1156.0
+    },
+    "prior_ytd": {
+      "operating_income": 2197.0,
+      "net_income": 1816.0,
+      "operating_cash_flow": 1421.0
+    },
+    "prior_annual": {
+      "operating_income": 4632.0,
+      "net_income": 3798.0,
+      "operating_cash_flow": 4327.0,
+      "period_end": "2024-12-31",
+      "publication_date": "2025-02-27",
+      "availability_date": "2025-02-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000006/etn-20241231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "ETN",
+    "period_end": "2025-09-30",
+    "publication_date": "2025-11-04",
+    "availability_date": "2025-11-04",
+    "currency": "USD",
+    "unit": "million",
+    "total_assets": 40650.0,
+    "current_liabilities": 9474.0,
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000036/etn-20250930.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000036/etn-20250930.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000036/etn-20250930.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000036/0001551182-25-000036-index.html",
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ],
+    "fiscal_year": 2025,
+    "fiscal_quarter": 3,
+    "ytd": {
+      "operating_income": 3823.0,
+      "net_income": 2958.0,
+      "operating_cash_flow": 2507.0
+    },
+    "prior_ytd": {
+      "operating_income": 3407.0,
+      "net_income": 2827.0,
+      "operating_cash_flow": 2730.0
+    },
+    "prior_annual": {
+      "operating_income": 4632.0,
+      "net_income": 3798.0,
+      "operating_cash_flow": 4327.0,
+      "period_end": "2024-12-31",
+      "publication_date": "2025-02-27",
+      "availability_date": "2025-02-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000006/etn-20241231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "ETN",
+    "period_end": "2026-03-31",
+    "publication_date": "2026-05-05",
+    "availability_date": "2026-05-05",
+    "currency": "USD",
+    "unit": "million",
+    "total_assets": 55085.0,
+    "current_liabilities": 11741.0,
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000013/etn-20260331.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000013/etn-20260331.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000013/etn-20260331.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000013/0001551182-26-000013-index.html",
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ],
+    "fiscal_year": 2026,
+    "fiscal_quarter": 1,
+    "ytd": {
+      "operating_income": 1172.0,
+      "net_income": 868.0,
+      "operating_cash_flow": 507.0
+    },
+    "prior_ytd": {
+      "operating_income": 1201.0,
+      "net_income": 965.0,
+      "operating_cash_flow": 238.0
+    },
+    "prior_annual": {
+      "operating_income": 5209.0,
+      "net_income": 4090.0,
+      "operating_cash_flow": 4472.0,
+      "period_end": "2025-12-31",
+      "publication_date": "2026-02-26",
+      "availability_date": "2026-02-26",
+      "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000007/etn-20251231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "ETN",
+    "period_end": "2026-06-30",
+    "publication_date": "2026-07-31",
+    "availability_date": "2026-07-31",
+    "currency": "USD",
+    "unit": "million",
+    "total_assets": 56181.0,
+    "current_liabilities": 11909.0,
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000030/etn-20260630.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000030/etn-20260630.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000030/etn-20260630.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000030/0001551182-26-000030-index.html",
+    "notes": [
+      "Source availability is the actual SEC filing date, conservatively later than any earlier earnings release.",
+      "Net income is consolidated ProfitLoss before attribution to noncontrolling interests.",
+      "Eaton does not report a consolidated operating-income subtotal. Operating income is derived as reported net sales less cost of products sold, selling/administrative expense and research/development expense. Separate net interest, business-disposal gains and other expense/income net are excluded. Other expense/income contains mixed operating and nonoperating items, so this mapping is a disclosed comparability limitation; no vendor/segment adjusted-profit measure is used."
+    ],
+    "fiscal_year": 2026,
+    "fiscal_quarter": 2,
+    "ytd": {
+      "operating_income": 2563.0,
+      "net_income": 1690.0,
+      "operating_cash_flow": 1634.0
+    },
+    "prior_ytd": {
+      "operating_income": 2456.0,
+      "net_income": 1947.0,
+      "operating_cash_flow": 1156.0
+    },
+    "prior_annual": {
+      "operating_income": 5209.0,
+      "net_income": 4090.0,
+      "operating_cash_flow": 4472.0,
+      "period_end": "2025-12-31",
+      "publication_date": "2026-02-26",
+      "availability_date": "2026-02-26",
+      "source": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000007/etn-20251231.htm"
+    },
+    "ttm_compatible": true
+  }
+]

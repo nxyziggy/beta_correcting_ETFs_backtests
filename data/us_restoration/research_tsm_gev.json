@@ -1,0 +1,10 @@
+{
+  "status": "complete_source_qa_passed",
+  "annual_count": 9,
+  "interim_count": 21,
+  "gaps": [],
+  "sources": "SEC original 6-K financial exhibits for TSM; SEC 10-Q/10-K tagged companyfacts and public registration actual combined statements for GEV.",
+  "timing": "Filing dates used conservatively. Only source filings before October 1, 2026. GEV listing eligibility preserved separately.",
+  "accounting_basis": "TSM uses Taiwan-IFRSs for all periods; 20-F IASB-IFRS figures differ and are not combined with these interims. See sources/tsm_gev/accounting_basis_evidence.json. GEV uses US GAAP.",
+  "qa": "Annual and YTD prior-period comparisons reconcile to originals. TSM exact TWD thousands, GEV group ProfitLoss, not parent-only NI. No incompatible flow basis or accounting override identified."
+}

@@ -1,0 +1,19 @@
+panel,ticker,covered_months,modeled_months,first_covered,first_control_holding,annual_score_months,ttm_score_months,uncovered_reasons
+reference_expanded,BE,0,50,,,0,0,no usable dated financial observation
+reference_expanded,ETN,0,50,,,0,0,no usable dated financial observation
+reference_expanded,FSLR,0,50,,,0,0,no usable dated financial observation
+reference_expanded,GEV,0,50,,,0,0,no usable dated financial observation | not yet regularly listed
+reference_expanded,PLUG,0,50,,,0,0,no usable dated financial observation
+reference_expanded,TSM,0,50,,,0,0,no usable dated financial observation
+restored_annual,BE,50,50,2022-09-30,2022-09-30,50,0,
+restored_annual,ETN,50,50,2022-09-30,2022-09-30,50,0,
+restored_annual,FSLR,50,50,2022-09-30,2022-09-30,50,0,
+restored_annual,GEV,31,50,2024-04-30,2024-06-30,31,0,not yet regularly listed
+restored_annual,PLUG,50,50,2022-09-30,2022-09-30,50,0,
+restored_annual,TSM,50,50,2022-09-30,2022-09-30,50,0,
+restored_interim,BE,50,50,2022-09-30,2022-09-30,10,40,
+restored_interim,ETN,50,50,2022-09-30,2022-09-30,11,39,
+restored_interim,FSLR,50,50,2022-09-30,2022-09-30,9,41,
+restored_interim,GEV,31,50,2024-04-30,2024-06-30,6,25,not yet regularly listed
+restored_interim,PLUG,50,50,2022-09-30,2022-09-30,9,41,
+restored_interim,TSM,50,50,2022-09-30,2022-09-30,12,38,

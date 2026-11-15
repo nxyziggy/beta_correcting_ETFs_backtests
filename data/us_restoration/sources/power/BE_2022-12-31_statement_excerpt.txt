@@ -1,0 +1,242 @@
+https://www.sec.gov/Archives/edgar/data/1664703/000162828023004301/be-20221231.htm
+Filed 2023-02-21
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  | December 31, | 
+ |  |  | 2022 |  | 2021 | 
+ | Assets |  |  |  |  | 
+ | Current assets: |  |  |  |  | 
+ | Cash and cash equivalents1 |  | $ | 348,498  |  |  | $ | 396,035  |  | 
+ | Restricted cash1 |  | 51,515  |  |  | 92,540  |  | 
+ | Accounts receivable less allowance for doubtful accounts of $119 as of December 31, 2022 and 20211 |  | 250,995  |  |  | 87,789  |  | 
+ | Contract assets |  | 46,727  |  |  | 25,201  |  | 
+ | Inventories1 |  | 268,394  |  |  | 143,370  |  | 
+ | Deferred cost of revenue |  | 46,191  |  |  | 25,040  |  | 
+ | Customer financing receivable1 |  | —  |  |  | 5,784  |  | 
+ | Prepaid expenses and other current assets1 |  | 43,643  |  |  | 30,661  |  | 
+ | Total current assets |  | 1,055,963  |  |  | 806,420  |  | 
+ | Property, plant and equipment, net1 |  | 600,414  |  |  | 604,106  |  | 
+ | Operating lease right-of-use assets1 |  | 126,955  |  |  | 106,660  |  | 
+ | Customer financing receivable1 |  | —  |  |  | 39,484  |  | 
+ | Restricted cash1 |  | 118,353  |  |  | 126,539  |  | 
+ | Deferred cost of revenue |  | 4,737  |  |  | 1,289  |  | 
+ | Other long-term assets1 |  | 40,205  |  |  | 41,073  |  | 
+ | Total assets |  | $ | 1,946,627  |  |  | $ | 1,725,571  |  | 
+ | Liabilities, redeemable convertible preferred stock, redeemable noncontrolling interest and stockholders’ equity (deficit) |  |  |  |  | 
+ | Current liabilities: |  |  |  |  | 
+ | Accounts payable1 |  | $ | 161,770  |  |  | $ | 72,967  |  | 
+ | Accrued warranty |  | 17,332  |  |  | 11,746  |  | 
+ | Accrued expenses and other current liabilities1 |  | 144,183  |  |  | 114,138  |  | 
+ | Deferred revenue and customer deposits1 |  | 159,048  |  |  | 89,975  |  | 
+ |  |  |  |  |  | 
+ | Operating lease liabilities1 |  | 16,227  |  |  | 13,101  |  | 
+ | Financing obligations |  | 17,363  |  |  | 14,721  |  | 
+ | Recourse debt |  | 12,716  |  |  | 8,348  |  | 
+ | Non-recourse debt1 |  | 13,307  |  |  | 17,483  |  | 
+ |  |  |  |  |  | 
+ |  |  |  |  |  | 
+ | Total current liabilities |  | 541,946  |  |  | 342,479  |  | 
+ |  |  |  |  |  | 
+ |  |  |  |  |  | 
+ | Deferred revenue and customer deposits1 |  | 56,392  |  |  | 90,310  |  | 
+ | Operating lease liabilities1 |  | 132,363  |  |  | 106,187  |  | 
+ |  |  |  |  |  | 
+ | Financing obligations |  | 442,063  |  |  | 461,900  |  | 
+ | Recourse debt |  | 273,076  |  |  | 283,483  |  | 
+ | Non-recourse debt1 |  | 112,480  |  |  | 217,416  |  | 
+ |  |  |  |  |  | 
+ |  |  |  |  |  | 
+ | Other long-term liabilities |  | 9,491  |  |  | 16,772  |  | 
+ | Total liabilities |  | 1,567,811  |  |  | 1,518,547  |  | 
+ | Commitments and contingencies (Note 13) |  |  |  |  | 
+ | Redeemable convertible preferred stock, Series A: 10,000,000 shares authorized; no shares and 10,000,000 shares issued and outstanding at December 31, 2022 and December 31, 2021, respectively. |  | —  |  |  | 208,551  |  | 
+ | Redeemable noncontrolling interest |  | —  |  |  | 300  |  | 
+ | Stockholders’ equity (deficit) : |  |  |  |  | 
+ |  |  |  |  |  | 
+ | Common stock: $0.0001 par value; Class A shares - 600,000,000 shares authorized, and 189,864,722 shares and 160,627,544 shares issued and outstanding and Class B shares - 600,000,000 shares authorized and 15,799,968 shares and 15,832,863 shares issued and outstanding at December 31, 2022 and December 31, 2021, respectively. |  | 20  |  |  | 18  |  | 
+ | Additional paid-in capital |  | 3,906,491  |  |  | 3,219,081  |  | 
+ | Accumulated other comprehensive loss |  | (1,251) |  |  | (350) |  | 
+ | Accumulated deficit |  | (3,564,483) |  |  | (3,263,075) |  | 
+ | Total stockholders’ equity (deficit) attributable to Class A and Class B common stockholders |  | 340,777  |  |  | (44,326) |  | 
+ | Noncontrolling interest |  | 38,039  |  |  | 42,499  |  | 
+ | Total stockholders’ equity (deficit) |  | $ | 378,816  |  |  | $ | (1,827) |  | 
+ | Total liabilities, redeemable convertible preferred stock, redeemable noncontrolling interest and stockholders’ equity (deficit) |  | $ | 1,946,627  |  |  | $ | 1,725,571  |  | 
+
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |   |  |  |  | Years Ended December 31, | 
+ |   |  |  |  |  |  | 2022 |  | 2021 |  | 2020 | 
+ |   |  |  |  |  |  |  |  |  |  |  | 
+ | Revenue: |  |  |  |  |  |  |  |  |  |  | 
+ | Product |  |  |  |  |  | $ | 880,664  |  |  | $ | 663,512  |  |  | $ | 518,633  |  | 
+ | Installation |  |  |  |  |  | 92,120  |  |  | 96,059  |  |  | 101,887  |  | 
+ | Service |  |  |  |  |  | 150,954  |  |  | 144,184  |  |  | 109,633  |  | 
+ | Electricity |  |  |  |  |  | 75,387  |  |  | 68,421  |  |  | 64,094  |  | 
+ | Total revenue |  |  |  |  |  | 1,199,125  |  |  | 972,176  |  |  | 794,247  |  | 
+ | Cost of revenue: |  |  |  |  |  |  |  |  |  |  | 
+ | Product |  |  |  |  |  | 616,178  |  |  | 471,654  |  |  | 332,724  |  | 
+ | Installation |  |  |  |  |  | 104,111  |  |  | 110,214  |  |  | 116,542  |  | 
+ | Service |  |  |  |  |  | 168,491  |  |  | 148,286  |  |  | 132,329  |  | 
+ | Electricity |  |  |  |  |  | 162,057  |  |  | 44,441  |  |  | 46,859  |  | 
+ | Total cost of revenue |  |  |  |  |  | 1,050,837  |  |  | 774,595  |  |  | 628,454  |  | 
+ | Gross profit |  |  |  |  |  | 148,288  |  |  | 197,581  |  |  | 165,793  |  | 
+ | Operating expenses: |  |  |  |  |  |  |  |  |  |  | 
+ | Research and development |  |  |  |  |  | 150,606  |  |  | 103,396  |  |  | 83,577  |  | 
+ | Sales and marketing |  |  |  |  |  | 90,934  |  |  | 86,499  |  |  | 55,916  |  | 
+ | General and administrative |  |  |  |  |  | 167,740  |  |  | 122,188  |  |  | 107,085  |  | 
+ | Total operating expenses |  |  |  |  |  | 409,280  |  |  | 312,083  |  |  | 246,578  |  | 
+ | Loss from operations |  |  |  |  |  | (260,992) |  |  | (114,502) |  |  | (80,785) |  | 
+ | Interest income |  |  |  |  |  | 3,887  |  |  | 262  |  |  | 1,475  |  | 
+ | Interest expense |  |  |  |  |  | (53,493) |  |  | (69,025) |  |  | (76,276) |  | 
+ | Interest expense - related parties |  |  |  |  |  | —  |  |  | —  |  |  | (2,513) |  | 
+ | Loss on extinguishment of debt |  |  |  |  |  | (8,955) |  |  | —  |  |  | (12,878) |  | 
+ | Other income (expense), net |  |  |  |  |  | 4,998  |  |  | (8,139) |  |  | (8,318) |  | 
+ | Gain (loss) on revaluation of embedded derivatives |  |  |  |  |  | 566  |  |  | (919) |  |  | 464  |  | 
+ | Loss before income taxes |  |  |  |  |  | (313,989) |  |  | (192,323) |  |  | (178,831) |  | 
+ | Income tax provision |  |  |  |  |  | 1,097  |  |  | 1,046  |  |  | 256  |  | 
+ | Net loss |  |  |  |  |  | (315,086) |  |  | (193,369) |  |  | (179,087) |  | 
+ | Less: Net loss attributable to noncontrolling interest |  |  |  |  |  | (13,378) |  |  | (28,896) |  |  | (21,513) |  | 
+ | Net loss attributable to Class A and Class B common stockholders |  |  |  |  |  | (301,708) |  |  | (164,473) |  |  | (157,574) |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ | Less: Net loss attributable to redeemable noncontrolling interest |  |  |  |  |  | (300) |  |  | (28) |  |  | (21) |  | 
+ | Net loss before portion attributable to redeemable noncontrolling interest and noncontrolling interest |  |  |  |  |  | $ | (301,408) |  |  | $ | (164,445) |  |  | $ | (157,553) |  | 
+ | Net loss per share available to Class A and Class B common stockholders, basic and diluted |  |  |  |  |  | $ | (1.62) |  |  | $ | (0.95) |  |  | $ | (1.14) |  | 
+ | Weighted average shares used to compute net loss per share available to Class A and Class B common stockholders, basic and diluted |  |  |  |  |  | 185,907  |  |  | 173,438  |  |  | 138,722  |  | 
+
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |   |  | Years Ended December 31, | 
+ |   |  | 2022 |  | 2021 |  | 2020 | 
+ | Cash flows from operating activities: |  |  |  |  |  |  | 
+ | Net loss |  | $ | (315,086) |  |  | $ | (193,369) |  |  | $ | (179,087) |  | 
+ | Adjustments to reconcile net loss to net cash used in operating activities: |  |  |  |  |  |  | 
+ | Depreciation and amortization |  | 61,608  |  |  | 53,454  |  |  | 52,279  |  | 
+ | Non-cash lease expense |  | 20,155  |  |  | 9,708  |  |  | 5,328  |  | 
+ | Write-off of assets related to PPA IIIa and PPA IV |  | 113,514  |  |  | —  |  |  | —  |  | 
+ | Revaluation of derivative contracts |  | (9,583) |  |  | 17,532  |  |  | (497) |  | 
+ | Stock-based compensation expense |  | 112,259  |  |  | 73,274  |  |  | 73,893  |  | 
+ | Gain on remeasurement of investment |  | —  |  |  | (1,966) |  |  | —  |  | 
+ | Contingent consideration remeasurement |  | —  |  |  | (3,623) |  |  | —  |  | 
+ | Interest expense on interest rate swap settlement |  | —  |  |  | (641) |  |  | —  |  | 
+ | Loss on extinguishment of debt |  | 8,955  |  |  | —  |  |  | 11,785  |  | 
+ | Amortization of warrants and debt issuance costs |  | 3,032  |  |  | 3,797  |  |  | 6,455  |  | 
+ | Unrealized foreign currency exchange loss (gain) |  | (3,267) |  |  | 77  |  |  | 19  |  | 
+ | Other |  | 3,532  |  |  | —  |  |  | 4,346  |  | 
+ | Changes in operating assets and liabilities: |  |  |  |  |  |  | 
+ | Accounts receivable |  | (162,864) |  |  | 8,608  |  |  | (61,702) |  | 
+ | Contract assets |  | (21,525) |  |  | (21,874) |  |  | —  |  | 
+ | Inventories |  | (124,878) |  |  | (885) |  |  | (33,004) |  | 
+ | Deferred cost of revenue |  | (24,282) |  |  | 17,567  |  |  | 19,910  |  | 
+ | Customer financing receivable |  | 2,510  |  |  | 5,428  |  |  | 5,159  |  | 
+ | Prepaid expenses and other current assets |  | (17,590) |  |  | 1,520  |  |  | (3,124) |  | 
+ | Other long-term assets |  | (2,617) |  |  | (2,854) |  |  | 2,904  |  | 
+ | Operating lease right-of-use assets and operating lease liabilities |  | 3,016  |  |  | (12,953) |  |  | (2,855) |  | 
+ | Financing lease liabilities |  | 896  |  |  | 1,142  |  |  | —  |  | 
+ | Accounts payable |  | 86,498  |  |  | 13,017  |  |  | (622) |  | 
+ | Accrued warranty |  | 5,586  |  |  | 1,481  |  |  | (241) |  | 
+ | Accrued expenses and other current liabilities |  | 43,243  |  |  | (2,144) |  |  | 17,753  |  | 
+ | Deferred revenue and customer deposits |  | 35,156  |  |  | (22,677) |  |  | (12,972) |  | 
+ | Other long-term liabilities |  | (9,991) |  |  | (4,300) |  |  | (4,523) |  | 
+ | Net cash used in operating activities |  | (191,723) |  |  | (60,681) |  |  | (98,796) |  | 
+ | Cash flows from investing activities: |  |  |  |  |  |  | 
+ | Purchase of property, plant and equipment |  | (116,823) |  |  | (49,810) |  |  | (37,913) |  | 
+ | Net cash acquired from step acquisition |  | —  |  |  | 3,114  |  |  | —  |  | 
+ | Net cash used in investing activities |  | (116,823) |  |  | (46,696) |  |  | (37,913) |  | 
+ | Cash flows from financing activities: |  |  |  |  |  |  | 
+ | Proceeds from issuance of debt |  | —  |  |  | 135,989  |  |  | 300,000  |  | 
+ | Proceeds from issuance of debt to related parties |  | —  |  |  | —  |  |  | 30,000  |  | 
+ | Repayment of debt of PPA IIIa and PPA IV |  | (100,705) |  |  | —  |  |  | —  |  | 
+ | Repayment of debt |  | (19,881) |  |  | (123,374) |  |  | (176,522) |  | 
+ | Repayment of debt - related parties |  | —  |  |  | —  |  |  | (2,105) |  | 
+ | Make-whole payment related to PPA IIIa and PPA IV debt |  | (6,553) |  |  | —  |  |  | —  |  | 
+ | Debt issuance costs |  | —  |  |  | (1,950) |  |  | (13,247) |  | 
+ | Proceeds from financing obligations |  | 3,261  |  |  | 16,849  |  |  | 26,279  |  | 
+ | Repayment of financing obligations |  | (35,543) |  |  | (13,642) |  |  | (10,756) |  | 
+ | Contributions from noncontrolling interest |  | 2,815  |  |  | —  |  |  | 6,513  |  | 
+ | Distributions to redeemable noncontrolling interests |  | —  |  |  | (49) |  |  | (45) |  | 
+ | Distributions and payments to noncontrolling interests |  | (6,854) |  |  | (5,789) |  |  | (7,577) |  | 
+ | Purchase of noncontrolling interest of PPA IV and PPA V |  | (12,000) |  |  | —  |  |  | —  |  | 
+ | Proceeds from issuance of common stock |  | 15,279  |  |  | 89,790  |  |  | 23,491  |  | 
+ | Proceeds from issuance of redeemable convertible preferred stock, net |  | —  |  |  | 208,551  |  |  | —  |  | 
+ | Proceeds from Class A common share offering |  | 385,396  |  |  | —  |  |  | —  |  | 
+ | Public share offering costs |  | (13,775) |  |  | —  |  |  | —  |  | 
+ | Other |  | (76) |  |  | —  |  |  | —  |  | 
+ | Net cash provided by financing activities |  | 211,364  |  |  | 306,375  |  |  | 176,031  |  | 
+ | Effect of exchange rate changes on cash, cash equivalent and restricted cash  |  | 434  |  |  | (594) |  |  | —  |  | 
+ | Net (decrease) increase in cash, cash equivalents and restricted cash |  | (96,748) |  |  | 198,404  |  |  | 39,322  |  | 
+ | Cash, cash equivalents, and restricted cash: |  |  |  |  |  |  | 
+ | Beginning of period |  | 615,114  |  |  | 416,710  |  |  | 377,388  |  | 
+ | End of period |  | $ | 518,366  |  |  | $ | 615,114  |  |  | $ | 416,710  |  | 
+ |  |  |  |  |  |  |  | 
+ | Supplemental disclosure of cash flow information: |  |  |  |  |  |  | 
+ | Cash paid during the period for interest |  | $ | 48,980  |  |  | $ | 68,739  |  |  | $ | 71,651  |  | 
+ | Cash paid for amounts included in the measurement of lease liabilities: |  |  |  |  |  |  | 
+ | Operating cash flows from operating leases |  | 14,001  |  |  | 17,416  |  |  | 2,855  |  | 
+ | Operating cash flows from financing leases |  | 1,085  |  |  | 878  |  |  | 61  |  | 
+ | Cash paid during the period for income taxes |  | 1,439  |  |  | 576  |  |  | 371  |  | 
+ | Non-cash investing and financing activities: |  |  |  |  |  |  | 
+ | Increase in recourse debt, non-current upon adoption of ASU 2020-06, net |  | $ | —  |  |  | $ | 121,491  |  |  | $ | —  |  | 
+ | Liabilities recorded for property, plant and equipment |  | 10,988  |  |  | 6,095  |  |  | 7,175  |  | 
+ | Operating lease liabilities arising from obtaining right-of-use assets upon adoption of new lease guidance |  | —  |  |  | —  |  |  | 39,775  |  | 
+ | Transfer from customer financing receivable to property, plant and equipment |  | 42,758  |  |  | —  |  |  | —  |  | 
+ | Forward contract to purchase Class A Common Stock (Note 5) |  | 4,183  |  |  | —  |  |  | —  |  | 
+ | Conversion of Series A Redeemable Convertible Preferred Stock to Class A Common Stock |  | 208,551  |  |  | —  |  |  | —  |  | 
+ | Recognition of operating lease right-of-use asset during the year-to-date period |  | 36,402  |  |  | 82,802  |  |  | 12,829  |  | 
+ | Recognition of financing lease right-of-use asset during the year-to-date period |  | 896  |  |  | 2,210  |  |  | 385  |  | 
+ | Conversion of 10% convertible promissory notes into Class A common stock |  | —  |  |  | —  |  |  | 252,797  |  | 
+ | Conversion of 10% convertible promissory notes to related party into Class A common stock |  | —  |  |  | —  |  |  | 50,800  |  | 
+ | Accrued interest for notes |  | —  |  |  | —  |  |  | 1,298  |  | 
+ | Adjustment of embedded derivative related to debt extinguishment |  | —  |  |  | —  |  |  | 24,071  |  | 
+
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  | December 31,
+ |  |  | 2022 |  | 2021
+ | Assets |  |  |  | 
+ | Current assets: |  |  |  | 
+ | Cash and cash equivalents |  | $ | 5,008  |  |  | $ | 1,541  | 
+ | Restricted cash |  | 550  |  |  | 3,078  | 
+ | Accounts receivable |  | 2,072  |  |  | 5,112  | 
+ | Customer financing receivable |  | —  |  |  | 5,784  | 
+ | Prepaid expenses and other current assets |  | 1,927  |  |  | 3,071  | 
+ | Total current assets |  | 9,557  |  |  | 18,586  | 
+ | Property and equipment, net |  | 133,285  |  |  | 228,546  | 
+ | Customer financing receivable |  | —  |  |  | 39,484  | 
+ | Restricted cash |  | 8,000  |  |  | 23,239  | 
+ | Other long-term assets |  | 1,869  |  |  | 2,362  | 
+ | Total assets |  | $ | 152,711  |  |  | $ | 312,217  | 
+ | Liabilities |  |  |  | 
+ | Current liabilities: |  |  |  | 
+ | Accrued expenses and other current liabilities |  | $ | 1,037  |  |  | $ | 194  | 
+ | Deferred revenue and customer deposits |  | 662  |  |  | 662  | 
+ | Non-recourse debt |  | 13,307  |  |  | 17,483  | 
+ | Total current liabilities |  | 15,006  |  |  | 18,339  | 
+ | Deferred revenue and customer deposits |  | 4,748  |  |  | 5,410  | 
+ | Non-recourse debt |  | 112,480  |  |  | 217,417  | 
+ | Total liabilities |  | $ | 132,234  |  |  | $ | 241,166  | 
+
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  | December 31,
+ |  |  | 2022 |  | 2021
+ | Assets |  |  |  | 
+ | Current assets: |  |  |  | 
+ | Cash and cash equivalents |  | $ | 2,591  |  |  | $ | 2,955  | 
+ | Accounts receivable |  | 4257 |  | 4362
+ | Inventories |  | 13,412  |  |  | 4,363  | 
+ | Prepaid expenses and other current assets |  | 2,645  |  |  | 99  | 
+ | Total current assets |  | 22,905  |  |  | 11,779  | 
+ | Property and equipment, net |  | 1,141  |  |  | 1,101  | 
+ | Operating lease right-of-use assets |  | 2,390  |  |  | 569  | 
+ | Other long-term assets |  | 47  |  |  | 231  | 
+ | Total assets |  | $ | 26,483  |  |  | $ | 13,680  | 
+ | Liabilities |  |  |  | 
+ | Current liabilities: |  |  |  | 
+ | Accounts payable |  | $ | 5,607  |  |  | $ | 3,006  | 
+ | Accrued expenses and other current liabilities |  | 1,355  |  |  | 567  | 
+ | Deferred revenue and customer deposits |  | 2  |  |  | 475  | 
+ | Operating lease liabilities |  | 393  |  |  | 175  | 
+ | Total current liabilities |  | 7,357  |  |  | 4,223  | 
+ | Operating lease liabilities |  | 2,000  |  |  | 402  | 
+ | Total liabilities |  | $ | 9,357  |  |  | $ | 4,625  | 
