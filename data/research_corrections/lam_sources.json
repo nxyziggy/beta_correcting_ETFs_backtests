@@ -1,0 +1,709 @@
+[
+  {
+    "ticker": "LRCX",
+    "period_end": "2024-06-30",
+    "publication_date": "2024-07-31",
+    "availability_date": "2024-07-31",
+    "fiscal_year": 2024,
+    "fiscal_quarter": 4,
+    "period_type": "annual",
+    "currency": "USD",
+    "unit": "million",
+    "source": "https://investor.lamresearch.com/2024-07-31-Lam-Research-Corporation-Reports-Financial-Results-for-the-Quarter-Ended-June-30%2C-2024",
+    "date_source": "https://investor.lamresearch.com/2024-07-31-Lam-Research-Corporation-Reports-Financial-Results-for-the-Quarter-Ended-June-30%2C-2024",
+    "download_sha256": "167cefa07467a4c47d392b22b56972c066cf6397f499ceb5c05b4e71f761761e",
+    "evidence": {
+      "operating_income": {
+        "table_index_zero_based": 4,
+        "label": "Operating income",
+        "reported_unit": "thousand USD",
+        "column_values": [
+          1126560.0,
+          1057112.0,
+          854605.0,
+          4263913.0,
+          5174860.0
+        ],
+        "header_rows": [
+          [
+            "",
+            "Three Months Ended",
+            "",
+            "Twelve Months Ended"
+          ],
+          [
+            "",
+            "June 30, 2024",
+            "",
+            "March 31, 2024",
+            "",
+            "June 25, 2023",
+            "",
+            "June 30, 2024",
+            "",
+            "June 25, 2023"
+          ]
+        ]
+      },
+      "net_income": {
+        "table_index_zero_based": 4,
+        "label": "Net income",
+        "reported_unit": "thousand USD",
+        "column_values": [
+          1020282.0,
+          965826.0,
+          802537.0,
+          3827772.0,
+          4510931.0
+        ],
+        "header_rows": [
+          [
+            "",
+            "Three Months Ended",
+            "",
+            "Twelve Months Ended"
+          ],
+          [
+            "",
+            "June 30, 2024",
+            "",
+            "March 31, 2024",
+            "",
+            "June 25, 2023",
+            "",
+            "June 30, 2024",
+            "",
+            "June 25, 2023"
+          ]
+        ]
+      },
+      "operating_cash_flow": {
+        "table_index_zero_based": 8,
+        "label": "Net cash provided by operating activities",
+        "reported_unit": "thousand USD",
+        "column_values": [
+          862430.0,
+          1384836.0,
+          1122725.0,
+          4652269.0,
+          5178938.0
+        ],
+        "header_rows": [
+          [
+            "",
+            "Three Months Ended",
+            "",
+            "Twelve Months Ended"
+          ],
+          [
+            "",
+            "June 30, 2024",
+            "",
+            "March 31, 2024",
+            "",
+            "June 25, 2023",
+            "",
+            "June 30, 2024",
+            "",
+            "June 25, 2023"
+          ]
+        ]
+      },
+      "total_assets": {
+        "table_index_zero_based": 6,
+        "label": "Total assets",
+        "reported_unit": "thousand USD",
+        "column_values": [
+          18744728.0,
+          18279650.0,
+          18781643.0
+        ],
+        "header_rows": [
+          [
+            "",
+            "June 30, 2024",
+            "",
+            "March 31, 2024",
+            "",
+            "June 25, 2023"
+          ],
+          [
+            "",
+            "(unaudited)",
+            "",
+            "(unaudited)",
+            "",
+            "(1)"
+          ]
+        ]
+      },
+      "current_liabilities": {
+        "table_index_zero_based": 6,
+        "label": "Total current liabilities",
+        "reported_unit": "thousand USD",
+        "column_values": [
+          4338438.0,
+          4430089.0,
+          4184918.0
+        ],
+        "header_rows": [
+          [
+            "",
+            "June 30, 2024",
+            "",
+            "March 31, 2024",
+            "",
+            "June 25, 2023"
+          ],
+          [
+            "",
+            "(unaudited)",
+            "",
+            "(unaudited)",
+            "",
+            "(1)"
+          ]
+        ]
+      }
+    },
+    "ytd": {},
+    "prior_ytd": {},
+    "operating_income": 4263.913,
+    "net_income": 3827.772,
+    "operating_cash_flow": 4652.269,
+    "total_assets": 18744.728,
+    "current_liabilities": 4338.438,
+    "notes": [
+      "Original dated issuer release, GAAP statements, current-year column.",
+      "Fiscal-year TTM: FY2024 plus current FY2025 YTD minus comparable FY2024 YTD. Balances are current quarter-end."
+    ]
+  },
+  {
+    "ticker": "LRCX",
+    "period_end": "2024-09-29",
+    "publication_date": "2024-10-23",
+    "availability_date": "2024-10-23",
+    "fiscal_year": 2025,
+    "fiscal_quarter": 1,
+    "period_type": "interim",
+    "currency": "USD",
+    "unit": "million",
+    "source": "https://investor.lamresearch.com/2024-10-23-Lam-Research-Corporation-Reports-Financial-Results-for-the-Quarter-Ended-September-29%2C-2024",
+    "date_source": "https://investor.lamresearch.com/2024-10-23-Lam-Research-Corporation-Reports-Financial-Results-for-the-Quarter-Ended-September-29%2C-2024",
+    "download_sha256": "dc2331dbc1cba14dce767f1a9741f10acccae77a63e02eae94e0c847d92b17b3",
+    "evidence": {
+      "operating_income": {
+        "table_index_zero_based": 4,
+        "label": "Operating income",
+        "reported_unit": "thousand USD",
+        "column_values": [
+          1264197.0,
+          1126560.0,
+          1023029.0
+        ],
+        "header_rows": [
+          [
+            "",
+            "Three Months Ended"
+          ],
+          [
+            "",
+            "September 29, 2024",
+            "",
+            "June 30, 2024",
+            "",
+            "September 24, 2023"
+          ]
+        ]
+      },
+      "net_income": {
+        "table_index_zero_based": 4,
+        "label": "Net income",
+        "reported_unit": "thousand USD",
+        "column_values": [
+          1116444.0,
+          1020282.0,
+          887398.0
+        ],
+        "header_rows": [
+          [
+            "",
+            "Three Months Ended"
+          ],
+          [
+            "",
+            "September 29, 2024",
+            "",
+            "June 30, 2024",
+            "",
+            "September 24, 2023"
+          ]
+        ]
+      },
+      "operating_cash_flow": {
+        "table_index_zero_based": 7,
+        "label": "Net cash provided by operating activities",
+        "reported_unit": "thousand USD",
+        "column_values": [
+          1568471.0,
+          862430.0,
+          951163.0
+        ],
+        "header_rows": [
+          [
+            "",
+            "Three Months Ended"
+          ],
+          [
+            "",
+            "September 29, 2024",
+            "",
+            "June 30, 2024",
+            "",
+            "September 24, 2023"
+          ]
+        ]
+      },
+      "total_assets": {
+        "table_index_zero_based": 5,
+        "label": "Total assets",
+        "reported_unit": "thousand USD",
+        "column_values": [
+          19532489.0,
+          18744728.0,
+          18538457.0
+        ],
+        "header_rows": [
+          [
+            "",
+            "(unaudited)",
+            "",
+            "(1)",
+            "",
+            "(unaudited)"
+          ],
+          [
+            "ASSETS",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "current_liabilities": {
+        "table_index_zero_based": 5,
+        "label": "Total current liabilities",
+        "reported_unit": "thousand USD",
+        "column_values": [
+          5342668.0,
+          4338438.0,
+          4247177.0
+        ],
+        "header_rows": [
+          [
+            "",
+            "(unaudited)",
+            "",
+            "(1)",
+            "",
+            "(unaudited)"
+          ],
+          [
+            "ASSETS",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      }
+    },
+    "ytd": {
+      "operating_income": 1264.197,
+      "net_income": 1116.444,
+      "operating_cash_flow": 1568.471
+    },
+    "prior_ytd": {
+      "operating_income": 1023.029,
+      "net_income": 887.398,
+      "operating_cash_flow": 951.163
+    },
+    "total_assets": 19532.489,
+    "current_liabilities": 5342.668,
+    "notes": [
+      "Original dated issuer release, GAAP statements, current-year column.",
+      "Fiscal-year TTM: FY2024 plus current FY2025 YTD minus comparable FY2024 YTD. Balances are current quarter-end."
+    ]
+  },
+  {
+    "ticker": "LRCX",
+    "period_end": "2024-12-29",
+    "publication_date": "2025-01-29",
+    "availability_date": "2025-01-29",
+    "fiscal_year": 2025,
+    "fiscal_quarter": 2,
+    "period_type": "interim",
+    "currency": "USD",
+    "unit": "million",
+    "source": "https://investor.lamresearch.com/2025-01-29-Lam-Research-Corporation-Reports-Financial-Results-for-the-Quarter-Ended-December-29%2C-2024",
+    "date_source": "https://investor.lamresearch.com/2025-01-29-Lam-Research-Corporation-Reports-Financial-Results-for-the-Quarter-Ended-December-29%2C-2024",
+    "download_sha256": "713bc85fda63415ad7ffcbb34100f12f967d1e938b95a5f5acd81b6ff053c843",
+    "evidence": {
+      "operating_income": {
+        "table_index_zero_based": 4,
+        "label": "Operating income",
+        "reported_unit": "thousand USD",
+        "column_values": [
+          1333884.0,
+          1264197.0,
+          1057212.0,
+          2598081.0,
+          2080241.0
+        ],
+        "header_rows": [
+          [
+            "",
+            "Three Months Ended",
+            "",
+            "Six Months Ended"
+          ],
+          [
+            "",
+            "December 29, 2024",
+            "",
+            "September 29, 2024",
+            "",
+            "December 24, 2023",
+            "",
+            "December 29, 2024",
+            "",
+            "December 24, 2023"
+          ]
+        ]
+      },
+      "net_income": {
+        "table_index_zero_based": 4,
+        "label": "Net income",
+        "reported_unit": "thousand USD",
+        "column_values": [
+          1191018.0,
+          1116444.0,
+          954266.0,
+          2307462.0,
+          1841664.0
+        ],
+        "header_rows": [
+          [
+            "",
+            "Three Months Ended",
+            "",
+            "Six Months Ended"
+          ],
+          [
+            "",
+            "December 29, 2024",
+            "",
+            "September 29, 2024",
+            "",
+            "December 24, 2023",
+            "",
+            "December 29, 2024",
+            "",
+            "December 24, 2023"
+          ]
+        ]
+      },
+      "operating_cash_flow": {
+        "table_index_zero_based": 7,
+        "label": "Net cash provided by operating activities",
+        "reported_unit": "thousand USD",
+        "column_values": [
+          741942.0,
+          1568471.0,
+          1453840.0,
+          2310413.0,
+          2405003.0
+        ],
+        "header_rows": [
+          [
+            "",
+            "Three Months Ended",
+            "",
+            "Six Months Ended"
+          ],
+          [
+            "",
+            "December 29, 2024",
+            "",
+            "September 29, 2024",
+            "",
+            "December 24, 2023",
+            "",
+            "December 29, 2024",
+            "",
+            "December 24, 2023"
+          ]
+        ]
+      },
+      "total_assets": {
+        "table_index_zero_based": 5,
+        "label": "Total assets",
+        "reported_unit": "thousand USD",
+        "column_values": [
+          19839916.0,
+          19532489.0,
+          18744728.0
+        ],
+        "header_rows": [
+          [
+            "",
+            "December 29, 2024",
+            "",
+            "September 29, 2024",
+            "",
+            "June 30, 2024"
+          ],
+          [
+            "",
+            "(unaudited)",
+            "",
+            "(unaudited)",
+            "",
+            "(1)"
+          ]
+        ]
+      },
+      "current_liabilities": {
+        "table_index_zero_based": 5,
+        "label": "Total current liabilities",
+        "reported_unit": "thousand USD",
+        "column_values": [
+          5350296.0,
+          5342668.0,
+          4338438.0
+        ],
+        "header_rows": [
+          [
+            "",
+            "December 29, 2024",
+            "",
+            "September 29, 2024",
+            "",
+            "June 30, 2024"
+          ],
+          [
+            "",
+            "(unaudited)",
+            "",
+            "(unaudited)",
+            "",
+            "(1)"
+          ]
+        ]
+      }
+    },
+    "ytd": {
+      "operating_income": 2598.081,
+      "net_income": 2307.462,
+      "operating_cash_flow": 2310.413
+    },
+    "prior_ytd": {
+      "operating_income": 2080.241,
+      "net_income": 1841.664,
+      "operating_cash_flow": 2405.003
+    },
+    "total_assets": 19839.916,
+    "current_liabilities": 5350.296,
+    "notes": [
+      "Original dated issuer release, GAAP statements, current-year column.",
+      "Fiscal-year TTM: FY2024 plus current FY2025 YTD minus comparable FY2024 YTD. Balances are current quarter-end."
+    ]
+  },
+  {
+    "ticker": "LRCX",
+    "period_end": "2025-03-30",
+    "publication_date": "2025-04-23",
+    "availability_date": "2025-04-23",
+    "fiscal_year": 2025,
+    "fiscal_quarter": 3,
+    "period_type": "interim",
+    "currency": "USD",
+    "unit": "million",
+    "source": "https://investor.lamresearch.com/2025-04-23-Lam-Research-Corporation-Reports-Financial-Results-for-the-Quarter-Ended-March-30%2C-2025",
+    "date_source": "https://investor.lamresearch.com/2025-04-23-Lam-Research-Corporation-Reports-Financial-Results-for-the-Quarter-Ended-March-30%2C-2025",
+    "download_sha256": "9e67679f1bf99e9325b864df9fec54345dd08193ded7f6a492b144f1c9c333b0",
+    "evidence": {
+      "operating_income": {
+        "table_index_zero_based": 4,
+        "label": "Operating income",
+        "reported_unit": "thousand USD",
+        "column_values": [
+          1561759.0,
+          1333884.0,
+          1057112.0,
+          4159840.0,
+          3137353.0
+        ],
+        "header_rows": [
+          [
+            "",
+            "Three Months Ended",
+            "",
+            "Nine Months Ended"
+          ],
+          [
+            "",
+            "March 30, 2025",
+            "",
+            "December 29, 2024",
+            "",
+            "March 31, 2024",
+            "",
+            "March 30, 2025",
+            "",
+            "March 31, 2024"
+          ]
+        ]
+      },
+      "net_income": {
+        "table_index_zero_based": 4,
+        "label": "Net income",
+        "reported_unit": "thousand USD",
+        "column_values": [
+          1330667.0,
+          1191018.0,
+          965826.0,
+          3638129.0,
+          2807490.0
+        ],
+        "header_rows": [
+          [
+            "",
+            "Three Months Ended",
+            "",
+            "Nine Months Ended"
+          ],
+          [
+            "",
+            "March 30, 2025",
+            "",
+            "December 29, 2024",
+            "",
+            "March 31, 2024",
+            "",
+            "March 30, 2025",
+            "",
+            "March 31, 2024"
+          ]
+        ]
+      },
+      "operating_cash_flow": {
+        "table_index_zero_based": 7,
+        "label": "Net cash provided by operating activities",
+        "reported_unit": "thousand USD",
+        "column_values": [
+          1308663.0,
+          741942.0,
+          1384836.0,
+          3619076.0,
+          3789839.0
+        ],
+        "header_rows": [
+          [
+            "",
+            "Three Months Ended",
+            "",
+            "Nine Months Ended"
+          ],
+          [
+            "",
+            "March 30, 2025",
+            "",
+            "December 29, 2024",
+            "",
+            "March 31, 2024",
+            "",
+            "March 30, 2025",
+            "",
+            "March 31, 2024"
+          ]
+        ]
+      },
+      "total_assets": {
+        "table_index_zero_based": 5,
+        "label": "Total assets",
+        "reported_unit": "thousand USD",
+        "column_values": [
+          19968310.0,
+          19839916.0,
+          18744728.0
+        ],
+        "header_rows": [
+          [
+            "",
+            "March 30, 2025",
+            "",
+            "December 29, 2024",
+            "",
+            "June 30, 2024"
+          ],
+          [
+            "",
+            "(unaudited)",
+            "",
+            "(unaudited)",
+            "",
+            "(1)"
+          ]
+        ]
+      },
+      "current_liabilities": {
+        "table_index_zero_based": 5,
+        "label": "Total current liabilities",
+        "reported_unit": "thousand USD",
+        "column_values": [
+          5489845.0,
+          5350296.0,
+          4338438.0
+        ],
+        "header_rows": [
+          [
+            "",
+            "March 30, 2025",
+            "",
+            "December 29, 2024",
+            "",
+            "June 30, 2024"
+          ],
+          [
+            "",
+            "(unaudited)",
+            "",
+            "(unaudited)",
+            "",
+            "(1)"
+          ]
+        ]
+      }
+    },
+    "ytd": {
+      "operating_income": 4159.84,
+      "net_income": 3638.129,
+      "operating_cash_flow": 3619.076
+    },
+    "prior_ytd": {
+      "operating_income": 3137.353,
+      "net_income": 2807.49,
+      "operating_cash_flow": 3789.839
+    },
+    "total_assets": 19968.31,
+    "current_liabilities": 5489.845,
+    "notes": [
+      "Original dated issuer release, GAAP statements, current-year column.",
+      "Fiscal-year TTM: FY2024 plus current FY2025 YTD minus comparable FY2024 YTD. Balances are current quarter-end."
+    ]
+  }
+]

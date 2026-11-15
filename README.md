@@ -10,6 +10,18 @@ The implemented test measures a specific part of that idea: two accounting signa
 
 ## Quick start
 
+**Coverage, timing and concentration corrections:** use the
+[corrected comparison](results_research_corrected/REPORT.md) for the follow-up
+to the EU/US restorations below. Run `python3 run_research_corrections.py`.
+It fills Lam Research's four missing reports, corrects Safran's annual
+publication dates, applies a common information-delay sensitivity to all
+companies, and reports Bloom attribution, every US leave-one-out test and
+monthly active-return uncertainty. Bloom remains in the main universe.
+Earlier tables below are preserved research snapshots; their data gaps and
+timing conventions are documented in the correction report. Other unverified
+earlier earnings-release dates remain conservative filing dates, so compare
+both the evidenced-date and common-delay results.
+
 **Additional EU coverage experiment:** [EU restoration results](results_eu_restored/REPORT.md)
 restore all seven previously uncovered European candidates using 42 original
 annual reports/statements for FY2020–FY2025. Run `python3 run_eu_restoration.py`

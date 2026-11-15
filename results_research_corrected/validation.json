@@ -1,0 +1,2012 @@
+{
+  "released_runs_reproduced": 15,
+  "corrected_lam_sources": 4,
+  "lam_ttm_arithmetic_fields": 9,
+  "safran_annual_dates_corrected": 5,
+  "safran_financial_values_matched": 25,
+  "lam_covered_all_source_date_months": true,
+  "lam_2025_gap_closed_including_common_timing": true,
+  "preserved_files": 2202,
+  "leave_one_out_runs": 288,
+  "leave_one_out_comparisons": 384,
+  "checks": [
+    {
+      "run": "US_reference_released_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 493
+    },
+    {
+      "run": "US_reference_released_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 493
+    },
+    {
+      "run": "US_reference_released_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 493
+    },
+    {
+      "run": "US_reference_lam_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 500
+    },
+    {
+      "run": "US_reference_lam_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 500
+    },
+    {
+      "run": "US_reference_lam_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 500
+    },
+    {
+      "run": "US_reference_common_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 496
+    },
+    {
+      "run": "US_reference_common_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 496
+    },
+    {
+      "run": "US_reference_common_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 496
+    },
+    {
+      "run": "US_annual_released_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 774
+    },
+    {
+      "run": "US_annual_released_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 774
+    },
+    {
+      "run": "US_annual_released_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 774
+    },
+    {
+      "run": "US_annual_lam_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 781
+    },
+    {
+      "run": "US_annual_lam_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 781
+    },
+    {
+      "run": "US_annual_lam_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 781
+    },
+    {
+      "run": "US_annual_common_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 777
+    },
+    {
+      "run": "US_annual_common_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 777
+    },
+    {
+      "run": "US_annual_common_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 777
+    },
+    {
+      "run": "US_interim_released_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 774
+    },
+    {
+      "run": "US_interim_released_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 774
+    },
+    {
+      "run": "US_interim_released_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 774
+    },
+    {
+      "run": "US_interim_lam_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 781
+    },
+    {
+      "run": "US_interim_lam_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 781
+    },
+    {
+      "run": "US_interim_lam_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 781
+    },
+    {
+      "run": "US_interim_common_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 777
+    },
+    {
+      "run": "US_interim_common_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 777
+    },
+    {
+      "run": "US_interim_common_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 777
+    },
+    {
+      "run": "EU_annual_released_q75_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882
+    },
+    {
+      "run": "EU_annual_released_q50_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882
+    },
+    {
+      "run": "EU_annual_released_equal_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882
+    },
+    {
+      "run": "EU_annual_evidenced_q75_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882
+    },
+    {
+      "run": "EU_annual_evidenced_q50_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882
+    },
+    {
+      "run": "EU_annual_evidenced_equal_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882
+    },
+    {
+      "run": "EU_annual_common_q75_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 879
+    },
+    {
+      "run": "EU_annual_common_q50_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 879
+    },
+    {
+      "run": "EU_annual_common_equal_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 879
+    },
+    {
+      "run": "EU_interim_released_q75_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882
+    },
+    {
+      "run": "EU_interim_released_q50_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882
+    },
+    {
+      "run": "EU_interim_released_equal_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882
+    },
+    {
+      "run": "EU_interim_evidenced_q75_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882
+    },
+    {
+      "run": "EU_interim_evidenced_q50_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882
+    },
+    {
+      "run": "EU_interim_evidenced_equal_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882
+    },
+    {
+      "run": "EU_interim_common_q75_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 879
+    },
+    {
+      "run": "EU_interim_common_q50_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 879
+    },
+    {
+      "run": "EU_interim_common_equal_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 879
+    },
+    {
+      "run": "US_annual_released_without_AMAT_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_AMAT_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_AMAT_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_BE_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_BE_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_BE_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_ENPH_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_ENPH_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_ENPH_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_ETN_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_ETN_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_ETN_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_FSLR_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_FSLR_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_FSLR_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_GEV_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 743
+    },
+    {
+      "run": "US_annual_released_without_GEV_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 743
+    },
+    {
+      "run": "US_annual_released_without_GEV_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 743
+    },
+    {
+      "run": "US_annual_released_without_GFS_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_GFS_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_GFS_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_INTC_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_INTC_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_INTC_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_LIN_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_LIN_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_LIN_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_LRCX_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_released_without_LRCX_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_released_without_LRCX_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_released_without_MCHP_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_MCHP_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_MCHP_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_MU_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_MU_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_MU_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_NEE_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_NEE_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_NEE_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_PLUG_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_PLUG_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_PLUG_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_TSM_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_TSM_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_TSM_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_TXN_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_TXN_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_released_without_TXN_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_AMAT_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_AMAT_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_AMAT_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_BE_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_BE_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_BE_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_ENPH_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_ENPH_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_ENPH_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_ETN_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_ETN_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_ETN_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_FSLR_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_FSLR_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_FSLR_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_GEV_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 743
+    },
+    {
+      "run": "US_interim_released_without_GEV_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 743
+    },
+    {
+      "run": "US_interim_released_without_GEV_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 743
+    },
+    {
+      "run": "US_interim_released_without_GFS_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_GFS_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_GFS_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_INTC_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_INTC_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_INTC_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_LIN_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_LIN_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_LIN_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_LRCX_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_released_without_LRCX_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_released_without_LRCX_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_released_without_MCHP_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_MCHP_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_MCHP_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_MU_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_MU_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_MU_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_NEE_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_NEE_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_NEE_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_PLUG_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_PLUG_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_PLUG_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_TSM_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_TSM_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_TSM_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_TXN_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_TXN_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_interim_released_without_TXN_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 724
+    },
+    {
+      "run": "US_annual_lam_without_AMAT_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_AMAT_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_AMAT_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_BE_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_BE_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_BE_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_ENPH_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_ENPH_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_ENPH_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_ETN_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_ETN_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_ETN_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_FSLR_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_FSLR_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_FSLR_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_GEV_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 750
+    },
+    {
+      "run": "US_annual_lam_without_GEV_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 750
+    },
+    {
+      "run": "US_annual_lam_without_GEV_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 750
+    },
+    {
+      "run": "US_annual_lam_without_GFS_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_GFS_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_GFS_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_INTC_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_INTC_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_INTC_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_LIN_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_LIN_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_LIN_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_LRCX_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_LRCX_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_LRCX_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_MCHP_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_MCHP_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_MCHP_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_MU_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_MU_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_MU_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_NEE_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_NEE_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_NEE_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_PLUG_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_PLUG_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_PLUG_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_TSM_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_TSM_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_TSM_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_TXN_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_TXN_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_lam_without_TXN_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_AMAT_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_AMAT_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_AMAT_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_BE_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_BE_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_BE_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_ENPH_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_ENPH_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_ENPH_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_ETN_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_ETN_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_ETN_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_FSLR_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_FSLR_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_FSLR_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_GEV_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 750
+    },
+    {
+      "run": "US_interim_lam_without_GEV_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 750
+    },
+    {
+      "run": "US_interim_lam_without_GEV_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 750
+    },
+    {
+      "run": "US_interim_lam_without_GFS_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_GFS_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_GFS_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_INTC_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_INTC_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_INTC_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_LIN_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_LIN_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_LIN_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_LRCX_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_LRCX_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_LRCX_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_MCHP_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_MCHP_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_MCHP_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_MU_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_MU_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_MU_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_NEE_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_NEE_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_NEE_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_PLUG_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_PLUG_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_PLUG_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_TSM_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_TSM_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_TSM_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_TXN_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_TXN_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_interim_lam_without_TXN_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 731
+    },
+    {
+      "run": "US_annual_common_without_AMAT_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_AMAT_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_AMAT_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_BE_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_BE_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_BE_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_ENPH_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_ENPH_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_ENPH_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_ETN_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_ETN_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_ETN_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_FSLR_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_FSLR_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_FSLR_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_GEV_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 746
+    },
+    {
+      "run": "US_annual_common_without_GEV_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 746
+    },
+    {
+      "run": "US_annual_common_without_GEV_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 746
+    },
+    {
+      "run": "US_annual_common_without_GFS_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_GFS_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_GFS_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_INTC_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 728
+    },
+    {
+      "run": "US_annual_common_without_INTC_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 728
+    },
+    {
+      "run": "US_annual_common_without_INTC_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 728
+    },
+    {
+      "run": "US_annual_common_without_LIN_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_LIN_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_LIN_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_LRCX_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 729
+    },
+    {
+      "run": "US_annual_common_without_LRCX_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 729
+    },
+    {
+      "run": "US_annual_common_without_LRCX_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 729
+    },
+    {
+      "run": "US_annual_common_without_MCHP_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 728
+    },
+    {
+      "run": "US_annual_common_without_MCHP_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 728
+    },
+    {
+      "run": "US_annual_common_without_MCHP_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 728
+    },
+    {
+      "run": "US_annual_common_without_MU_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_MU_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_MU_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_NEE_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_NEE_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_NEE_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_PLUG_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_PLUG_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_PLUG_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_TSM_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_TSM_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_TSM_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_TXN_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_TXN_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_annual_common_without_TXN_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_AMAT_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_AMAT_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_AMAT_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_BE_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_BE_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_BE_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_ENPH_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_ENPH_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_ENPH_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_ETN_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_ETN_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_ETN_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_FSLR_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_FSLR_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_FSLR_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_GEV_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 746
+    },
+    {
+      "run": "US_interim_common_without_GEV_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 746
+    },
+    {
+      "run": "US_interim_common_without_GEV_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 746
+    },
+    {
+      "run": "US_interim_common_without_GFS_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_GFS_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_GFS_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_INTC_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 728
+    },
+    {
+      "run": "US_interim_common_without_INTC_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 728
+    },
+    {
+      "run": "US_interim_common_without_INTC_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 728
+    },
+    {
+      "run": "US_interim_common_without_LIN_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_LIN_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_LIN_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_LRCX_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 729
+    },
+    {
+      "run": "US_interim_common_without_LRCX_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 729
+    },
+    {
+      "run": "US_interim_common_without_LRCX_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 729
+    },
+    {
+      "run": "US_interim_common_without_MCHP_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 728
+    },
+    {
+      "run": "US_interim_common_without_MCHP_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 728
+    },
+    {
+      "run": "US_interim_common_without_MCHP_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 728
+    },
+    {
+      "run": "US_interim_common_without_MU_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_MU_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_MU_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_NEE_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_NEE_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_NEE_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_PLUG_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_PLUG_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_PLUG_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_TSM_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_TSM_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_TSM_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_TXN_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_TXN_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    },
+    {
+      "run": "US_interim_common_without_TXN_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 727
+    }
+  ]
+}
