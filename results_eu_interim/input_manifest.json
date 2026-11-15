@@ -21,7 +21,7 @@
   },
   {
     "path": "data/eu_interim/research_energy.json",
-    "sha256": "ff7759a54c5ab8772219276f6679f1da70ac6e4e01fd66c32cf7af9008d2fcbd"
+    "sha256": "01f20bfa78b816218e171f65945de68a462a39bef698d68b28bb8a2859a68b61"
   },
   {
     "path": "data/eu_interim/research_energy_observations.json",
@@ -29,7 +29,7 @@
   },
   {
     "path": "data/eu_interim/research_industry.json",
-    "sha256": "e9bf3ca7a0fa249941dbca7d554bc86c0c8d0784e271e6a673b610c85eb4a484"
+    "sha256": "d008bb82b8389d24f7f8ba219219a3346a9b390ad5a91301febc275455d671da"
   },
   {
     "path": "data/eu_interim/research_industry_observations.json",
@@ -45,7 +45,7 @@
   },
   {
     "path": "data/eu_interim/research_wind.json",
-    "sha256": "df84ebd282100d957693f371cba2761786162c3d4c2d7cd23abfa248c2d4a05a"
+    "sha256": "2637355bd2dc737798465e2995d526b147f14c80cb9f6f0f622d2962a7d046d7"
   },
   {
     "path": "data/eu_interim/research_wind_observations.json",

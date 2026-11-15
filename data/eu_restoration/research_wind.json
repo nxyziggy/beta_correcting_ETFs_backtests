@@ -15,7 +15,7 @@
       "publication_date_source": "https://www.vestas.com/en/media/company-news/2021/vestas-annual-report-2020---continued-leadership-in-a-c-c3283502",
       "financial_source": "https://www.vestas.com/content/dam/vestas-com/global/en/investor/reports-and-presentations/financial/2020/210210_01_Annual_Report_2020.pdf.coredownload.inline.pdf",
       "source_class": "original_issuer_annual_report",
-      "local_pdf": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/wind/VWS_2020.pdf",
+      "local_pdf": "../eu_source_reports/wind/VWS_2020.pdf",
       "sha256": "272a436ca07da0c5f1897b29206ce0e8eec3649e5845da4593d9573cb60ce8c4",
       "bytes": 11650962,
       "pdf_pages": [
@@ -39,7 +39,7 @@
       "publication_date_source": "https://www.vestas.com/en/media/company-news/2022/vestas-annual-report-2021---resilience-and-determinatio-c3503915",
       "financial_source": "https://vestas.com/content/dam/vestas-com/global/en/investor/reports-and-presentations/financial/2021/Vestas_Annual_Report_2021.pdf.coredownload.pdf",
       "source_class": "original_issuer_annual_report",
-      "local_pdf": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/wind/VWS_2021.pdf",
+      "local_pdf": "../eu_source_reports/wind/VWS_2021.pdf",
       "sha256": "4e4953000707600945a9b094d03826e191ffe99dfd39660bb4e7b4b426e4435e",
       "bytes": 12017375,
       "pdf_pages": [
@@ -63,7 +63,7 @@
       "publication_date_source": "https://www.vestas.com/en/media/company-news/2023/vestas-annual-report-2022---a-challenging-year-with-neg-c3710817",
       "financial_source": "https://www.vestas.com/content/dam/vestas-com/global/en/investor/reports-and-presentations/financial/2022/Vestas%20Annual%20Report%202022.pdf",
       "source_class": "original_issuer_annual_report",
-      "local_pdf": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/wind/VWS_2022.pdf",
+      "local_pdf": "../eu_source_reports/wind/VWS_2022.pdf",
       "sha256": "b9305b4b7effdb5ff31411d8a34cc6aa597746e493b14830ce423b664cf70419",
       "bytes": 81411464,
       "pdf_pages": [
@@ -87,7 +87,7 @@
       "publication_date_source": "https://www.vestas.com/en/media/company-news/2024/vestas-annual-report-2023---a-return-to-profitability-c3923785",
       "financial_source": "https://www.vestas.com/content/dam/vestas-com/global/en/investor/reports-and-presentations/financial/2023/2023-annual-report/Annual%20Report%202023.pdf.coredownload.inline.pdf",
       "source_class": "original_issuer_annual_report",
-      "local_pdf": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/wind/VWS_2023.pdf",
+      "local_pdf": "../eu_source_reports/wind/VWS_2023.pdf",
       "sha256": "3d7e86c4f8793b4817b1b5593d2b1c65abc7cde05e6b08124f6ed4aae521b5b2",
       "bytes": 9494045,
       "pdf_pages": [
@@ -111,7 +111,7 @@
       "publication_date_source": "https://www.vestas.com/en/media/company-news/2025/vestas-annual-report-2024---progress-in-a-challenging-y-c4100723",
       "financial_source": "https://www.vestas.com/content/dam/vestas-com/global/en/investor/reports-and-presentations/financial/2024/fy-2024/Vestas%20Annual%20Report%202024.pdf",
       "source_class": "original_issuer_annual_report",
-      "local_pdf": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/wind/VWS_2024.pdf",
+      "local_pdf": "../eu_source_reports/wind/VWS_2024.pdf",
       "sha256": "7cc52432a0c3dbd463ab48a8464c81d54c131df0617679a39949f6a56081794d",
       "bytes": 14895872,
       "pdf_pages": [
@@ -135,7 +135,7 @@
       "publication_date_source": "https://www.vestas.com/en/media/company-news/2026/vestas-annual-report-2025---generating-value-amidst-gro-c4302973",
       "financial_source": "https://www.vestas.com/content/dam/vestas-com/global/en/investor/reports-and-presentations/financial/2025/fy-2025/Vestas%20Annual%20Report%202025.pdf",
       "source_class": "original_issuer_annual_report",
-      "local_pdf": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/wind/VWS_2025.pdf",
+      "local_pdf": "../eu_source_reports/wind/VWS_2025.pdf",
       "sha256": "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc",
       "bytes": 7656538,
       "pdf_pages": [
@@ -159,7 +159,7 @@
       "publication_date_source": "https://orsted.com/en/company-announcement-list/2021/02/2168747",
       "financial_source": "https://cdn.orsted.com/-/media/annual2020/annual-report-2020.pdf",
       "source_class": "original_issuer_annual_report",
-      "local_pdf": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/wind/ORSTED_2020.pdf",
+      "local_pdf": "../eu_source_reports/wind/ORSTED_2020.pdf",
       "sha256": "bc7e574b17fe23cddcc02b9bd8b512dba8c9229bd2f5b96d0a2d9a4b853a4c8f",
       "bytes": 18988079,
       "pdf_pages": [
@@ -183,7 +183,7 @@
       "publication_date_source": "https://orsted.com/en/company-announcement-list/2022/02/2022020247511",
       "financial_source": "https://cdn.orsted.com/-/media/annual2021/annual-report-2021.pdf",
       "source_class": "original_issuer_annual_report",
-      "local_pdf": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/wind/ORSTED_2021.pdf",
+      "local_pdf": "../eu_source_reports/wind/ORSTED_2021.pdf",
       "sha256": "f9e05ef188934fc56398c80eeeb3fd8ac564902b6677a39fb8ec22246c9dfc2e",
       "bytes": 20778151,
       "pdf_pages": [
@@ -207,7 +207,7 @@
       "publication_date_source": "https://orsted.com/en/company-announcement-list/2023/02/2023020162371",
       "financial_source": "https://cdn.orsted.com/-/media/2022-annual-report/orsted-annual-report-2022.pdf",
       "source_class": "original_issuer_annual_report",
-      "local_pdf": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/wind/ORSTED_2022.pdf",
+      "local_pdf": "../eu_source_reports/wind/ORSTED_2022.pdf",
       "sha256": "20ea5857a4ed3c52b91ba25a7f47bfd01a6be59ba365491a985058c32b37d2a8",
       "bytes": 19607126,
       "pdf_pages": [
@@ -231,7 +231,7 @@
       "publication_date_source": "https://orsted.com/en/company-announcement-list/2024/02/annual-report-for-2023--strong-underlying-results--82041",
       "financial_source": "https://cdn.orsted.com/-/media/annual-report-2023/orsted-ar-2023.pdf",
       "source_class": "original_issuer_annual_report",
-      "local_pdf": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/wind/ORSTED_2023.pdf",
+      "local_pdf": "../eu_source_reports/wind/ORSTED_2023.pdf",
       "sha256": "24f41fe00710536af4e7b500073e59628c76f2e3430d15dec86fc41ec6a57076",
       "bytes": 19559767,
       "pdf_pages": [
@@ -255,7 +255,7 @@
       "publication_date_source": "https://orsted.com/en/company-announcement-list/2025/02/delivering-operational-earnings-in-line-with-expec-142508951",
       "financial_source": "https://cdn.orsted.com/-/media/annual2024/orsted-annual-report-2024.pdf",
       "source_class": "original_issuer_annual_report",
-      "local_pdf": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/wind/ORSTED_2024.pdf",
+      "local_pdf": "../eu_source_reports/wind/ORSTED_2024.pdf",
       "sha256": "acf6cdcacc45b9108b2be7f1bd9ee609da5195d41f052e335e3d02b76b2a0e05",
       "bytes": 15566088,
       "pdf_pages": [
@@ -279,7 +279,7 @@
       "publication_date_source": "https://orsted.com/en/company-announcement-list/2026/02/a-stronger-and-morecompetitiveorstedafter-a-defini-147853101",
       "financial_source": "https://cdn.orsted.com/-/media/annual-2025/annual-report-2025.pdf",
       "source_class": "original_issuer_annual_report",
-      "local_pdf": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/wind/ORSTED_2025.pdf",
+      "local_pdf": "../eu_source_reports/wind/ORSTED_2025.pdf",
       "sha256": "b45e5c2c12ec7d5942179e32535d0046f6e5c214ee9085525ca361a28e8b35ab",
       "bytes": 8528321,
       "pdf_pages": [

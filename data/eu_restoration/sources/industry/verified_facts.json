@@ -18,7 +18,7 @@
     },
     "currency": "EUR",
     "unit": "million",
-    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/AMS2020.pdf",
+    "local_pdf_path": "../eu_source_reports/industry/AMS2020.pdf",
     "sha256": "a089d301839013111fa417c26e0e7e632e720b971faeb6a2087fcfd2594fa07c",
     "retrieval": "downloaded issuer PDF",
     "source_class": "primary_original_annual"
@@ -42,7 +42,7 @@
     },
     "currency": "EUR",
     "unit": "million",
-    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/AMS2021.pdf",
+    "local_pdf_path": "../eu_source_reports/industry/AMS2021.pdf",
     "sha256": "f11acf3c9ff2d27d4ddf1356b5dd15a565fee02617feba9c369760d71518b433",
     "retrieval": "downloaded issuer PDF",
     "source_class": "primary_original_annual"
@@ -66,7 +66,7 @@
     },
     "currency": "EUR",
     "unit": "million",
-    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/AMS2022.pdf",
+    "local_pdf_path": "../eu_source_reports/industry/AMS2022.pdf",
     "sha256": "ae95e41b9731663bb633e9703fe99d3aef8959159c000bb62dc8e3393c7d80f8",
     "retrieval": "downloaded issuer PDF",
     "source_class": "primary_original_annual"
@@ -90,7 +90,7 @@
     },
     "currency": "EUR",
     "unit": "million",
-    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/AMS2023.pdf",
+    "local_pdf_path": "../eu_source_reports/industry/AMS2023.pdf",
     "sha256": "e7d1151a77222d86c429fd1c59b656e2da2058ffd35559a76af151d93cd0c700",
     "retrieval": "downloaded issuer PDF",
     "source_class": "primary_original_annual"
@@ -114,7 +114,7 @@
     },
     "currency": "EUR",
     "unit": "million",
-    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/AMS2024.pdf",
+    "local_pdf_path": "../eu_source_reports/industry/AMS2024.pdf",
     "sha256": "25bf6b3ec184b8806169880c7519ab503fa5cb3dd8f006eda76f6ee0e5e7996a",
     "retrieval": "downloaded issuer PDF",
     "source_class": "primary_original_annual"
@@ -138,7 +138,7 @@
     },
     "currency": "EUR",
     "unit": "million",
-    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/AMS2025.pdf",
+    "local_pdf_path": "../eu_source_reports/industry/AMS2025.pdf",
     "sha256": "edc3a0e45adbf198d67639c52e9a425d986f3a16a45b7981fc50535166e97167",
     "retrieval": "downloaded issuer PDF",
     "source_class": "primary_original_annual"
@@ -162,7 +162,7 @@
     },
     "currency": "EUR",
     "unit": "million",
-    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/ENR2020.pdf",
+    "local_pdf_path": "../eu_source_reports/industry/ENR2020.pdf",
     "sha256": "6a3514f033c84dcd162363d5245341c80143739de3aa1151b37af86cd4706e7e",
     "retrieval": "downloaded issuer PDF",
     "source_class": "primary_original_annual"
@@ -186,7 +186,7 @@
     },
     "currency": "EUR",
     "unit": "million",
-    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/ENR2021.pdf",
+    "local_pdf_path": "../eu_source_reports/industry/ENR2021.pdf",
     "sha256": "db14119f6237395c6d8f8586b9515fe7f71088dbd0204bf0befd6fe27115a51c",
     "retrieval": "downloaded issuer PDF",
     "source_class": "primary_original_annual"
@@ -210,7 +210,7 @@
     },
     "currency": "EUR",
     "unit": "million",
-    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/ENR2022.pdf",
+    "local_pdf_path": "../eu_source_reports/industry/ENR2022.pdf",
     "sha256": "51e95a6faf90f5018cca3a99334b2d6f6967df1f2a2b69b909ac6b13abadf85b",
     "retrieval": "downloaded issuer PDF",
     "source_class": "primary_original_annual"
@@ -234,7 +234,7 @@
     },
     "currency": "EUR",
     "unit": "million",
-    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/ENR2023.pdf",
+    "local_pdf_path": "../eu_source_reports/industry/ENR2023.pdf",
     "sha256": "928c3df2a228bd68bb8f3aa95be262dc0ca4656cc6257b4074a00f40aa19ca63",
     "retrieval": "downloaded issuer PDF",
     "source_class": "primary_original_annual"
@@ -258,7 +258,7 @@
     },
     "currency": "EUR",
     "unit": "million",
-    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/ENR2024.pdf",
+    "local_pdf_path": "../eu_source_reports/industry/ENR2024.pdf",
     "sha256": "b4802b2310ed9b29276eeed55b99a354700feee6c47bde5d124df322f37fc4a1",
     "retrieval": "downloaded issuer PDF",
     "source_class": "primary_original_annual"
@@ -282,7 +282,7 @@
     },
     "currency": "EUR",
     "unit": "million",
-    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/ENR2025.pdf",
+    "local_pdf_path": "../eu_source_reports/industry/ENR2025.pdf",
     "sha256": "e1a6b748568204b1c287a689e03615729c7f5b44d5c2a0d6c338160421bf6ee4",
     "retrieval": "downloaded issuer PDF",
     "source_class": "primary_original_annual"
@@ -306,7 +306,7 @@
     },
     "currency": "EUR",
     "unit": "million",
-    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/SAF2020.pdf",
+    "local_pdf_path": "../eu_source_reports/industry/SAF2020.pdf",
     "sha256": "ea8f9140aaf286490b71a0305f1d339578ebc46c0011723354ca97b1784c1c40",
     "retrieval": "downloaded issuer PDF",
     "source_class": "primary_original_annual"
@@ -330,7 +330,7 @@
     },
     "currency": "EUR",
     "unit": "million",
-    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/SAF2021.pdf",
+    "local_pdf_path": "../eu_source_reports/industry/SAF2021.pdf",
     "sha256": "0a7f1a40d8f6bd0527dbd1b4fef354894733c3f0250eb0150666db60e6bff8b7",
     "retrieval": "downloaded issuer PDF",
     "source_class": "primary_original_annual"
@@ -354,7 +354,7 @@
     },
     "currency": "EUR",
     "unit": "million",
-    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/SAF2022.pdf",
+    "local_pdf_path": "../eu_source_reports/industry/SAF2022.pdf",
     "sha256": "9c925e1b89887394ee990fa51a7d3ed2ffa6a2d5efd3b2eb0ad9dcc9ba55a74e",
     "retrieval": "downloaded issuer PDF",
     "source_class": "primary_original_annual"
@@ -378,7 +378,7 @@
     },
     "currency": "EUR",
     "unit": "million",
-    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/SAF2023.pdf",
+    "local_pdf_path": "../eu_source_reports/industry/SAF2023.pdf",
     "sha256": "a541dc835da2314a5b042acdc3f8c49c2500ab68b2fbdd0418b64f8e7e25886f",
     "retrieval": "downloaded issuer PDF",
     "source_class": "primary_original_annual"
@@ -402,7 +402,7 @@
     },
     "currency": "EUR",
     "unit": "million",
-    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/SAF2024.pdf",
+    "local_pdf_path": "../eu_source_reports/industry/SAF2024.pdf",
     "sha256": "f6c84baccd2402d184ab87c0ac0898039a057995e7039858086736f421d8a8ce",
     "retrieval": "downloaded issuer PDF",
     "source_class": "primary_original_annual"

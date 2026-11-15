@@ -43,7 +43,7 @@
       "date_source": "https://nelhydrogen.com/press-release/nel-asa-second-quarter-2021-financial-results/",
       "source": "https://mb.cision.com/Main/115/3399294/1455892.pdf",
       "source_class": "original_issuer_quarterly_report",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_energy/NEL_2021Q2.pdf",
+      "pdf_path": "../eu_source_reports/interim_energy/NEL_2021Q2.pdf",
       "sha256": "ae659b27798580cac42d99ff3cde6de76d7c3e2868b0ca0f080420e27c03b368",
       "excerpt": "data/eu_interim/sources/energy/NEL_2021Q2_financial_excerpt.txt",
       "pdf_pages": [
@@ -92,7 +92,7 @@
       "date_source": "https://nelhydrogen.com/press-release/nel-asa-third-quarter-2021-financial-results/",
       "source": "https://mb.cision.com/Main/115/3437177/1483906.pdf",
       "source_class": "original_issuer_quarterly_report",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_energy/NEL_2021Q3.pdf",
+      "pdf_path": "../eu_source_reports/interim_energy/NEL_2021Q3.pdf",
       "sha256": "7e504744a388cd340a26ae78b0b00f5accd71b7a2040e315e8cbfd2dcb23d08d",
       "excerpt": "data/eu_interim/sources/energy/NEL_2021Q3_financial_excerpt.txt",
       "pdf_pages": [
@@ -141,7 +141,7 @@
       "date_source": "https://nelhydrogen.com/press-release/nel-asa-first-quarter-2022-financial-results/",
       "source": "https://mb.cision.com/Public/115/3564598/ba3f964a6897fac1.pdf",
       "source_class": "original_issuer_quarterly_report",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_energy/NEL_2022Q1.pdf",
+      "pdf_path": "../eu_source_reports/interim_energy/NEL_2022Q1.pdf",
       "sha256": "96427a6910de6d9ae62d7468e99b9e52a67a27a405b52e656e072bab99ca732a",
       "excerpt": "data/eu_interim/sources/energy/NEL_2022Q1_financial_excerpt.txt",
       "pdf_pages": [
@@ -184,7 +184,7 @@
       "date_source": "https://nelhydrogen.com/press-release/nel-asa-second-quarter-2022-financial-results/",
       "source": "https://nelhydrogen.com/wp-content/uploads/2022/08/Q2-report-2022.pdf",
       "source_class": "original_issuer_quarterly_report",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_energy/NEL_2022Q2.pdf",
+      "pdf_path": "../eu_source_reports/interim_energy/NEL_2022Q2.pdf",
       "sha256": "019a040a20dd5ef0422b6535024f0d8db63875ec8d71379690b57c83df39d5ee",
       "excerpt": "data/eu_interim/sources/energy/NEL_2022Q2_financial_excerpt.txt",
       "pdf_pages": [
@@ -233,7 +233,7 @@
       "date_source": "https://nelhydrogen.com/press-release/nel-asa-third-quarter-2022-financial-results/",
       "source": "https://nelhydrogen.com/wp-content/uploads/2022/10/Q3-2022-Report.pdf",
       "source_class": "original_issuer_quarterly_report",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_energy/NEL_2022Q3.pdf",
+      "pdf_path": "../eu_source_reports/interim_energy/NEL_2022Q3.pdf",
       "sha256": "19397d2cd1a8f983fa3b5a72b80f0440c752079353b5e89576868bfdda7e7e0a",
       "excerpt": "data/eu_interim/sources/energy/NEL_2022Q3_financial_excerpt.txt",
       "pdf_pages": [
@@ -282,7 +282,7 @@
       "date_source": "https://nelhydrogen.com/press-release/nel-asa-first-quarter-2023-financial-results/",
       "source": "https://mb.cision.com/Main/115/3743908/2015968.pdf",
       "source_class": "original_issuer_quarterly_report",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_energy/NEL_2023Q1.pdf",
+      "pdf_path": "../eu_source_reports/interim_energy/NEL_2023Q1.pdf",
       "sha256": "368badf6dd253ef7d80e9ca75c220d0ae306d1784338357797c65e769b076358",
       "excerpt": "data/eu_interim/sources/energy/NEL_2023Q1_financial_excerpt.txt",
       "pdf_pages": [
@@ -325,7 +325,7 @@
       "date_source": "https://nelhydrogen.com/press-release/nel-asa-second-quarter-2023-financial-results/",
       "source": "https://mb.cision.com/Public/115/3806082/acf0971f5e2f6a6d.pdf",
       "source_class": "original_issuer_quarterly_report",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_energy/NEL_2023Q2.pdf",
+      "pdf_path": "../eu_source_reports/interim_energy/NEL_2023Q2.pdf",
       "sha256": "6384e98d43e00c022dc4065b22a88295919a4b021f13402ba18c7ce7b3549aae",
       "excerpt": "data/eu_interim/sources/energy/NEL_2023Q2_financial_excerpt.txt",
       "pdf_pages": [
@@ -374,7 +374,7 @@
       "date_source": "https://nelhydrogen.com/press-release/nel-asa-third-quarter-2023-financial-results/",
       "source": "https://mb.cision.com/Public/115/3860739/803d2358a40afa41.pdf",
       "source_class": "original_issuer_quarterly_report",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_energy/NEL_2023Q3.pdf",
+      "pdf_path": "../eu_source_reports/interim_energy/NEL_2023Q3.pdf",
       "sha256": "f6a47e36175d35f91d6742c8cbca6772101a93e74747d33867a625d2bdef0526",
       "excerpt": "data/eu_interim/sources/energy/NEL_2023Q3_financial_excerpt.txt",
       "pdf_pages": [
@@ -423,7 +423,7 @@
       "date_source": "https://nelhydrogen.com/press-release/nel-asa-first-quarter-2024-financial-results/",
       "source": "https://mb.cision.com/Public/115/3962646/84b5bb701881cbbf.pdf",
       "source_class": "original_issuer_quarterly_report",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_energy/NEL_2024Q1.pdf",
+      "pdf_path": "../eu_source_reports/interim_energy/NEL_2024Q1.pdf",
       "sha256": "d683a641d7f1b065cf1d8f216a6fc6cc73f42ba3e843474028008c2d77f28ae8",
       "excerpt": "data/eu_interim/sources/energy/NEL_2024Q1_financial_excerpt.txt",
       "pdf_pages": [
@@ -466,7 +466,7 @@
       "date_source": "https://nelhydrogen.com/press-release/nel-asa-second-quarter-2024-financial-results/",
       "source": "https://mb.cision.com/Public/115/4015784/9f07ddbdedd7fe49.pdf",
       "source_class": "original_issuer_quarterly_report",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_energy/NEL_2024Q2.pdf",
+      "pdf_path": "../eu_source_reports/interim_energy/NEL_2024Q2.pdf",
       "sha256": "1e1bc8167dc356412105c96dbbae54b6f274db752ab2274084667bcb6f1e5869",
       "excerpt": "data/eu_interim/sources/energy/NEL_2024Q2_financial_excerpt.txt",
       "pdf_pages": [
@@ -515,7 +515,7 @@
       "date_source": "https://nelhydrogen.com/press-release/nel-asa-third-quarter-2024-financial-results/",
       "source": "https://mb.cision.com/Public/115/4051717/81a93995a33bc896.pdf",
       "source_class": "original_issuer_quarterly_report",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_energy/NEL_2024Q3.pdf",
+      "pdf_path": "../eu_source_reports/interim_energy/NEL_2024Q3.pdf",
       "sha256": "19404715a388a8df420dd192b1d7a4632fca23766a5dda80ee8e10fa7ab6232d",
       "excerpt": "data/eu_interim/sources/energy/NEL_2024Q3_financial_excerpt.txt",
       "pdf_pages": [
@@ -564,7 +564,7 @@
       "date_source": "https://nelhydrogen.com/press-release/nel-asa-first-quarter-2025-financial-results/",
       "source": "https://mb.cision.com/Public/115/4143131/82b74c336fe0566e.pdf",
       "source_class": "original_issuer_quarterly_report",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_energy/NEL_2025Q1.pdf",
+      "pdf_path": "../eu_source_reports/interim_energy/NEL_2025Q1.pdf",
       "sha256": "c6d4e41133db016d7ccfcc8903ae0873cc89345abae16699385c96bb5c2cc2e6",
       "excerpt": "data/eu_interim/sources/energy/NEL_2025Q1_financial_excerpt.txt",
       "pdf_pages": [
@@ -607,7 +607,7 @@
       "date_source": "https://nelhydrogen.com/press-release/nel-asa-second-quarter-2025-financial-results/",
       "source": "https://mb.cision.com/Public/115/4207418/9c805735da107815.pdf",
       "source_class": "original_issuer_quarterly_report",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_energy/NEL_2025Q2.pdf",
+      "pdf_path": "../eu_source_reports/interim_energy/NEL_2025Q2.pdf",
       "sha256": "5f420466bd4d52876054eb5611d8079c433dcba6aba9890c03796f9410468b8f",
       "excerpt": "data/eu_interim/sources/energy/NEL_2025Q2_financial_excerpt.txt",
       "pdf_pages": [
@@ -656,7 +656,7 @@
       "date_source": "https://nelhydrogen.com/press-release/nel-asa-third-quarter-2025-financial-results/",
       "source": "https://mb.cision.com/Public/115/4257965/92c9ef7a054a8e0e.pdf",
       "source_class": "original_issuer_quarterly_report",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_energy/NEL_2025Q3.pdf",
+      "pdf_path": "../eu_source_reports/interim_energy/NEL_2025Q3.pdf",
       "sha256": "6fba2f0f573d3b65d52f0c4effbd1329b3e0b3d8c78895c4737a0fae9eb9e04f",
       "excerpt": "data/eu_interim/sources/energy/NEL_2025Q3_financial_excerpt.txt",
       "pdf_pages": [
@@ -705,7 +705,7 @@
       "date_source": "https://nelhydrogen.com/press-release/nel-asa-first-quarter-2026-financial-results/",
       "source": "https://mb.cision.com/Public/115/4337890/84ecbd6cdc11d41b.pdf",
       "source_class": "original_issuer_quarterly_report",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_energy/NEL_2026Q1.pdf",
+      "pdf_path": "../eu_source_reports/interim_energy/NEL_2026Q1.pdf",
       "sha256": "dfd77efc61e6f031d2e869c2b9036b2c26b2115f90f942fc8ff74f655c300394",
       "excerpt": "data/eu_interim/sources/energy/NEL_2026Q1_financial_excerpt.txt",
       "pdf_pages": [
@@ -748,7 +748,7 @@
       "date_source": "https://nelhydrogen.com/press-release/nel-asa-second-quarter-2026-financial-results/",
       "source": "https://mb.cision.com/Public/115/4374557/96afc9701633c3dd.pdf",
       "source_class": "original_issuer_quarterly_report",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_energy/NEL_2026Q2.pdf",
+      "pdf_path": "../eu_source_reports/interim_energy/NEL_2026Q2.pdf",
       "sha256": "60336ebdbcba904234ea9c40a759eb22baf9892fab571651b78e3c319f89a116",
       "excerpt": "data/eu_interim/sources/energy/NEL_2026Q2_financial_excerpt.txt",
       "pdf_pages": [
@@ -799,7 +799,7 @@
       "date_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt5f3ed0ab6b3179c3/678a6707101c364d1a9130c9/Alfen_2021_HY_trading_update_-_Press_Release.pdf",
       "source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt255c084a1b9338bf/678a67086d4ece8ed599fc8d/Alfen_2021_Semi-Annual_Report.pdf",
       "source_class": "original_issuer_half_year_report",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_energy/ALFEN_2021H1.pdf",
+      "pdf_path": "../eu_source_reports/interim_energy/ALFEN_2021H1.pdf",
       "sha256": "ccc15c6de093bb6572dd28c7da5721312711bfc998f6c26435ff820b8b877ac3",
       "excerpt": "data/eu_interim/sources/energy/ALFEN_2021H1_financial_excerpt.txt",
       "pdf_pages": [
@@ -827,7 +827,7 @@
       "date_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt1d971f876e3917a8/678a6717e5381a7d1c01c099/Alfen_2022_HY_trading_update_-_Press_Release.pdf",
       "source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt1d8c73c6c770f72d/678a6729420e0fbc08e16c4c/Alfen_2022_Semi-Annual_Report.pdf",
       "source_class": "original_issuer_half_year_report",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_energy/ALFEN_2022H1.pdf",
+      "pdf_path": "../eu_source_reports/interim_energy/ALFEN_2022H1.pdf",
       "sha256": "3f2daab2fcd2f798f7660387571d26861b5539206517445bb9b0d4c3884ec867",
       "excerpt": "data/eu_interim/sources/energy/ALFEN_2022H1_financial_excerpt.txt",
       "pdf_pages": [
@@ -855,7 +855,7 @@
       "date_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt7f7a6e10c35a0348/Trading%20update%20-%20Press%20Release%202023%20HY",
       "source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt5d059be452d5e399/678a67406d4ece39ac99fc9f/Alfen_2023_Semi-Annual_Report.pdf",
       "source_class": "original_issuer_half_year_report",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_energy/ALFEN_2023H1.pdf",
+      "pdf_path": "../eu_source_reports/interim_energy/ALFEN_2023H1.pdf",
       "sha256": "bafbfa6de3083cb63cb612f4c3c4c34f66c562b82e71de9622be15624d496bd0",
       "excerpt": "data/eu_interim/sources/energy/ALFEN_2023H1_financial_excerpt.txt",
       "pdf_pages": [
@@ -883,7 +883,7 @@
       "date_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt1dd1fbed95ec1a81/678a674f2bd7f6c2e0f8f6f9/Alfen_2024_HY_trading_update_-_Press_Release.pdf",
       "source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt8d347e80ab0d66d4/678a6750f3f1207c7cdd21f0/Alfen_2024_Semi-Annual_Report.pdf",
       "source_class": "original_issuer_half_year_report",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_energy/ALFEN_2024H1.pdf",
+      "pdf_path": "../eu_source_reports/interim_energy/ALFEN_2024H1.pdf",
       "sha256": "ae0d74e83dc6260218cf2266ef49c648c314f1c3f45116b7962626c249778cb6",
       "excerpt": "data/eu_interim/sources/energy/ALFEN_2024H1_financial_excerpt.txt",
       "pdf_pages": [
@@ -911,7 +911,7 @@
       "date_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/bltda29295000f5c404/68a6c95156ee7d3cf644aa72/Alfen_25HY_Press_Release_Final.pdf",
       "source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt3c90fb4645d4c6e2/68a6e048ae247042b299dcbf/Alfen_Semi-Annual_Report_2025_vF.pdf",
       "source_class": "original_issuer_half_year_report",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_energy/ALFEN_2025H1.pdf",
+      "pdf_path": "../eu_source_reports/interim_energy/ALFEN_2025H1.pdf",
       "sha256": "6bcb07238883268dc27f549f63ed42aae0a1678951fc44c2c7b7e3f5be2d22d9",
       "excerpt": "data/eu_interim/sources/energy/ALFEN_2025H1_financial_excerpt.txt",
       "pdf_pages": [
@@ -939,7 +939,7 @@
       "date_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt54fd796375ff7b89/6ad1f40f4e8c9f9d59c6c38f/Alfen_2026_HY_trading_update_-_Press_Release.pdf",
       "source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt294b839d49cfef29/6a848064257aaf412751cdca/Alfen_2026_Semi-Annual_Report.pdf",
       "source_class": "original_issuer_half_year_report",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_energy/ALFEN_2026H1.pdf",
+      "pdf_path": "../eu_source_reports/interim_energy/ALFEN_2026H1.pdf",
       "sha256": "fc5d67b7e2edfd0b4da49f4d5f265f59a13b5530c1a4174ea0f3948291e6f9a7",
       "excerpt": "data/eu_interim/sources/energy/ALFEN_2026H1_financial_excerpt.txt",
       "pdf_pages": [

@@ -193,7 +193,7 @@
   },
   {
     "path": "data/eu_interim/research_energy.json",
-    "sha256": "ff7759a54c5ab8772219276f6679f1da70ac6e4e01fd66c32cf7af9008d2fcbd"
+    "sha256": "01f20bfa78b816218e171f65945de68a462a39bef698d68b28bb8a2859a68b61"
   },
   {
     "path": "data/eu_interim/research_energy_observations.json",
@@ -201,7 +201,7 @@
   },
   {
     "path": "data/eu_interim/research_industry.json",
-    "sha256": "e9bf3ca7a0fa249941dbca7d554bc86c0c8d0784e271e6a673b610c85eb4a484"
+    "sha256": "d008bb82b8389d24f7f8ba219219a3346a9b390ad5a91301febc275455d671da"
   },
   {
     "path": "data/eu_interim/research_industry_observations.json",
@@ -217,7 +217,7 @@
   },
   {
     "path": "data/eu_interim/research_wind.json",
-    "sha256": "df84ebd282100d957693f371cba2761786162c3d4c2d7cd23abfa248c2d4a05a"
+    "sha256": "2637355bd2dc737798465e2995d526b147f14c80cb9f6f0f622d2962a7d046d7"
   },
   {
     "path": "data/eu_interim/research_wind_observations.json",
@@ -977,7 +977,7 @@
   },
   {
     "path": "data/eu_restoration/research_energy.json",
-    "sha256": "d518e403d24ae294ebb30ad3a53c1bf1b8bb764c33e2159b725b36b4079ce253"
+    "sha256": "0d55fc78c21db9a639d2f266ea5a292b2302d0086aca36ea4fe4baa89074d5f2"
   },
   {
     "path": "data/eu_restoration/research_energy_rows.json",
@@ -985,7 +985,7 @@
   },
   {
     "path": "data/eu_restoration/research_industry.json",
-    "sha256": "562bcc7b070fdf98678bfda15936b66e1ef28af51d7ff8c3738d06ce09f3662b"
+    "sha256": "1e72ecc722ade7b58bd70df19f7eedc078e2346e2bbbb3afd2725dfeaa28ccc1"
   },
   {
     "path": "data/eu_restoration/research_industry_rows.json",
@@ -993,7 +993,7 @@
   },
   {
     "path": "data/eu_restoration/research_wind.json",
-    "sha256": "ab046db8c0fe1871e050517bd273eb70f25ee59ef72c22b0249e5b91570c21fa"
+    "sha256": "80d85f69caace410d3a8c3eb6f5a1c17d6edb93909f26e7291b4cb00861b236c"
   },
   {
     "path": "data/eu_restoration/research_wind_rows.json",
@@ -1089,7 +1089,7 @@
   },
   {
     "path": "data/eu_restoration/sources/industry/verified_facts.json",
-    "sha256": "7c0c11daf4a5086b914d11f8c2a51d63398b9f1c52464244ff3886e17db72290"
+    "sha256": "3d45fb9b4da3875c90cf6df3083446de725b3e0a47c013853ec9de004839b590"
   },
   {
     "path": "data/eu_restoration/sources/wind/ORSTED_2020_verified_pages.json",
@@ -7533,7 +7533,7 @@
   },
   {
     "path": "results_eu_interim/input_manifest.json",
-    "sha256": "a456d226ff0046ef34713b6e717e20d2b0b29095f8c7522dee409dded334a846"
+    "sha256": "5eb32e14e2eced4e112e71577a4bcb1fcc05ac3baa9315cea1ac637b25c02733"
   },
   {
     "path": "results_eu_interim/interim_coverage.csv",
@@ -7541,7 +7541,7 @@
   },
   {
     "path": "results_eu_interim/preserved_file_manifest.json",
-    "sha256": "08523f4707724f905465c9e101c26c10b1ad1ed20b9f3e1e13e37adc0e8aff14"
+    "sha256": "edae5851666a7d8094b89f3d10c3a64a487e00b4236d0c016a6a5a73216be885"
   },
   {
     "path": "results_eu_interim/summary.csv",
@@ -8137,7 +8137,7 @@
   },
   {
     "path": "results_eu_restored/input_manifest.json",
-    "sha256": "0f913747c6a3825776883a827248e5f0f4760b28e594333416fc9e1e39298f6b"
+    "sha256": "61d375b1d2cdd6d3e4f002ed0af7bb4c56efed461cb4f7624b5ae32427591b20"
   },
   {
     "path": "results_eu_restored/restored_company_coverage.csv",

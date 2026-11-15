@@ -31,7 +31,7 @@
       "source_bytes": 4358203,
       "financial_excerpt": "data/eu_restoration/sources/energy/ALFEN_2020_financial_excerpt.txt",
       "date_evidence_file": "data/eu_restoration/sources/energy/ALFEN_2020_publication_evidence.txt",
-      "local_full_report": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/energy/ALFEN_2020.pdf"
+      "local_full_report": "../eu_source_reports/energy/ALFEN_2020.pdf"
     },
     {
       "observation_id": "restored_alfen_2021",
@@ -58,7 +58,7 @@
       "source_bytes": 4186648,
       "financial_excerpt": "data/eu_restoration/sources/energy/ALFEN_2021_financial_excerpt.txt",
       "date_evidence_file": "data/eu_restoration/sources/energy/ALFEN_2021_publication_evidence.txt",
-      "local_full_report": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/energy/ALFEN_2021.pdf"
+      "local_full_report": "../eu_source_reports/energy/ALFEN_2021.pdf"
     },
     {
       "observation_id": "restored_alfen_2022",
@@ -85,7 +85,7 @@
       "source_bytes": 31258201,
       "financial_excerpt": "data/eu_restoration/sources/energy/ALFEN_2022_financial_excerpt.txt",
       "date_evidence_file": "data/eu_restoration/sources/energy/ALFEN_2022_publication_evidence.txt",
-      "local_full_report": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/energy/ALFEN_2022.pdf"
+      "local_full_report": "../eu_source_reports/energy/ALFEN_2022.pdf"
     },
     {
       "observation_id": "restored_alfen_2023",
@@ -112,7 +112,7 @@
       "source_bytes": 29762159,
       "financial_excerpt": "data/eu_restoration/sources/energy/ALFEN_2023_financial_excerpt.txt",
       "date_evidence_file": "data/eu_restoration/sources/energy/ALFEN_2023_publication_evidence.txt",
-      "local_full_report": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/energy/ALFEN_2023.pdf"
+      "local_full_report": "../eu_source_reports/energy/ALFEN_2023.pdf"
     },
     {
       "observation_id": "restored_alfen_2024",
@@ -139,7 +139,7 @@
       "source_bytes": 85245464,
       "financial_excerpt": "data/eu_restoration/sources/energy/ALFEN_2024_financial_excerpt.txt",
       "date_evidence_file": "data/eu_restoration/sources/energy/ALFEN_2024_publication_evidence.txt",
-      "local_full_report": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/energy/ALFEN_2024.pdf"
+      "local_full_report": "../eu_source_reports/energy/ALFEN_2024.pdf"
     },
     {
       "observation_id": "restored_alfen_2025",
@@ -166,7 +166,7 @@
       "source_bytes": 64049631,
       "financial_excerpt": "data/eu_restoration/sources/energy/ALFEN_2025_financial_excerpt.txt",
       "date_evidence_file": "data/eu_restoration/sources/energy/ALFEN_2025_publication_evidence.txt",
-      "local_full_report": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/energy/ALFEN_2025.pdf",
+      "local_full_report": "../eu_source_reports/energy/ALFEN_2025.pdf",
       "date_evidence_explanation": "Issuer release is dated 10 February 2026, says it reports consolidated 2025 financial statements today, and page11 explicitly directs readers to annualreport2025 available on Alfen website. Secondary regulatory filing index independently dates FY2025 ESEF filing2026-02-10.",
       "secondary_date_corroboration_url": "https://financialfilings.com/companies/alfen-nv/download/"
     },
@@ -197,7 +197,7 @@
       "source_bytes": 2411089,
       "financial_excerpt": "data/eu_restoration/sources/energy/NEL_2020_financial_excerpt.txt",
       "date_evidence_file": "data/eu_restoration/sources/energy/NEL_publication_evidence.txt",
-      "local_full_report": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/energy/NEL_2020.pdf"
+      "local_full_report": "../eu_source_reports/energy/NEL_2020.pdf"
     },
     {
       "observation_id": "restored_nel_2021",
@@ -226,7 +226,7 @@
       "source_bytes": 5789059,
       "financial_excerpt": "data/eu_restoration/sources/energy/NEL_2021_financial_excerpt.txt",
       "date_evidence_file": "data/eu_restoration/sources/energy/NEL_publication_evidence.txt",
-      "local_full_report": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/energy/NEL_2021.pdf"
+      "local_full_report": "../eu_source_reports/energy/NEL_2021.pdf"
     },
     {
       "observation_id": "restored_nel_2022",
@@ -255,7 +255,7 @@
       "source_bytes": 20319167,
       "financial_excerpt": "data/eu_restoration/sources/energy/NEL_2022_financial_excerpt.txt",
       "date_evidence_file": "data/eu_restoration/sources/energy/NEL_publication_evidence.txt",
-      "local_full_report": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/energy/NEL_2022.pdf"
+      "local_full_report": "../eu_source_reports/energy/NEL_2022.pdf"
     },
     {
       "observation_id": "restored_nel_2023",
@@ -284,7 +284,7 @@
       "source_bytes": 13867866,
       "financial_excerpt": "data/eu_restoration/sources/energy/NEL_2023_financial_excerpt.txt",
       "date_evidence_file": "data/eu_restoration/sources/energy/NEL_publication_evidence.txt",
-      "local_full_report": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/energy/NEL_2023.pdf"
+      "local_full_report": "../eu_source_reports/energy/NEL_2023.pdf"
     },
     {
       "observation_id": "restored_nel_2024",
@@ -313,7 +313,7 @@
       "source_bytes": 9957983,
       "financial_excerpt": "data/eu_restoration/sources/energy/NEL_2024_financial_excerpt.txt",
       "date_evidence_file": "data/eu_restoration/sources/energy/NEL_publication_evidence.txt",
-      "local_full_report": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/energy/NEL_2024.pdf"
+      "local_full_report": "../eu_source_reports/energy/NEL_2024.pdf"
     },
     {
       "observation_id": "restored_nel_2025",
@@ -342,7 +342,7 @@
       "source_bytes": 8626163,
       "financial_excerpt": "data/eu_restoration/sources/energy/NEL_2025_financial_excerpt.txt",
       "date_evidence_file": "data/eu_restoration/sources/energy/NEL_publication_evidence.txt",
-      "local_full_report": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/energy/NEL_2025.pdf"
+      "local_full_report": "../eu_source_reports/energy/NEL_2025.pdf"
     }
   ],
   "notes": [

@@ -7,7 +7,7 @@
       "period_end": "2021-06-30",
       "source": "https://ams-osram.com/documents/20143/5058144/Q2+2021+ams+report+english+f.pdf/f8c140b0-c3a1-5eab-baf8-e05dc974335f?t=1645022755160",
       "publication_date": "2021-07-30",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/AMS2021Q2.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/AMS2021Q2.pdf",
       "sha256": "205dd5f1edb27e3756c2a6ff35fe621e5c854d6eab41d8118944bcdd934ddd52",
       "pages": {
         "income_pdf_page": 24,
@@ -25,7 +25,7 @@
       "period_end": "2021-09-30",
       "source": "https://ams-osram.com/documents/20143/5058144/Q3+2021+report+english+f.pdf/de4c484f-d0f6-6408-a371-dc2083502a27?t=1637840686137",
       "publication_date": "2021-11-02",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/AMS2021Q3.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/AMS2021Q3.pdf",
       "sha256": "a56f87d2c3b38521882fbcdd6d5a3c8d65b0c5454e66ab0d8fb8d5a76d4c5202",
       "pages": {
         "income_pdf_page": 11,
@@ -43,7 +43,7 @@
       "period_end": "2022-03-31",
       "source": "https://ams-osram.com/documents/4390887/7195804/Ad-hoc_2022_eng+Financial+results+Q1+2022+f.pdf/1c8d8e6a-642d-fe47-b35c-62a3f19b083a?t=1651518032605",
       "publication_date": "2022-05-03",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/AMS2022Q1.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/AMS2022Q1.pdf",
       "sha256": "773aea8871dcc7c6485f9e48badbea0b9fecbc85a36fc637255c4c559c820d51",
       "pages": {
         "income_pdf_page": 5,
@@ -60,7 +60,7 @@
       "period_end": "2022-06-30",
       "source": "https://ams-osram.com/documents/4390887/7195804/ams+OSRAM+HY+and+Q2+report+english+f.pdf/612af48b-0bbe-0dba-2d82-73147ddca3ed?t=1659069237559",
       "publication_date": "2022-07-29",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/AMS2022Q2.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/AMS2022Q2.pdf",
       "sha256": "c3eaf2c286913651482ca9c3a31cc7014ed27e37d1739ef30b625340ecb38453",
       "pages": {
         "income_pdf_page": 6,
@@ -78,7 +78,7 @@
       "period_end": "2022-09-30",
       "source": "https://ams-osram.com/documents/4390887/7195804/Ad-hoc_2022_eng+Financial+results+Q3+2022+f.pdf/aacf4f4c-1469-dffe-1fc0-9b2e940647c4?t=1667367352685",
       "publication_date": "2022-11-02",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/AMS2022Q3.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/AMS2022Q3.pdf",
       "sha256": "9c0fda6b18043d8c4a9fedcb7b88fca2fc06de8e1f3bffc0651f69ad3f15a7af",
       "pages": {
         "income_pdf_page": 8,
@@ -95,7 +95,7 @@
       "period_end": "2023-03-31",
       "source": "https://ams-osram.com/documents/4390887/9965237/Ad-hoc_2023_eng+Financial+results+Q1+2023+f.pdf/f9f6e636-21d9-0c0f-4e87-c2f5fc960cde?t=1683001022137",
       "publication_date": "2023-05-02",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/AMS2023Q1.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/AMS2023Q1.pdf",
       "sha256": "a6ca4aceb8b84c19cdcd38d26568f3bc6cdc06c6214b16d937ddfe8e595e8884",
       "pages": {
         "income_pdf_page": 7,
@@ -112,7 +112,7 @@
       "period_end": "2023-06-30",
       "source": "https://ams-osram.com/documents/4390887/9965240/ams%20OSRAM%202023%20HY%20and%20Q2%20report%20english%20ff.pdf/22cef4a8-dfd6-7ff9-ba7f-fe8c260ac976?t=1690487376267",
       "publication_date": "2023-07-27",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/AMS2023Q2.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/AMS2023Q2.pdf",
       "sha256": "19df606186ca2ae035422feecf18f62bdf46921abad986c3be26937a6a740fdb",
       "pages": {
         "income_pdf_page": 7,
@@ -130,7 +130,7 @@
       "period_end": "2023-09-30",
       "source": "https://ams-osram.com/documents/4390887/9965237/Ad-hoc_2023_eng%20Q3%202023%20results%20f.pdf/df094c30-f522-b09f-fd4e-1fb1e0557827?t=1698729810214",
       "publication_date": "2023-10-31",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/AMS2023Q3.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/AMS2023Q3.pdf",
       "sha256": "4d4bc4846b5c64f18307e77903553ebe623ff6278b1f677464ee69e09cce3052",
       "pages": {
         "income_pdf_page": 8,
@@ -147,7 +147,7 @@
       "period_end": "2024-03-31",
       "source": "https://ams-osram.com/documents/4390887/18159172/Ad-hoc_2024_eng%20Q1%202024%20results%20f.pdf/f2cf08e0-a6ce-b34e-85ea-d11209c725db?t=1714104527324",
       "publication_date": "2024-04-26",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/AMS2024Q1.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/AMS2024Q1.pdf",
       "sha256": "2a7b61da4768eb8a1f6918765aec8dd1de3a4270fb3d79301e0effec0df32007",
       "pages": {
         "income_pdf_page": 8,
@@ -164,7 +164,7 @@
       "period_end": "2024-06-30",
       "source": "https://ams-osram.com/documents/4390887/25202939/ams+OSRAM+EN+HY+Report+2024.pdf/0d4302ad-9d33-cb22-c775-b42c391def68?t=1726072375591",
       "publication_date": "2024-07-26",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/AMS2024Q2.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/AMS2024Q2.pdf",
       "sha256": "b51856e0cf0f386d164e52946fc8490598e5613cd02ad35624c6832c9f975cbc",
       "pages": {
         "income_pdf_page": 9,
@@ -182,7 +182,7 @@
       "period_end": "2024-09-30",
       "source": "https://ams-osram.com/documents/4390887/30856145/Ad-hoc_2024_eng%20Q3%202024%20results.pdf/5241cff7-9ac9-2aa6-1508-4c7ff97e7fb6?t=1730925649953",
       "publication_date": "2024-11-07",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/AMS2024Q3.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/AMS2024Q3.pdf",
       "sha256": "a0c0752bbaf5f41f3e8ed173cdefd7ec19f6ae6a18de7bc4eb00be3740fa839f",
       "pages": {
         "income_pdf_page": 9,
@@ -199,7 +199,7 @@
       "period_end": "2025-03-31",
       "source": "https://ams-osram.com/documents/d/ams-osram/ad-hoc_2025_eng-q1-2025-results",
       "publication_date": "2025-04-30",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/AMS2025Q1.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/AMS2025Q1.pdf",
       "sha256": "65ee9118f5777efd074a087c5cd2bf5107b5159ff9a358ef973a2e925061b38d",
       "pages": {
         "income_pdf_page": 7,
@@ -216,7 +216,7 @@
       "period_end": "2025-06-30",
       "source": "https://ams-osram.com/documents/d/ams-osram/ams-osram-en-hy-report-2025",
       "publication_date": "2025-07-31",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/AMS2025Q2.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/AMS2025Q2.pdf",
       "sha256": "c9e1272a47836801ec4ac70ae3d65d307e5bf09561c503ba34de6f287570ed64",
       "pages": {
         "income_pdf_page": 8,
@@ -234,7 +234,7 @@
       "period_end": "2025-09-30",
       "source": "https://ams-osram.com/documents/d/ams-osram/ad-hoc_2025_eng-q3-2025-results",
       "publication_date": "2025-11-18",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/AMS2025Q3.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/AMS2025Q3.pdf",
       "sha256": "fd6cd2343bdfe7fe27b4dc429b256fef934c2178232f5d2d18ada877a2cc2f69",
       "pages": {
         "income_pdf_page": 7,
@@ -251,7 +251,7 @@
       "period_end": "2026-03-31",
       "source": "https://ams-osram.com/documents/d/ams-osram/ad-hoc_2026_en-q1-2026-results",
       "publication_date": "2026-05-06",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/AMS2026Q1.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/AMS2026Q1.pdf",
       "sha256": "8b13b2c6b873d7b4aa0487c1f735aa216e3625b60e90d093485d398fdd300dc6",
       "pages": {
         "income_pdf_page": 8,
@@ -268,7 +268,7 @@
       "period_end": "2026-06-30",
       "source": "https://ams-osram.com/documents/d/ams-osram/ams-osram-en-hy-report-2026",
       "publication_date": "2026-08-04",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/AMS2026Q2.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/AMS2026Q2.pdf",
       "sha256": "36742bc1d43d894d8a7dfe95b73cd14bbd81c8da2ecc33d81b4dbfaf6c54be25",
       "pages": {
         "income_pdf_page": 8,
@@ -286,7 +286,7 @@
       "period_end": "2021-06-30",
       "source": "https://assets.siemens-energy.com/dam/45855aee-a6fd-47ed-89bb-b03b008c7453/SE-Q3FY21-Earnings-Release-pdf_Original%20file.pdf",
       "publication_date": "2021-08-04",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/ENR2021Q3.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/ENR2021Q3.pdf",
       "sha256": "c30b308119ec4dd71e4f337ccedb7eebaefb9b160953f1cd6b6a215577863f14",
       "pages": {
         "income_pdf_page": 9,
@@ -303,7 +303,7 @@
       "period_end": "2021-12-31",
       "source": "https://assets.siemens-energy.com/dam/ad1f75c8-9270-48f5-a0ff-b03b00904df9/SE-Q1FY22-Earnings-Release-Including-FY22-Guidance-pdf_Original%20file.pdf",
       "publication_date": "2022-02-09",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/ENR2022Q1.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/ENR2022Q1.pdf",
       "sha256": "8871f113ec4505d97e205b5faacfe12af89f7647662fc48321a8af28e98eef80",
       "pages": {
         "income_pdf_page": 9,
@@ -320,7 +320,7 @@
       "period_end": "2022-03-31",
       "source": "https://assets.siemens-energy.com/dam/d835e992-b16a-4e0a-90d3-b03b00923736/SE-Q2FY22-Earnings-Release-Including-Guidance-pdf_Original%20file.pdf",
       "publication_date": "2022-05-11",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/ENR2022Q2.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/ENR2022Q2.pdf",
       "sha256": "3a121a313ec8fb6b049309e32d09ce096cb896a3ad6170e0a2d7b8278deaadcd",
       "pages": {
         "income_pdf_page": 9,
@@ -337,7 +337,7 @@
       "period_end": "2022-06-30",
       "source": "https://assets.siemens-energy.com/dam/50edf33b-6a0c-4812-bbad-b03b007f8898/2022-08-08-Siemens-Energy-Q3-Earnings-Release-including-Guidance-pdf_Original%20file.pdf",
       "publication_date": "2022-08-08",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/ENR2022Q3.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/ENR2022Q3.pdf",
       "sha256": "eec233128bd22dc4edb7197c2cbf27f9ea3e9e98ac534edd9b883e39fa21abfa",
       "pages": {
         "income_pdf_page": 9,
@@ -354,7 +354,7 @@
       "period_end": "2022-12-31",
       "source": "https://assets.siemens-energy.com/dam/b5d3944f-4bed-4d34-9839-b03d017e2ea9/2023-02-07-Siemens-Energy-Q1-FY2023-Earnings-Release-including-Guidance-2-pdf_Original%20file.pdf",
       "publication_date": "2023-02-07",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/ENR2023Q1.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/ENR2023Q1.pdf",
       "sha256": "139f0e5dfb7cdf9470d10d1ecc9db7b9b92975e1a98fa49735a693dfb2d15f79",
       "pages": {
         "income_pdf_page": 10,
@@ -371,7 +371,7 @@
       "period_end": "2023-03-31",
       "source": "https://assets.siemens-energy.com/dam/b4dd8983-7c90-4374-8edc-b02f000092ad/2023-05-15-earnings-release-q2-fy23-en-pdf_Original%20file.pdf",
       "publication_date": "2023-05-15",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/ENR2023Q2.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/ENR2023Q2.pdf",
       "sha256": "7fc3d483d2eb4687f7771aafd9803d6ec6948a8d3d4ba42a4d2d431dfd90b7e8",
       "pages": {
         "income_pdf_page": 10,
@@ -388,7 +388,7 @@
       "period_end": "2023-06-30",
       "source": "https://assets.siemens-energy.com/dam/75fbc908-ba94-4e6a-960e-b0740123892a/2023-08-07-Earnings-Release-Q3-FY23-EN-pdf_Original%20file.pdf",
       "publication_date": "2023-08-07",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/ENR2023Q3.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/ENR2023Q3.pdf",
       "sha256": "70309f408fe4dc0672ef3c326b13feb28d13df0c7e46025cbfd7d90f18735f40",
       "pages": {
         "income_pdf_page": 10,
@@ -405,7 +405,7 @@
       "period_end": "2023-12-31",
       "source": "https://assets.siemens-energy.com/dam/db7c8e99-29a4-4c5c-b70e-b10e00e4b8f1/2024-02-07-Earnings-Release-Q1-FY24-EN-pdf_Original%20file.pdf",
       "publication_date": "2024-02-07",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/ENR2024Q1.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/ENR2024Q1.pdf",
       "sha256": "2c9437d4377e2c643bfeced61755030d19dbc1414e256ed3383dfd2a83646b7e",
       "pages": {
         "income_pdf_page": 10,
@@ -422,7 +422,7 @@
       "period_end": "2024-03-31",
       "source": "https://assets.siemens-energy.com/dam/5d37b77c-3e71-4a3c-a96b-b16a0044ecff/2024-05-08-Earnings-Release_Q2-FY-2024_EN-pdf_Original%20file.pdf",
       "publication_date": "2024-05-08",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/ENR2024Q2.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/ENR2024Q2.pdf",
       "sha256": "1186abf9ce0d1c4feca061a31f751caae93961d868cc4f3269662ab5b80c5815",
       "pages": {
         "income_pdf_page": 10,
@@ -439,7 +439,7 @@
       "period_end": "2024-06-30",
       "source": "https://assets.siemens-energy.com/dam/cef1e912-2cc9-4e90-b32a-b1c500420e11/2024-08-07-Earnings-Release-and-Financial-Results-Q3-FY-2024-pdf_Original%20file.pdf",
       "publication_date": "2024-08-07",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/ENR2024Q3.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/ENR2024Q3.pdf",
       "sha256": "bca046d542416d3ab30121105c0376bad828f86d3a76f76a937d0b1fd4adf2e1",
       "pages": {
         "income_pdf_page": 10,
@@ -456,7 +456,7 @@
       "period_end": "2024-12-31",
       "source": "https://assets.siemens-energy.com/dam/a90e9048-69be-4ae7-95b5-b2820050888b/Earnings_Release_Q1_FY_2025-pdf_Original%20file.pdf",
       "publication_date": "2025-02-12",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/ENR2025Q1.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/ENR2025Q1.pdf",
       "sha256": "30405c8bde7f082c68cf5e8afa0304172f888316faa13a9b1dbbf57f5da7837d",
       "pages": {
         "income_pdf_page": 10,
@@ -473,7 +473,7 @@
       "period_end": "2025-03-31",
       "source": "https://assets.siemens-energy.com/dam/8da371bf-4d93-459d-8716-b2d7004418d9/Earnings_Release_Q2_FY_2025-pdf_Original%20file.pdf",
       "publication_date": "2025-05-08",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/ENR2025Q2.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/ENR2025Q2.pdf",
       "sha256": "136036c0eb82fa83adf962f504d0d1a1527020543174e9ce67f0f8ca7744ccb3",
       "pages": {
         "income_pdf_page": 10,
@@ -490,7 +490,7 @@
       "period_end": "2025-06-30",
       "source": "https://assets.siemens-energy.com/dam/a181bfed-4213-4a9e-8d6a-b331004a9a73/2025-08-06_ER_E_final-pdf_Original%20file.pdf",
       "publication_date": "2025-08-06",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/ENR2025Q3.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/ENR2025Q3.pdf",
       "sha256": "c149897b6ce3a0f82a58a24ba774c4ef8aa84e0448dd069ae2bf6dfbd62f2822",
       "pages": {
         "income_pdf_page": 10,
@@ -507,7 +507,7 @@
       "period_end": "2025-12-31",
       "source": "https://assets.siemens-energy.com/dam/f8b7f2d2-e4f2-4fe5-8295-b3ee005765a4/2026-02-11_Earnings-Release-Q1-FY26-pdf_Original%20file.pdf",
       "publication_date": "2026-02-11",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/ENR2026Q1.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/ENR2026Q1.pdf",
       "sha256": "8f9dd0078b459f86c307b04469b1ffea5b157d96cf1e5b050be1b32d9050d1b5",
       "pages": {
         "income_pdf_page": 9,
@@ -524,7 +524,7 @@
       "period_end": "2026-03-31",
       "source": "https://assets.siemens-energy.com/dam/d38d682a-d64f-4f9e-b4fe-b4480041e5ea/2026-05-12-Earnings_Release_Q2_FY26_EN-pdf_Original%20file.pdf",
       "publication_date": "2026-05-12",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/ENR2026Q2.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/ENR2026Q2.pdf",
       "sha256": "9d74c5f07ec962e004685cf47c0509d6ed3652bc4bd8dbd3c148441dab19a5f8",
       "pages": {
         "income_pdf_page": 9,
@@ -541,7 +541,7 @@
       "period_end": "2026-06-30",
       "source": "https://assets.siemens-energy.com/dam/30018eed-275d-4e73-811e-b49d004cdc3d/2026-08-05-Earnings_Release_Q3_FY26_EN-pdf_Original%20file.pdf",
       "publication_date": "2026-08-05",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/ENR2026Q3.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/ENR2026Q3.pdf",
       "sha256": "ff0d7e573d4d946dc00ab4c555a49270e570fe079e12c823092066a8fc7b8d03",
       "pages": {
         "income_pdf_page": 9,
@@ -555,21 +555,21 @@
     {
       "document_id": "AMS2023_annual",
       "source": "https://ams-osram.com/documents/4390887/4391329/ams%20OSRAM%20EN%20Annual%20Report%202023.pdf/d73eb460-5fc0-093b-159f-d307d804aca1?t=1713257897189",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/AMS2023.pdf",
+      "pdf_path": "../eu_source_reports/industry/AMS2023.pdf",
       "sha256": "e7d1151a77222d86c429fd1c59b656e2da2058ffd35559a76af151d93cd0c700",
       "statement_excerpt": "data/eu_interim/sources/industry/AMS2023_annual_pages.json"
     },
     {
       "document_id": "ENR2022_annual",
       "source": "https://assets.siemens-energy.com/dam/a53b116d-b976-47cb-b9c5-b037009bb85c/2022-12-12-Siemens-Energy-AG-Annual-Report-2022-pdf_Original%20file.pdf",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/ENR2022.pdf",
+      "pdf_path": "../eu_source_reports/industry/ENR2022.pdf",
       "sha256": "51e95a6faf90f5018cca3a99334b2d6f6967df1f2a2b69b909ac6b13abadf85b",
       "statement_excerpt": "data/eu_interim/sources/industry/ENR2022_annual_pages.json"
     },
     {
       "document_id": "ENR2022_revised_Feb2023",
       "source": "https://assets.siemens-energy.com/dam/70e97f49-979a-4939-b701-b03d017dd998/2023-02-07-Siemens-Energy-Comparable-Key-Figures-FY2022-pdf_Original%20file.pdf",
-      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_industry/ENR2022_revised_Feb2023.pdf",
+      "pdf_path": "../eu_source_reports/interim_industry/ENR2022_revised_Feb2023.pdf",
       "sha256": "deedfd7b5f64e1511fb0396effcc6a53c09f6f95bca05df9cd1c21b9963854ad",
       "statement_excerpt": "data/eu_interim/sources/industry/ENR2022_revised_Feb2023_pages.json"
     }
