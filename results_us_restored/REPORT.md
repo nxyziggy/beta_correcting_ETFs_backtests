@@ -25,6 +25,8 @@ Recovered 29/29 targeted annual observations and 73/73 usable interim observatio
 
 GE Vernova remains ineligible before its 2 April 2024 listing. The control admits eligible new names at quarter-ends. Sixteen covered companies therefore does not mean sixteen holdings throughout the historical window.
 
+The existing ten companies are unchanged, including inherited gaps in scored financial coverage: LRCX: 7 months, 2025-01-31 through 2025-07-31. Full monthly dates and reasons are in the run coverage ledgers.
+
 The annual-restored and interim-restored equal-weight coverage and monthly ledgers are identical.
 
 ## Sources, timing and limits

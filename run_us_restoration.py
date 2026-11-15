@@ -257,6 +257,11 @@ def main():
                       expected_interims=len(expected_periods('interim')), usable_ttm=len(normalized['interim']),
                       arithmetic_fields_checked=3 * len(normalized['interim']), excluded=len(excluded),
                       annual_interim_equal_control_unchanged=unchanged)
+    inherited_gaps = defaultdict(list)
+    for r in controls[2]['coverage']:
+        if r['ticker'] not in RESTORED and not r['covered']:
+            inherited_gaps[r['ticker']].append(r['date'])
+    validation['inherited_coverage_gaps'] = dict(inherited_gaps)
     (OUT / 'validation.json').write_text(json.dumps(validation, indent=2) + '\n')
     (OUT / 'preserved_file_manifest.json').write_text(json.dumps([dict(path=p, sha256=h) for p,h in sorted(frozen.items())], indent=2) + '\n')
     make_report(summaries, coverage, validation)
@@ -283,6 +288,9 @@ def make_report(summaries, coverage, v):
             lines.append(f"| {r['ticker']} | {r['covered_months']}/{r['modeled_months']} | {r['first_covered']} | {r['first_control_holding']} | {r['annual_score_months']} | {r['ttm_score_months']} |")
     lines += ['', f"Recovered {v['recovered_annual']}/{v['expected_annual']} targeted annual observations and {v['usable_ttm']}/{v['expected_interims']} usable interim observations. Exclusions or gaps: {v['excluded']}; see the [exclusion ledger](../data/us_restoration/exclusions.json).", '',
               'GE Vernova remains ineligible before its 2 April 2024 listing. The control admits eligible new names at quarter-ends. Sixteen covered companies therefore does not mean sixteen holdings throughout the historical window.', '',
+              'The existing ten companies are unchanged, including inherited gaps in scored financial coverage: ' +
+              ('; '.join(f"{t}: {len(ds)} months, {min(ds)} through {max(ds)}" for t, ds in sorted(v['inherited_coverage_gaps'].items()))
+               or 'none') + '. Full monthly dates and reasons are in the run coverage ledgers.', '',
               f"The annual-restored and interim-restored equal-weight coverage and monthly ledgers are {'identical' if v['annual_interim_equal_control_unchanged'] else 'different; inspect the coverage ledger for timing differences'}.", '',
               '## Sources, timing and limits', '',
               'New flows use original annual figures or comparable prior annual + current YTD − prior YTD; balance sheets are current. Every calculation records the source components. SEC facts retain accession and filing dates, and issuer reports supply missing disclosures. Full filing dates can be later than earnings announcements. A later published restatement is not available retroactively.', '',
