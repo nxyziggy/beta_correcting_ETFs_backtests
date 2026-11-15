@@ -165,7 +165,7 @@ class CorrectedInputs(Inputs):
         return dt.date.fromisoformat(record['availability_date'])
 
     def signals(self, region, date, panel, gate=False, annual_lag=0):
-        return super().signals(region, date, 'hybrid', False, 0)
+        return super().signals(region, date, 'hybrid', gate, 0)
 
 
 def active_stats(strategy, control):

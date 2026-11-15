@@ -1,0 +1,428 @@
+{
+  "status": "PASS",
+  "runs": 48,
+  "candidates": 31,
+  "events": 54,
+  "starts": [
+    {
+      "definition": "direct",
+      "region": "US",
+      "timing": "source",
+      "start": "2019-06-30"
+    },
+    {
+      "definition": "direct",
+      "region": "US",
+      "timing": "delay_adjusted",
+      "start": "2019-09-30"
+    },
+    {
+      "definition": "direct",
+      "region": "EU",
+      "timing": "source",
+      "start": "2019-06-30"
+    },
+    {
+      "definition": "direct",
+      "region": "EU",
+      "timing": "delay_adjusted",
+      "start": "2019-09-30"
+    },
+    {
+      "definition": "with_indirect",
+      "region": "US",
+      "timing": "source",
+      "start": "2019-06-30"
+    },
+    {
+      "definition": "with_indirect",
+      "region": "US",
+      "timing": "delay_adjusted",
+      "start": "2019-09-30"
+    },
+    {
+      "definition": "with_indirect",
+      "region": "EU",
+      "timing": "source",
+      "start": "2019-06-30"
+    },
+    {
+      "definition": "with_indirect",
+      "region": "EU",
+      "timing": "delay_adjusted",
+      "start": "2019-09-30"
+    }
+  ],
+  "timing_controls_identical": true,
+  "checks": [
+    {
+      "run": "US_pillar2_direct_source_policy_q50_10bp_lag0_from2019-06-30_earliest_complete",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1268,
+      "holdings_with_policy_links": 720
+    },
+    {
+      "run": "US_pillar2_direct_source_policy_q75_10bp_lag0_from2019-06-30_earliest_complete",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1268,
+      "holdings_with_policy_links": 556
+    },
+    {
+      "run": "US_pillar2_direct_source_policy_equal_10bp_lag0_from2019-06-30_earliest_complete",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1268,
+      "holdings_with_policy_links": 1265
+    },
+    {
+      "run": "US_pillar2_direct_source_policy_q50_10bp_lag0_from2019-06-30_cross_region",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1268,
+      "holdings_with_policy_links": 720
+    },
+    {
+      "run": "US_pillar2_direct_source_policy_q75_10bp_lag0_from2019-06-30_cross_region",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1268,
+      "holdings_with_policy_links": 556
+    },
+    {
+      "run": "US_pillar2_direct_source_policy_equal_10bp_lag0_from2019-06-30_cross_region",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1268,
+      "holdings_with_policy_links": 1265
+    },
+    {
+      "run": "US_pillar2_direct_source_policy_q50_10bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231,
+      "holdings_with_policy_links": 693
+    },
+    {
+      "run": "US_pillar2_direct_source_policy_q75_10bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231,
+      "holdings_with_policy_links": 496
+    },
+    {
+      "run": "US_pillar2_direct_source_policy_equal_10bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231,
+      "holdings_with_policy_links": 1229
+    },
+    {
+      "run": "US_pillar2_direct_delay_adjusted_policy_q50_10bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231,
+      "holdings_with_policy_links": 696
+    },
+    {
+      "run": "US_pillar2_direct_delay_adjusted_policy_q75_10bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231,
+      "holdings_with_policy_links": 562
+    },
+    {
+      "run": "US_pillar2_direct_delay_adjusted_policy_equal_10bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231,
+      "holdings_with_policy_links": 1229
+    },
+    {
+      "run": "EU_pillar2_direct_source_policy_q50_15bp_lag0_from2019-06-30_earliest_complete",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1267,
+      "holdings_with_policy_links": 719
+    },
+    {
+      "run": "EU_pillar2_direct_source_policy_q75_15bp_lag0_from2019-06-30_earliest_complete",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1267,
+      "holdings_with_policy_links": 504
+    },
+    {
+      "run": "EU_pillar2_direct_source_policy_equal_15bp_lag0_from2019-06-30_earliest_complete",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1267,
+      "holdings_with_policy_links": 1264
+    },
+    {
+      "run": "EU_pillar2_direct_source_policy_q50_15bp_lag0_from2019-06-30_cross_region",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1267,
+      "holdings_with_policy_links": 719
+    },
+    {
+      "run": "EU_pillar2_direct_source_policy_q75_15bp_lag0_from2019-06-30_cross_region",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1267,
+      "holdings_with_policy_links": 504
+    },
+    {
+      "run": "EU_pillar2_direct_source_policy_equal_15bp_lag0_from2019-06-30_cross_region",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1267,
+      "holdings_with_policy_links": 1264
+    },
+    {
+      "run": "EU_pillar2_direct_source_policy_q50_15bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228,
+      "holdings_with_policy_links": 701
+    },
+    {
+      "run": "EU_pillar2_direct_source_policy_q75_15bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228,
+      "holdings_with_policy_links": 495
+    },
+    {
+      "run": "EU_pillar2_direct_source_policy_equal_15bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228,
+      "holdings_with_policy_links": 1225
+    },
+    {
+      "run": "EU_pillar2_direct_delay_adjusted_policy_q50_15bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228,
+      "holdings_with_policy_links": 698
+    },
+    {
+      "run": "EU_pillar2_direct_delay_adjusted_policy_q75_15bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228,
+      "holdings_with_policy_links": 487
+    },
+    {
+      "run": "EU_pillar2_direct_delay_adjusted_policy_equal_15bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228,
+      "holdings_with_policy_links": 1225
+    },
+    {
+      "run": "US_pillar2_with_indirect_source_policy_q50_10bp_lag0_from2019-06-30_earliest_complete",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1334,
+      "holdings_with_policy_links": 744
+    },
+    {
+      "run": "US_pillar2_with_indirect_source_policy_q75_10bp_lag0_from2019-06-30_earliest_complete",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1334,
+      "holdings_with_policy_links": 566
+    },
+    {
+      "run": "US_pillar2_with_indirect_source_policy_equal_10bp_lag0_from2019-06-30_earliest_complete",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1334,
+      "holdings_with_policy_links": 1331
+    },
+    {
+      "run": "US_pillar2_with_indirect_source_policy_q50_10bp_lag0_from2019-06-30_cross_region",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1334,
+      "holdings_with_policy_links": 744
+    },
+    {
+      "run": "US_pillar2_with_indirect_source_policy_q75_10bp_lag0_from2019-06-30_cross_region",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1334,
+      "holdings_with_policy_links": 566
+    },
+    {
+      "run": "US_pillar2_with_indirect_source_policy_equal_10bp_lag0_from2019-06-30_cross_region",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1334,
+      "holdings_with_policy_links": 1331
+    },
+    {
+      "run": "US_pillar2_with_indirect_source_policy_q50_10bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1294,
+      "holdings_with_policy_links": 726
+    },
+    {
+      "run": "US_pillar2_with_indirect_source_policy_q75_10bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1294,
+      "holdings_with_policy_links": 512
+    },
+    {
+      "run": "US_pillar2_with_indirect_source_policy_equal_10bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1294,
+      "holdings_with_policy_links": 1292
+    },
+    {
+      "run": "US_pillar2_with_indirect_delay_adjusted_policy_q50_10bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1294,
+      "holdings_with_policy_links": 747
+    },
+    {
+      "run": "US_pillar2_with_indirect_delay_adjusted_policy_q75_10bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1294,
+      "holdings_with_policy_links": 527
+    },
+    {
+      "run": "US_pillar2_with_indirect_delay_adjusted_policy_equal_10bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1294,
+      "holdings_with_policy_links": 1292
+    },
+    {
+      "run": "EU_pillar2_with_indirect_source_policy_q50_15bp_lag0_from2019-06-30_earliest_complete",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278,
+      "holdings_with_policy_links": 737
+    },
+    {
+      "run": "EU_pillar2_with_indirect_source_policy_q75_15bp_lag0_from2019-06-30_earliest_complete",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278,
+      "holdings_with_policy_links": 516
+    },
+    {
+      "run": "EU_pillar2_with_indirect_source_policy_equal_15bp_lag0_from2019-06-30_earliest_complete",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278,
+      "holdings_with_policy_links": 1276
+    },
+    {
+      "run": "EU_pillar2_with_indirect_source_policy_q50_15bp_lag0_from2019-06-30_cross_region",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278,
+      "holdings_with_policy_links": 737
+    },
+    {
+      "run": "EU_pillar2_with_indirect_source_policy_q75_15bp_lag0_from2019-06-30_cross_region",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278,
+      "holdings_with_policy_links": 516
+    },
+    {
+      "run": "EU_pillar2_with_indirect_source_policy_equal_15bp_lag0_from2019-06-30_cross_region",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278,
+      "holdings_with_policy_links": 1276
+    },
+    {
+      "run": "EU_pillar2_with_indirect_source_policy_q50_15bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1236,
+      "holdings_with_policy_links": 716
+    },
+    {
+      "run": "EU_pillar2_with_indirect_source_policy_q75_15bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1236,
+      "holdings_with_policy_links": 504
+    },
+    {
+      "run": "EU_pillar2_with_indirect_source_policy_equal_15bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1236,
+      "holdings_with_policy_links": 1234
+    },
+    {
+      "run": "EU_pillar2_with_indirect_delay_adjusted_policy_q50_15bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1236,
+      "holdings_with_policy_links": 710
+    },
+    {
+      "run": "EU_pillar2_with_indirect_delay_adjusted_policy_q75_15bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1236,
+      "holdings_with_policy_links": 496
+    },
+    {
+      "run": "EU_pillar2_with_indirect_delay_adjusted_policy_equal_15bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1236,
+      "holdings_with_policy_links": 1234
+    }
+  ],
+  "ungated_reproductions": [
+    {
+      "region": "US",
+      "rule": "q50",
+      "status": "PASS"
+    },
+    {
+      "region": "US",
+      "rule": "q75",
+      "status": "PASS"
+    },
+    {
+      "region": "US",
+      "rule": "equal",
+      "status": "PASS"
+    },
+    {
+      "region": "EU",
+      "rule": "q50",
+      "status": "PASS"
+    },
+    {
+      "region": "EU",
+      "rule": "q75",
+      "status": "PASS"
+    },
+    {
+      "region": "EU",
+      "rule": "equal",
+      "status": "PASS"
+    }
+  ],
+  "preserved_files": 3065
+}

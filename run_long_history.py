@@ -78,7 +78,7 @@ class HistoryInputs(TimingInputs):
         excluded = {t for t,u in original.items() if u['region']==region and u['listing_start'] and u['listing_start']>=cutoff}
         self.universe = {t:u for t,u in original.items() if t not in excluded}
         try:
-            scores,reasons = super().signals(region,date,panel,False,0)
+            scores,reasons = super().signals(region,date,panel,gate,0)
         finally:
             self.universe = original
         reasons.update({t:'not listed before information cutoff' for t in excluded})
@@ -184,7 +184,8 @@ def main():
     previous_run_names={r['run'] for r in read_csv(OUT/'summary.csv')}
     frozen={str(p.relative_to(ROOT)):digest(p) for folder in ('data','results_actual','results_us_restored',
              'results_eu_restored','results_eu_interim','results_research_corrected')
-            for p in (ROOT/folder).rglob('*') if p.is_file() and 'long_history' not in p.parts and '__pycache__' not in p.parts}
+            for p in (ROOT/folder).rglob('*') if p.is_file() and 'long_history' not in p.parts
+            and 'pillar2' not in p.parts and '__pycache__' not in p.parts}
     lam,registry=build_lam()
     datasets={}; audit=[]; starts={}; timing_starts={}; checks=[]; results=[]; baseline_checks=[]
     previous=read_csv(ROOT/'results_research_corrected/summary.csv')
@@ -279,7 +280,8 @@ def main():
                     baseline_reproductions=baseline_checks,checks=checks,preserved_files=len(frozen))
     save(OUT/'validation.json',validation)
     save(OUT/'preserved_manifest.json',[dict(path=p,sha256=h) for p,h in sorted(frozen.items())])
-    inputs=[ROOT/'backtest.py',ROOT/'run_long_history.py',ROOT/'test_long_history.py',ROOT/'LONG_HISTORY_METHOD.md',
+    inputs=[ROOT/'backtest.py',ROOT/'run_long_history.py',ROOT/'run_research_corrections.py',
+            ROOT/'test_long_history.py',ROOT/'LONG_HISTORY_METHOD.md',
             ROOT/'collect_long_history_us.py',ROOT/'collect_long_history_prices.py',
             *[p for p in AREA.rglob('*') if p.is_file()]]
     save(OUT/'input_manifest.json',[dict(path=str(p.relative_to(ROOT)),sha256=digest(p)) for p in sorted(inputs)])

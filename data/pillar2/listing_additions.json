@@ -1,0 +1,18 @@
+[
+  {
+    "ticker": "ENPH",
+    "listing_start": "2012-03-30",
+    "source": "https://newsroom.enphase.com/news-releases/news-release-details/enphase-energy-prices-initial-public-offering/",
+    "source_date": "2012-03-29",
+    "corroboration": "https://investor.enphase.com/investor-faqs",
+    "note": "Dated IPO release announces March 30 trading; issuer FAQ confirms the actual date. This is a tradability restriction, not a policy award."
+  },
+  {
+    "ticker": "NXPI",
+    "listing_start": "2010-08-06",
+    "source": "https://www.nxp.com/company/about-nxp/investor-relations/investor-faqs:INVESTORS-FAQS",
+    "source_date": null,
+    "corroboration": "https://investors.nxp.com/static-files/e70a5656-965a-46e7-b116-ca9b7019945b",
+    "note": "Issuer FAQ and original 2010 interim-results discussion identify August 6 as the first trading day, following August 5 pricing. Used only to prevent pre-listing eligibility."
+  }
+]

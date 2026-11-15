@@ -10,6 +10,16 @@ The implemented test measures a specific part of that idea: two accounting signa
 
 ## Quick start
 
+**Historical Pillar 2 admission:** [policy-gated results](results_pillar2/REPORT.md)
+audit all 31 candidates against dated government support, including programmes
+before CHIPS/IRA and the EU Chips Act. Run `python3 run_pillar2.py`; tests:
+`python3 -m unittest test_pillar2.py test_long_history.py test_research_corrections.py`.
+The main panel requires named direct/subsidiary support; evidenced indirect
+beneficiaries are a separate sensitivity. Dates combine public policy evidence,
+actual listing/ownership and complete financial coverage. Historical admission
+does not imply that an earlier grant remains active or unspent. See the
+[eligibility definition](PILLAR2_METHOD.md) and every company's source ledger.
+
 **Longer histories and timing repair:** [extended results](results_long_history/REPORT.md)
 recover older original annual statements across both full candidate pools.
 These are retrospective accounting-score tests. Neither the June 2019 main
@@ -140,7 +150,7 @@ The article supplies the economic motivation. This table connects its named conc
 | [Inattention and performative beta traps][article-problem] | Motivates examining a transparent allocation rule. The code does not estimate investors' attention, corporate hype or an economy-wide change in beta. |
 | [Competition through portfolio admission and removal][article-solution] | `constrained_selection()` in [backtest.py](backtest.py) applies observable score thresholds at scheduled reviews. Event and selection ledgers make the decisions inspectable. |
 | [Pillar 1: KPI scoring][article-kpi] | `Inputs.signals()` computes a reduced score from operating returns on capital employed and cash earnings quality. It does not implement all six proposed KPI dimensions. |
-| [Pillar 2: Industrial policy][article-policy] | [universe.json](data/universe.json) supplies 31 retrospective candidates. Listing status, observed prices and usable financial inputs determine eligibility. A dated subsidy-event gate is not applied to the headline portfolios. |
+| [Pillar 2: Industrial policy][article-policy] | [The historical admission experiment](results_pillar2/REPORT.md) applies a dated, source-linked support gate to all 31 retrospective candidates before ranking. The earlier headline snapshots remain ungated. It tests documented historical participation, not subsidy utilization or an exhaustive historical universe. |
 | [Pillar 3: Competition and collaboration][article-network] | Network centrality, patent spillovers and geographic-cluster effects are unmeasured. They contribute no fabricated score or weight. |
 | [Interaction of the three pillars][article-interaction] | The implemented composite combines two accounting ranks. Position weights are equal weights with a small financial-score tilt; they do not measure a collaboration premium or time-varying pillar interactions. |
 | [Reproducible backtests][article-replication] | [run_all.py](run_all.py), frozen inputs, source records, validation and file manifests provide a computational audit trail. |

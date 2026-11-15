@@ -1,0 +1,408 @@
+{
+  "scope": "Historical US public-support evidence for eight US energy/industrial candidates. These dates are conservative first recovered public evidence, not a claim to identify the earliest subsidy in each company's entire history. Eligibility records historical confirmed receipt or participation in a named funded programme; completion of that programme does not imply continuing funding and does not erase historical receipt.",
+  "date_convention": "When a source supplies only a month or year, event_date is the end of that period and date_precision explains the convention. Public availability is never backdated to a previously undisclosed award. Listing and accounting-data availability are separate engine gates.",
+  "events": [
+    {
+      "event_id": "US_FSLR_48C_2010",
+      "ticker": "FSLR",
+      "region": "US",
+      "programme": "ARRA Section 48C advanced energy manufacturing tax credit: Perrysburg manufacturing expansion",
+      "jurisdiction": "United States federal",
+      "beneficiary": "First Solar, Inc. and its Perrysburg, Ohio manufacturing operation",
+      "relationship": "direct",
+      "support_type": "targeted manufacturing investment tax credit",
+      "status": "awarded and recognized",
+      "event_date": "2010-01-07",
+      "public_date": "2011-02-28",
+      "eligible_from": "2011-02-28",
+      "end_date": null,
+      "support_end_date": null,
+      "qualifies": true,
+      "sources": [
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449411000007/fslrdec1010k.htm",
+          "title": "First Solar 2010 Form 10-K, investment tax credit disclosure",
+          "publication_date": "2011-02-28",
+          "evidence": "The company reports a $16.3 million federal manufacturing tax credit granted during 2010 for expansion of its Perrysburg factory, accounted for as a reduction in the cost of the acquired assets."
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1274494/000095012310036167/p16452aars.htm",
+          "title": "First Solar 2009 Annual Report, Note 24 subsequent events",
+          "publication_date": null,
+          "evidence": "Treasury approved the company's $16.3 million ARRA manufacturing-credit application on January 7, 2010, subject to administrative steps. This establishes the award date; the later dated 2010 filing establishes the conservative public-admission date."
+        }
+      ],
+      "rationale": "Named producer receiving an industrial investment credit, rather than a generic customer solar incentive.",
+      "limitations": "Earlier public announcement or annual-report availability may exist; no earlier exact publication date is inferred here. Foreign manufacturing grants and sold solar-project loan guarantees are not used for this US direct admission. No continuing annual payment is inferred."
+    },
+    {
+      "event_id": "US_ENPH_CEC_PIER_2009",
+      "ticker": "ENPH",
+      "region": "US",
+      "programme": "California Energy Commission Public Interest Energy Research grant to SolarTech, Santa Clara University and Enphase",
+      "jurisdiction": "California, United States",
+      "beneficiary": "Enphase with SolarTech and Santa Clara University",
+      "relationship": "direct",
+      "support_type": "funded research consortium grant",
+      "status": "grant agreement finalized; named co-recipient",
+      "event_date": "2009-02-28",
+      "public_date": "2010-03-31",
+      "eligible_from": "2010-03-31",
+      "end_date": null,
+      "support_end_date": null,
+      "date_precision": "Agreement month February 2009 and report publication month March 2010; both represented by conservative month-end dates.",
+      "qualifies": true,
+      "sources": [
+        {
+          "url": "https://www.nrel.gov/docs/fy10osti/47866.pdf",
+          "title": "NREL/TP-6A2-47866: Consortia Focused on Photovoltaic R&D, Manufacturing, and Testing, March 2010, page 30",
+          "publication_date": "2010-03-31",
+          "evidence": "NREL records a February 2009 agreement for nearly $750,000 of California PIER funding to SolarTech, Santa Clara University and Enphase. Work covered solar permitting, interconnection, performance, installation and financing practices."
+        }
+      ],
+      "rationale": "A government laboratory report explicitly names Enphase among recipients of a particular awarded research grant. This is stronger than inferring support from solar-sector ITC availability.",
+      "limitations": "The grant amount is the consortium total, not an allocation to Enphase. The original CEC agreement and Enphase's individual cash receipts were not recovered. The March 2010 government report is used instead of backdating public availability to February 2009. ENPH cannot enter a traded portfolio before its separate 2012 listing gate."
+    },
+    {
+      "event_id": "US_PLUG_ARRA_FUELCELLS_2009",
+      "ticker": "PLUG",
+      "region": "US",
+      "programme": "DOE ARRA fuel-cell market transformation grants: combined heat and power and backup power",
+      "jurisdiction": "United States federal",
+      "beneficiary": "Plug Power, Inc.",
+      "relationship": "direct",
+      "support_type": "cost-shared demonstration grants",
+      "status": "awarded with deployment activity reported",
+      "event_date": "2009-12-31",
+      "public_date": "2011-05-09",
+      "eligible_from": "2011-05-09",
+      "end_date": null,
+      "support_end_date": null,
+      "date_precision": "Award programme identified as 2009 ARRA; year-end is a conservative event-date bound. Admission uses the dated May 2011 DOE presentation.",
+      "qualifies": true,
+      "sources": [
+        {
+          "url": "https://www.hydrogen.energy.gov/docs/hydrogenprogramlibraries/pdfs/review11/h2pn06_devlin_mt_and_arra_2011_o.pdf",
+          "title": "DOE Annual Merit Review: Market Transformation and American Recovery and Reinvestment Act, May 9, 2011",
+          "publication_date": "2011-05-09",
+          "evidence": "The ARRA award table names Plug Power for $3.4 million in combined heat and power and $2.7 million in backup power, each with matching company cost share. The presentation reports deployment progress as of April 2011."
+        }
+      ],
+      "rationale": "Plug Power is a named direct grantee. The separate GENCO award and ordinary government equipment purchases are not attributed to Plug as direct subsidies.",
+      "limitations": "The original 2009 award announcement was not recovered with equally clear named-beneficiary evidence, so public admission is conservatively delayed to May 2011. Grant completion dates and individual disbursement schedules are unresolved."
+    },
+    {
+      "event_id": "US_BE_DELAWARE_RECEIPT_2018",
+      "ticker": "BE",
+      "region": "US",
+      "programme": "Delaware Strategic Fund manufacturing and employment incentive",
+      "jurisdiction": "Delaware, United States",
+      "beneficiary": "Bloom Energy Corporation",
+      "relationship": "direct",
+      "support_type": "conditional manufacturing grant",
+      "status": "received; partial recapture disclosed",
+      "event_date": "2012-03-01",
+      "public_date": "2018-06-12",
+      "eligible_from": "2018-06-12",
+      "end_date": null,
+      "support_end_date": null,
+      "qualifies": true,
+      "sources": [
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1664703/000119312518190488/d96446ds1.htm",
+          "title": "Bloom Energy public Form S-1, June 12, 2018, Delaware Economic Development Authority and Note 12",
+          "publication_date": "2018-06-12",
+          "evidence": "Bloom identifies its March 1, 2012 grant agreement for up to $16.5 million. It reports $12 million received, $1.5 million already repaid under recapture provisions and $10.5 million remaining in long-term liabilities. Additional employment milestones extend through September 2023."
+        }
+      ],
+      "rationale": "Confirmed receipt of a state manufacturing grant before the IPO. Partial repayment is recorded without treating the entire award as either untouched or wholly cancelled.",
+      "limitations": "A 2014 court opinion already described the conditional offer, but the June 2018 public S-1 is used for unambiguous receipt. Confidential 2016 SEC draft submission dates are not public-admission dates. The separate $7 million grant to the University of Delaware is not counted as a direct grant to Bloom. Later recapture outcomes are not assumed. The listing gate prevents pre-IPO trading."
+    },
+    {
+      "event_id": "US_BE_DELAWARE_OFFER_2014",
+      "ticker": "BE",
+      "region": "US",
+      "programme": "Delaware Strategic Fund manufacturing incentive: earlier public court account",
+      "jurisdiction": "Delaware, United States",
+      "beneficiary": "Bloom Energy Corporation",
+      "relationship": "direct",
+      "support_type": "conditional grant offer",
+      "status": "earlier offer evidence; receipt not established by this source alone",
+      "event_date": "2014-04-17",
+      "public_date": "2014-04-17",
+      "eligible_from": "2014-04-17",
+      "end_date": null,
+      "qualifies": false,
+      "sources": [
+        {
+          "url": "https://www.ded.uscourts.gov/sites/ded/files/opinions/12-777.pdf",
+          "title": "US District Court for Delaware, Civil Action 12-777-CJB, memorandum opinion, April 17, 2014",
+          "publication_date": "2014-04-17",
+          "evidence": "Footnote 4 describes Delaware's conditional offer of up to $16.5 million to Bloom to attract its manufacturing facility, separately from support to the university site owner."
+        }
+      ],
+      "rationale": "Preserves earlier public evidence without equating an offer with confirmed receipt.",
+      "limitations": "Superseded for qualifying admission by the public 2018 filing confirming amounts received; both dates precede Bloom's listing."
+    },
+    {
+      "event_id": "US_ETN_DOE_COOLING_2010",
+      "ticker": "ETN",
+      "region": "US",
+      "programme": "DOE-funded Eaton/HP energy-efficient water-cooled IT rack research",
+      "jurisdiction": "United States federal",
+      "beneficiary": "Eaton Corporation jointly with HP",
+      "relationship": "direct",
+      "support_type": "funded research collaboration",
+      "status": "funded development in progress",
+      "event_date": "2010-12-31",
+      "public_date": "2011-03-18",
+      "eligible_from": "2011-03-18",
+      "end_date": null,
+      "support_end_date": null,
+      "date_precision": "Activity documented for 2010; year-end is used rather than an unverified earlier award day. Annual-report availability is established by the March 18, 2011 proxy materials.",
+      "qualifies": true,
+      "sources": [
+        {
+          "url": "https://www.eaton.com/content/dam/eaton/company/investor-relations/2010-Annual-Report.pdf",
+          "title": "Eaton 2010 Annual Report, item 23, printed page 10",
+          "publication_date": "2011-03-18",
+          "evidence": "Eaton identifies itself and HP as developing a water-cooled IT rack and explicitly states that DOE funds this development project, which targets lower energy use and alternative electricity sources."
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/31277/000095012311026611/l41516adef14a.htm",
+          "title": "Eaton 2011 definitive proxy statement",
+          "publication_date": "2011-03-18",
+          "evidence": "The dated proxy states that the 2010 annual report is available online and that the materials are scheduled to be sent to shareholders on or about March 18, 2011."
+        }
+      ],
+      "rationale": "Named participant in an explicitly DOE-funded development project, distinct from Eaton's ordinary government supply contracts and sales associated with stimulus spending.",
+      "limitations": "The individual Eaton grant allocation and prime/subrecipient contract were not recovered. The evidence supports funded research participation, not a claim that the entire project grant was paid directly to Eaton. No cash receipt amount or continuing grant income is imputed."
+    },
+    {
+      "event_id": "US_GEV_45X_WIND_2023",
+      "ticker": "GEV",
+      "region": "US",
+      "programme": "Inflation Reduction Act advanced manufacturing production credits for the Wind business",
+      "jurisdiction": "United States federal",
+      "beneficiary": "GE Vernova Wind business retained in the April 2024 spin-off",
+      "relationship": "direct",
+      "support_type": "industrial production tax credit",
+      "status": "recognized in financial statements",
+      "event_date": "2023-12-31",
+      "public_date": "2024-02-15",
+      "ownership_date": "2024-04-02",
+      "eligible_from": "2024-04-02",
+      "end_date": null,
+      "support_end_date": null,
+      "date_precision": "Credit recognized during FY2023, represented by the fiscal year-end. Admission additionally waits for completed spin-off and separate listing.",
+      "qualifies": true,
+      "sources": [
+        {
+          "url": "https://www.gevernova.com/sites/default/files/2024-02/form10_registration_statement_feb2024.pdf",
+          "title": "GE Vernova Form 10, February 15, 2024, government grants accounting note, printed F-17",
+          "publication_date": "2024-02-15",
+          "evidence": "The Wind business recognized $234 million of advanced manufacturing credits introduced by the IRA in 2023, reducing equipment costs. This is an operating-manufacturing benefit distinct from the renewable-energy tax-equity investments transferred to GE."
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1996810/000119312524084048/d807682dex991.htm",
+          "title": "GE Vernova Completes Spin-Off and Begins Trading on the New York Stock Exchange",
+          "publication_date": "2024-04-02",
+          "evidence": "GE Vernova confirms completion of its spin-off and the start of regular independent NYSE trading on April 2, 2024."
+        }
+      ],
+      "rationale": "Identifiable retained operating business with a recognized US producer credit. There is no attempt to create pre-spin GEV stock returns or assign every former GE subsidy to GEV.",
+      "limitations": "The separate general government R&D-grant totals do not identify jurisdiction and are not used. Recognition is not necessarily the cash-payment date."
+    },
+    {
+      "event_id": "US_GEV_EXCLUDED_GE_TAXEQUITY",
+      "ticker": "GEV",
+      "region": "US",
+      "programme": "Historical renewable-energy tax-equity investments excluded from the GE Vernova spin-off",
+      "jurisdiction": "United States federal",
+      "beneficiary": "Renewable-energy tax-equity investments transferred back to GE",
+      "relationship": "subsidiary",
+      "support_type": "production tax credits associated with excluded investments",
+      "status": "excluded ownership mapping",
+      "event_date": "2024-02-15",
+      "public_date": "2024-02-15",
+      "eligible_from": "2024-02-15",
+      "end_date": null,
+      "qualifies": false,
+      "sources": [
+        {
+          "url": "https://www.gevernova.com/sites/default/files/2024-02/form10_registration_statement_feb2024.pdf",
+          "title": "GE Vernova Form 10, pro forma adjustments, printed pages 74-75",
+          "publication_date": "2024-02-15",
+          "evidence": "The pro forma adjustments remove $1.227 billion of US renewable-energy tax-equity investments and related tax attributes because they were to transfer to GE before the spin-off."
+        }
+      ],
+      "rationale": "Predecessor financial-statement inclusion alone is insufficient to establish that a supported business belongs to the traded successor.",
+      "limitations": "Excluded for GEV admission; does not deny that the investments received public support while owned by the prior group."
+    },
+    {
+      "event_id": "US_LIN_PRAXAIR_AMO_2016",
+      "ticker": "LIN",
+      "region": "US",
+      "programme": "DOE Advanced Manufacturing Office: Novomer/Praxair conversion of carbon dioxide to chemicals",
+      "jurisdiction": "United States federal",
+      "beneficiary": "Praxair, which became a Linde plc subsidiary at the 2018 combination",
+      "relationship": "subsidiary",
+      "support_type": "applied research and development grant",
+      "status": "historical award; federal project role completed",
+      "event_date": "2016-04-30",
+      "public_date": "2016-11-18",
+      "ownership_date": "2018-10-31",
+      "eligible_from": "2018-10-31",
+      "end_date": null,
+      "support_end_date": "2016-04-30",
+      "support_end_public_date": "2016-11-18",
+      "date_precision": "Exact original award date not recovered. April 2016 completion notice is a conservative bound proving an award already existed; month-end represents the stated month. This is historical recipient admission after the merger, not an active-grant assertion.",
+      "qualifies": true,
+      "sources": [
+        {
+          "url": "https://www.energy.gov/cmei/ammto/articles/amo-success-story-converting-waste-valuable-materials-and-chemicals",
+          "title": "DOE AMO Success Story: Converting Waste to Valuable Materials and Chemicals",
+          "publication_date": "2016-11-18",
+          "evidence": "DOE states that AMO awarded $5 million jointly to Novomer and Praxair for applied R&D converting CO2 to chemicals. Praxair developed an electrolyzer system. Partners told AMO in April 2016 that they would complete remaining work without federal funding."
+        },
+        {
+          "url": "https://www.linde.com/news-and-media/2018/business-combination-between-praxair-and-linde-ag-successfully-completed",
+          "title": "Business Combination Between Praxair and Linde AG Successfully Completed",
+          "publication_date": "2018-10-31",
+          "evidence": "Linde confirms the completed Praxair/Linde combination and commencement of NYSE LIN trading on October 31, 2018. Praxair shareholders received one Linde plc share for each Praxair share."
+        }
+      ],
+      "rationale": "A named US government research recipient maps to a subsidiary of the current company only once the merger has completed. The historical recipient definition permits a completed grant; it does not establish ongoing public cash support.",
+      "limitations": "No pre-2018 Praxair price proxy is used for LIN. The $5 million is joint project funding, not Praxair's individual share. The separate 2018 Linde North America carbon-capture awards are not used because divestitures create uncertain project ownership."
+    },
+    {
+      "event_id": "US_LIN_NA_CARBONCAPTURE_UNRESOLVED",
+      "ticker": "LIN",
+      "region": "US",
+      "programme": "DOE carbon-capture projects announced by Linde North America in 2018",
+      "jurisdiction": "United States federal",
+      "beneficiary": "Linde North America and project partners",
+      "relationship": "subsidiary",
+      "support_type": "research grants",
+      "status": "award evidenced; successor project ownership unresolved",
+      "event_date": "2018-05-14",
+      "public_date": "2018-05-14",
+      "eligible_from": "2018-05-14",
+      "end_date": null,
+      "qualifies": false,
+      "sources": [
+        {
+          "url": "https://www.prnewswire.com/news-releases/linde-wins-us-dept-of-energy-grants-for-carbon-capture-projects-300647665.html",
+          "title": "Linde issuer press release: Linde wins U.S. Department of Energy grants for carbon capture projects",
+          "publication_date": "2018-05-14",
+          "evidence": "Linde North America announces DOE awards for carbon-capture development projects."
+        },
+        {
+          "url": "https://www.ftc.gov/news-events/news/press-releases/2018/10/ftc-requires-international-industrial-gas-suppliers-praxair-inc-linde-ag-divest-assets-nine",
+          "title": "FTC requires Praxair and Linde to divest assets in nine industrial gas markets",
+          "publication_date": "2018-10-22",
+          "evidence": "Merger approval requires divestiture of substantial Linde US businesses to Messer. The recovered evidence does not resolve whether these particular awarded projects stayed with listed LIN."
+        }
+      ],
+      "rationale": "A historical Linde name match is insufficient where project ownership after mandatory divestitures is unresolved.",
+      "limitations": "Not admitted; the independently documented Praxair research relationship is used instead."
+    },
+    {
+      "event_id": "US_NEE_GENESIS_1705_2011",
+      "ticker": "NEE",
+      "region": "US",
+      "programme": "DOE Title XVII Section 1705 Financial Institution Partnership Program: Genesis Solar",
+      "jurisdiction": "United States federal",
+      "beneficiary": "Genesis Solar LLC, subsidiary of NextEra Energy Resources LLC and NextEra Energy Inc.",
+      "relationship": "subsidiary",
+      "support_type": "federal project loan guarantee",
+      "status": "closed guarantee; later financing repayment reported",
+      "event_date": "2011-08-29",
+      "public_date": "2011-08-29",
+      "eligible_from": "2011-08-29",
+      "end_date": null,
+      "support_end_date": null,
+      "qualifies": true,
+      "sources": [
+        {
+          "url": "https://newsroom.nexteraenergy.com/NextEra-Energy-Resources-subsidiary-closes-on-935-million-financing-and-secures-a-DOE-loan-guarantee-for-its-Genesis-solar-project",
+          "title": "NextEra Energy Resources subsidiary closes financing and secures DOE loan guarantee for Genesis solar project",
+          "publication_date": "2011-08-29",
+          "evidence": "NextEra confirms its Genesis subsidiary closed financing and that DOE guarantees 80% of principal and interest on $702 million of project bonds and a $150 million term loan. The release explicitly identifies NextEra Energy as the parent."
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2011-09-01/pdf/2011-22403.pdf",
+          "title": "Federal Register: Issuance of Loan Guarantee to Genesis Solar LLC",
+          "publication_date": "2011-09-01",
+          "evidence": "DOE records its decision to issue the Genesis loan guarantee under Title XVII as amended by ARRA. This corroborates the programme identity separately from the company's earlier announcement."
+        },
+        {
+          "url": "https://www.energy.gov/sites/default/files/2020/04/f73/DOE-LPO-APSR-2019-FINAL.pdf",
+          "title": "DOE Loan Programs Office FY2019 Annual Portfolio Status Report, Genesis spotlight",
+          "publication_date": "2020-04-30",
+          "evidence": "DOE describes Genesis entering the portfolio in August 2011 and NextEra's December 2019 announcement of its intention to prepay the term loan and leave the portfolio."
+        }
+      ],
+      "rationale": "Completed named guarantee benefiting an explicitly mapped subsidiary. The $852 million is financing principal covered by a partial guarantee, not a cash grant to NextEra.",
+      "limitations": "Event date conservatively uses the August 29 confirmation of closing, without relying on an earlier secondary-source closing day. The later report establishes a repayment intention, not an exact actual repayment day, so support_end_date remains unknown. Historical receipt continues to qualify; no outstanding guarantee today is asserted. The 2020 report's upload month is conservatively represented by month-end and is not used to backdate initial admission."
+    }
+  ],
+  "candidates": [
+    {
+      "ticker": "FSLR",
+      "searches": ["First Solar ARRA January 2010 Section 48C manufacturing award", "First Solar 2009 and 2010 SEC annual reports government grants and Ohio investment credit", "First Solar DOE loan guarantees project ownership"],
+      "coverage_status": "qualifying named US manufacturing credit confirmed",
+      "earliest_evidenced_date": "2011-02-28",
+      "unresolved": "Earlier Ohio aid and original 2010 announcement could move the documentary bound earlier; award receipt is already established before the financial backtest window. Foreign plant aid and sold-project guarantees are not relied on."
+    },
+    {
+      "ticker": "ENPH",
+      "searches": ["Enphase California Energy Commission PIER grant 2009 SolarTech", "NREL 47866 Enphase consortium grant March 2010", "Enphase SEC IPO solar ITC customer incentives and direct grants"],
+      "coverage_status": "qualifying named co-recipient in government laboratory report",
+      "earliest_evidenced_date": "2010-03-31",
+      "unresolved": "Original CEC grant agreement and individual Enphase allocation were not recovered; exact publication day within March 2010 is unknown."
+    },
+    {
+      "ticker": "PLUG",
+      "searches": ["Plug Power DOE ARRA 2009 3.4 million 2.7 million grants", "DOE 2011 annual merit review ARRA fuel cell award table", "Plug Power 2009 SEC interim filing grants"],
+      "coverage_status": "qualifying named direct federal awards confirmed",
+      "earliest_evidenced_date": "2011-05-09",
+      "unresolved": "Original named 2009 announcement and exact grant completion dates were not recovered. No generic fuel-cell-sector link is used."
+    },
+    {
+      "ticker": "BE",
+      "searches": ["Bloom Delaware Strategic Fund March 2012 grant agreement", "Bloom Delaware 2014 federal court 12-777", "Bloom June 2018 public S-1 12 million grant received 1.5 million recapture"],
+      "coverage_status": "qualifying confirmed receipt before listing; earlier offer separately recorded",
+      "earliest_evidenced_date": "2018-06-12",
+      "unresolved": "2014 court material establishes an offer; no earlier exact public receipt date is imputed. Post-2018 recapture outcomes require separate investigation if modeling remaining cash benefits."
+    },
+    {
+      "ticker": "ETN",
+      "searches": ["Eaton HP DOE water cooled rack grant 2010", "Eaton 2010 annual report DOE-funded project", "Eaton March 18 2011 proxy annual report availability", "Eaton DOE variable speed drive grant 2016"],
+      "coverage_status": "qualifying named funded research participant confirmed",
+      "earliest_evidenced_date": "2011-03-18",
+      "unresolved": "Exact award day, prime/subrecipient agreement and Eaton allocation not recovered. Ordinary government product sales are excluded."
+    },
+    {
+      "ticker": "GEV",
+      "searches": ["GE Vernova February 2024 Form 10 IRA advanced manufacturing credits 234 million", "GE Vernova tax equity investments transferred to GE spin-off", "GE Vernova April 2 2024 completed spin-off release"],
+      "coverage_status": "qualifying retained Wind manufacturing credit confirmed; admission waits for spin-off",
+      "earliest_evidenced_date": "2024-04-02",
+      "unresolved": "Earlier GE-wide grants are not mapped without specific retained-business evidence. No pre-spin stock history is manufactured."
+    },
+    {
+      "ticker": "LIN",
+      "searches": ["Praxair Novomer DOE AMO five million grant 2016", "Linde Praxair business combination completed October 31 2018", "Linde North America DOE carbon capture awards May 2018", "FTC Linde Praxair US divestiture Messer 2018"],
+      "coverage_status": "qualifying historical Praxair award mapped after completed merger",
+      "earliest_evidenced_date": "2018-10-31",
+      "unresolved": "Praxair's original award day and individual allocation unresolved. Separate Linde North America carbon-capture project ownership after divestitures is not established and is excluded."
+    },
+    {
+      "ticker": "NEE",
+      "searches": ["NextEra Genesis DOE loan guarantee August 2011 company announcement", "Federal Register 2011-22403 Genesis guarantee", "DOE Genesis loan repayment 2019 portfolio report", "NextEra historical wind production tax credits"],
+      "coverage_status": "qualifying named subsidiary federal loan guarantee confirmed",
+      "earliest_evidenced_date": "2011-08-29",
+      "unresolved": "Earlier wind credits may establish an earlier history; this reconstruction uses an unambiguous named guarantee well before the data window. Exact actual repayment date is not asserted from a repayment-intention announcement."
+    }
+  ]
+}

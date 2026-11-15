@@ -109,7 +109,11 @@
   },
   {
     "path": "run_long_history.py",
-    "sha256": "1e4c82b68acf258fec68c626fe9fd5c1f552a359cce2b29dc7754425023e6be8"
+    "sha256": "d0eab32bfbe87a2ffea5f7705164ef129585d485e52e67c3ce7a5937127485b0"
+  },
+  {
+    "path": "run_research_corrections.py",
+    "sha256": "a0f98468bce478ec5f03c0c408083e915fd132567d68cba9d7474919f8955ba1"
   },
   {
     "path": "test_long_history.py",

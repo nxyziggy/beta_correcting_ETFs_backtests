@@ -1,0 +1,1657 @@
+[
+  {
+    "event_id": "AIR_UK_GRANTS_DISCLOSED_2013",
+    "ticker": "AIR.PA",
+    "region": "EU",
+    "programme": "UK aerospace R&D and skills grants disclosed to Parliament",
+    "jurisdiction": "UK (EU member at award)",
+    "beneficiary": "EADS and its subsidiaries, including Airbus",
+    "relationship": "direct",
+    "support_type": "industrial_research_grant",
+    "status": "receipt_confirmed_in_parliament",
+    "event_date": "2013-11-05",
+    "public_date": "2013-11-05",
+    "eligible_from": "2013-11-05",
+    "end_date": "",
+    "qualifies": false,
+    "sources": [
+      {
+        "url": "https://publications.parliament.uk/pa/cm201314/cmhansrd/cm131105/text/131105w0002.htm",
+        "title": "House of Commons written answer: EADS public funding",
+        "publication_date": "2013-11-05",
+        "evidence": "The minister confirmed that EADS received UK grants for R&D and skills activities in FY2012/13, separately mentioning defence procurement and repayable loans."
+      }
+    ],
+    "rationale": "Ancillary confirmation of grants to the Airbus predecessor; excluded from main admission because neither an individual programme nor project is identified.",
+    "limitations": "The parliamentary answer aggregates R&D and skills grants, loans and procurement without naming the grant programme. The separate 2014 ATI project supplies the main qualifying evidence.",
+    "research_file": "data/pillar2/research_eu_industry.json"
+  },
+  {
+    "event_id": "AIR_ATI_BROUGHTON_2014",
+    "ticker": "AIR.PA",
+    "region": "EU",
+    "programme": "Aerospace Technology Institute: Broughton wing manufacturing R&D",
+    "jurisdiction": "UK (EU member at award)",
+    "beneficiary": "Airbus UK operations",
+    "relationship": "subsidiary",
+    "support_type": "industrial_research_grant",
+    "status": "joint_funding_announced",
+    "event_date": "2014-11-21",
+    "public_date": "2014-11-21",
+    "eligible_from": "2014-11-21",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://www.gov.uk/government/news/prime-minister-hails-1800-jobs-in-britain-at-uk-investment-summit",
+        "title": "Prime Minister hails 1,800 jobs in Britain at UK Investment Summit",
+        "publication_date": "2014-11-21",
+        "evidence": "UK and Welsh governments announced investment with Airbus, including approximately GBP64m of R&D activity through ATI and a GBP48m Broughton wing-manufacturing project."
+      }
+    ],
+    "rationale": "Named government-supported industrial R&D projects at an Airbus subsidiary, providing a specifically identified programme in addition to the 2013 receipt confirmation.",
+    "limitations": "Figures are total joint investment/project budgets, not government grants paid solely to Airbus; no unsupported grant amount is assigned.",
+    "research_file": "data/pillar2/research_eu_industry.json"
+  },
+  {
+    "event_id": "ALFEN_SDE_CUSTOMERS_2018",
+    "ticker": "ALFEN.AS",
+    "region": "EU",
+    "programme": "Dutch SDE+ awarded solar projects supplied by Alfen",
+    "jurisdiction": "Netherlands",
+    "beneficiary": "Solar-project customers supplied by Alfen",
+    "relationship": "indirect",
+    "support_type": "subsidised_customer_supply",
+    "status": "disclosed_existing_customer_relationship",
+    "event_date": "2018-03-12",
+    "public_date": "2018-03-12",
+    "eligible_from": "2018-03-12",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://live.euronext.com/sites/default/files/amco-9819704-v1-prospectus_alfen_n_v__dated_12_march_2018_including_e-disclaimer.pdf",
+        "title": "Alfen N.V. IPO prospectus, market and government-policy discussion",
+        "publication_date": "2018-03-12",
+        "evidence": "Alfen disclosed supplying grid connections to Dutch solar farms that had been awarded SDE+ subsidies in 2017."
+      }
+    ],
+    "rationale": "Documented sales to specific classes of already-awarded subsidy recipients; eligible only in the separately labelled indirect-exposure sensitivity.",
+    "limitations": "This is not a subsidy to Alfen. Customer projects are not individually named in the captured passage, and no indirect subsidy value is assigned to Alfen.",
+    "research_file": "data/pillar2/research_eu_industry.json"
+  },
+  {
+    "event_id": "ALFEN_UNNAMED_GRANT_2018",
+    "ticker": "ALFEN.AS",
+    "region": "EU",
+    "programme": "Government grant for rural-African off-grid energy system; programme unresolved at that date",
+    "jurisdiction": "Unknown grantor jurisdiction in contemporary prospectus",
+    "beneficiary": "Alfen group",
+    "relationship": "direct",
+    "support_type": "government_grant",
+    "status": "receipt_confirmed_grantor_unresolved",
+    "event_date": "2018-03-12",
+    "public_date": "2018-03-12",
+    "eligible_from": "2018-03-12",
+    "end_date": "",
+    "qualifies": false,
+    "sources": [
+      {
+        "url": "https://live.euronext.com/sites/default/files/amco-9819704-v1-prospectus_alfen_n_v__dated_12_march_2018_including_e-disclaimer.pdf",
+        "title": "Alfen N.V. IPO prospectus, note 9 other income",
+        "publication_date": "2018-03-12",
+        "evidence": "The prospectus records EUR968,000 of government-grant income in 2017 for an off-grid rural-African solar-and-storage development."
+      }
+    ],
+    "rationale": "Retained as an unresolved historical lead rather than assumed eligible EU/EEA support.",
+    "limitations": "The contemporaneous passage does not name the government or programme. Later Dutch DEI evidence is not backdated to infer that the 2018 reader knew the grantor. IPO tradability starts later in March 2018.",
+    "research_file": "data/pillar2/research_eu_industry.json"
+  },
+  {
+    "event_id": "ALFEN_DEI_ISES_2020",
+    "ticker": "ALFEN.AS",
+    "region": "EU",
+    "programme": "Dutch Demonstratie Energie Innovatie Tender 1: ISES, DEI1400018",
+    "jurisdiction": "Netherlands",
+    "beneficiary": "Alfen B.V.",
+    "relationship": "subsidiary",
+    "support_type": "industrial_demonstration_grant",
+    "status": "grant_and_completion_report_published",
+    "event_date": "2020-04-13",
+    "public_date": "2020-04-13",
+    "eligible_from": "2020-04-13",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://projecten.topsectorenergie.nl/projecten/integrated-sustainable-energy-station-19011",
+        "title": "Integrated Sustainable Energy Station (ISES), DEI1400018",
+        "publication_date": "2020-04-13",
+        "evidence": "The RVO-derived project record names Alfen B.V. as lead, identifies the Dutch DEI scheme and EUR2,776,119 grant, and dates the final-report publication 13 April 2020."
+      },
+      {
+        "url": "https://projecten.topsectorenergie.nl/storage/app/uploads/public/5e9/478/017/5e947801753f2752490353.pdf",
+        "title": "Eindrapport ISES 2019 (DEI1400018), version 2",
+        "publication_date": "2020-04-13",
+        "evidence": "Alfen's final report identifies the DEI-funded integrated energy demonstrator in Nigeria, with project period 30 September 2016 to 30 September 2019."
+      }
+    ],
+    "rationale": "Named Dutch-government industrial demonstration support to a Dutch controlled company; the Nigerian demonstration location does not change the government grant's jurisdiction.",
+    "limitations": "The report was prepared on 13 February 2020 but the registry supplies a later publication date. Neither the 2016 project start nor the undated current registry alone establishes what was public then. First captured dated grantor identification is used.",
+    "support_end_date": "2019-09-30",
+    "research_file": "data/pillar2/research_eu_industry.json"
+  },
+  {
+    "event_id": "AMAT_GERMANY_LILI_2009",
+    "ticker": "AMAT",
+    "region": "US",
+    "programme": "BMBF Light InLine OLED research project",
+    "jurisdiction": "Germany",
+    "beneficiary": "Applied Materials Alzenau facility",
+    "relationship": "subsidiary",
+    "support_type": "research_grant",
+    "status": "grant_awarded",
+    "event_date": "2009-11-17",
+    "public_date": "2009-11-17",
+    "eligible_from": "2009-11-17",
+    "end_date": "",
+    "qualifies": false,
+    "sources": [
+      {
+        "url": "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-merck-and-braunschweig-university-awarded",
+        "title": "Applied Materials, Merck andBraunschweig awarded German OLED grant",
+        "publication_date": "2009-11-17",
+        "evidence": "Company announcement confirms aBMBF grant for the three-yearLight InLine project atAppliedAlzenau."
+      }
+    ],
+    "rationale": "Confirmed targeted award, but German-only support does not qualify aUS-pool candidate under the regional rule.",
+    "limitations": "",
+    "support_end_date": "2012-11-17",
+    "research_file": "data/pillar2/research_semiconductors.json"
+  },
+  {
+    "event_id": "AMAT_DOE_SSL_2012",
+    "ticker": "AMAT",
+    "region": "US",
+    "programme": "DOE Building Technologies Program/NETL, US ManufacturingI solid-state lighting",
+    "jurisdiction": "US-federal",
+    "beneficiary": "Applied Materials Inc.",
+    "relationship": "direct",
+    "support_type": "research_and_manufacturing_grant",
+    "status": "funded_project",
+    "event_date": "2010-06-01",
+    "public_date": "2012-02-29",
+    "eligible_from": "2012-02-29",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://www1.eere.energy.gov/buildings/publications/pdfs/ssl/2012_ssl_project_portfolio.pdf",
+        "title": "DOE 2012 Project Portfolio: Solid-State Lighting, p 19",
+        "publication_date": "2012-02-29",
+        "evidence": "February 2012 DOE portfolio names Applied Materials for Advanced Epi Tools for Gallium Nitride LED Devices; DOE share USD 3,993,892, project 1 June 2010 to 31 May 2012.",
+        "publication_date_precision": "month; conservative 29 February bound"
+      }
+    ],
+    "rationale": "Named recipient of a targeted US energy/manufacturing research grant.",
+    "limitations": "Only month of public portfolio publication is evidenced; conservatively use the last day. Project completion does not undo historical confirmed-recipient status.",
+    "support_end_date": "2012-05-31",
+    "public_date_precision": "month_upper_bound",
+    "research_file": "data/pillar2/research_semiconductors.json"
+  },
+  {
+    "event_id": "AMS_SW_ENIAC_CSI_2010",
+    "ticker": "AMS.SW",
+    "region": "EU",
+    "programme": "ENIAC-JU 2009 CSI, Central Nervous System Imaging",
+    "jurisdiction": "EU/Italy/Austria",
+    "beneficiary": "Austriamicrosystems AG (later ams AG)",
+    "relationship": "direct",
+    "support_type": "named_consortium_research_grant",
+    "status": "publicly_funded_project_started",
+    "event_date": "2010-07-30",
+    "public_date": "2010-07-30",
+    "eligible_from": "2010-07-30",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/european-research-project-aims-to-improve-the-diagnosis-and-therapy-of-brain-diseases-99612329.html",
+        "title": "STMicroelectronics consortium release: European CSI brain-imaging research project",
+        "publication_date": "2010-07-30",
+        "evidence": "Issuer release names STMicroelectronics Italy and Austriamicrosystems among 15 partners of the 36-month CSI project, funded by European and national grants under ENIAC-JU 2009."
+      },
+      {
+        "url": "https://ams-osram.com/news/press-releases/05-24-2012",
+        "title": "Annual General Meeting approves name change to ams AG",
+        "publication_date": "2012-05-24",
+        "evidence": "Issuer confirms Austriamicrosystems name change to ams AG, linking the same company without relying on the laterOSRAM acquisition."
+      }
+    ],
+    "rationale": "Contemporaneous issuer announcement of funded project with named company participant.",
+    "limitations": "Total project cost is not a company-specific grant amount and is never used as a signal. No grant toOSRAM is attributed toams before acquisition.",
+    "research_file": "data/pillar2/research_semiconductors.json"
+  },
+  {
+    "event_id": "ASML_RESEARCH_GRANTS_2012",
+    "ticker": "ASML",
+    "region": "EU",
+    "programme": "Dutch and international governmental strategic lithography R&D grants (annual-report aggregate)",
+    "jurisdiction": "EU/Netherlands",
+    "beneficiary": "ASML Holding NV",
+    "relationship": "direct",
+    "support_type": "approved_project_research_grants",
+    "status": "receipt_confirmed",
+    "event_date": "2011-12-31",
+    "public_date": "2012-02-14",
+    "eligible_from": "2012-02-14",
+    "end_date": "",
+    "qualifies": false,
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/937966/000119312512058548/d247418d20f.htm",
+        "title": "ASML 2011 Form 20-F, research costs and credits",
+        "publication_date": "2012-02-14",
+        "evidence": "Annual report states EUR 25.1 m direct government research grants in 2011 and identifies Dutch and international institutes funding approved R&D projects."
+      },
+      {
+        "url": "https://www.asml.com/en/news/press-releases/2012/asml-publishes-2011-annual-reports",
+        "title": "ASML publishes 2011 annual reports",
+        "publication_date": "2012-02-14",
+        "evidence": "Dated issuer release confirms online publication andSEC filing of the 2011 annual report."
+      }
+    ],
+    "rationale": "Actual government project-grant receipts are confirmed, but this aggregate filing does not identify a specific programme. Retained as ancillary chronology; main uses the named ENIAC E 450 EDL project.",
+    "limitations": "Programme names and country-level amounts are not disaggregated. No earliest main admission is inferred from this aggregate record.",
+    "programme_name_precision": "aggregate_approved_projects",
+    "research_file": "data/pillar2/research_semiconductors.json"
+  },
+  {
+    "event_id": "ASML_ENIAC_E450EDL_2013",
+    "ticker": "ASML",
+    "region": "EU",
+    "programme": "ENIAC Joint Undertaking E 450 EDL, grant agreement 325613",
+    "jurisdiction": "EU/Netherlands",
+    "beneficiary": "ASML Netherlands B.V.",
+    "relationship": "subsidiary",
+    "support_type": "named_project_research_grant",
+    "status": "funded_pilot_line_confirmed",
+    "event_date": "2013-10-01",
+    "public_date": "2013-11-13",
+    "eligible_from": "2013-11-13",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://www.swissphotonics.net/libraries.files/ECSEL_JU_and_Photonics_Overview.pdf",
+        "title": "ENIAC executive director: Opportunities for the Photonics Industry under the New ECSEL JU",
+        "publication_date": "2013-11-13",
+        "evidence": "Dated public presentation identifies E 450 EDL among the funded ENIAC 2012-2 pilot-line projects and displays ASML as the project organization."
+      },
+      {
+        "url": "https://www.ecpe.org/index.php?eID=dumpFile&f=3493&t=f&token=82e6ceb7d038a5de62fd019ca38f788eab1c758e",
+        "title": "ENIAC-PAB-164-13 allocation of public funding following negotiations, E 450 EDL",
+        "publication_date": null,
+        "evidence": "Government allocation table names ASML Netherlands B.V. with EUR 7.5 m ENIAC JU funding; project start is 1 October 2013. National amounts are separately described as indicative pending agreements."
+      },
+      {
+        "url": "https://cordis.europa.eu/project/id/325613",
+        "title": "CORDIS E 450 EDL project fact sheet",
+        "publication_date": null,
+        "evidence": "Corroborates ASML Netherlands as coordinator with EUR 7.5 m EU contribution and the 1 October 2013 to 30 September 2016 project period."
+      }
+    ],
+    "rationale": "Named EU technology-project grant to ASML subsidiary. Public timing is bounded by the dated ENIAC executive director presentation, rather than backdating the current CORDIS page.",
+    "limitations": "The exact public release date of the allocation PDF is not established. The dated public presentation provides the timing bound; the allocation table supplies beneficiary-specific funding detail. Completion of the project does not reverse historical receipt.",
+    "support_end_date": "2016-09-30",
+    "public_date_basis": "Dated public ENIAC executive director presentation; combined with contemporaneous allocation table.",
+    "research_file": "data/pillar2/research_semiconductors.json"
+  },
+  {
+    "event_id": "US_BE_DELAWARE_OFFER_2014",
+    "ticker": "BE",
+    "region": "US",
+    "programme": "Delaware Strategic Fund manufacturing incentive: earlier public court account",
+    "jurisdiction": "Delaware, United States",
+    "beneficiary": "Bloom Energy Corporation",
+    "relationship": "direct",
+    "support_type": "conditional grant offer",
+    "status": "earlier offer evidence; receipt not established by this source alone",
+    "event_date": "2014-04-17",
+    "public_date": "2014-04-17",
+    "eligible_from": "2014-04-17",
+    "end_date": "",
+    "qualifies": false,
+    "sources": [
+      {
+        "url": "https://www.ded.uscourts.gov/sites/ded/files/opinions/12-777.pdf",
+        "title": "US District Court for Delaware, Civil Action 12-777-CJB, memorandum opinion, April 17, 2014",
+        "publication_date": "2014-04-17",
+        "evidence": "Footnote 4 describes Delaware's conditional offer of up to $16.5 million to Bloom to attract its manufacturing facility, separately from support to the university site owner."
+      }
+    ],
+    "rationale": "Preserves earlier public evidence without equating an offer with confirmed receipt.",
+    "limitations": "Superseded for qualifying admission by the public 2018 filing confirming amounts received; both dates precede Bloom's listing.",
+    "research_file": "data/pillar2/research_us_energy.json"
+  },
+  {
+    "event_id": "US_BE_DELAWARE_RECEIPT_2018",
+    "ticker": "BE",
+    "region": "US",
+    "programme": "Delaware Strategic Fund manufacturing and employment incentive",
+    "jurisdiction": "Delaware, United States",
+    "beneficiary": "Bloom Energy Corporation",
+    "relationship": "direct",
+    "support_type": "conditional manufacturing grant",
+    "status": "received; partial recapture disclosed",
+    "event_date": "2012-03-01",
+    "public_date": "2018-06-12",
+    "eligible_from": "2018-06-12",
+    "end_date": "",
+    "support_end_date": null,
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1664703/000119312518190488/d96446ds1.htm",
+        "title": "Bloom Energy public Form S-1, June 12, 2018, Delaware Economic Development Authority and Note 12",
+        "publication_date": "2018-06-12",
+        "evidence": "Bloom identifies its March 1, 2012 grant agreement for up to $16.5 million. It reports $12 million received, $1.5 million already repaid under recapture provisions and $10.5 million remaining in long-term liabilities. Additional employment milestones extend through September 2023."
+      }
+    ],
+    "rationale": "Confirmed receipt of a state manufacturing grant before the IPO. Partial repayment is recorded without treating the entire award as either untouched or wholly cancelled.",
+    "limitations": "A 2014 court opinion already described the conditional offer, but the June 2018 public S-1 is used for unambiguous receipt. Confidential 2016 SEC draft submission dates are not public-admission dates. The separate $7 million grant to the University of Delaware is not counted as a direct grant to Bloom. Later recapture outcomes are not assumed. The listing gate prevents pre-IPO trading.",
+    "research_file": "data/pillar2/research_us_energy.json"
+  },
+  {
+    "event_id": "EDF_HPC_APPROVAL_2014",
+    "ticker": "EDF.PA",
+    "region": "EU",
+    "programme": "Hinkley Point C UK support: European Commission state-aid approval",
+    "jurisdiction": "UK (EU member at approval)",
+    "beneficiary": "EDF / NNB Generation Company",
+    "relationship": "subsidiary",
+    "support_type": "state_aid_approval_before_final_contract",
+    "status": "state_aid_approved_contract_not_yet_executed",
+    "event_date": "2014-10-08",
+    "public_date": "2014-10-08",
+    "eligible_from": "2014-10-08",
+    "end_date": "",
+    "qualifies": false,
+    "sources": [
+      {
+        "url": "https://www.gov.uk/government/news/state-aid-approval-for-hinkley-point-c-nuclear-power-plant",
+        "title": "State aid approval for Hinkley Point C nuclear power plant",
+        "publication_date": "2014-10-08",
+        "evidence": "The UK government announced European Commission approval of the proposed Hinkley Point C support package for EDF's project."
+      }
+    ],
+    "rationale": "An earlier policy milestone retained in the audit, but the main admission uses the later signed support contract.",
+    "limitations": "State-aid approval permits support but does not itself show the final EDF contract was executed; the latter was signed in September 2016.",
+    "research_file": "data/pillar2/research_eu_industry.json"
+  },
+  {
+    "event_id": "EDF_HPC_CFD_2016",
+    "ticker": "EDF.PA",
+    "region": "EU",
+    "programme": "Hinkley Point C Contract for Difference",
+    "jurisdiction": "UK (EU member at contract)",
+    "beneficiary": "NNB Generation Company (HPC) Ltd, EDF-controlled project company",
+    "relationship": "subsidiary",
+    "support_type": "contract_for_difference_support",
+    "status": "support_contract_executed",
+    "event_date": "2016-09-29",
+    "public_date": "2016-09-29",
+    "eligible_from": "2016-09-29",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://www.edfenergy.com/energy/nuclear-new-build-projects/hinkley-point-c/news-views/contracts-signed",
+        "title": "Final contracts signed for Hinkley Point C",
+        "publication_date": "2016-09-29",
+        "evidence": "EDF announced that its contracts with the UK government and CGN were signed; the UK minister explicitly identified the Hinkley Point C CfD."
+      },
+      {
+        "url": "https://www.parliament.uk/globalassets/documents/commons-committees/energy-and-climate-change/Correspondence/Hinkley-correspondence-BEIS-to-CHAIR-Sept-2016.pdf",
+        "title": "Secretary of State letter to the Energy and Climate Change Committee on Hinkley Point C",
+        "publication_date": "2016-09-29",
+        "evidence": "The minister confirmed execution of the CfD and associated agreements by the developer, EDF, CGN, LCCC and the government."
+      }
+    ],
+    "rationale": "Executed targeted revenue-support contract for an EDF-controlled nuclear-development company.",
+    "limitations": "Payments depend on future generation; no present grant payment is asserted. Earlier negotiations and the 2014 state-aid permission are not used as if they were this signed contract. EDF delisting must separately constrain investability.",
+    "research_file": "data/pillar2/research_eu_industry.json"
+  },
+  {
+    "event_id": "ENEL_GRID4EU_2014",
+    "ticker": "ENEL.MI",
+    "region": "EU",
+    "programme": "FP7 GRID4EU large-scale smart-grid demonstration",
+    "jurisdiction": "European Union / Italy",
+    "beneficiary": "Enel Distribuzione",
+    "relationship": "subsidiary",
+    "support_type": "industrial_research_grant",
+    "status": "funded_project_participation_confirmed",
+    "event_date": "2014-12-16",
+    "public_date": "2014-12-16",
+    "eligible_from": "2014-12-16",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://www.enel.com/media/explore/search-news/news/2014/12/grid4eu-increasing-power-for-renewables",
+        "title": "GRID4EU Increasing Power for Renewables",
+        "publication_date": "2014-12-16",
+        "evidence": "Enel identifies Enel Distribuzione as a GRID4EU partner with an Italian distribution-grid demonstration; the EUR54m programme includes EUR25m of EU funding."
+      }
+    ],
+    "rationale": "Named controlled operating company participates in a funded industrial smart-grid demonstration, rather than merely selling into a generally subsidised sector.",
+    "limitations": "The programme launched in 2011; the admission date uses this dated confirmation, not its earlier project start. The EU contribution is programme-wide, not Enel's individual grant.",
+    "research_file": "data/pillar2/research_eu_industry.json"
+  },
+  {
+    "event_id": "US_ENPH_CEC_PIER_2009",
+    "ticker": "ENPH",
+    "region": "US",
+    "programme": "California Energy Commission Public Interest Energy Research grant to SolarTech, Santa Clara University and Enphase",
+    "jurisdiction": "California, United States",
+    "beneficiary": "Enphase with SolarTech and Santa Clara University",
+    "relationship": "direct",
+    "support_type": "funded research consortium grant",
+    "status": "grant agreement finalized; named co-recipient",
+    "event_date": "2009-02-28",
+    "public_date": "2010-03-31",
+    "eligible_from": "2010-03-31",
+    "end_date": "",
+    "support_end_date": null,
+    "date_precision": "Agreement month February 2009 and report publication month March 2010; both represented by conservative month-end dates.",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://www.nrel.gov/docs/fy10osti/47866.pdf",
+        "title": "NREL/TP-6A2-47866: Consortia Focused on Photovoltaic R&D, Manufacturing, and Testing, March 2010, page 30",
+        "publication_date": "2010-03-31",
+        "evidence": "NREL records a February 2009 agreement for nearly $750,000 of California PIER funding to SolarTech, Santa Clara University and Enphase. Work covered solar permitting, interconnection, performance, installation and financing practices."
+      }
+    ],
+    "rationale": "A government laboratory report explicitly names Enphase among recipients of a particular awarded research grant. This is stronger than inferring support from solar-sector ITC availability.",
+    "limitations": "The grant amount is the consortium total, not an allocation to Enphase. The original CEC agreement and Enphase's individual cash receipts were not recovered. The March 2010 government report is used instead of backdating public availability to February 2009. ENPH cannot enter a traded portfolio before its separate 2012 listing gate.",
+    "research_file": "data/pillar2/research_us_energy.json"
+  },
+  {
+    "event_id": "ENR_HYFLEXPOWER_2020",
+    "ticker": "ENR.DE",
+    "region": "EU",
+    "programme": "Horizon 2020 HYFLEXPOWER, grant 884229",
+    "jurisdiction": "European Union / France",
+    "beneficiary": "Siemens Gas and Power business inherited by Siemens Energy",
+    "relationship": "subsidiary",
+    "support_type": "industrial_research_grant",
+    "status": "funded_consortium_at_spin_off",
+    "event_date": "2020-09-28",
+    "public_date": "2020-09-28",
+    "eligible_from": "2020-09-28",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://press.siemens.com/global/en/pressrelease/hyflexpower-worlds-first-integrated-power-x-power-hydrogen-gas-turbine-demonstrator",
+        "title": "HYFLEXPOWER: The world's first integrated power-to-X-to-power hydrogen gas turbine demonstrator",
+        "publication_date": "2020-05-29",
+        "evidence": "Siemens Gas and Power is a named HYFLEXPOWER partner; Horizon 2020 funds EUR10.5m of the EUR15.2m demonstrator. The release identifies the energy business planned to operate as Siemens Energy."
+      },
+      {
+        "url": "https://assets.siemens-energy.com/dam/f7f92157-3d19-453e-82b8-b0290183d945/2020-08-28-Siemens-Energys-debut-on-the-stock-market2-pdf_Original%20file.pdf",
+        "title": "Siemens Energy's debut on the stock market",
+        "publication_date": "2020-09-28",
+        "evidence": "The issuer confirmed first trading on 28 September 2020 following the successful spin-off of Siemens Gas and Power."
+      }
+    ],
+    "rationale": "The documented funded business was inherited by Siemens Energy, and admission is conservatively dated to public confirmation of the completed separation and listing.",
+    "limitations": "The project began in May 2020. No Siemens AG investment history or share-price history is treated as Siemens Energy's pre-spin-off history. The EU funding is a consortium total; the four-year project horizon does not terminate historical recipient eligibility.",
+    "research_file": "data/pillar2/research_eu_industry.json"
+  },
+  {
+    "event_id": "US_ETN_DOE_COOLING_2010",
+    "ticker": "ETN",
+    "region": "US",
+    "programme": "DOE-funded Eaton/HP energy-efficient water-cooled IT rack research",
+    "jurisdiction": "United States federal",
+    "beneficiary": "Eaton Corporation jointly with HP",
+    "relationship": "direct",
+    "support_type": "funded research collaboration",
+    "status": "funded development in progress",
+    "event_date": "2010-12-31",
+    "public_date": "2011-03-18",
+    "eligible_from": "2011-03-18",
+    "end_date": "",
+    "support_end_date": null,
+    "date_precision": "Activity documented for 2010; year-end is used rather than an unverified earlier award day. Annual-report availability is established by the March 18, 2011 proxy materials.",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://www.eaton.com/content/dam/eaton/company/investor-relations/2010-Annual-Report.pdf",
+        "title": "Eaton 2010 Annual Report, item 23, printed page 10",
+        "publication_date": "2011-03-18",
+        "evidence": "Eaton identifies itself and HP as developing a water-cooled IT rack and explicitly states that DOE funds this development project, which targets lower energy use and alternative electricity sources."
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/31277/000095012311026611/l41516adef14a.htm",
+        "title": "Eaton 2011 definitive proxy statement",
+        "publication_date": "2011-03-18",
+        "evidence": "The dated proxy states that the 2010 annual report is available online and that the materials are scheduled to be sent to shareholders on or about March 18, 2011."
+      }
+    ],
+    "rationale": "Named participant in an explicitly DOE-funded development project, distinct from Eaton's ordinary government supply contracts and sales associated with stimulus spending.",
+    "limitations": "The individual Eaton grant allocation and prime/subrecipient contract were not recovered. The evidence supports funded research participation, not a claim that the entire project grant was paid directly to Eaton. No cash receipt amount or continuing grant income is imputed.",
+    "research_file": "data/pillar2/research_us_energy.json"
+  },
+  {
+    "event_id": "US_FSLR_48C_2010",
+    "ticker": "FSLR",
+    "region": "US",
+    "programme": "ARRA Section 48C advanced energy manufacturing tax credit: Perrysburg manufacturing expansion",
+    "jurisdiction": "United States federal",
+    "beneficiary": "First Solar, Inc. and its Perrysburg, Ohio manufacturing operation",
+    "relationship": "direct",
+    "support_type": "targeted manufacturing investment tax credit",
+    "status": "awarded and recognized",
+    "event_date": "2010-01-07",
+    "public_date": "2011-02-28",
+    "eligible_from": "2011-02-28",
+    "end_date": "",
+    "support_end_date": null,
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449411000007/fslrdec1010k.htm",
+        "title": "First Solar 2010 Form 10-K, investment tax credit disclosure",
+        "publication_date": "2011-02-28",
+        "evidence": "The company reports a $16.3 million federal manufacturing tax credit granted during 2010 for expansion of its Perrysburg factory, accounted for as a reduction in the cost of the acquired assets."
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1274494/000095012310036167/p16452aars.htm",
+        "title": "First Solar 2009 Annual Report, Note 24 subsequent events",
+        "publication_date": null,
+        "evidence": "Treasury approved the company's $16.3 million ARRA manufacturing-credit application on January 7, 2010, subject to administrative steps. This establishes the award date; the later dated 2010 filing establishes the conservative public-admission date."
+      }
+    ],
+    "rationale": "Named producer receiving an industrial investment credit, rather than a generic customer solar incentive.",
+    "limitations": "Earlier public announcement or annual-report availability may exist; no earlier exact publication date is inferred here. Foreign manufacturing grants and sold solar-project loan guarantees are not used for this US direct admission. No continuing annual payment is inferred.",
+    "research_file": "data/pillar2/research_us_energy.json"
+  },
+  {
+    "event_id": "US_GEV_EXCLUDED_GE_TAXEQUITY",
+    "ticker": "GEV",
+    "region": "US",
+    "programme": "Historical renewable-energy tax-equity investments excluded from the GE Vernova spin-off",
+    "jurisdiction": "United States federal",
+    "beneficiary": "Renewable-energy tax-equity investments transferred back to GE",
+    "relationship": "subsidiary",
+    "support_type": "production tax credits associated with excluded investments",
+    "status": "excluded ownership mapping",
+    "event_date": "2024-02-15",
+    "public_date": "2024-02-15",
+    "eligible_from": "2024-02-15",
+    "end_date": "",
+    "qualifies": false,
+    "sources": [
+      {
+        "url": "https://www.gevernova.com/sites/default/files/2024-02/form10_registration_statement_feb2024.pdf",
+        "title": "GE Vernova Form 10, pro forma adjustments, printed pages 74-75",
+        "publication_date": "2024-02-15",
+        "evidence": "The pro forma adjustments remove $1.227 billion of US renewable-energy tax-equity investments and related tax attributes because they were to transfer to GE before the spin-off."
+      }
+    ],
+    "rationale": "Predecessor financial-statement inclusion alone is insufficient to establish that a supported business belongs to the traded successor.",
+    "limitations": "Excluded for GEV admission; does not deny that the investments received public support while owned by the prior group.",
+    "research_file": "data/pillar2/research_us_energy.json"
+  },
+  {
+    "event_id": "US_GEV_45X_WIND_2023",
+    "ticker": "GEV",
+    "region": "US",
+    "programme": "Inflation Reduction Act advanced manufacturing production credits for the Wind business",
+    "jurisdiction": "United States federal",
+    "beneficiary": "GE Vernova Wind business retained in the April 2024 spin-off",
+    "relationship": "direct",
+    "support_type": "industrial production tax credit",
+    "status": "recognized in financial statements",
+    "event_date": "2023-12-31",
+    "public_date": "2024-02-15",
+    "ownership_date": "2024-04-02",
+    "eligible_from": "2024-04-02",
+    "end_date": "",
+    "support_end_date": null,
+    "date_precision": "Credit recognized during FY2023, represented by the fiscal year-end. Admission additionally waits for completed spin-off and separate listing.",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://www.gevernova.com/sites/default/files/2024-02/form10_registration_statement_feb2024.pdf",
+        "title": "GE Vernova Form 10, February 15, 2024, government grants accounting note, printed F-17",
+        "publication_date": "2024-02-15",
+        "evidence": "The Wind business recognized $234 million of advanced manufacturing credits introduced by the IRA in 2023, reducing equipment costs. This is an operating-manufacturing benefit distinct from the renewable-energy tax-equity investments transferred to GE."
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1996810/000119312524084048/d807682dex991.htm",
+        "title": "GE Vernova Completes Spin-Off and Begins Trading on the New York Stock Exchange",
+        "publication_date": "2024-04-02",
+        "evidence": "GE Vernova confirms completion of its spin-off and the start of regular independent NYSE trading on April 2, 2024."
+      }
+    ],
+    "rationale": "Identifiable retained operating business with a recognized US producer credit. There is no attempt to create pre-spin GEV stock returns or assign every former GE subsidy to GEV.",
+    "limitations": "The separate general government R&D-grant totals do not identify jurisdiction and are not used. Recognition is not necessarily the cash-payment date.",
+    "research_file": "data/pillar2/research_us_energy.json"
+  },
+  {
+    "event_id": "GFS_NY_FAB_GRANT_2009",
+    "ticker": "GFS",
+    "region": "US",
+    "programme": "New York Fab 2/Fab 8 capital grant and Empire Zone package",
+    "jurisdiction": "US-NewYork",
+    "beneficiary": "GlobalFoundries Inc.",
+    "relationship": "direct",
+    "support_type": "capital_grant_and_industrial_tax_credit",
+    "status": "historical_corrobation_not_main",
+    "event_date": "2009-07-24",
+    "public_date": "2009-12-31",
+    "eligible_from": "2009-12-31",
+    "end_date": "",
+    "qualifies": false,
+    "sources": [
+      {
+        "url": "https://www.cga.ct.gov/2009/rpt/2009-R-0425.htm",
+        "title": "Connecticut OLR 2009-R-0425, comparison of New York and Connecticut manufacturing incentives",
+        "publication_date": "2009-12-31",
+        "evidence": "The 2009 government report describes the GlobalFoundries Saratoga plant and its New York capital grant/15-year Empire Zone package, citing the 24 July 2009 governor announcement.",
+        "publication_date_precision": "year; conservative 31 December bound"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1709048/000119312521290644/d192411df1.htm",
+        "title": "GlobalFoundries original F-1 prospectus",
+        "publication_date": "2021-10-04",
+        "evidence": "Prospectus independently confirms receipt of investment grants from Empire State Development Corporation for fabs, employment and R&D; used as corroboration only, not backdated evidence."
+      }
+    ],
+    "rationale": "Chronology only: the primary legislative report was search-indexed but could not be opened successfully, and exact publication day was not established. Main admission instead uses the successfully read 4 October 2021 F-1.",
+    "limitations": "Original 2009 report direct open returned 502. Its year-end publication proxy is not used for main admission. No tradability existed before the 2021 IPO.",
+    "public_date_precision": "year_upper_bound",
+    "research_file": "data/pillar2/research_semiconductors.json"
+  },
+  {
+    "event_id": "GFS_NY_G450_INDIRECT_2011",
+    "ticker": "GFS",
+    "region": "US",
+    "programme": "New York Global 450 Consortium/CNSE investment",
+    "jurisdiction": "US-NewYork",
+    "beneficiary": "SUNY College of Nanoscale Science and Engineering; named company consortium member",
+    "relationship": "indirect",
+    "support_type": "public_research_infrastructure",
+    "status": "agreement_announced",
+    "event_date": "2011-09-27",
+    "public_date": "2011-09-27",
+    "eligible_from": "2011-09-27",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://www.griffissbusinesspark.com/news/sunyit-part-of-4-4-billion-nanotechnology-announcement/",
+        "title": "New York governor 27 September 2011 release, reproduced by Griffiss Business and Technology Park",
+        "publication_date": "2011-09-27",
+        "evidence": "Release names Intel, TSMC andGlobalFoundries as consortium parties, while explicitly stating allUSD 400 m state funding goes toCNSE and no private company receives state funds."
+      }
+    ],
+    "rationale": "Named indirect research-infrastructure benefit only; excluded from confirmed direct-recipient main.",
+    "limitations": "",
+    "indirect_eligible": true,
+    "support_end_date": "2016-09-27",
+    "research_file": "data/pillar2/research_semiconductors.json"
+  },
+  {
+    "event_id": "GFS_NY_GRANTS_F1_2021",
+    "ticker": "GFS",
+    "region": "US",
+    "programme": "Empire State Development semiconductor-fab investment grants",
+    "jurisdiction": "US-NewYork",
+    "beneficiary": "GlobalFoundries Inc.",
+    "relationship": "direct",
+    "support_type": "industrial_capital_and_research_grants",
+    "status": "receipt_confirmed",
+    "event_date": "2021-10-04",
+    "public_date": "2021-10-04",
+    "eligible_from": "2021-10-04",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1709048/000119312521290644/d192411df1.htm",
+        "title": "GlobalFoundries original F-1 registration statement",
+        "publication_date": "2021-10-04",
+        "evidence": "The original prospectus identifies investment grants received from Empire State Development Corporation for fab construction, operation, employment and research obligations."
+      }
+    ],
+    "rationale": "Successfully read contemporaneous SEC prospectus confirms a named New York industrial support relationship before the company IPO.",
+    "limitations": "Underlying awards are earlier; admission is not backdated from this filing. The separately retained 2009 legislative report corroborates the history only.",
+    "research_file": "data/pillar2/research_semiconductors.json"
+  },
+  {
+    "event_id": "IFX_DE_ENIAC_ENLIGHT_2014",
+    "ticker": "IFX.DE",
+    "region": "EU",
+    "programme": "ENIAC EnLight, Energy Efficient and Intelligent Lighting Systems",
+    "jurisdiction": "EU/France/Germany",
+    "beneficiary": "Infineon Technologies AG",
+    "relationship": "direct",
+    "support_type": "named_consortium_research_grant",
+    "status": "funding_and_participation_confirmed",
+    "event_date": "2014-12-01",
+    "public_date": "2014-12-01",
+    "eligible_from": "2014-12-01",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://via.ritzau.dk/pressemeddelelse/3293310/ecsel?publisherId=90456",
+        "title": "ECSEL Joint Undertaking press release: EnLight wins 2014 ENIAC Innovation Award",
+        "publication_date": "2014-12-01",
+        "evidence": "Government joint-undertaking release names Infineon and NXP French/German subsidiaries as consortium members and confirms ENIAC and national agency funding."
+      }
+    ],
+    "rationale": "Dated government-issued release confirms funded participation, not merely sector relevance.",
+    "limitations": "Release is mirrored by Business Wire/Ritzau; the issuer is ECSEL JU. First grant date was earlier, but is not backdated from this completion-era disclosure.",
+    "research_file": "data/pillar2/research_semiconductors.json"
+  },
+  {
+    "event_id": "INTC_NY_G450_INDIRECT_2011",
+    "ticker": "INTC",
+    "region": "US",
+    "programme": "New York Global 450 Consortium/CNSE investment",
+    "jurisdiction": "US-NewYork",
+    "beneficiary": "SUNY College of Nanoscale Science and Engineering; named company consortium member",
+    "relationship": "indirect",
+    "support_type": "public_research_infrastructure",
+    "status": "agreement_announced",
+    "event_date": "2011-09-27",
+    "public_date": "2011-09-27",
+    "eligible_from": "2011-09-27",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://www.griffissbusinesspark.com/news/sunyit-part-of-4-4-billion-nanotechnology-announcement/",
+        "title": "New York governor 27 September 2011 release, reproduced by Griffiss Business and Technology Park",
+        "publication_date": "2011-09-27",
+        "evidence": "Release names Intel, TSMC andGlobalFoundries as consortium parties, while explicitly stating allUSD 400 m state funding goes toCNSE and no private company receives state funds."
+      }
+    ],
+    "rationale": "Named indirect research-infrastructure benefit only; excluded from confirmed direct-recipient main.",
+    "limitations": "",
+    "indirect_eligible": true,
+    "support_end_date": "2016-09-27",
+    "research_file": "data/pillar2/research_semiconductors.json"
+  },
+  {
+    "event_id": "INTC_OR_PRIOR_SIP_CONFIRMED_2014",
+    "ticker": "INTC",
+    "region": "US",
+    "programme": "Oregon Strategic Investment Program, existing 2005 Intel agreement",
+    "jurisdiction": "US-Oregon",
+    "beneficiary": "Intel Corporation",
+    "relationship": "direct",
+    "support_type": "industrial_property_tax_abatement",
+    "status": "existing_agreement_confirmed",
+    "event_date": "2005-12-31",
+    "public_date": "2014-08-26",
+    "eligible_from": "2014-08-26",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://www.washingtoncountyor.gov/cao/news/key-economic-vote-city-and-county",
+        "title": "Key Economic Vote by City and County",
+        "publication_date": "2014-08-26",
+        "evidence": "County release confirms that Intel already had SIP agreements from 1994, 1999 and 2005. It separately describes local approval of the proposed 2014 agreement, still awaiting state consideration."
+      }
+    ],
+    "rationale": "The dated county release confirms the already-existing 2005 Intel SIP agreement. Main admission uses this confirmed previous support, rather than treating the newly proposed 2014 agreement as fully approved.",
+    "limitations": "The 2005 event is known only to year precision here; its original public notice was not recovered. No eligibility is backdated before the 2014 confirmation. The proposed 2014 agreement still required state commission consideration on 5 September 2014.",
+    "event_date_precision": "year_upper_bound",
+    "research_file": "data/pillar2/research_semiconductors.json"
+  },
+  {
+    "event_id": "US_LIN_NA_CARBONCAPTURE_UNRESOLVED",
+    "ticker": "LIN",
+    "region": "US",
+    "programme": "DOE carbon-capture projects announced by Linde North America in 2018",
+    "jurisdiction": "United States federal",
+    "beneficiary": "Linde North America and project partners",
+    "relationship": "subsidiary",
+    "support_type": "research grants",
+    "status": "award evidenced; successor project ownership unresolved",
+    "event_date": "2018-05-14",
+    "public_date": "2018-05-14",
+    "eligible_from": "2018-05-14",
+    "end_date": "",
+    "qualifies": false,
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/linde-wins-us-dept-of-energy-grants-for-carbon-capture-projects-300647665.html",
+        "title": "Linde issuer press release: Linde wins U.S. Department of Energy grants for carbon capture projects",
+        "publication_date": "2018-05-14",
+        "evidence": "Linde North America announces DOE awards for carbon-capture development projects."
+      },
+      {
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2018/10/ftc-requires-international-industrial-gas-suppliers-praxair-inc-linde-ag-divest-assets-nine",
+        "title": "FTC requires Praxair and Linde to divest assets in nine industrial gas markets",
+        "publication_date": "2018-10-22",
+        "evidence": "Merger approval requires divestiture of substantial Linde US businesses to Messer. The recovered evidence does not resolve whether these particular awarded projects stayed with listed LIN."
+      }
+    ],
+    "rationale": "A historical Linde name match is insufficient where project ownership after mandatory divestitures is unresolved.",
+    "limitations": "Not admitted; the independently documented Praxair research relationship is used instead.",
+    "research_file": "data/pillar2/research_us_energy.json"
+  },
+  {
+    "event_id": "US_LIN_PRAXAIR_AMO_2016",
+    "ticker": "LIN",
+    "region": "US",
+    "programme": "DOE Advanced Manufacturing Office: Novomer/Praxair conversion of carbon dioxide to chemicals",
+    "jurisdiction": "United States federal",
+    "beneficiary": "Praxair, which became a Linde plc subsidiary at the 2018 combination",
+    "relationship": "subsidiary",
+    "support_type": "applied research and development grant",
+    "status": "historical award; federal project role completed",
+    "event_date": "2016-04-30",
+    "public_date": "2016-11-18",
+    "ownership_date": "2018-10-31",
+    "eligible_from": "2018-10-31",
+    "end_date": "",
+    "support_end_date": "2016-04-30",
+    "support_end_public_date": "2016-11-18",
+    "date_precision": "Exact original award date not recovered. April 2016 completion notice is a conservative bound proving an award already existed; month-end represents the stated month. This is historical recipient admission after the merger, not an active-grant assertion.",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://www.energy.gov/cmei/ammto/articles/amo-success-story-converting-waste-valuable-materials-and-chemicals",
+        "title": "DOE AMO Success Story: Converting Waste to Valuable Materials and Chemicals",
+        "publication_date": "2016-11-18",
+        "evidence": "DOE states that AMO awarded $5 million jointly to Novomer and Praxair for applied R&D converting CO2 to chemicals. Praxair developed an electrolyzer system. Partners told AMO in April 2016 that they would complete remaining work without federal funding."
+      },
+      {
+        "url": "https://www.linde.com/news-and-media/2018/business-combination-between-praxair-and-linde-ag-successfully-completed",
+        "title": "Business Combination Between Praxair and Linde AG Successfully Completed",
+        "publication_date": "2018-10-31",
+        "evidence": "Linde confirms the completed Praxair/Linde combination and commencement of NYSE LIN trading on October 31, 2018. Praxair shareholders received one Linde plc share for each Praxair share."
+      }
+    ],
+    "rationale": "A named US government research recipient maps to a subsidiary of the current company only once the merger has completed. The historical recipient definition permits a completed grant; it does not establish ongoing public cash support.",
+    "limitations": "No pre-2018 Praxair price proxy is used for LIN. The $5 million is joint project funding, not Praxair's individual share. The separate 2018 Linde North America carbon-capture awards are not used because divestitures create uncertain project ownership.",
+    "research_file": "data/pillar2/research_us_energy.json"
+  },
+  {
+    "event_id": "LRCX_CA_ETP_2016",
+    "ticker": "LRCX",
+    "region": "US",
+    "programme": "California Employment Training Panel, ET 16-0304",
+    "jurisdiction": "US-California",
+    "beneficiary": "Lam Research Corporation",
+    "relationship": "direct",
+    "support_type": "manufacturing_workforce_training_grant",
+    "status": "approved_by_delegation",
+    "event_date": "2015-12-11",
+    "public_date": "2016-01-22",
+    "eligible_from": "2016-01-22",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://etp.ca.gov/wp-content/uploads/sites/70/2021/08/ETP_PanelPacket-January2016.pdf",
+        "title": "ETP January 2016 panel packet, Lam delegation order",
+        "publication_date": "2016-01-22",
+        "evidence": "Lam contract ET 16-0304 approved 11 December 2015 for USD 48,816; identifies manufacturing/technology priority industry."
+      },
+      {
+        "url": "https://www.labor.ca.gov/wp-content/uploads/sites/338/2019/07/ETPPressRelease-January2016.pdf",
+        "title": "ETP 22 January 2016 release and approved-project list",
+        "publication_date": "2016-01-22",
+        "evidence": "Dated press release lists Lam Research, Alameda/Santa Clara, USD 48,816 in proposals approved by delegation order 19 November 2015\u201312 January 2016."
+      }
+    ],
+    "rationale": "Named discretionary grant supporting the semiconductor manufacturer workforce; not a generic tax credit or ordinary purchase contract.",
+    "limitations": "Packet moved online later but the matching contemporaneous release establishes public availability. Release table page 2 has a 2015 typo; page 1 and delegation period establish 2016. Earlier awards are mentioned by third-party databases but original disclosure was not captured.",
+    "research_file": "data/pillar2/research_semiconductors.json"
+  },
+  {
+    "event_id": "LRCX_FTZ_2016",
+    "ticker": "LRCX",
+    "region": "US",
+    "programme": "Foreign Trade Zone 45/subzone 45 H production authorization",
+    "jurisdiction": "US-federal",
+    "beneficiary": "Lam Research Corporation",
+    "relationship": "direct",
+    "support_type": "customs_relief_authorization",
+    "status": "authorized",
+    "event_date": "2016-03-08",
+    "public_date": "2016-03-18",
+    "eligible_from": "2016-03-18",
+    "end_date": "",
+    "qualifies": false,
+    "sources": [
+      {
+        "url": "https://public-inspection.federalregister.gov/2016-06176.pdf",
+        "title": "Federal Register 2016-06176",
+        "publication_date": "2016-03-18",
+        "evidence": "Commerce authorizes Lam semiconductor equipment production activity in Tualatin and Sherwood foreign-trade subzone."
+      }
+    ],
+    "rationale": "Broad customs authorization alone is excluded from the main targeted-support rule.",
+    "limitations": "",
+    "research_file": "data/pillar2/research_semiconductors.json"
+  },
+  {
+    "event_id": "MCHP_GRESHAM_SIP_2017",
+    "ticker": "MCHP",
+    "region": "US",
+    "programme": "Oregon/Gresham Strategic Investment Program and Zone",
+    "jurisdiction": "US-Oregon",
+    "beneficiary": "Microchip Technology Inc.",
+    "relationship": "direct",
+    "support_type": "industrial_property_tax_abatement",
+    "status": "existing_use_confirmed",
+    "event_date": "2017-02-14",
+    "public_date": "2017-04-04",
+    "eligible_from": "2017-04-04",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://gresham.granicus.com/MetaViewer.php?clip_id=445&meta_id=42542&view_id=2",
+        "title": "Gresham 4 April 2017 approved minutes packet,14 February 2017 meeting",
+        "publication_date": "2017-04-04",
+        "evidence": "Public economic-development minutes explicitly identify Microchip as the company using the Strategic Investment Program and Strategic Investment Zone."
+      }
+    ],
+    "rationale": "Contemporaneous official minutes name the existing industrial tax-relief beneficiary.",
+    "limitations": "Date is conservative minutes-approval/public-packet date, not original award. A 5 January 2016 enterprise-zone application is separately identifiable, but its final vote was not verified in this capture.",
+    "research_file": "data/pillar2/research_semiconductors.json"
+  },
+  {
+    "event_id": "MU_VA_PRELIM_2018",
+    "ticker": "MU",
+    "region": "US",
+    "programme": "Virginia proposed custom performance grant",
+    "jurisdiction": "US-Virginia",
+    "beneficiary": "Micron Technology",
+    "relationship": "direct",
+    "support_type": "proposed_performance_grant",
+    "status": "subject_to_legislative_approval",
+    "event_date": "2018-08-29",
+    "public_date": "2018-08-29",
+    "eligible_from": "2018-08-29",
+    "end_date": "",
+    "qualifies": false,
+    "sources": [
+      {
+        "url": "https://investors.micron.com/news/press-release/2018/Micron-Announces-Investment-in-its-Semiconductor-Manufacturing-Plant-in-Manassas-Virginia-08-29-2018/default.aspx",
+        "title": "Micron announces Manassas investment",
+        "publication_date": "2018-08-29",
+        "evidence": "The company announcement expressly makes the USD 70 m custom grant subject to General Assembly approval."
+      }
+    ],
+    "rationale": "An anticipated grant is not a final public commitment.",
+    "limitations": "",
+    "research_file": "data/pillar2/research_semiconductors.json"
+  },
+  {
+    "event_id": "MU_VA_SMG_2019",
+    "ticker": "MU",
+    "region": "US",
+    "programme": "Virginia Semiconductor Manufacturing Grant Fund",
+    "jurisdiction": "US-Virginia",
+    "beneficiary": "Micron Technology, Manassas facility",
+    "relationship": "direct",
+    "support_type": "performance_grant",
+    "status": "legislation_enacted_and_funded",
+    "event_date": "2019-07-01",
+    "public_date": "2019-02-19",
+    "eligible_from": "2019-07-01",
+    "end_date": "2025-01-08",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?191+ful+CHAP0041+pdf=",
+        "title": "Virginia Acts of Assembly 2019 Chapter 41",
+        "publication_date": "2019-02-19",
+        "evidence": "The enacted semiconductor grant law establishes the tailored grant for USD 2.98 bn investment and 1106 jobs."
+      },
+      {
+        "url": "https://legacylis.virginia.gov/cgi-bin/legp604.exe?ses=191&typ=bil&val=sb1370",
+        "title": "SB 1370 legislative history",
+        "publication_date": "2019-02-19",
+        "evidence": "Governor approved Chapter 41 on 19 February 2019; effective 1 July 2019."
+      },
+      {
+        "url": "https://investors.micron.com/news/press-release/2018/Micron-Announces-Investment-in-its-Semiconductor-Manufacturing-Plant-in-Manassas-Virginia-08-29-2018/default.aspx",
+        "title": "Micron announces Manassas investment",
+        "publication_date": "2018-08-29",
+        "evidence": "Micron names the USD 70 m Virginia performance grant and its semiconductor project but says legislative approval is still required."
+      }
+    ],
+    "rationale": "Combine named company announcement with later enabling law; admit only from statutory effective date.",
+    "limitations": "The 2018 announcement was preliminary. The 2019 law defines rather than names the sole qualifying company; mapping uses the original company release. A later official report discloses cancellation and partial repayment, so this event ends prospectively on its 8 January 2025 publication date. The independent final 2024 CHIPS award preserves admission.",
+    "cancellation_public_date": "2025-01-08",
+    "research_file": "data/pillar2/research_semiconductors.json"
+  },
+  {
+    "event_id": "MU_CHIPS_FINAL_2024",
+    "ticker": "MU",
+    "region": "US",
+    "programme": "CHIPS Incentives Program, Idaho and New York DRAM projects",
+    "jurisdiction": "US-Federal",
+    "beneficiary": "Micron Technology",
+    "relationship": "direct",
+    "support_type": "industrial_manufacturing_grant",
+    "status": "final_award",
+    "event_date": "2024-12-10",
+    "public_date": "2024-12-10",
+    "eligible_from": "2024-12-10",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://content.govdelivery.com/accounts/USDOC/bulletins/3c6799f",
+        "title": "Department of Commerce awards CHIPS incentives to Micron for Idaho and New York projects",
+        "publication_date": "2024-12-10",
+        "evidence": "Commerce announces a final award of up to USD 6.165 bn after due diligence for the Idaho and New York DRAM manufacturing projects, with milestone-based disbursement."
+      }
+    ],
+    "rationale": "A final US industrial grant award supplies independent eligibility before the Virginia cancellation disclosure.",
+    "limitations": "The same release contains a separate nonbinding USD 275 m Virginia proposal, which is not treated as a final award. No assumption that all awarded funds had been disbursed.",
+    "research_file": "data/pillar2/research_semiconductors.json"
+  },
+  {
+    "event_id": "MU_VA_CANCELLATION_2025",
+    "ticker": "MU",
+    "region": "US",
+    "programme": "Virginia 2018 custom performance grant, cancellation disclosure",
+    "jurisdiction": "US-Virginia",
+    "beneficiary": "Micron Technology",
+    "relationship": "direct",
+    "support_type": "grant_refund",
+    "status": "partially_repaid_project_cancelled",
+    "event_date": "2024-07-31",
+    "public_date": "2025-01-08",
+    "eligible_from": "2025-01-08",
+    "end_date": "",
+    "qualifies": false,
+    "sources": [
+      {
+        "url": "https://rga.lis.virginia.gov/Published/2025/RD66/PDF",
+        "title": "MEI Project Approval Commission annual report",
+        "publication_date": "2025-01-08",
+        "evidence": "Report states Micron returned USD 37.8 m inJuly 2024 for underperformance and the previous project was cancelled; it also describes a newly endorsed package."
+      }
+    ],
+    "rationale": "Disclosure of cancellation and partial repayment; ends the prior event prospectively on the public disclosure date. It is not a new qualifying award.",
+    "limitations": "July actual date is only month precision and conservatively represented by month-end. Public disclosure not backdated intoJuly 2024.",
+    "cancellation_public_date": "2025-01-08",
+    "updates_event_id": "MU_VA_SMG_2019",
+    "research_file": "data/pillar2/research_semiconductors.json"
+  },
+  {
+    "event_id": "US_NEE_GENESIS_1705_2011",
+    "ticker": "NEE",
+    "region": "US",
+    "programme": "DOE Title XVII Section 1705 Financial Institution Partnership Program: Genesis Solar",
+    "jurisdiction": "United States federal",
+    "beneficiary": "Genesis Solar LLC, subsidiary of NextEra Energy Resources LLC and NextEra Energy Inc.",
+    "relationship": "subsidiary",
+    "support_type": "federal project loan guarantee",
+    "status": "closed guarantee; later financing repayment reported",
+    "event_date": "2011-08-29",
+    "public_date": "2011-08-29",
+    "eligible_from": "2011-08-29",
+    "end_date": "",
+    "support_end_date": null,
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://newsroom.nexteraenergy.com/NextEra-Energy-Resources-subsidiary-closes-on-935-million-financing-and-secures-a-DOE-loan-guarantee-for-its-Genesis-solar-project",
+        "title": "NextEra Energy Resources subsidiary closes financing and secures DOE loan guarantee for Genesis solar project",
+        "publication_date": "2011-08-29",
+        "evidence": "NextEra confirms its Genesis subsidiary closed financing and that DOE guarantees 80% of principal and interest on $702 million of project bonds and a $150 million term loan. The release explicitly identifies NextEra Energy as the parent."
+      },
+      {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2011-09-01/pdf/2011-22403.pdf",
+        "title": "Federal Register: Issuance of Loan Guarantee to Genesis Solar LLC",
+        "publication_date": "2011-09-01",
+        "evidence": "DOE records its decision to issue the Genesis loan guarantee under Title XVII as amended by ARRA. This corroborates the programme identity separately from the company's earlier announcement."
+      },
+      {
+        "url": "https://www.energy.gov/sites/default/files/2020/04/f73/DOE-LPO-APSR-2019-FINAL.pdf",
+        "title": "DOE Loan Programs Office FY2019 Annual Portfolio Status Report, Genesis spotlight",
+        "publication_date": "2020-04-30",
+        "evidence": "DOE describes Genesis entering the portfolio in August 2011 and NextEra's December 2019 announcement of its intention to prepay the term loan and leave the portfolio."
+      }
+    ],
+    "rationale": "Completed named guarantee benefiting an explicitly mapped subsidiary. The $852 million is financing principal covered by a partial guarantee, not a cash grant to NextEra.",
+    "limitations": "Event date conservatively uses the August 29 confirmation of closing, without relying on an earlier secondary-source closing day. The later report establishes a repayment intention, not an exact actual repayment day, so support_end_date remains unknown. Historical receipt continues to qualify; no outstanding guarantee today is asserted. The 2020 report's upload month is conservatively represented by month-end and is not used to backdate initial admission.",
+    "research_file": "data/pillar2/research_us_energy.json"
+  },
+  {
+    "event_id": "NEL_AKERSHUS_PPP_2015",
+    "ticker": "NEL.OL",
+    "region": "EU",
+    "programme": "Akershus County Council hydrogen station public-private partnership",
+    "jurisdiction": "Norway (EEA)",
+    "beneficiary": "NEL Hydrogen AS",
+    "relationship": "subsidiary",
+    "support_type": "targeted_station_grant_agreement",
+    "status": "agreement_signed",
+    "event_date": "2015-07-02",
+    "public_date": "2015-07-02",
+    "eligible_from": "2015-07-02",
+    "end_date": "2024-06-12",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://nelhydrogen.com/press-release/public-private-partnership-agreement-with-akershus-county-council-2/",
+        "title": "Public-private partnership agreement with Akershus County Council",
+        "publication_date": "2015-07-02",
+        "evidence": "Nel's hydrogen subsidiary entered a county agreement for a hydrogen station; the signed agreement provides for a county grant toward completion."
+      },
+      {
+        "url": "https://www.euronext.com/en/about/media/euronext-press-releases/cavendish-hydrogen-lists-euronext-oslo-bors",
+        "title": "Cavendish Hydrogen lists on Euronext Oslo B\u00f8rs",
+        "publication_date": "2024-06-12",
+        "evidence": "The exchange announced the completed separation and listing of Nel's fueling division as Cavendish Hydrogen."
+      }
+    ],
+    "rationale": "A named, signed government grant relationship at a controlled subsidiary, rather than an unawarded programme or ordinary procurement.",
+    "limitations": "The release says the grant will be awarded under the agreement; it does not confirm payment or amount. The funded business is conservatively no longer attributed to Nel after the 2024 fueling separation; a separate 2016 retained-business R&D event independently supports subsequent eligibility. The exact allocation of this older station agreement between retained and separated entities is not established; the conservative cutoff avoids relying on it after separation.",
+    "ownership_end_date": "2024-06-12",
+    "ownership_end_basis": "Conservative research cutoff at the public completed fueling separation; whether this particular older agreement was transferred is unresolved. The retained electrolyser HYPER programme separately qualifies.",
+    "research_file": "data/pillar2/research_eu_industry.json"
+  },
+  {
+    "event_id": "NEL_ENOVA_STATION_2016",
+    "ticker": "NEL.OL",
+    "region": "EU",
+    "programme": "Enova hydrogen refuelling station grant",
+    "jurisdiction": "Norway (EEA)",
+    "beneficiary": "NEL Fuel Norway AS",
+    "relationship": "subsidiary",
+    "support_type": "targeted_station_grant",
+    "status": "grant_awarded",
+    "event_date": "2016-01-14",
+    "public_date": "2016-01-14",
+    "eligible_from": "2016-01-14",
+    "end_date": "2016-03-02",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://nelhydrogen.com/press-release/nel-to-receive-grant-from-enova-sf/",
+        "title": "NEL to receive grant from Enova SF",
+        "publication_date": "2016-01-14",
+        "evidence": "Nel identified NEL Fuel Norway AS as its subsidiary and announced an Enova grant exceeding NOK7.5m for an Oslo-area hydrogen station."
+      },
+      {
+        "url": "https://nelhydrogen.com/press-release/nel-asa-nel-enters-into-final-agreement-with-uno-x-for-hydrogen-station-network/",
+        "title": "NEL enters into final agreement with Uno-X for hydrogen station network",
+        "publication_date": "2016-03-02",
+        "evidence": "Nel announced the final joint venture agreement under which Uno-X Hydrogen is owned 51% by Uno-X and 49% by Nel."
+      }
+    ],
+    "rationale": "Explicit targeted grant award to the then-described subsidiary.",
+    "limitations": "The station-network vehicle subsequently became a minority joint venture. This event is conservatively ended when the final 49% agreement was publicly announced, without claiming continued controlled-subsidiary status.",
+    "ownership_end_date": "2016-03-02",
+    "research_file": "data/pillar2/research_eu_industry.json"
+  },
+  {
+    "event_id": "NEL_HYPER_ENERGIX_2016",
+    "ticker": "NEL.OL",
+    "region": "EU",
+    "programme": "Research Council of Norway ENERGIX: HYPER hydrogen production study",
+    "jurisdiction": "Norway (EEA)",
+    "beneficiary": "NEL ASA, industrial partner in SINTEF-led HYPER",
+    "relationship": "direct",
+    "support_type": "industrial_research_grant",
+    "status": "funded_project_participation_confirmed",
+    "event_date": "2016-04-13",
+    "public_date": "2016-04-13",
+    "eligible_from": "2016-04-13",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://nelhydrogen.com/press-release/nel-asa-initiates-feasibility-partner-study-for-large-scale-hydrogen-production-in-norway/",
+        "title": "NEL initiates feasibility partner study for large-scale hydrogen production in Norway",
+        "publication_date": "2016-04-13",
+        "evidence": "Nel announced its participation in HYPER and confirmed that the project received a NOK14m ENERGIX grant toward a NOK20m research programme financed through 2019."
+      }
+    ],
+    "rationale": "Named industrial participation in funded hydrogen-production R&D, linked to Nel's retained electrolyser activity rather than only its later-separated fueling business.",
+    "limitations": "The grant is to the consortium, hosted by SINTEF; no individual Nel cash amount is claimed. The source gives only a financing horizon through 2019, so no exact completion date or eligibility expiry is invented.",
+    "research_file": "data/pillar2/research_eu_industry.json"
+  },
+  {
+    "event_id": "NXPI_ENIAC_ENLIGHT_2014",
+    "ticker": "NXPI",
+    "region": "EU",
+    "programme": "ENIAC EnLight, Energy Efficient and Intelligent Lighting Systems",
+    "jurisdiction": "EU/France/Germany",
+    "beneficiary": "NXP Semiconductors France SAS and Germany GmbH",
+    "relationship": "subsidiary",
+    "support_type": "named_consortium_research_grant",
+    "status": "funding_and_participation_confirmed",
+    "event_date": "2014-12-01",
+    "public_date": "2014-12-01",
+    "eligible_from": "2014-12-01",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://via.ritzau.dk/pressemeddelelse/3293310/ecsel?publisherId=90456",
+        "title": "ECSEL Joint Undertaking press release: EnLight wins 2014 ENIAC Innovation Award",
+        "publication_date": "2014-12-01",
+        "evidence": "Government joint-undertaking release names Infineon and NXP French/German subsidiaries as consortium members and confirms ENIAC and national agency funding."
+      }
+    ],
+    "rationale": "Dated government-issued release confirms funded participation, not merely sector relevance.",
+    "limitations": "Release is mirrored by Business Wire/Ritzau; the issuer is ECSEL JU. First grant date was earlier, but is not backdated from this completion-era disclosure.",
+    "research_file": "data/pillar2/research_semiconductors.json"
+  },
+  {
+    "event_id": "ORSTED_FIDER_CFD_2014",
+    "ticker": "ORSTED.CO",
+    "region": "EU",
+    "programme": "UK FID Enabling for Renewables: Burbo Bank Extension, Walney Extension and Hornsea 1",
+    "jurisdiction": "UK (EU member at award)",
+    "beneficiary": "DONG Energy Wind Power A/S and project companies",
+    "relationship": "subsidiary",
+    "support_type": "contract_for_difference_support",
+    "status": "signed_contracts_and_state_aid_approved",
+    "event_date": "2014-07-23",
+    "public_date": "2014-11-07",
+    "eligible_from": "2014-11-07",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://ec.europa.eu/competition/state_aid/cases/253211/253211_1583612_84_2.pdf",
+        "title": "Commission decision C(2014) 5074: five offshore wind farms, public version",
+        "publication_date": "2014-11-07",
+        "evidence": "The decision dated 23 July 2014 raises no objections to the five named offshore-wind aid measures. Paragraph 45 records that contracts were signed in May subject to Commission approval. The approval notice appeared in OJ C393 on 7 November 2014."
+      },
+      {
+        "url": "https://www.gov.uk/government/news/government-unveils-eight-major-new-renewables-projects-supporting-8500-green-jobs",
+        "title": "Government unveils eight major new renewables projects",
+        "publication_date": "2014-04-23",
+        "evidence": "DECC awarded early CfD investment contracts and named DONG Energy Wind Power A/S as developer of Burbo Bank Extension, Hornsea 1 and Walney Extension."
+      },
+      {
+        "url": "https://www.gov.uk/government/publications/final-investment-decision-fid-enabling-for-renewables-investment-contracts",
+        "title": "FID Enabling for Renewables: Investment Contracts",
+        "publication_date": "2014-06-10",
+        "evidence": "DECC subsequently published the signed investment contracts, laid before Parliament on 4 June 2014."
+      },
+      {
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A52015XC0410%2806%29",
+        "title": "Official Journal C116: Lynemouth state-aid proceeding, footnote 2",
+        "publication_date": "2015-04-10",
+        "evidence": "The official publication identifies the earlier five-wind-farm no-objection decision of 23 July 2014 and its OJ C393/2014 publication. This is bibliographic corroboration only, not an earlier information date."
+      }
+    ],
+    "rationale": "Signed support contracts plus completed required state-aid approval establish the confirmed DONG subsidy relationship. Admission uses the captured Official Journal publication date rather than treating the conditional April award as final.",
+    "limitations": "The decision was adopted on 23 July 2014; original approval-day press content was not readable in this capture, so the documented 7 November 2014 Official Journal publication is used conservatively. Conditional April award and June publication of signed contracts alone do not trigger admission. IPO tradability starts in June 2016.",
+    "research_file": "data/pillar2/research_eu_industry.json"
+  },
+  {
+    "event_id": "US_PLUG_ARRA_FUELCELLS_2009",
+    "ticker": "PLUG",
+    "region": "US",
+    "programme": "DOE ARRA fuel-cell market transformation grants: combined heat and power and backup power",
+    "jurisdiction": "United States federal",
+    "beneficiary": "Plug Power, Inc.",
+    "relationship": "direct",
+    "support_type": "cost-shared demonstration grants",
+    "status": "awarded with deployment activity reported",
+    "event_date": "2009-12-31",
+    "public_date": "2011-05-09",
+    "eligible_from": "2011-05-09",
+    "end_date": "",
+    "support_end_date": null,
+    "date_precision": "Award programme identified as 2009 ARRA; year-end is a conservative event-date bound. Admission uses the dated May 2011 DOE presentation.",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://www.hydrogen.energy.gov/docs/hydrogenprogramlibraries/pdfs/review11/h2pn06_devlin_mt_and_arra_2011_o.pdf",
+        "title": "DOE Annual Merit Review: Market Transformation and American Recovery and Reinvestment Act, May 9, 2011",
+        "publication_date": "2011-05-09",
+        "evidence": "The ARRA award table names Plug Power for $3.4 million in combined heat and power and $2.7 million in backup power, each with matching company cost share. The presentation reports deployment progress as of April 2011."
+      }
+    ],
+    "rationale": "Plug Power is a named direct grantee. The separate GENCO award and ordinary government equipment purchases are not attributed to Plug as direct subsidies.",
+    "limitations": "The original 2009 award announcement was not recovered with equally clear named-beneficiary evidence, so public admission is conservatively delayed to May 2011. Grant completion dates and individual disbursement schedules are unresolved.",
+    "research_file": "data/pillar2/research_us_energy.json"
+  },
+  {
+    "event_id": "SAF_CLEAN_SKY_OPEN_ROTOR_2017",
+    "ticker": "SAF.PA",
+    "region": "EU",
+    "programme": "FP7 Clean Sky: Open Rotor / Sustainable and Green Engines",
+    "jurisdiction": "European Union",
+    "beneficiary": "Safran and its Open Rotor industrial research consortium",
+    "relationship": "direct",
+    "support_type": "industrial_research_grant",
+    "status": "receipt_confirmed",
+    "event_date": "2017-10-03",
+    "public_date": "2017-10-03",
+    "eligible_from": "2017-10-03",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://www.safran-group.com/pressroom/safran-celebrates-successful-start-open-rotor-demonstrator-tests-new-open-air-test-rig-southern-2017-10-03",
+        "title": "Safran celebrates successful start of Open Rotor demonstrator tests",
+        "publication_date": "2017-10-03",
+        "evidence": "Safran confirmed that it and its partners had received EUR65m of European Commission funding for the Open Rotor project over eight years."
+      }
+    ],
+    "rationale": "An explicitly funded industrial R&D programme, with both Safran's role and past EU funding confirmed in a dated issuer release.",
+    "limitations": "The project began in 2008 but this publication is not backdated to that year. EUR65m is a consortium total. Earlier annual reports establish participation in VITAL, DREAM and Clean Sky but the captured passages do not separately establish a dated grant award or receipt.",
+    "research_file": "data/pillar2/research_eu_industry.json"
+  },
+  {
+    "event_id": "STMPA_PA_ENIAC_CSI_2010",
+    "ticker": "STMPA.PA",
+    "region": "EU",
+    "programme": "ENIAC-JU 2009 CSI, Central Nervous System Imaging",
+    "jurisdiction": "EU/Italy/Austria",
+    "beneficiary": "STMicroelectronics Italy",
+    "relationship": "subsidiary",
+    "support_type": "named_consortium_research_grant",
+    "status": "publicly_funded_project_started",
+    "event_date": "2010-07-30",
+    "public_date": "2010-07-30",
+    "eligible_from": "2010-07-30",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/european-research-project-aims-to-improve-the-diagnosis-and-therapy-of-brain-diseases-99612329.html",
+        "title": "STMicroelectronics consortium release: European CSI brain-imaging research project",
+        "publication_date": "2010-07-30",
+        "evidence": "Issuer release names STMicroelectronics Italy and Austriamicrosystems among 15 partners of the 36-month CSI project, funded by European and national grants under ENIAC-JU 2009."
+      }
+    ],
+    "rationale": "Contemporaneous issuer announcement of funded project with named company participant.",
+    "limitations": "Issuer is STMicroelectronics; subsidiary participation maps to the then-existing consolidated group. Project total is not attributed to the parent as an individual award.",
+    "research_file": "data/pillar2/research_semiconductors.json"
+  },
+  {
+    "event_id": "TSM_NY_G450_INDIRECT_2011",
+    "ticker": "TSM",
+    "region": "US",
+    "programme": "New York Global 450 Consortium/CNSE investment",
+    "jurisdiction": "US-NewYork",
+    "beneficiary": "SUNY College of Nanoscale Science and Engineering; named company consortium member",
+    "relationship": "indirect",
+    "support_type": "public_research_infrastructure",
+    "status": "agreement_announced",
+    "event_date": "2011-09-27",
+    "public_date": "2011-09-27",
+    "eligible_from": "2011-09-27",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://www.griffissbusinesspark.com/news/sunyit-part-of-4-4-billion-nanotechnology-announcement/",
+        "title": "New York governor 27 September 2011 release, reproduced by Griffiss Business and Technology Park",
+        "publication_date": "2011-09-27",
+        "evidence": "Release names Intel, TSMC andGlobalFoundries as consortium parties, while explicitly stating allUSD 400 m state funding goes toCNSE and no private company receives state funds."
+      }
+    ],
+    "rationale": "Named indirect research-infrastructure benefit only; excluded from confirmed direct-recipient main.",
+    "limitations": "",
+    "indirect_eligible": true,
+    "support_end_date": "2016-09-27",
+    "research_file": "data/pillar2/research_semiconductors.json"
+  },
+  {
+    "event_id": "TSM_WAFERTECH_WA_UNTRIGGERED_2003",
+    "ticker": "TSM",
+    "region": "US",
+    "programme": "Washington semiconductor-cluster package, Chapter 149 Laws of 2003",
+    "jurisdiction": "US-Washington",
+    "beneficiary": "WaferTech, named intended beneficiary",
+    "relationship": "subsidiary",
+    "support_type": "conditional_semiconductor_tax_preferences",
+    "status": "never_triggered_as_of_2016_review",
+    "event_date": "2003-12-31",
+    "public_date": "2016-12-31",
+    "eligible_from": "2016-12-31",
+    "end_date": "",
+    "qualifies": false,
+    "sources": [
+      {
+        "url": "https://leg.wa.gov/jlarc/taxReports/2016/SemiconductorMaterialsManufacturing/pf/default.htm",
+        "title": "Washington JLARC 2016 semiconductor materials manufacturing tax-preference review",
+        "publication_date": "2016-12-31",
+        "publication_date_precision": "year_upper_bound",
+        "evidence": "Legislative auditor identifies WaferTech as the intended beneficiary of six 2003 preferences but states required USD 1 bn new-fab investment never occurred and the preferences never took effect."
+      }
+    ],
+    "rationale": "Negative evidence: targeted statute alone does not establish receipt. These conditional incentives cannot justify earlier main admission.",
+    "limitations": "Both event and publication dates use conservative year-end bounds because exact dates were not established; this nonqualifying chronology row never controls admission. Other broad tax preferences are not attributed to WaferTech without named receipt evidence.",
+    "public_date_precision": "year_upper_bound",
+    "event_date_precision": "year_upper_bound",
+    "research_file": "data/pillar2/research_semiconductors.json"
+  },
+  {
+    "event_id": "TSM_PHOENIX_DA_2021",
+    "ticker": "TSM",
+    "region": "US",
+    "programme": "Phoenix semiconductor-campus development agreement",
+    "jurisdiction": "US-Arizona",
+    "beneficiary": "City of Phoenix public infrastructure serving TSMC Arizona campus",
+    "relationship": "indirect",
+    "support_type": "targeted_public_infrastructure_incentive",
+    "status": "signed_public_infrastructure_agreement",
+    "event_date": "2021-03-31",
+    "public_date": "2021-06-23",
+    "eligible_from": "2021-06-23",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://www.phoenix.gov/content/dam/phoenix/cityclerksite/city-council-meeting-files/2021/6-23-21%20formal%20minutes-final.pdf",
+        "title": "Phoenix City Council formal minutes, item 42",
+        "publication_date": "2021-06-23",
+        "evidence": "Minutes confirm the signed 31 March 2021 TSMC Arizona development agreement and approve revenue arrangements to reimburse public infrastructure required for its semiconductor campus.",
+        "publication_date_basis": "Date of the public council meeting, not a verified final-minutes web publication timestamp."
+      }
+    ],
+    "rationale": "Named industrial infrastructure support benefits TSMC Arizona indirectly. The spending supports city-owned roads and water infrastructure; it is not established as a direct grant or privately owned subsidized asset. Included only in the indirect-link sensitivity.",
+    "limitations": "The 23 June 2021 public meeting record confirms the signed agreement. This is a public-meeting-date proxy: the final-minutes upload date is not established. The council authorized the agreement on 18 November 2020, but the original dated approval packet was not recovered. Infrastructure is in-kind support rather than cash paid to TSMC. Earlier US WaferTech support is not established here.",
+    "public_date_basis": "Public council meeting date; exact date of final-minutes upload is not established.",
+    "publication_uncertainty": true,
+    "indirect_eligible": true,
+    "research_file": "data/pillar2/research_semiconductors.json"
+  },
+  {
+    "event_id": "TSM_CHIPS_FINAL_2024",
+    "ticker": "TSM",
+    "region": "US",
+    "programme": "CHIPS Incentives Program, TSMC Arizona leading-edge fabs",
+    "jurisdiction": "US-Federal",
+    "beneficiary": "TSMC Arizona Corporation, subsidiary of Taiwan Semiconductor Manufacturing Company",
+    "relationship": "subsidiary",
+    "support_type": "industrial_manufacturing_grant",
+    "status": "final_award",
+    "event_date": "2024-11-15",
+    "public_date": "2024-11-15",
+    "eligible_from": "2024-11-15",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://content.govdelivery.com/accounts/USDOC/bulletins/3c1ec14",
+        "title": "Commerce announces CHIPS incentives award with TSMC Arizona",
+        "publication_date": "2024-11-15",
+        "evidence": "Commerce announces the final award of up to USD 6.6 bn in direct funding to TSMC Arizona after due diligence, supporting three Phoenix fabs; payment is tied to project milestones."
+      }
+    ],
+    "rationale": "Confirmed federal award to the controlled US manufacturing subsidiary. Distinguishes the final award from the April 2024 nonbinding preliminary memorandum.",
+    "limitations": "The release separately discusses proposed loans; main eligibility relies on the final direct-funding award, not proposed loans or an assumption of full disbursement.",
+    "research_file": "data/pillar2/research_semiconductors.json"
+  },
+  {
+    "event_id": "TXN_UTD_TEF_INDIRECT_2004",
+    "ticker": "TXN",
+    "region": "US",
+    "programme": "Texas Enterprise Fund Project Emmitt university research expansion",
+    "jurisdiction": "US-Texas",
+    "beneficiary": "University of Texas at Dallas; Texas Instruments named industrial partner",
+    "relationship": "indirect",
+    "support_type": "public_research_infrastructure",
+    "status": "funded_partnership_confirmed",
+    "event_date": "2004-11-03",
+    "public_date": "2004-11-03",
+    "eligible_from": "2004-11-03",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://news.utdallas.edu/campus-community/utd-will-join-texas-instruments-in-unprecedented-simultaneous-groundbreakings/",
+        "title": "UTD will join Texas Instruments in unprecedented simultaneous groundbreakings",
+        "publication_date": "2004-11-03",
+        "evidence": "University release identifies USD 50 m Texas Enterprise Fund support to UTD within Project Emmitt, expressly tied to TI locating its Richardson chip fab. TI and UTD announce joint groundbreaking ceremonies."
+      }
+    ],
+    "rationale": "Named indirect benefit from publicly funded research capacity supporting TI fab-location agreement. State funds go to the university, so this does not create direct-recipient eligibility.",
+    "limitations": "Page header says 2 November and release dateline says 3 November 2004; use the later date. Earlier 30 June 2003 agreement is described but not used to backdate admission. Direct page fetch returned 502; indexed university release supplied the text.",
+    "indirect_eligible": true,
+    "research_file": "data/pillar2/research_semiconductors.json"
+  },
+  {
+    "event_id": "TXN_TEF_2019",
+    "ticker": "TXN",
+    "region": "US",
+    "programme": "Texas Enterprise Fund, Richardson 300 mm fab",
+    "jurisdiction": "US-Texas",
+    "beneficiary": "Texas Instruments Incorporated",
+    "relationship": "direct",
+    "support_type": "performance_grant",
+    "status": "grant_extended",
+    "event_date": "2019-04-18",
+    "public_date": "2019-04-18",
+    "eligible_from": "2019-04-18",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://gov.texas.gov/news/post/governor-abbott-announces-texas-instruments-new-300mm-facility-in-richardson",
+        "title": "Governor Abbott announces TI Richardson 300 mm facility",
+        "publication_date": "2019-04-18",
+        "evidence": "Governor announces an extended USD 5.124 m TEF grant, conditional on the already specified investment and staffing commitments."
+      }
+    ],
+    "rationale": "Named awarded performance grant; ordinary performance conditions do not make it merely a legislative proposal.",
+    "limitations": "Later TEF reports show 11 June 2019 administrative award/agreement date. Main uses the public governor commitment; no disbursement is inferred. The 2004 USD 50 m UTD/TI package was paid to a university and is separately classified indirect.",
+    "research_file": "data/pillar2/research_semiconductors.json"
+  },
+  {
+    "event_id": "VIE_E2DISTRICT_2016",
+    "ticker": "VIE.PA",
+    "region": "EU",
+    "programme": "Horizon 2020 E2District, EE-13-2015 / grant 696009",
+    "jurisdiction": "European Union",
+    "beneficiary": "Veolia industrial research consortium participation",
+    "relationship": "direct",
+    "support_type": "industrial_research_grant",
+    "status": "selection_for_funding_disclosed",
+    "event_date": "2016-03-16",
+    "public_date": "2016-03-16",
+    "eligible_from": "2016-03-16",
+    "end_date": "",
+    "qualifies": false,
+    "sources": [
+      {
+        "url": "https://www.veolia.com/sites/g/files/dvc2491/files/imported-documents/2016/11/2015_Registration_Document_20160405_0.pdf",
+        "title": "Veolia 2015 Registration Document, R&D section",
+        "publication_date": "2016-03-16",
+        "evidence": "The document, filed with the AMF on 16 March 2016, reports that E2District was selected for European Commission funding in late 2015 and describes Veolia's participation and demonstration-site role."
+      }
+    ],
+    "rationale": "Retained as earlier project-selection evidence. Selection for funding alone does not prove execution of the grant, so the main event uses later explicit funding confirmation.",
+    "limitations": "The issuer describes selection in future tense. No admission is inferred from this document alone or backdated from a current grant registry.",
+    "research_file": "data/pillar2/research_eu_industry.json"
+  },
+  {
+    "event_id": "VIE_E2DISTRICT_FUNDED_2017",
+    "ticker": "VIE.PA",
+    "region": "EU",
+    "programme": "Horizon 2020 E2District, EE-13-2015 / grant 696009",
+    "jurisdiction": "European Union",
+    "beneficiary": "Veolia Environnement Recherche et Innovation (VERI)",
+    "relationship": "subsidiary",
+    "support_type": "industrial_research_grant",
+    "status": "funding_received_and_ongoing_participation_confirmed",
+    "event_date": "2017-11-13",
+    "public_date": "2017-11-13",
+    "eligible_from": "2017-11-13",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://openaccess.city.ac.uk/id/eprint/21943/1/proceedings-01-01105-v2.pdf",
+        "title": "Costa et al., Development of Future EU District Heating and Cooling Network Solutions, Proceedings 1(7), 1105",
+        "publication_date": "2017-11-13",
+        "evidence": "The published paper, coauthored by E2District coordinator Martin Klepal, describes ongoing work and explicitly acknowledges received H2020 funding under grant 696009. Its title page gives publication on 13 November 2017."
+      },
+      {
+        "url": "https://www.veolia.com/sites/g/files/dvc2491/files/imported-documents/2016/11/2015_Registration_Document_20160405_0.pdf",
+        "title": "Veolia 2015 Registration Document, R&D section",
+        "publication_date": "2016-03-16",
+        "evidence": "The document, filed with the AMF on 16 March 2016, reports that E2District was selected for European Commission funding in late 2015 and describes Veolia's participation and demonstration-site role."
+      },
+      {
+        "url": "https://www.sustainableplaces.eu/wp-content/uploads/2017/01/Final-Programme.pdf",
+        "title": "Sustainable Places 2017 final conference programme",
+        "publication_date": "2017-06-30",
+        "evidence": "The 28-30 June 2017 programme names Veolia as an E2District workshop co-chair alongside the other consortium partners, corroborating continuing industrial participation after the earlier selection."
+      }
+    ],
+    "rationale": "The earlier Veolia filing establishes the named project relationship; the 2017 programme confirms continuing participation, and the project coordinator's dated paper confirms an actually funded and executing H2020 grant.",
+    "limitations": "The current CORDIS record reports grant signature on 19 January 2016, but that current record is not used to claim contemporaneous availability. Admission is the first captured explicit funding confirmation, 13 November 2017. The university mirror was deposited later; the original paper itself prints its 2017 publication date.",
+    "research_file": "data/pillar2/research_eu_industry.json"
+  },
+  {
+    "event_id": "VWS_EUDP_VERTICAL_INSTALLER_2018",
+    "ticker": "VWS.CO",
+    "region": "EU",
+    "programme": "Danish EUDP: Vertical Installer wind-turbine installation technology",
+    "jurisdiction": "Denmark",
+    "beneficiary": "Vestas and Maersk Supply Service research partnership",
+    "relationship": "direct",
+    "support_type": "industrial_research_grant",
+    "status": "grant_awarded",
+    "event_date": "2018-06-28",
+    "public_date": "2018-06-28",
+    "eligible_from": "2018-06-28",
+    "end_date": "",
+    "qualifies": true,
+    "sources": [
+      {
+        "url": "https://www.vestas.com/en/media/company-news/2018/vestas-and-maersk-supply-service-partner-to-lower-logis-c2963370",
+        "title": "Vestas and Maersk Supply Service partner to lower logistics and installation costs within sustainable energy solutions",
+        "publication_date": "2018-06-28",
+        "evidence": "Vestas announced its technology partnership with Maersk Supply Service and confirmed DKK47m of Danish EUDP support for the project over the following three years."
+      }
+    ],
+    "rationale": "Vestas is a named participant in the government-funded industrial development project.",
+    "limitations": "DKK47m is shared project funding, not an asserted Vestas-only receipt. Earlier wind-research partnerships were located but original public grant dates and Vestas's continuing participation were not resolved. No exact completion day is inferred from the three-year duration.",
+    "research_file": "data/pillar2/research_eu_industry.json"
+  }
+]
