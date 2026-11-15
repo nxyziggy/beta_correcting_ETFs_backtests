@@ -1,0 +1,10 @@
+AMS2023Q2
+Publication: 2023-07-27
+Income page 7
+     Result from operations                                           -1,324                -1,413                   216                   256
+     Net result                                                       -1,342                -1,476                     58                    74
+Balance page 9
+     Total assets                                                                                         7,059                             8,832
+     Total current liabilities                                                                            2,656                             2,717
+Cashflow page 10
+     Cash flows from operating activities                                                        232                  394                100                  247

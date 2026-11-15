@@ -1,0 +1,3 @@
+Source: https://ams-osram.com/ko/news/press-releases/q32021-results
+Publication: 2021-11-02
+Verified through the web page reader: the issuer page explicitly displays 2021-11-02 and links the Q3 2021 financial report. The downloaded HTML shell does not expose this body text; source date was read from the rendered/indexed issuer page.

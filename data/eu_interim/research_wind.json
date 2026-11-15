@@ -1,0 +1,946 @@
+{
+  "status": "Complete: all 32 targeted usable original quarterly interim observations recovered",
+  "companies": [
+    "VWS.CO",
+    "ORSTED.CO"
+  ],
+  "observation_count": 32,
+  "missing_expected_observations": [],
+  "excluded": [
+    {
+      "ticker": "ORSTED.CO",
+      "period_end": "2026-09-30",
+      "publication_date": "2026-11-05",
+      "reason": "Report published after 2026-11-02 market-data endpoint (and final information cutoff).",
+      "source": "https://orsted.com/en/media/news/2026/10/orsted-to-present-q3-2026-results-on-5-november-1525534411"
+    },
+    {
+      "ticker": "VWS.CO",
+      "period_end": "2026-09-30",
+      "publication_date": "2026-11-11",
+      "reason": "Report published after 2026-11-02 market-data endpoint (and final information cutoff).",
+      "source": "https://www.vestas.com/content/dam/vestas-com/global/en/investor/reports-and-presentations/financial/2026/q3-2026/261111_59_Company_Announcement.pdf.coredownload.inline.pdf"
+    }
+  ],
+  "scope_notes": [
+    "Both issuers publish complete quarterly consolidated statements: Q1, H1 and nine months, plus annual financial statements. Target coverage is H1 and 9M 2021, Q1/H1/9M 2022–2025 and Q1/H1 2026.",
+    "Quarter-one 2021 is superseded by H1 2021 before the September 2021 initial review; H1 includes the necessary same-period 2020 comparative for TTM reconstruction.",
+    "All five requested inputs are reported in each recovered interim. No quarterly sales-only trading updates, interpolation, proportional annual allocation or present-day revised XLS history is substituted.",
+    "Vestas 2022 rows supply contemporaneously observed restated FY2021 annual flow overrides to prevent mixed-policy TTM. Overrides do not change the original annual restoration dataset or historical annual availability.",
+    "Ørsted 2021 uses IFRS earnings, matching the previously recovered FY2020 IFRS annual figure. Net profit remains total group profit; CFO remains the reported operating cash-flow subtotal.",
+    "Ørsted 2024 net-versus-gross presentation changes affect revenue/cost of sales, not the requested profit and CFO totals. Other identified restatements concern FFO, financial ratios or sustainability metrics; these are not substituted for reported statements.",
+    "Full original PDFs and page text are preserved outside git; compact table and date excerpts are committed under sources/wind."
+  ],
+  "validation": [
+    "32 unique ticker-period observations; 16 per issuer; all dates after period ends and before market endpoint.",
+    "Each manually selected current/prior YTD flow and closing balance total independently matched to original-PDF extracted statement line and correct column.",
+    "All publication dates matched to dated original issuer report, with Ørsted Q1 2026 management-statement typo resolved against cover/end date and results-call date.",
+    "Vestas Q1 2022 page 4 and Ørsted Q1 2026 page 18 visually rendered and reviewed to verify the restated annual column and rotated balance sheet.",
+    "Every source PDF SHA-256 retained for reproducibility."
+  ],
+  "sources": [
+    {
+      "id": "ORSTED2021Q2",
+      "ticker": "ORSTED.CO",
+      "period_end": "2021-06-30",
+      "publication_date": "2021-08-12",
+      "source": "https://cdn.orsted.com/-/media/2021-h1/interim-financial-report-h1-2021.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/ORSTED2021Q2.pdf",
+      "sha256": "d68002172b5b1bbf20c4fda5dafe6ba2d74420ae9ee4925691dc7528a8cb5e74",
+      "financial_excerpt": "data/eu_interim/sources/wind/ORSTED2021Q2_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/ORSTED2021Q2_publication_evidence.txt",
+      "financial_pdf_pages": [
+        23,
+        25,
+        27
+      ],
+      "publication_pdf_pages": [
+        42
+      ],
+      "checked_statement_rows": [
+        "Operating profit (loss) (EBIT)                                                                   9,170             7,460         Tax on hedging instruments                                                                               1,846                  97",
+        "Profit (loss) for the period                                                                      7,142             3,493        Non-controlling interests                                                                                   94                (156)",
+        "Cash flows from operating activities                        11,234             7,769              3,147              8,197                Cash flows from discontinued operations                           -              (44)                   -              102",
+        "Assets                                                                   223,791           196,719           193,124                Tax equity liabilities                                                      1,298              1,187              630",
+        "Assets and liabilities classified as held for sale                                                                                          Current liabilities                                                       57,204            34,408            33,439"
+      ]
+    },
+    {
+      "id": "ORSTED2021Q3",
+      "ticker": "ORSTED.CO",
+      "period_end": "2021-09-30",
+      "publication_date": "2021-11-03",
+      "source": "https://cdn.orsted.com/-/media/q3-2021/orsted-interim-report-9m-2021.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/ORSTED2021Q3.pdf",
+      "sha256": "54ed3593858655755a9ac617b38ddd75150bfc0badf0c4566c9f9818fd898465",
+      "financial_excerpt": "data/eu_interim/sources/wind/ORSTED2021Q3_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/ORSTED2021Q3_publication_evidence.txt",
+      "financial_pdf_pages": [
+        24,
+        26,
+        28
+      ],
+      "publication_pdf_pages": [
+        43
+      ],
+      "checked_statement_rows": [
+        "Operating profit (loss) (EBIT)                                                                   10,215             7,820        Tax on hedging instruments                                                                              6,782                 174",
+        "Profit (loss) for the period                                                                     7,629             14,822        Non-controlling interests                                                                                 100                (156)",
+        "Cash flows from operating activities                        11,480             9,710                246              1,941                Cash flows from discontinued operations                           -              926                   -              970",
+        "Assets                                                                   261,892            196,719          194,567                 Other payables                                                             4,832             6,082             5,053",
+        "Current liabilities                                                      95,660             32,952            29,257"
+      ]
+    },
+    {
+      "id": "ORSTED2022Q1",
+      "ticker": "ORSTED.CO",
+      "period_end": "2022-03-31",
+      "publication_date": "2022-04-29",
+      "source": "https://cdn.orsted.com/-/media/2022q1/interim-financial-report-q12022.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/ORSTED2022Q1.pdf",
+      "sha256": "dd0d8653c23e347d3120f2e8078b85e9dab21d1a201782fb26ff7e731f626bb9",
+      "financial_excerpt": "data/eu_interim/sources/wind/ORSTED2022Q1_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/ORSTED2022Q1_publication_evidence.txt",
+      "financial_pdf_pages": [
+        19,
+        20,
+        22
+      ],
+      "publication_pdf_pages": [
+        33
+      ],
+      "checked_statement_rows": [
+        "Operating profit (loss) (EBIT)                                                                   7,301             2,933        Tax on hedging instruments                                                                               3,342               624",
+        "Profit (loss) for the period                                                                     5,701              1,598       Shareholders in Ørsted A/S                                                                              (8,373)              (717)",
+        "Cash flows from operating activities                                                               (37)            8,087                Cash and cash equivalents at 31 March                                                           4,548              7,478",
+        "Assets                                                                   285,087           270,385            210,972                Tax equity liabilities                                                        1,197            1,206              1,250",
+        "Assets and liabilities classified as held for sale                                                                                           Current liabilities                                                       104,128            86,968            40,868"
+      ]
+    },
+    {
+      "id": "ORSTED2022Q2",
+      "ticker": "ORSTED.CO",
+      "period_end": "2022-06-30",
+      "publication_date": "2022-08-11",
+      "source": "https://cdn.orsted.com/-/media/q2-2022/q2-financial-report-2022.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/ORSTED2022Q2.pdf",
+      "sha256": "aaa8e76057ee4dfcd6bade38a5569031ac12c72a674bd4323ef6dc2af6b577e9",
+      "financial_excerpt": "data/eu_interim/sources/wind/ORSTED2022Q2_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/ORSTED2022Q2_publication_evidence.txt",
+      "financial_pdf_pages": [
+        20,
+        22,
+        24
+      ],
+      "publication_pdf_pages": [
+        38
+      ],
+      "checked_statement_rows": [
+        "Operating profit (loss) (EBIT)                                                                   8,612             9,170        Tax on hedging instruments                                                                              6,046               1,846",
+        "Profit (loss) for the period                                                                     5,970              7,142       Shareholders in Ørsted A/S                                                                            (18,743)             (800)",
+        "Cash flows from operating activities                         2,318            11,234              2,355             3,147                 Total net change in cash and cash",
+        "Assets                                                                   320,722           270,385            223,791                Tax equity liabilities                                                        1,691            1,206              1,298",
+        "Assets and liabilities classified as held for sale                                                                                           Current liabilities                                                       127,302            86,968            49,256"
+      ]
+    },
+    {
+      "id": "ORSTED2022Q3",
+      "ticker": "ORSTED.CO",
+      "period_end": "2022-09-30",
+      "publication_date": "2022-11-03",
+      "source": "https://cdn.orsted.com/-/media/q3-2022/financial-interim-report-q3-2022.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/ORSTED2022Q3.pdf",
+      "sha256": "fb5fc07b6c417edeeafbcfd48bc1b12a2876f8404360ee87999410f867c2d906",
+      "financial_excerpt": "data/eu_interim/sources/wind/ORSTED2022Q3_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/ORSTED2022Q3_publication_evidence.txt",
+      "financial_pdf_pages": [
+        20,
+        22,
+        24
+      ],
+      "publication_pdf_pages": [
+        40
+      ],
+      "checked_statement_rows": [
+        "Operating profit (loss) (EBIT)                                                               18,399              10,215        Tax:",
+        "Profit (loss) for the period                                                                  15,325              7,629        Comprehensive income for the period is attributable to:",
+        "Cash flows from operating activities                       (8,991)            11,480           (11,309)               246                Total net change in cash and cash",
+        "Assets                                                                   359,758           270,385            261,892                 Other payables                                                              8,858             4,768              4,832",
+        "Current liabilities                                                      148,603             86,968            95,660"
+      ]
+    },
+    {
+      "id": "ORSTED2023Q1",
+      "ticker": "ORSTED.CO",
+      "period_end": "2023-03-31",
+      "publication_date": "2023-05-03",
+      "source": "https://cdn.orsted.com/-/media/q12023/interim-financial-reportq12023.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/ORSTED2023Q1.pdf",
+      "sha256": "8879120985f2f1d22b840d779f46364f379a9d5ea7aa73d840a22c196003ce1d",
+      "financial_excerpt": "data/eu_interim/sources/wind/ORSTED2023Q1_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/ORSTED2023Q1_publication_evidence.txt",
+      "financial_pdf_pages": [
+        17,
+        18,
+        20
+      ],
+      "publication_pdf_pages": [
+        33
+      ],
+      "checked_statement_rows": [
+        "Operating profit (loss) (EBIT)                                                                  4,472               7,301        Tax on hedging instruments                                                                                (2,679)             3,342",
+        "Profit (loss) for the period                                                                    3,202               5,701        Shareholders in Ørsted A/S                                                                                12,472             (8,373)",
+        "Cash flows from operating activities                                                              10,119                (37)      Statement of cash flows",
+        "Assets                                                                    306,644             314,142           301,687                 Tax equity liabilities                                                       2,874              1,903               1,197",
+        "Current liabilities                                                         55,237            74,868            118,555"
+      ]
+    },
+    {
+      "id": "ORSTED2023Q2",
+      "ticker": "ORSTED.CO",
+      "period_end": "2023-06-30",
+      "publication_date": "2023-08-10",
+      "source": "https://cdn.orsted.com/-/media/q2-2023/interim-financial-report-h1-2023.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/ORSTED2023Q2.pdf",
+      "sha256": "3d15ba8c7caf245c26e9edcf3eba68cbae70d1967a6d33abc941996930b0a54d",
+      "financial_excerpt": "data/eu_interim/sources/wind/ORSTED2023Q2_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/ORSTED2023Q2_publication_evidence.txt",
+      "financial_pdf_pages": [
+        19,
+        21,
+        23
+      ],
+      "publication_pdf_pages": [
+        38
+      ],
+      "checked_statement_rows": [
+        "Operating profit (loss) (EBIT)                                                                   5,338               8,612        Tax:",
+        "Profit (loss) for the period                                                                    2,664               5,970         Comprehensive income for the period is attributable to:",
+        "Cash flows from operating activities                        12,566               2,318             2,447              2,355                  Total net change in cash and cash",
+        "Assets                                                                    296,466             314,142           320,722                  Other payables                                                               5,998               7,518             7,653",
+        "Current liabilities                                                        46,464             74,868            127,302"
+      ]
+    },
+    {
+      "id": "ORSTED2023Q3",
+      "ticker": "ORSTED.CO",
+      "period_end": "2023-09-30",
+      "publication_date": "2023-11-01",
+      "source": "https://cdn.orsted.com/-/media/q3-2023/interim-financial-report-9m-2023.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/ORSTED2023Q3.pdf",
+      "sha256": "01db6c827b541bc5ca411de377946fd68eb3aec3986a38613def5380acc82e7e",
+      "financial_excerpt": "data/eu_interim/sources/wind/ORSTED2023Q3_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/ORSTED2023Q3_publication_evidence.txt",
+      "financial_pdf_pages": [
+        19,
+        21,
+        23
+      ],
+      "publication_pdf_pages": [
+        42
+      ],
+      "checked_statement_rows": [
+        "Operating profit (loss) (EBIT)                                                               (16,448)              18,399        Tax on exchange rate adjustments                                                                            (50)               666",
+        "Profit (loss) for the period                                                                 (19,898)              15,325",
+        "Cash flows from operating activities                       22,362              (8,991)             9,796            (11,309)                Total net change in cash and cash",
+        "Assets                                                                     286,782            314,142           359,758         9        Income tax                                                                    5,254               5,115            5,076",
+        "Current liabilities                                                         59,682            74,868            148,603"
+      ]
+    },
+    {
+      "id": "ORSTED2024Q1",
+      "ticker": "ORSTED.CO",
+      "period_end": "2024-03-31",
+      "publication_date": "2024-05-02",
+      "source": "https://cdn.orsted.com/-/media/q1-2024/q1-2024-interim-report.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/ORSTED2024Q1.pdf",
+      "sha256": "d0e99f4a649e05e8f8a0511a14f740e2d5f7d675f65d6ce8ed1d0b669baccbb5",
+      "financial_excerpt": "data/eu_interim/sources/wind/ORSTED2024Q1_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/ORSTED2024Q1_publication_evidence.txt",
+      "financial_pdf_pages": [
+        17,
+        18,
+        20,
+        21
+      ],
+      "publication_pdf_pages": [
+        46
+      ],
+      "checked_statement_rows": [
+        "Operating profit (loss) (EBIT)                                                                  5,826               4,472",
+        "Profit (loss) for the period                                                                    2,609               3,202",
+        "Cash flows from operating activities                                                              3,608              10,119                Total net change in cash and cash equivalents                                                      4,660               3,294",
+        "Assets                                                                    290,383             281,136          306,644         9        Income tax                                                                   5,935              6,283              5,391",
+        "Current liabilities                                                         62,814            59,201             55,237"
+      ]
+    },
+    {
+      "id": "ORSTED2024Q2",
+      "ticker": "ORSTED.CO",
+      "period_end": "2024-06-30",
+      "publication_date": "2024-08-15",
+      "source": "https://cdn.orsted.com/-/media/h12024/interim-financial-report-h1-2024.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/ORSTED2024Q2.pdf",
+      "sha256": "342d50657023a5163af4869191a598945b6d817849c3d76002795f54fe681d90",
+      "financial_excerpt": "data/eu_interim/sources/wind/ORSTED2024Q2_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/ORSTED2024Q2_publication_evidence.txt",
+      "financial_pdf_pages": [
+        19,
+        21,
+        23,
+        24
+      ],
+      "publication_pdf_pages": [
+        51
+      ],
+      "checked_statement_rows": [
+        "Operating profit (loss) (EBIT)                                                                  5,800                5,338       Other:",
+        "Profit (loss) for the period                                                                       931              2,664",
+        "Cash flows from operating activities                         9,689             12,566               6,081             2,447                  Cash and cash equivalents at the",
+        "Assets                                                                    286,002            281,136           296,466         9       Income tax                                                                   5,905              6,283             5,493",
+        "Current liabilities                                                        54,630             59,201            46,464"
+      ]
+    },
+    {
+      "id": "ORSTED2024Q3",
+      "ticker": "ORSTED.CO",
+      "period_end": "2024-09-30",
+      "publication_date": "2024-11-05",
+      "source": "https://cdn.orsted.com/-/media/q3-2024/interim-financial-report-9m-2024.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/ORSTED2024Q3.pdf",
+      "sha256": "a584ab8e78ad8ae52f6c2a983d2e3220d62c929523bcaf1187d4e29b93f3a321",
+      "financial_excerpt": "data/eu_interim/sources/wind/ORSTED2024Q3_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/ORSTED2024Q3_publication_evidence.txt",
+      "financial_pdf_pages": [
+        19,
+        21,
+        23,
+        24
+      ],
+      "publication_pdf_pages": [
+        50
+      ],
+      "checked_statement_rows": [
+        "Operating profit (loss) (EBIT)                                                                  12,516            (16,448)        Other:",
+        "Profit (loss) for the period                                                                     6,100            (19,898)",
+        "Cash flows from operating activities                        8,050             22,362              (1,639)             9,796                 Cash and cash equivalents at the",
+        "Assets                                                                    290,341             281,136           286,782        9        Income tax                                                                   6,189              6,283             5,254",
+        "Current liabilities                                                         57,801            59,201            59,682"
+      ]
+    },
+    {
+      "id": "ORSTED2025Q1",
+      "ticker": "ORSTED.CO",
+      "period_end": "2025-03-31",
+      "publication_date": "2025-05-07",
+      "source": "https://cdn.orsted.com/-/media/q12025/interim-financial-report-q1-2025.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/ORSTED2025Q1.pdf",
+      "sha256": "2328c2ccf1aae61998d62c026cb650971bb35a211dab3594138afa1860ad4f33",
+      "financial_excerpt": "data/eu_interim/sources/wind/ORSTED2025Q1_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/ORSTED2025Q1_publication_evidence.txt",
+      "financial_pdf_pages": [
+        17,
+        18,
+        20
+      ],
+      "publication_pdf_pages": [
+        45
+      ],
+      "checked_statement_rows": [
+        "Operating profit (loss) (EBIT)                                                                                      6,588                        5,826       Share of other comprehensive income of associated companies, after tax                                                                    (1)                               -",
+        "Profit (loss) for the period                                                                                        4,887                        2,609       Total comprehensive income                                                                                                          3,834                       2,166",
+        "Cash flows from operating activities                                                                                  634                    3,608                   Exchange rate adjustments of cash and cash equivalents                                                                   (365)                          84",
+        "Assets                                                                                287,287                298,786                290,383            9 Income tax                                                                                              5,414             4,177            5,935",
+        "Current liabilities                                                                      52,641                   53,752                   62,814"
+      ]
+    },
+    {
+      "id": "ORSTED2025Q2",
+      "ticker": "ORSTED.CO",
+      "period_end": "2025-06-30",
+      "publication_date": "2025-08-11",
+      "source": "https://cdn.orsted.com/-/media/q22025/interim-financial-report-q2-2025.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/ORSTED2025Q2.pdf",
+      "sha256": "f3b69a866d0fed739b305a15250c352c3cc9d99800906af673ce3d4111d38ed0",
+      "financial_excerpt": "data/eu_interim/sources/wind/ORSTED2025Q2_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/ORSTED2025Q2_publication_evidence.txt",
+      "financial_pdf_pages": [
+        18,
+        20,
+        22
+      ],
+      "publication_pdf_pages": [
+        49
+      ],
+      "checked_statement_rows": [
+        "Operating profit (loss) (EBIT)                                                                10,777              5,800",
+        "Profit (loss) for the period                                                                   8,238                 931       Non-controlling interests                                                                                  213                339",
+        "Cash flows from operating activities                         7,820              9,689               7,186              6,081                 beginning of the period                                     23,124              10,144              7,831            14,888",
+        "Assets                                                                    285,112          298,786           286,002         9        Income tax                                                                  5,943              4,177            5,905",
+        "Current liabilities                                                        51,716           53,752            54,630"
+      ]
+    },
+    {
+      "id": "ORSTED2025Q3",
+      "ticker": "ORSTED.CO",
+      "period_end": "2025-09-30",
+      "publication_date": "2025-11-05",
+      "source": "https://cdn.orsted.com/-/media/q32025/interim-financial-report-9m-2025.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/ORSTED2025Q3.pdf",
+      "sha256": "4583cbeb8b75d6addd2e88e5ac6f6d1482d65120dfed29a78bd84783a8f597a7",
+      "financial_excerpt": "data/eu_interim/sources/wind/ORSTED2025Q3_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/ORSTED2025Q3_publication_evidence.txt",
+      "financial_pdf_pages": [
+        18,
+        20,
+        22
+      ],
+      "publication_pdf_pages": [
+        50
+      ],
+      "checked_statement_rows": [
+        "Operating profit (loss) (EBIT)                                                                                  9,661                       12,516     Share of other comprehensive income of associated companies, after tax                                                               (6)                              6",
+        "Profit (loss) for the period                                                                                   6,536                        6,100      Non-controlling interests                                                                                                           85                         580",
+        "Cash flows from operating activities                                      6,654                    8,050                   (1,166)                   (1,639)                     beginning of the period                                                        23,124                   10,144                  11,883                    9,472",
+        "Assets                                                                                299,075                298,786                290,341           9 Income tax                                                                                              6,234             4,177            6,189",
+        "Current liabilities                                                                     58,750                   53,752                   57,801"
+      ]
+    },
+    {
+      "id": "ORSTED2026Q1",
+      "ticker": "ORSTED.CO",
+      "period_end": "2026-03-31",
+      "publication_date": "2026-05-06",
+      "source": "https://cdn.orsted.com/-/media/q12026/orsted-interim-financial-report-q1-2026.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/ORSTED2026Q1.pdf",
+      "sha256": "8e4380775e19207c27a9bceee93d069384c9d06e3e73cf37653308310239e28e",
+      "financial_excerpt": "data/eu_interim/sources/wind/ORSTED2026Q1_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/ORSTED2026Q1_publication_evidence.txt",
+      "financial_pdf_pages": [
+        17,
+        18,
+        20
+      ],
+      "publication_pdf_pages": [
+        45,
+        2
+      ],
+      "checked_statement_rows": [
+        "Operating profit (loss) (EBIT)                                                                                   5,705                        6,588      Share of other comprehensive income of associated companies, after tax                                                                  1                             (1)",
+        "Profit (loss) for the period                                                                                     2,621                        4,887      Non-controlling interests                                                                                                          403                          401",
+        "Cash flows from operating activities                                                                                  6,537                        634       Statement of cash flows",
+        "Assets                                                                               360,332                367,922                287,287                          Current liabilities                                                                    56,577                   65,277                   52,641",
+        "Assets                                                                               360,332                367,922                287,287                          Current liabilities                                                                    56,577                   65,277                   52,641"
+      ]
+    },
+    {
+      "id": "ORSTED2026Q2",
+      "ticker": "ORSTED.CO",
+      "period_end": "2026-06-30",
+      "publication_date": "2026-08-13",
+      "source": "https://cdn.orsted.com/-/media/q22026/orsted-interim-financial-report-h1-2026.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/ORSTED2026Q2.pdf",
+      "sha256": "3c7959e9f6d31f37dbe243b27701df63219b89ef2292ea522f96768c69677904",
+      "financial_excerpt": "data/eu_interim/sources/wind/ORSTED2026Q2_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/ORSTED2026Q2_publication_evidence.txt",
+      "financial_pdf_pages": [
+        19,
+        21,
+        23
+      ],
+      "publication_pdf_pages": [
+        50
+      ],
+      "checked_statement_rows": [
+        "Operating profit (loss) (EBIT)                                                               7,327            10,777        Other:",
+        "Profit (loss) for the period                                                                 3,308              8,238       Interest payments and costs, hybrid capital owners of Ørsted A/S                                        147               151",
+        "Cash flows from operating activities                       9,124              7,820             2,587              7,186                Cash and cash equivalents at 30 June                      20,509            11,883             20,509            11,883",
+        "Assets                                                                359,980           367,922           285,112        10      Income tax                                                               3,996             4,631             5,943",
+        "Current liabilities                                                     54,624            65,277           51,716"
+      ]
+    },
+    {
+      "id": "VWS2021Q2",
+      "ticker": "VWS.CO",
+      "period_end": "2021-06-30",
+      "publication_date": "2021-08-11",
+      "source": "https://www.vestas.com/content/dam/vestas-com/global/en/investor/reports-and-presentations/financial/2021/210811_16_Company_Announcement.pdf.coredownload.inline.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/VWS2021Q2.pdf",
+      "sha256": "240a1d7f653cc1cc1b3d77070a60d89b35cd63fee8077ef8c225d4f67b9bd8ea",
+      "financial_excerpt": "data/eu_interim/sources/wind/VWS2021Q2_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/VWS2021Q2_publication_evidence.txt",
+      "financial_pdf_pages": [
+        4,
+        18,
+        19,
+        20,
+        22
+      ],
+      "publication_pdf_pages": [
+        31
+      ],
+      "checked_statement_rows": [
+        "Operating profit (EBIT)                                                                                                101                34                  30              (78)",
+        "Profit for the period                                                                                                    90                (5)                33               (85)",
+        "Cash flow from operating activities                                                                                       360                  51              (386)           (709)",
+        "Total assets                                                                                                                   19,557                14,934               18,160",
+        "Total current liabilities                                                                                                            13,002                  10,052               11,232"
+      ]
+    },
+    {
+      "id": "VWS2021Q3",
+      "ticker": "VWS.CO",
+      "period_end": "2021-09-30",
+      "publication_date": "2021-11-03",
+      "source": "https://www.vestas.com/content/dam/vestas-com/global/en/investor/reports-and-presentations/financial/2021/211103_18_Company_Announcement.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/VWS2021Q3.pdf",
+      "sha256": "eff733443bc1a0c1f1497fbe45618cfb66557fc90bebf14a5c3ccebc0e950b51",
+      "financial_excerpt": "data/eu_interim/sources/wind/VWS2021Q3_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/VWS2021Q3_publication_evidence.txt",
+      "financial_pdf_pages": [
+        4,
+        18,
+        19,
+        20,
+        22
+      ],
+      "publication_pdf_pages": [
+        32
+      ],
+      "checked_statement_rows": [
+        "Operating profit (EBIT)                                                                                               206               418                236              340",
+        "Profit for the period                                                                                                 123               290                156               205",
+        "Cash flow from operating activities                                                                                       523                688                 137             (21)",
+        "Total assets                                                                                                                   18,979                14,636              18,160",
+        "Total current liabilities                                                                                                        12,320                     9,389                 11,232"
+      ]
+    },
+    {
+      "id": "VWS2022Q1",
+      "ticker": "VWS.CO",
+      "period_end": "2022-03-31",
+      "publication_date": "2022-05-01",
+      "source": "https://www.vestas.com/content/dam/vestas-com/global/en/investor/reports-and-presentations/financial/2022/220501_10_Company_Announcement.pdf.coredownload.inline.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/VWS2022Q1.pdf",
+      "sha256": "2bda9184eafed6970967900684a09f100c06dde41f92298c6fea6e4081c106e6",
+      "financial_excerpt": "data/eu_interim/sources/wind/VWS2022Q1_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/VWS2022Q1_publication_evidence.txt",
+      "financial_pdf_pages": [
+        4,
+        16,
+        17,
+        18,
+        20,
+        27
+      ],
+      "publication_pdf_pages": [
+        30
+      ],
+      "checked_statement_rows": [
+        "Operating profit/(loss) (EBIT)                                                                                                                      (894)                      (78   )",
+        "Profit/(loss) for the period                                                                                                                        (765)                      (64)",
+        "Cash flow from operating activities                                                                                                                 (928)                  (754)",
+        "Total assets                                                                                                                        20,078                 19,060              19,648",
+        "Total current liabilities                                                                                                         12,982               11,843              12,700"
+      ]
+    },
+    {
+      "id": "VWS2022Q2",
+      "ticker": "VWS.CO",
+      "period_end": "2022-06-30",
+      "publication_date": "2022-08-10",
+      "source": "https://www.vestas.com/content/dam/vestas-com/global/en/investor/reports-and-presentations/financial/2022/220810_14_company_announcement.pdf.coredownload.inline.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/VWS2022Q2.pdf",
+      "sha256": "3769164856ab919e9a9b133a8a871e45e02128a51849dc3bd9a81c592c4f960f",
+      "financial_excerpt": "data/eu_interim/sources/wind/VWS2022Q2_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/VWS2022Q2_publication_evidence.txt",
+      "financial_pdf_pages": [
+        4,
+        16,
+        17,
+        18,
+        20,
+        29
+      ],
+      "publication_pdf_pages": [
+        33
+      ],
+      "checked_statement_rows": [
+        "Operating profit/(loss) (EBIT)                                                                                        (147)                 94          (1,041)                 16",
+        "Profit/(loss) for the period                                                                                          (119)                 83             (884)                19",
+        "Cash flow from operating activities                                                                                   (188)                352             (1,116)              (402)",
+        "Total assets                                                                                                                      20,458                19,512              19,648",
+        "Total current liabilities                                                                                                               13,512                13,002                12,700"
+      ]
+    },
+    {
+      "id": "VWS2022Q3",
+      "ticker": "VWS.CO",
+      "period_end": "2022-09-30",
+      "publication_date": "2022-11-02",
+      "source": "https://mb.cision.com/Public/18886/3659957/8378e644c5ae415a.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/VWS2022Q3.pdf",
+      "sha256": "595646538329075ce81b0765cad9bacac5a366d8228a964da369295c46271378",
+      "financial_excerpt": "data/eu_interim/sources/wind/VWS2022Q3_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/VWS2022Q3_publication_evidence.txt",
+      "financial_pdf_pages": [
+        4,
+        17,
+        18,
+        19,
+        21,
+        30
+      ],
+      "publication_pdf_pages": [
+        34
+      ],
+      "checked_statement_rows": [
+        "Operating profit/(loss) (EBIT)                                                                                        (114)               199           (1,155)                215",
+        "Profit/(loss) for the period                                                                                          (147)               116           (1,031)                135",
+        "Cash flow from operating activities                                                                                    (614)                513             (1,730)                111",
+        "Total assets                                                                                                                      20,447                  18,927              19,648",
+        "Total current liabilities                                                                                                            13,062                     12,320                 12,700"
+      ]
+    },
+    {
+      "id": "VWS2023Q1",
+      "ticker": "VWS.CO",
+      "period_end": "2023-03-31",
+      "publication_date": "2023-05-10",
+      "source": "https://mb.cision.com/Public/18886/3767108/86fa05eac0bdcb8f.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/VWS2023Q1.pdf",
+      "sha256": "9f7c0dde784d831af665277313cb110912b7d0227ee2e31efc46232cb688ffcb",
+      "financial_excerpt": "data/eu_interim/sources/wind/VWS2023Q1_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/VWS2023Q1_publication_evidence.txt",
+      "financial_pdf_pages": [
+        4,
+        14,
+        15,
+        16,
+        18
+      ],
+      "publication_pdf_pages": [
+        25
+      ],
+      "checked_statement_rows": [
+        "Operating profit/(loss) (EBIT)                                                                                                                              66                   (894)",
+        "Profit/(loss) for the period                                                                                                                                16               (765)",
+        "Cash flow from operating activities                                                                                                                       (974)              (928)",
+        "Total assets                                                                                                                       19,914                  20,078              20,090",
+        "Total current liabilities                                                                                                       12,753                    12,982                13,513"
+      ]
+    },
+    {
+      "id": "VWS2023Q2",
+      "ticker": "VWS.CO",
+      "period_end": "2023-06-30",
+      "publication_date": "2023-08-09",
+      "source": "https://www.vestas.com/content/dam/vestas-com/global/en/investor/reports-and-presentations/financial/2023/230809_12_Company_Announcement.pdf.coredownload.inline.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/VWS2023Q2.pdf",
+      "sha256": "4a6f34f40c4c58f7f807c61687b3fbbc84749642a2efeb1ac2c0e4155f1c7d04",
+      "financial_excerpt": "data/eu_interim/sources/wind/VWS2023Q2_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/VWS2023Q2_publication_evidence.txt",
+      "financial_pdf_pages": [
+        4,
+        15,
+        16,
+        17,
+        19
+      ],
+      "publication_pdf_pages": [
+        28
+      ],
+      "checked_statement_rows": [
+        "Operating profit/(loss) (EBIT)                                                                                         (68)             (147)                (2)            (1,041)",
+        "Profit/(loss) for the period                                                                                          (115)             (119)              (99)              (884)",
+        "Cash flow from operating activities                                                                                          48             (188)           (926)            (1,116)",
+        "Total assets                                                                                                                  20,333                20,458              20,090",
+        "Total current liabilities                                                                                                       13,269                    13,512                13,513"
+      ]
+    },
+    {
+      "id": "VWS2023Q3",
+      "ticker": "VWS.CO",
+      "period_end": "2023-09-30",
+      "publication_date": "2023-11-08",
+      "source": "https://mb.cision.com/Public/18886/3871454/bd272be966f1337b.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/VWS2023Q3.pdf",
+      "sha256": "ce8297146ddac3710c379eaaccdf6eb5abf82002984af400d750740dfea7b52d",
+      "financial_excerpt": "data/eu_interim/sources/wind/VWS2023Q3_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/VWS2023Q3_publication_evidence.txt",
+      "financial_pdf_pages": [
+        4,
+        15,
+        16,
+        17,
+        19
+      ],
+      "publication_pdf_pages": [
+        28
+      ],
+      "checked_statement_rows": [
+        "Operating profit/(loss) (EBIT)                                                                                       69            (114)                67          (1,155)",
+        "Profit/(loss) for the period                                                                                         28            (147)              (71)          (1,031)",
+        "Cash flow from operating activities                                                                                       (31)             (614)            (957)           (1,730)",
+        "Total assets                                                                                                                  20,857                 20,447             20,090",
+        "Total current liabilities                                                                                                       13,501                    13,062                13,513"
+      ]
+    },
+    {
+      "id": "VWS2024Q1",
+      "ticker": "VWS.CO",
+      "period_end": "2024-03-31",
+      "publication_date": "2024-05-02",
+      "source": "https://mb.cision.com/Public/18886/3971861/8dd8f84eddc4fbf9.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/VWS2024Q1.pdf",
+      "sha256": "caf7ef6f6dff1af949b6b362820d3a0592bdb56cf37cb6a9f74393a2c9d9c834",
+      "financial_excerpt": "data/eu_interim/sources/wind/VWS2024Q1_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/VWS2024Q1_publication_evidence.txt",
+      "financial_pdf_pages": [
+        4,
+        14,
+        15,
+        16,
+        18
+      ],
+      "publication_pdf_pages": [
+        26
+      ],
+      "checked_statement_rows": [
+        "Operating profit/(loss) (EBIT)                                                                                                                              (67)                   66",
+        "Profit/(loss) for the period                                                                                                                                (75)                16",
+        "Cash flow from operating activities                                                                                                                         (755)                    (974)",
+        "Total assets                                                                                                                  22,599                 19,914              22,514",
+        "Total current liabilities                                                                                                       14,074                    12,753                14,020"
+      ]
+    },
+    {
+      "id": "VWS2024Q2",
+      "ticker": "VWS.CO",
+      "period_end": "2024-06-30",
+      "publication_date": "2024-08-14",
+      "source": "https://mb.cision.com/Public/18886/4023967/b26e2892ce2e1337.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/VWS2024Q2.pdf",
+      "sha256": "87957ef769b20b5954d104a58e5b07b3fc96f4976ce68890a066365a145a1598",
+      "financial_excerpt": "data/eu_interim/sources/wind/VWS2024Q2_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/VWS2024Q2_publication_evidence.txt",
+      "financial_pdf_pages": [
+        4,
+        16,
+        17,
+        18,
+        20
+      ],
+      "publication_pdf_pages": [
+        29
+      ],
+      "checked_statement_rows": [
+        "Operating profit/(loss) (EBIT)                                                                                      (185)              (68)             (252 )            (2)",
+        "Profit/(loss) for the period                                                                                        (156)            (115)              (231)           (99)",
+        "Cash flow from operating activities                                                                                831                  48                76             (926)",
+        "Total assets                                                                                                               23,617               20,333              22,514",
+        "Total current liabilities                                                                                                      15,246                13,269               14,020"
+      ]
+    },
+    {
+      "id": "VWS2024Q3",
+      "ticker": "VWS.CO",
+      "period_end": "2024-09-30",
+      "publication_date": "2024-11-05",
+      "source": "https://mb.cision.com/Public/18886/4061186/9a700d4f0b582ac2.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/VWS2024Q3.pdf",
+      "sha256": "d17bbddf62e24e6ff682ceb74846ab070a3cd9df354fa9adec73fc73ff282594",
+      "financial_excerpt": "data/eu_interim/sources/wind/VWS2024Q3_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/VWS2024Q3_publication_evidence.txt",
+      "financial_pdf_pages": [
+        4,
+        15,
+        16,
+        17,
+        19
+      ],
+      "publication_pdf_pages": [
+        28
+      ],
+      "checked_statement_rows": [
+        "Operating profit/(loss) (EBIT)                                                                                        231                69             (21)             67",
+        "Profit/(loss) for the period                                                                                          127              28              (104)           (71)",
+        "Cash flow from operating activities                                                                                   89               (31)              165             (957)",
+        "Total assets                                                                                                               22,921               20,857              22,514",
+        "Total current liabilities                                                                                                      14,561                13,501               14,020"
+      ]
+    },
+    {
+      "id": "VWS2025Q1",
+      "ticker": "VWS.CO",
+      "period_end": "2025-03-31",
+      "publication_date": "2025-05-06",
+      "source": "https://mb.cision.com/Public/18886/4145520/ad95ef6eb1035103.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/VWS2025Q1.pdf",
+      "sha256": "046cda130fbf8c29a8d8e27f90b2cf60b0a4ef44532de9f6a81c63f623439150",
+      "financial_excerpt": "data/eu_interim/sources/wind/VWS2025Q1_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/VWS2025Q1_publication_evidence.txt",
+      "financial_pdf_pages": [
+        4,
+        14,
+        15,
+        16,
+        18
+      ],
+      "publication_pdf_pages": [
+        24
+      ],
+      "checked_statement_rows": [
+        "Operating profit/(loss) (EBIT)                                                                                                                      20                          (67)",
+        "Profit/(loss) for the period                                                                                                                         5                    (75)",
+        "Cash flow from operating activities                                                                                                                   28                   (755)",
+        "Total assets                                                                                                              25,277                22,599              24,644",
+        "Total current liabilities                                                                                                      16,198                14,074                15,480"
+      ]
+    },
+    {
+      "id": "VWS2025Q2",
+      "ticker": "VWS.CO",
+      "period_end": "2025-06-30",
+      "publication_date": "2025-08-13",
+      "source": "https://mb.cision.com/Public/18886/4217324/b070ce74292dfd9f.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/VWS2025Q2.pdf",
+      "sha256": "cd022b08424006e88720ce0edc94a8f807350dacf53b0f5167b35a89949884cb",
+      "financial_excerpt": "data/eu_interim/sources/wind/VWS2025Q2_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/VWS2025Q2_publication_evidence.txt",
+      "financial_pdf_pages": [
+        4,
+        15,
+        16,
+        17,
+        19
+      ],
+      "publication_pdf_pages": [
+        26
+      ],
+      "checked_statement_rows": [
+        "Operating profit/(loss) (EBIT)                                                                                      57             (185)               77          (252)",
+        "Profit/(loss) for the period                                                                                        34             (156)               39          (231)",
+        "Cash flow from operating activities                                                                                  120                 831               148                 76",
+        "Total assets                                                                                                              25,549                23,617             24,644",
+        "Total current liabilities                                                                                                      17,206                15,246               15,480"
+      ]
+    },
+    {
+      "id": "VWS2025Q3",
+      "ticker": "VWS.CO",
+      "period_end": "2025-09-30",
+      "publication_date": "2025-11-05",
+      "source": "https://mb.cision.com/Public/18886/4261980/abcb531ca9de3ed2.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/VWS2025Q3.pdf",
+      "sha256": "1861f819f9d0cff98453319963fc2c94127b93a90bcb8701725b8421541a3f4f",
+      "financial_excerpt": "data/eu_interim/sources/wind/VWS2025Q3_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/VWS2025Q3_publication_evidence.txt",
+      "financial_pdf_pages": [
+        4,
+        15,
+        16,
+        17,
+        19
+      ],
+      "publication_pdf_pages": [
+        27
+      ],
+      "checked_statement_rows": [
+        "Operating profit/(loss) (EBIT)                                                                                    414                231              491            (21)",
+        "Profit/(loss) for the period                                                                                      304                127              343           (104)",
+        "Cash flow from operating activities                                                                                   840                  89               988                165",
+        "Total assets                                                                                                              25,918                22,921             24,644",
+        "Total current liabilities                                                                                                     17,267                 14,561               15,480"
+      ]
+    },
+    {
+      "id": "VWS2026Q1",
+      "ticker": "VWS.CO",
+      "period_end": "2026-03-31",
+      "publication_date": "2026-05-06",
+      "source": "https://mb.cision.com/Public/18886/4344988/8503066e29d0add4.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/VWS2026Q1.pdf",
+      "sha256": "9e9c46c40ec20e47f9d8c3a15580be237226b64e1b87987d8e2f99284f45d851",
+      "financial_excerpt": "data/eu_interim/sources/wind/VWS2026Q1_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/VWS2026Q1_publication_evidence.txt",
+      "financial_pdf_pages": [
+        4,
+        14,
+        15,
+        16,
+        18
+      ],
+      "publication_pdf_pages": [
+        24
+      ],
+      "checked_statement_rows": [
+        "Operating profit/(loss) (EBIT)                                                                                                                      92                            20",
+        "Profit/(loss) for the period                                                                                                                        70                        5",
+        "Cash flow from operating activities                                                                                                                       (289)                    28",
+        "Total assets                                                                                                                  26,707                25,277              25,732",
+        "Total current liabilities                                                                                                          17,155                 16,198                16,847"
+      ]
+    },
+    {
+      "id": "VWS2026Q2",
+      "ticker": "VWS.CO",
+      "period_end": "2026-06-30",
+      "publication_date": "2026-08-12",
+      "source": "https://storage.googleapis.com/inderes-widgets-prod-assets/vestas/attachments/527d1d38-135d-43c2-897f-a0569ff2818c/260812-45-company-announcement.pdf",
+      "source_class": "original_issuer_consolidated_interim_report",
+      "pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/interim_wind/VWS2026Q2.pdf",
+      "sha256": "28eee840f6f639b5a03a844362a2ccd42f272972e1c9eae0f76385ae2c1aea26",
+      "financial_excerpt": "data/eu_interim/sources/wind/VWS2026Q2_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/wind/VWS2026Q2_publication_evidence.txt",
+      "financial_pdf_pages": [
+        4,
+        14,
+        15,
+        16,
+        18
+      ],
+      "publication_pdf_pages": [
+        25
+      ],
+      "checked_statement_rows": [
+        "Operating profit/(loss) (EBIT)                                                                                     419                 57              511              77",
+        "Profit/(loss) for the period                                                                                       285                 34              355              39",
+        "Cash flow from operating activities                                                                                       419                120               130               148",
+        "Total assets                                                                                                                 26,715                 25,549              25,732",
+        "Total current liabilities                                                                                                          16,995                 17,206                16,847"
+      ]
+    }
+  ]
+}

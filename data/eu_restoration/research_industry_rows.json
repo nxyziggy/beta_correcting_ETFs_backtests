@@ -1,0 +1,697 @@
+[
+  {
+    "ticker": "AMS.SW",
+    "period_end": "2020-12-31",
+    "period_type": "annual",
+    "publication_date": "2021-04-30",
+    "availability_date": "2021-04-30",
+    "availability_basis": "issuer-dated release of this original annual report",
+    "currency": "EUR",
+    "unit": "million",
+    "operating_income": 138,
+    "net_income": -87,
+    "operating_cash_flow": 702,
+    "total_assets": 9963,
+    "current_liabilities": 3052,
+    "income_source": "https://ams-osram.com/documents/20143/3749114/ENG%2BGesch%C3%A4ftsbericht%2Bams%2B2020%2BDS.pdf/63deea0f-89c9-04c4-5713-be8452540734?t=1631521897905",
+    "balance_source": "https://ams-osram.com/documents/20143/3749114/ENG%2BGesch%C3%A4ftsbericht%2Bams%2B2020%2BDS.pdf/63deea0f-89c9-04c4-5713-be8452540734?t=1631521897905",
+    "cashflow_source": "https://ams-osram.com/documents/20143/3749114/ENG%2BGesch%C3%A4ftsbericht%2Bams%2B2020%2BDS.pdf/63deea0f-89c9-04c4-5713-be8452540734?t=1631521897905",
+    "source_class": "primary_original_annual",
+    "publication_date_source": "https://ams-osram.com/news/press-releases/annual-report-2020",
+    "evidence": {
+      "pdf_pages_one_based": {
+        "income": 45,
+        "balance": 46,
+        "cashflow": 46
+      },
+      "statement_labels": {
+        "operating_income": "Result from operations",
+        "net_income": "Net result",
+        "operating_cash_flow": "Cash flows from operating activities",
+        "total_assets": "Total assets",
+        "current_liabilities": "Total current liabilities"
+      }
+    },
+    "notes": [
+      "Original fiscal-year document; use current-year column, not later reports' restated comparative columns.",
+      "Net income includes non-controlling interests, consistent with consolidated operating cashflow.",
+      "Operating cashflow 702 is the sum of reported rounded continuing operations 704 and discontinued operations -2; headline unrounded figure is 701.9. OSRAM consolidated only from July 2020; FY2020 is not full-year pro forma."
+    ]
+  },
+  {
+    "ticker": "AMS.SW",
+    "period_end": "2021-12-31",
+    "period_type": "annual",
+    "publication_date": "2022-04-29",
+    "availability_date": "2022-04-29",
+    "availability_basis": "issuer-dated release of this original annual report",
+    "currency": "EUR",
+    "unit": "million",
+    "operating_income": 197,
+    "net_income": -32,
+    "operating_cash_flow": 792,
+    "total_assets": 9644,
+    "current_liabilities": 3001,
+    "income_source": "https://ams-osram.com/documents/4390887/7186639/ams+OSRAM+ENG+Annual+Report+2021.pdf/bd499ed8-8ad9-ffe9-ea5a-00a4d3d080f2?t=1651243968659",
+    "balance_source": "https://ams-osram.com/documents/4390887/7186639/ams+OSRAM+ENG+Annual+Report+2021.pdf/bd499ed8-8ad9-ffe9-ea5a-00a4d3d080f2?t=1651243968659",
+    "cashflow_source": "https://ams-osram.com/documents/4390887/7186639/ams+OSRAM+ENG+Annual+Report+2021.pdf/bd499ed8-8ad9-ffe9-ea5a-00a4d3d080f2?t=1651243968659",
+    "source_class": "primary_original_annual",
+    "publication_date_source": "https://ams-osram.com/documents/20143/6675042/Ad-hoc_2022_eng%2BAnnual%2BReport%2B2021%2Bf.pdf/4365c9af-9d21-d9e2-209b-fb6ef003633b?t=1651248650181",
+    "evidence": {
+      "pdf_pages_one_based": {
+        "income": 51,
+        "balance": 52,
+        "cashflow": 52
+      },
+      "statement_labels": {
+        "operating_income": "Result from operations",
+        "net_income": "Net result",
+        "operating_cash_flow": "Cash flows from operating activities",
+        "total_assets": "Total assets",
+        "current_liabilities": "Total current liabilities"
+      }
+    },
+    "notes": [
+      "Original fiscal-year document; use current-year column, not later reports' restated comparative columns.",
+      "Net income includes non-controlling interests, consistent with consolidated operating cashflow."
+    ]
+  },
+  {
+    "ticker": "AMS.SW",
+    "period_end": "2022-12-31",
+    "period_type": "annual",
+    "publication_date": "2023-04-27",
+    "availability_date": "2023-04-27",
+    "availability_basis": "issuer-dated release of this original annual report",
+    "currency": "EUR",
+    "unit": "million",
+    "operating_income": -161,
+    "net_income": -444,
+    "operating_cash_flow": 599,
+    "total_assets": 8832,
+    "current_liabilities": 2717,
+    "income_source": "https://ams-osram.com/documents/4390887/7195804/ams+OSRAM+ENG+Annual+Report+2022.pdf/41e30a76-ed35-2d2c-7933-6f1512453b17?t=1682601137245",
+    "balance_source": "https://ams-osram.com/documents/4390887/7195804/ams+OSRAM+ENG+Annual+Report+2022.pdf/41e30a76-ed35-2d2c-7933-6f1512453b17?t=1682601137245",
+    "cashflow_source": "https://ams-osram.com/documents/4390887/7195804/ams+OSRAM+ENG+Annual+Report+2022.pdf/41e30a76-ed35-2d2c-7933-6f1512453b17?t=1682601137245",
+    "source_class": "primary_original_annual",
+    "publication_date_source": "https://ams-osram.com/news/press-releases/annual-report-2022",
+    "evidence": {
+      "pdf_pages_one_based": {
+        "income": 69,
+        "balance": 70,
+        "cashflow": 71
+      },
+      "statement_labels": {
+        "operating_income": "Result from operations",
+        "net_income": "Net result",
+        "operating_cash_flow": "Cash flows from operating activities",
+        "total_assets": "Total assets",
+        "current_liabilities": "Total current liabilities"
+      }
+    },
+    "notes": [
+      "Original fiscal-year document; use current-year column, not later reports' restated comparative columns.",
+      "Net income includes non-controlling interests, consistent with consolidated operating cashflow."
+    ]
+  },
+  {
+    "ticker": "AMS.SW",
+    "period_end": "2023-12-31",
+    "period_type": "annual",
+    "publication_date": "2024-04-26",
+    "availability_date": "2024-04-26",
+    "availability_basis": "issuer-dated release of this original annual report",
+    "currency": "EUR",
+    "unit": "million",
+    "operating_income": -1430,
+    "net_income": -1613,
+    "operating_cash_flow": 674,
+    "total_assets": 7401,
+    "current_liabilities": 2455,
+    "income_source": "https://ams-osram.com/documents/4390887/4391329/ams%20OSRAM%20EN%20Annual%20Report%202023.pdf/d73eb460-5fc0-093b-159f-d307d804aca1?t=1713257897189",
+    "balance_source": "https://ams-osram.com/documents/4390887/4391329/ams%20OSRAM%20EN%20Annual%20Report%202023.pdf/d73eb460-5fc0-093b-159f-d307d804aca1?t=1713257897189",
+    "cashflow_source": "https://ams-osram.com/documents/4390887/4391329/ams%20OSRAM%20EN%20Annual%20Report%202023.pdf/d73eb460-5fc0-093b-159f-d307d804aca1?t=1713257897189",
+    "source_class": "primary_original_annual",
+    "publication_date_source": "https://ams-osram.com/news/press-releases/annual-report-2023",
+    "evidence": {
+      "pdf_pages_one_based": {
+        "income": 81,
+        "balance": 82,
+        "cashflow": 83
+      },
+      "statement_labels": {
+        "operating_income": "Result from operations",
+        "net_income": "Net result",
+        "operating_cash_flow": "Cash flows from operating activities",
+        "total_assets": "Total assets",
+        "current_liabilities": "Total current liabilities"
+      }
+    },
+    "notes": [
+      "Original fiscal-year document; use current-year column, not later reports' restated comparative columns.",
+      "Net income includes non-controlling interests, consistent with consolidated operating cashflow.",
+      "Original operating cashflow 674; the later comparative 493 in FY2024 and the vendor file is not substituted at the FY2023 publication date."
+    ]
+  },
+  {
+    "ticker": "AMS.SW",
+    "period_end": "2024-12-31",
+    "period_type": "annual",
+    "publication_date": "2025-03-21",
+    "availability_date": "2025-03-21",
+    "availability_basis": "issuer-dated release of this original annual report",
+    "currency": "EUR",
+    "unit": "million",
+    "operating_income": -547,
+    "net_income": -785,
+    "operating_cash_flow": 435,
+    "total_assets": 6903,
+    "current_liabilities": 2514,
+    "income_source": "https://ams-osram.com/documents/d/ams-osram/annualreport2024",
+    "balance_source": "https://ams-osram.com/documents/d/ams-osram/annualreport2024",
+    "cashflow_source": "https://ams-osram.com/documents/d/ams-osram/annualreport2024",
+    "source_class": "primary_original_annual",
+    "publication_date_source": "https://ams-osram.com/news/press-releases/annual-report-2024",
+    "evidence": {
+      "pdf_pages_one_based": {
+        "income": 147,
+        "balance": 148,
+        "cashflow": 149
+      },
+      "statement_labels": {
+        "operating_income": "Result from operations",
+        "net_income": "Net result",
+        "operating_cash_flow": "Cash flows from operating activities",
+        "total_assets": "Total assets",
+        "current_liabilities": "Total current liabilities"
+      }
+    },
+    "notes": [
+      "Original fiscal-year document; use current-year column, not later reports' restated comparative columns.",
+      "Net income includes non-controlling interests, consistent with consolidated operating cashflow."
+    ]
+  },
+  {
+    "ticker": "AMS.SW",
+    "period_end": "2025-12-31",
+    "period_type": "annual",
+    "publication_date": "2026-03-20",
+    "availability_date": "2026-03-20",
+    "availability_basis": "issuer-dated release of this original annual report",
+    "currency": "EUR",
+    "unit": "million",
+    "operating_income": 102,
+    "net_income": -129,
+    "operating_cash_flow": 237,
+    "total_assets": 6812,
+    "current_liabilities": 2028,
+    "income_source": "https://ams-osram.com/documents/d/ams-osram/eng-geschafts-und-nachhaltigkeitsbericht-ams-osram-2025",
+    "balance_source": "https://ams-osram.com/documents/d/ams-osram/eng-geschafts-und-nachhaltigkeitsbericht-ams-osram-2025",
+    "cashflow_source": "https://ams-osram.com/documents/d/ams-osram/eng-geschafts-und-nachhaltigkeitsbericht-ams-osram-2025",
+    "source_class": "primary_original_annual",
+    "publication_date_source": "https://ams-osram.com/news/press-releases/annual-report-2025",
+    "evidence": {
+      "pdf_pages_one_based": {
+        "income": 137,
+        "balance": 138,
+        "cashflow": 139
+      },
+      "statement_labels": {
+        "operating_income": "Result from operations",
+        "net_income": "Net result",
+        "operating_cash_flow": "Cash flows from operating activities",
+        "total_assets": "Total assets",
+        "current_liabilities": "Total current liabilities and provisions"
+      }
+    },
+    "notes": [
+      "Original fiscal-year document; use current-year column, not later reports' restated comparative columns.",
+      "Net income includes non-controlling interests, consistent with consolidated operating cashflow."
+    ]
+  },
+  {
+    "ticker": "ENR.DE",
+    "period_end": "2020-09-30",
+    "period_type": "annual",
+    "publication_date": "2020-12-07",
+    "availability_date": "2020-12-07",
+    "availability_basis": "issuer-dated release of this original annual report",
+    "currency": "EUR",
+    "unit": "million",
+    "operating_income": -1991,
+    "net_income": -1859,
+    "operating_cash_flow": 1601,
+    "total_assets": 43032,
+    "current_liabilities": 21669,
+    "income_source": "https://assets.siemens-energy.com/dam/aacb6500-05f7-4223-95a7-b03500a83386/2020-12-07-Siemens-Energy-AG-Annual-Report-2020-pdf_Original%20file.pdf",
+    "balance_source": "https://assets.siemens-energy.com/dam/aacb6500-05f7-4223-95a7-b03500a83386/2020-12-07-Siemens-Energy-AG-Annual-Report-2020-pdf_Original%20file.pdf",
+    "cashflow_source": "https://assets.siemens-energy.com/dam/aacb6500-05f7-4223-95a7-b03500a83386/2020-12-07-Siemens-Energy-AG-Annual-Report-2020-pdf_Original%20file.pdf",
+    "source_class": "primary_original_annual",
+    "publication_date_source": "https://www.siemens-energy.com/global/en/home/investor-relations/publications-ad-hoc.html",
+    "evidence": {
+      "pdf_pages_one_based": {
+        "income": 82,
+        "balance": 84,
+        "cashflow": 85
+      },
+      "statement_labels": {
+        "operating_income": "Operating income (loss)",
+        "net_income": "Net income (loss)",
+        "operating_cash_flow": "Cash flows from operating activities",
+        "total_assets": "Total assets",
+        "current_liabilities": "Total current liabilities"
+      }
+    },
+    "notes": [
+      "Original fiscal-year document; use current-year column, not later reports' restated comparative columns.",
+      "Net income includes non-controlling interests, consistent with consolidated operating cashflow."
+    ]
+  },
+  {
+    "ticker": "ENR.DE",
+    "period_end": "2021-09-30",
+    "period_type": "annual",
+    "publication_date": "2021-12-07",
+    "availability_date": "2021-12-07",
+    "availability_basis": "issuer-dated release of this original annual report",
+    "currency": "EUR",
+    "unit": "million",
+    "operating_income": -357,
+    "net_income": -560,
+    "operating_cash_flow": 1946,
+    "total_assets": 44141,
+    "current_liabilities": 22602,
+    "income_source": "https://assets.siemens-energy.com/dam/8645bda3-d1f6-4bd3-bdb8-b03400a3ffc5/2021-12-07-Siemens-Energy-AG-Annual-Report-2021-pdf_Original%20file.pdf",
+    "balance_source": "https://assets.siemens-energy.com/dam/8645bda3-d1f6-4bd3-bdb8-b03400a3ffc5/2021-12-07-Siemens-Energy-AG-Annual-Report-2021-pdf_Original%20file.pdf",
+    "cashflow_source": "https://assets.siemens-energy.com/dam/8645bda3-d1f6-4bd3-bdb8-b03400a3ffc5/2021-12-07-Siemens-Energy-AG-Annual-Report-2021-pdf_Original%20file.pdf",
+    "source_class": "primary_original_annual",
+    "publication_date_source": "https://www.siemens-energy.com/global/en/home/investor-relations/publications-ad-hoc.html",
+    "evidence": {
+      "pdf_pages_one_based": {
+        "income": 64,
+        "balance": 66,
+        "cashflow": 67
+      },
+      "statement_labels": {
+        "operating_income": "Operating income (loss)",
+        "net_income": "Net income (loss)",
+        "operating_cash_flow": "Cash flows from operating activities",
+        "total_assets": "Total assets",
+        "current_liabilities": "Total current liabilities"
+      }
+    },
+    "notes": [
+      "Original fiscal-year document; use current-year column, not later reports' restated comparative columns.",
+      "Net income includes non-controlling interests, consistent with consolidated operating cashflow."
+    ]
+  },
+  {
+    "ticker": "ENR.DE",
+    "period_end": "2022-09-30",
+    "period_type": "annual",
+    "publication_date": "2022-12-12",
+    "availability_date": "2022-12-12",
+    "availability_basis": "issuer-dated release of this original annual report",
+    "currency": "EUR",
+    "unit": "million",
+    "operating_income": -489,
+    "net_income": -647,
+    "operating_cash_flow": 2218,
+    "total_assets": 51173,
+    "current_liabilities": 27941,
+    "income_source": "https://assets.siemens-energy.com/dam/a53b116d-b976-47cb-b9c5-b037009bb85c/2022-12-12-Siemens-Energy-AG-Annual-Report-2022-pdf_Original%20file.pdf",
+    "balance_source": "https://assets.siemens-energy.com/dam/a53b116d-b976-47cb-b9c5-b037009bb85c/2022-12-12-Siemens-Energy-AG-Annual-Report-2022-pdf_Original%20file.pdf",
+    "cashflow_source": "https://assets.siemens-energy.com/dam/a53b116d-b976-47cb-b9c5-b037009bb85c/2022-12-12-Siemens-Energy-AG-Annual-Report-2022-pdf_Original%20file.pdf",
+    "source_class": "primary_original_annual",
+    "publication_date_source": "https://www.siemens-energy.com/global/en/home/investor-relations/publications-ad-hoc.html",
+    "evidence": {
+      "pdf_pages_one_based": {
+        "income": 65,
+        "balance": 67,
+        "cashflow": 68
+      },
+      "statement_labels": {
+        "operating_income": "Operating income (loss)",
+        "net_income": "Net income (loss)",
+        "operating_cash_flow": "Cash flows from operating activities",
+        "total_assets": "Total assets",
+        "current_liabilities": "Total current liabilities"
+      }
+    },
+    "notes": [
+      "Original fiscal-year document; use current-year column, not later reports' restated comparative columns.",
+      "Net income includes non-controlling interests, consistent with consolidated operating cashflow.",
+      "Original assets 51173, current liabilities 27941, net income -647; later FY2023 comparisons restate these quantities."
+    ]
+  },
+  {
+    "ticker": "ENR.DE",
+    "period_end": "2023-09-30",
+    "period_type": "annual",
+    "publication_date": "2023-12-06",
+    "availability_date": "2023-12-06",
+    "availability_basis": "issuer-dated release of this original annual report",
+    "currency": "EUR",
+    "unit": "million",
+    "operating_income": -3257,
+    "net_income": -4588,
+    "operating_cash_flow": 1622,
+    "total_assets": 47907,
+    "current_liabilities": 31599,
+    "income_source": "https://assets.siemens-energy.com/dam/41a02640-9d16-4610-af08-b0ce00e67556/2023-12-06-Siemens-Energy-AG-Annual-Report-2023-pdf_Original%20file.pdf",
+    "balance_source": "https://assets.siemens-energy.com/dam/41a02640-9d16-4610-af08-b0ce00e67556/2023-12-06-Siemens-Energy-AG-Annual-Report-2023-pdf_Original%20file.pdf",
+    "cashflow_source": "https://assets.siemens-energy.com/dam/41a02640-9d16-4610-af08-b0ce00e67556/2023-12-06-Siemens-Energy-AG-Annual-Report-2023-pdf_Original%20file.pdf",
+    "source_class": "primary_original_annual",
+    "publication_date_source": "https://www.siemens-energy.com/global/en/home/investor-relations/publications-ad-hoc.html",
+    "evidence": {
+      "pdf_pages_one_based": {
+        "income": 86,
+        "balance": 88,
+        "cashflow": 89
+      },
+      "statement_labels": {
+        "operating_income": "Operating income (loss)",
+        "net_income": "Net income (loss)",
+        "operating_cash_flow": "Cash flows from operating activities",
+        "total_assets": "Total assets",
+        "current_liabilities": "Total current liabilities"
+      }
+    },
+    "notes": [
+      "Original fiscal-year document; use current-year column, not later reports' restated comparative columns.",
+      "Net income includes non-controlling interests, consistent with consolidated operating cashflow."
+    ]
+  },
+  {
+    "ticker": "ENR.DE",
+    "period_end": "2024-09-30",
+    "period_type": "annual",
+    "publication_date": "2024-12-12",
+    "availability_date": "2024-12-12",
+    "availability_basis": "issuer-dated release of this original annual report",
+    "currency": "EUR",
+    "unit": "million",
+    "operating_income": 2125,
+    "net_income": 1335,
+    "operating_cash_flow": 2889,
+    "total_assets": 50874,
+    "current_liabilities": 33471,
+    "income_source": "https://assets.siemens-energy.com/dam/6974f976-432a-4ed9-ba61-b24301167dc8/A-Siemens-Energy-Annual-Report-2024-pdf_Original%20file.pdf",
+    "balance_source": "https://assets.siemens-energy.com/dam/6974f976-432a-4ed9-ba61-b24301167dc8/A-Siemens-Energy-Annual-Report-2024-pdf_Original%20file.pdf",
+    "cashflow_source": "https://assets.siemens-energy.com/dam/6974f976-432a-4ed9-ba61-b24301167dc8/A-Siemens-Energy-Annual-Report-2024-pdf_Original%20file.pdf",
+    "source_class": "primary_original_annual",
+    "publication_date_source": "https://www.siemens-energy.com/global/en/home/investor-relations/publications-ad-hoc.html",
+    "evidence": {
+      "pdf_pages_one_based": {
+        "income": 87,
+        "balance": 89,
+        "cashflow": 90
+      },
+      "statement_labels": {
+        "operating_income": "Operating income (loss)",
+        "net_income": "Net income (loss)",
+        "operating_cash_flow": "Cash flows from operating activities",
+        "total_assets": "Total assets",
+        "current_liabilities": "Total current liabilities"
+      }
+    },
+    "notes": [
+      "Original fiscal-year document; use current-year column, not later reports' restated comparative columns.",
+      "Net income includes non-controlling interests, consistent with consolidated operating cashflow."
+    ]
+  },
+  {
+    "ticker": "ENR.DE",
+    "period_end": "2025-09-30",
+    "period_type": "annual",
+    "publication_date": "2025-12-11",
+    "availability_date": "2025-12-11",
+    "availability_basis": "issuer-dated release of this original annual report",
+    "currency": "EUR",
+    "unit": "million",
+    "operating_income": 2149,
+    "net_income": 1685,
+    "operating_cash_flow": 5821,
+    "total_assets": 56637,
+    "current_liabilities": 38491,
+    "income_source": "https://assets.siemens-energy.com/dam/32b27e9a-af91-4915-8b51-b3af012d0d98/A-Siemens_Energy_Annual_Report_2025-pdf_Original%20file.pdf",
+    "balance_source": "https://assets.siemens-energy.com/dam/32b27e9a-af91-4915-8b51-b3af012d0d98/A-Siemens_Energy_Annual_Report_2025-pdf_Original%20file.pdf",
+    "cashflow_source": "https://assets.siemens-energy.com/dam/32b27e9a-af91-4915-8b51-b3af012d0d98/A-Siemens_Energy_Annual_Report_2025-pdf_Original%20file.pdf",
+    "source_class": "primary_original_annual",
+    "publication_date_source": "https://www.siemens-energy.com/global/en/home/investor-relations/publications-ad-hoc.html",
+    "evidence": {
+      "pdf_pages_one_based": {
+        "income": 148,
+        "balance": 150,
+        "cashflow": 151
+      },
+      "statement_labels": {
+        "operating_income": "Operating income (loss)",
+        "net_income": "Net income (loss)",
+        "operating_cash_flow": "Cash flows from operating activities",
+        "total_assets": "Total assets",
+        "current_liabilities": "Total current liabilities"
+      }
+    },
+    "notes": [
+      "Original fiscal-year document; use current-year column, not later reports' restated comparative columns.",
+      "Net income includes non-controlling interests, consistent with consolidated operating cashflow."
+    ]
+  },
+  {
+    "ticker": "SAF.PA",
+    "period_end": "2020-12-31",
+    "period_type": "annual",
+    "publication_date": "2021-04-01",
+    "availability_date": "2021-04-01",
+    "availability_basis": "issuer-dated release of this original annual report",
+    "currency": "EUR",
+    "unit": "million",
+    "operating_income": 927,
+    "net_income": 386,
+    "operating_cash_flow": 1866,
+    "total_assets": 39531,
+    "current_liabilities": 19026,
+    "income_source": "https://www.safran-group.com/sites/default/files/2021-09/opt_mel_safr_deu_2020_production_uk_202104011830.pdf",
+    "balance_source": "https://www.safran-group.com/sites/default/files/2021-09/opt_mel_safr_deu_2020_production_uk_202104011830.pdf",
+    "cashflow_source": "https://www.safran-group.com/sites/default/files/2021-09/opt_mel_safr_deu_2020_production_uk_202104011830.pdf",
+    "source_class": "primary_original_annual",
+    "publication_date_source": "https://www.safran-group.com/finance/regulated-information",
+    "evidence": {
+      "pdf_pages_one_based": {
+        "income": 128,
+        "balance": 130,
+        "cashflow": 132
+      },
+      "statement_labels": {
+        "operating_income": "Profit from operations",
+        "net_income": "Profit (loss) for the period",
+        "operating_cash_flow": "Cash flow from operating activities, TOTAL I",
+        "total_assets": "Total assets",
+        "current_liabilities": "Current liabilities"
+      }
+    },
+    "notes": [
+      "Original fiscal-year document; use current-year column, not later reports' restated comparative columns.",
+      "Net income includes non-controlling interests, consistent with consolidated operating cashflow.",
+      "Use consolidated IFRS profit from operations, not adjusted profit or recurring operating income. Current liabilities uses the reported subtotal; separately presented liabilities held for sale are excluded."
+    ]
+  },
+  {
+    "ticker": "SAF.PA",
+    "period_end": "2021-12-31",
+    "period_type": "annual",
+    "publication_date": "2022-04-01",
+    "availability_date": "2022-04-01",
+    "availability_basis": "issuer-dated release of this original annual report",
+    "currency": "EUR",
+    "unit": "million",
+    "operating_income": 864,
+    "net_income": 68,
+    "operating_cash_flow": 2436,
+    "total_assets": 41716,
+    "current_liabilities": 19828,
+    "income_source": "https://www.safran-group.com/sites/default/files/2022-04/SAFR_DEU_2021_PRODUCTION_US_MEL.pdf",
+    "balance_source": "https://www.safran-group.com/sites/default/files/2022-04/SAFR_DEU_2021_PRODUCTION_US_MEL.pdf",
+    "cashflow_source": "https://www.safran-group.com/sites/default/files/2022-04/SAFR_DEU_2021_PRODUCTION_US_MEL.pdf",
+    "source_class": "primary_original_annual",
+    "publication_date_source": "https://www.safran-group.com/finance/regulated-information",
+    "evidence": {
+      "pdf_pages_one_based": {
+        "income": 126,
+        "balance": 128,
+        "cashflow": 130
+      },
+      "statement_labels": {
+        "operating_income": "Profit from operations",
+        "net_income": "Profit (loss) for the period",
+        "operating_cash_flow": "Cash flow from operating activities, TOTAL I",
+        "total_assets": "Total assets",
+        "current_liabilities": "Current liabilities"
+      }
+    },
+    "notes": [
+      "Original fiscal-year document; use current-year column, not later reports' restated comparative columns.",
+      "Net income includes non-controlling interests, consistent with consolidated operating cashflow.",
+      "Use consolidated IFRS profit from operations, not adjusted profit or recurring operating income. Current liabilities uses the reported subtotal; separately presented liabilities held for sale are excluded."
+    ]
+  },
+  {
+    "ticker": "SAF.PA",
+    "period_end": "2022-12-31",
+    "period_type": "annual",
+    "publication_date": "2023-04-03",
+    "availability_date": "2023-04-03",
+    "availability_basis": "issuer-dated release of this original annual report",
+    "currency": "EUR",
+    "unit": "million",
+    "operating_income": 2043,
+    "net_income": -2426,
+    "operating_cash_flow": 3545,
+    "total_assets": 46828,
+    "current_liabilities": 27427,
+    "income_source": "https://www.safran-group.com/sites/default/files/2023-04/SAFR_PDF_MEL_UK_DEU_2022.pdf",
+    "balance_source": "https://www.safran-group.com/sites/default/files/2023-04/SAFR_PDF_MEL_UK_DEU_2022.pdf",
+    "cashflow_source": "https://www.safran-group.com/sites/default/files/2023-04/SAFR_PDF_MEL_UK_DEU_2022.pdf",
+    "source_class": "primary_original_annual",
+    "publication_date_source": "https://www.safran-group.com/finance/regulated-information",
+    "evidence": {
+      "pdf_pages_one_based": {
+        "income": 128,
+        "balance": 130,
+        "cashflow": 132
+      },
+      "statement_labels": {
+        "operating_income": "Profit from operations",
+        "net_income": "Profit (loss) for the period",
+        "operating_cash_flow": "Cash flow from operating activities, TOTAL I",
+        "total_assets": "Total assets",
+        "current_liabilities": "Current liabilities"
+      }
+    },
+    "notes": [
+      "Original fiscal-year document; use current-year column, not later reports' restated comparative columns.",
+      "Net income includes non-controlling interests, consistent with consolidated operating cashflow.",
+      "Use consolidated IFRS profit from operations, not adjusted profit or recurring operating income. Current liabilities uses the reported subtotal; separately presented liabilities held for sale are excluded."
+    ]
+  },
+  {
+    "ticker": "SAF.PA",
+    "period_end": "2023-12-31",
+    "period_type": "annual",
+    "publication_date": "2024-03-29",
+    "availability_date": "2024-03-29",
+    "availability_basis": "issuer-dated release of this original annual report",
+    "currency": "EUR",
+    "unit": "million",
+    "operating_income": 2798,
+    "net_income": 3520,
+    "operating_cash_flow": 4270,
+    "total_assets": 50468,
+    "current_liabilities": 30787,
+    "income_source": "https://www.safran-group.com/sites/default/files/2024-03/2023-safran-universal-registration-document.pdf",
+    "balance_source": "https://www.safran-group.com/sites/default/files/2024-03/2023-safran-universal-registration-document.pdf",
+    "cashflow_source": "https://www.safran-group.com/sites/default/files/2024-03/2023-safran-universal-registration-document.pdf",
+    "source_class": "primary_original_annual",
+    "publication_date_source": "https://www.safran-group.com/finance/regulated-information",
+    "evidence": {
+      "pdf_pages_one_based": {
+        "income": 146,
+        "balance": 149,
+        "cashflow": 150
+      },
+      "statement_labels": {
+        "operating_income": "Profit from operations",
+        "net_income": "Profit (loss) for the period",
+        "operating_cash_flow": "Cash flow from operating activities, TOTAL I",
+        "total_assets": "Total assets",
+        "current_liabilities": "Current liabilities"
+      }
+    },
+    "notes": [
+      "Original fiscal-year document; use current-year column, not later reports' restated comparative columns.",
+      "Net income includes non-controlling interests, consistent with consolidated operating cashflow.",
+      "Use consolidated IFRS profit from operations, not adjusted profit or recurring operating income. Current liabilities uses the reported subtotal; separately presented liabilities held for sale are excluded.",
+      "Original current-liability subtotal 30787; FY2024 comparative reclassifies 10 to noncurrent liabilities and shows 30777."
+    ]
+  },
+  {
+    "ticker": "SAF.PA",
+    "period_end": "2024-12-31",
+    "period_type": "annual",
+    "publication_date": "2025-03-31",
+    "availability_date": "2025-03-31",
+    "availability_basis": "issuer-dated release of this original annual report",
+    "currency": "EUR",
+    "unit": "million",
+    "operating_income": 4192,
+    "net_income": -575,
+    "operating_cash_flow": 4733,
+    "total_assets": 55012,
+    "current_liabilities": 37440,
+    "income_source": "https://www.safran-group.com/sites/default/files/2025-04/2024-safran-universal-registration-document.pdf",
+    "balance_source": "https://www.safran-group.com/sites/default/files/2025-04/2024-safran-universal-registration-document.pdf",
+    "cashflow_source": "https://www.safran-group.com/sites/default/files/2025-04/2024-safran-universal-registration-document.pdf",
+    "source_class": "primary_original_annual",
+    "publication_date_source": "https://www.safran-group.com/finance/regulated-information",
+    "evidence": {
+      "pdf_pages_one_based": {
+        "income": 189,
+        "balance": 191,
+        "cashflow": 193
+      },
+      "statement_labels": {
+        "operating_income": "Profit from operations",
+        "net_income": "Profit (loss) for the period",
+        "operating_cash_flow": "Cash flow from operating activities, TOTAL I",
+        "total_assets": "Total assets",
+        "current_liabilities": "Current liabilities"
+      }
+    },
+    "notes": [
+      "Original fiscal-year document; use current-year column, not later reports' restated comparative columns.",
+      "Net income includes non-controlling interests, consistent with consolidated operating cashflow.",
+      "Use consolidated IFRS profit from operations, not adjusted profit or recurring operating income. Current liabilities uses the reported subtotal; separately presented liabilities held for sale are excluded."
+    ]
+  },
+  {
+    "ticker": "SAF.PA",
+    "period_end": "2025-12-31",
+    "period_type": "annual",
+    "publication_date": "2026-02-13",
+    "availability_date": "2026-02-13",
+    "availability_basis": "issuer results archive dated 2026-02-13 links this consolidated financial statements PDF",
+    "currency": "EUR",
+    "unit": "million",
+    "operating_income": 4308,
+    "net_income": 7286,
+    "operating_cash_flow": 5721,
+    "total_assets": 61814,
+    "current_liabilities": 41121,
+    "income_source": "https://www.safran-group.com/download/media/450394",
+    "balance_source": "https://www.safran-group.com/download/media/450394",
+    "cashflow_source": "https://www.safran-group.com/download/media/450394",
+    "source_class": "primary_original_annual",
+    "publication_date_source": "https://www.safran-group.com/finance/publications-results?type%5B0%5D=result",
+    "evidence": {
+      "pdf_pages_one_based": {
+        "income": 9,
+        "balance": 11,
+        "cashflow": 13
+      },
+      "statement_labels": {
+        "operating_income": "Profit from operations",
+        "net_income": "Profit (loss) for the period",
+        "operating_cash_flow": "Cash flow from operating activities, TOTAL I",
+        "total_assets": "Total assets",
+        "current_liabilities": "Current liabilities"
+      }
+    },
+    "notes": [
+      "Original fiscal-year document; use current-year column, not later reports' restated comparative columns.",
+      "Net income includes non-controlling interests, consistent with consolidated operating cashflow.",
+      "Use consolidated IFRS profit from operations, not adjusted profit or recurring operating income. Current liabilities uses the reported subtotal; separately presented liabilities held for sale are excluded.",
+      "Original February consolidated statements, published with FY2025 results. Audit procedures completed but auditors report scheduled after March board meeting; source retrieved by web PDF parser because local download endpoint returned HTTP403."
+    ]
+  }
+]

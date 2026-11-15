@@ -1,0 +1,125 @@
+PDF PAGE 56
+Consolidated Statement of Comprehensive Income                                                               Consolidated Statement of Financial Position
+In EUR '000                                                 Note              2022                2021       In EUR '000                                                   Note   31 December 2022    31 December 2021
+Continuing operations                                                                                        Assets
+Revenue                                                      8              439,876             249,679      Non-current assets
+                                                                            439,876             249,679      Property, plant and equipment                                  16               33,556                  24,955
+                                                                                                             Intangible assets and goodwill                                 17               23,533                  17,848
+Operating expenses                                                                                           Deferred tax assets                                            18                   —                       —
+Costs of raw materials and consumables                                     (262,957)          (148,594)      Other financial assets                                         19                1,589                    316
+Costs of outsourced work and other external costs                           (23,407)            (11,287)     Total non-current assets                                                        58,678                  43,119
+Personnel expenses                                           9              (53,749)            (40,051)
+                                                                                                             Current assets
+Amortisation on intangible assets                            17              (3,883)             (3,408)
+                                                                                                             Inventories                                                    20              131,815                  41,582
+Depreciation on property, plant and equipment                16              (6,275)             (5,105)
+                                                                                                             Trade and other receivables                                    22              107,686                  62,197
+Impairment loss on trade receivables and contract assets     3                 (563)                 50
+                                                                                                             Current tax receivables                                                             54                      9
+Other operating costs                                        10             (21,296)            (13,594)
+                                                                                                             Cash and cash equivalents                                      23               22,841                  47,277
+                                                                           (372,130)          (221,989)
+                                                                                                             Total current assets                                                           262,396                 151,065
+
+Operating profit                                                             67,746              27,690      Total assets                                                                   321,074                 194,184
+
+Finance income                                               12                   3                      4   Group equity                                                   24
+Finance costs                                                12                (976)              (996)      Share capital                                                                    2,175                   2,175
+Finance income (costs) - net                                                   (973)              (992)      Share premium                                                                   50,651                  50,429
+                                                                                                             Retained earnings                                                               44,710                  22,265
+Profit (loss) before income tax                                              66,773              26,698      Result for the year                                                             53,047                  21,450
+Income tax expense                                           13             (13,726)             (5,248)     Total group equity                                                             150,583                  96,319
+Profit (loss) for the period                                                 53,047              21,450
+                                                                                                             Liabilities
+                                                                                                             Non-current liabilities
+Other comprehensive income for the period                                        —                   —
+                                                                                                             Borrowings                                                     25               12,793                  13,639
+Total comprehensive income for the period                                    53,047              21,450
+                                                                                                             Deferred tax liabilities                                       18                5,742                   4,221
+                                                                                                             Provisions                                                     26                   47                     56
+Total comprehensive income for the period
+                                                                             53,047              21,450      Total non-current liabilities                                                   18,582                  17,916
+(attributable to the owners of the Company)
+
+                                                                                                             Current liabilities
+Earnings per share for profit attributable
+                                                             14                                              Trade and other payables                                       27              136,077                  71,384
+to the ordinary equity holders
+Basic earnings per share                                                       2.45                0.99      Current tax liabilities                                                         10,221                   3,804
+Diluted earnings per share                                                     2.43                0.99      Bank overdrafts                                                23                   —                       —
+                                                                                                             Borrowings                                                     25                5,611                   4,761
+Weighted average number of outstanding                                                                       Total current liabilities                                                      151,909                  79,949
+                                                             14
+ordinary shares                                                                                              Total liabilities                                                              170,491                  97,865
+Basic                                                                    21,695,256          21,694,584
+Diluted                                                                  21,786,054          21,774,962      Total equity and liabilities                                                   321,074                 194,184
+
+
+The above statement of comprehensive income should be read in conjunction with the accompanying notes.       The above statement of financial position should be read in conjunction with the accompanying notes.
+
+
+
+
+56        Alfen - Annual Report 2022
+
+
+PDF PAGE 57
+Consolidated Statement of Changes in Equity                                                                                                                  Consolidated Statement of Cash Flows
+ In EUR '000                                                                Note                     Attributable to equity owners of Alfen N.V.             In EUR '000                                                        Note            2022          2021
+                                                                                                                                         Result              Cash flows from operating activities
+                                                                                            Share              Share         Retained                Total
+                                                                                                                                        for the              Operating profit                                                                  67,746        27,690
+                                                                                          capital *         premium          earnings               equity
+                                                                                                                                          year
+                                                                                                                                                             Adjustments for:
+ Balance - 1 January 2021                                                                     2,175             50,429         9,637    11,987      74,228
+                                                                                                                                                             - Depreciation, amortisation and impairment expenses              16/17           10,158         8,514
+                                                                                                                                                             - Change in provision                                               26                (9)           14
+ Profit (loss) for the period                                                                      —                     —        —     21,450      21,450
+                                                                                                                                                             - Change other financial assets                                     19            (1,273)         (179)
+ Other comprehensive income (loss)                                                                 —                     —        —          —          —
+                                                                                                                                                             - Share-based payment expenses                                      11               995           641
+ Total comprehensive income (loss) for the period                                                  —                     —        —     21,450      21,450
+                                                                                                                                                             Changes in operating assets and liabilities:
+                                                                                                                                                             - (Increase)/decrease inventories                                   20           (90,233)      (21,596)
+ Transactions with owners in their capacity as owners
+                                                                                                                                                             - (Increase)/decrease contract balances                             22            12,001         6,781
+ Issuance of ordinary shares, net of tax                                                           —                     —        —          —          —
+                                                                                                                                                             - (Increase)/decrease trade and other receivables                   22           (34,741)      (28,275)
+ Purchase of treasury shares                                                                       —                     —        —          —          —
+                                                                                                                                                             - Increase/(decrease) trade and other payables                      27            42,079        21,026
+ Share-based payment transactions                                             11                   —                     —       641         —        641
+                                                                                                                                                             Cash generated from operations                                                     6,723        14,616
+ Dividend                                                                                          —                     —        —          —          —
+                                                                                                                                                             Income taxes (paid)/ received                                       13            (5,567)       (3,452)
+ Allocation of profit (loss)                                                                       —                     —    11,987    (11,987)        —
+                                                                                                                                                             Interest (paid)                                                   12/25             (730)         (630)
+ Balance - 31 December 2021                                                                   2,175             50,429        22,265    21,450      96,319
+                                                                                                                                                             Interest received                                                   12                 3             4
+
+ Profit (loss) for the period                                                                      —                     —        —     53,047      53,047   Net cash inflow/ (outflow) from operating activities                                 429        10,538
+
+ Other comprehensive income (loss)                                                                 —                     —        —          —          —
+ Total comprehensive income (loss) for the period                                                  —                     —        —     53,047      53,047   Cash flows from investing activities
+                                                                                                                                                             Payment for property, plant and equipment                           16           (11,457)       (4,028)
+ Transactions with owners in their capacity as owners                                                                                                        Payment for intangible assets                                       17            (9,568)       (7,654)
+ Issuance of ordinary shares, net of tax                                                           —                     —        —          —          —    Net cash inflow/ (outflow) from investing activities                             (21,025)      (11,682)
+ Purchase of treasury shares                                                                       —                222           —          —        222
+ Share-based payment transactions                                             11                   —                     —       995         —        995    Cash flows from financing activities
+ Dividend                                                                                          —                     —        —          —          —    Proceeds from issuance of shares                                                      —             —
+ Allocation of profit (loss)                                                                       —                     —    21,450    (21,450)        —    Purchase of treasury shares                                                          (42)           —
+ Balance - 31 December 2022                                                   24              2,175             50,651        44,710    53,047     150,583   Repayments of borrowings                                           4/25           (3,798)       (3,923)
+* The outstanding ordinary shares of 21,750,000 includes 54,643 treasury shares as per 31 December 2022 (2021: 55,416)                                       Dividends paid to company's shareholders                                              —             —
+                                                                                                                                                             Net cash inflow/ (outflow) from financing activities                              (3,840)       (3,923)
+The above statement of changes in equity should be read in conjunction with the accompanying notes.
+
+                                                                                                                                                             Net increase/ (decrease) in cash and cash equivalents                            (24,436)       (5,067)
+                                                                                                                                                             Cash and cash equivalents at the beginning of the year                            47,277        52,344
+                                                                                                                                                             Cash and cash equivalents at the end of the year                                  22,841        47,277
+
+                                                                                                                                                             The above statement of cash flows should be read in conjunction with the accompanying notes.
+
+
+
+
+57            Alfen - Annual Report 2022

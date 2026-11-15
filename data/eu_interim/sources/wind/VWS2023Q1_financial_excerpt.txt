@@ -1,0 +1,100 @@
+Source: https://mb.cision.com/Public/18886/3767108/86fa05eac0bdcb8f.pdf
+Source ID: VWS2023Q1
+Publication date: 2023-05-10
+Original issuer PDF; extracted table context, not reformatted financial data.
+
+=== Original PDF page 4 ===
+Q1                  Q1)                  FY)
+    mEUR                                                                                                                             2023                 2022                 2022
+    Financial highlights
+    Income statement
+    Revenue                                                                                                                           2,829                2,485              14,486
+    Gross profit                                                                                                                        188                    22                 118
+    Operating profit/(loss) before amortisation, depreciation and impairment   (EBITDA) before
+    special items                                                                                                                       236                  (20)                (63)
+    Operating profit/(loss) (EBIT) before special items                                                                                   40                (329)            (1,152)
+    Operating profit/(loss) before amortisation, depreciation and impairment (EBITDA)                                                   262                 (585)               (437)
+    Operating profit/(loss) (EBIT)                                                                                                        66                (894)            (1,596)
+    Net operating profit after tax (NOPAT)                                                                                                34                (769)            (1,071)
+    Net financial items                                                                                                                  (34)                   6               (110)
+    Profit/(loss) before tax                                                                                                              31                (889)            (1,696)
+    Profit/(loss) for the period                                                                                                          16                (765)            (1,572)
+    Balance sheet
+    Cash flow statement
+    Cash flow from operating activities                                                                                               (974)                 (928)               (195)
+    Cash flow from investing activities before acquisitions of subsidiaries, joint ventures,
+Vestas Wind Systems A/S                                                                                                                                                                                          Page 4 of 26
+Interim Financial Report – First Quarter 2023
+
+=== Original PDF page 14 ===
+Condensed income statement 1 January -  31 March
+
+                                                                                                                                                               Q1                 Q1
+  mEUR                                                                                                                             Note                      2023               2022
+
+  Income from investments in joint ventures and associates                                                                                                      9                   -
+  Operating profit/(loss) (EBIT) before special items                                                                                  1.1                    40                   (329)
+
+  Special items                                                                                                                        1.4                    26               (565)
+  Operating profit/(loss) (EBIT)                                                                                                                              66                   (894)
+
+  Profit/(loss) for the period                                                                                                                                16               (765)
+
+                                                                                                                                                               Q1                Q1)
+   mEUR                                                                                                                                                     2023               2022
+   Profit /(loss) for the period                                                                                                                               16              (765)
+
+   Items that may be reclassified to the income statement subsequently:
+
+   Fair value adjustments of derivative financial instruments for the period                                                                                  73                (69)
+   Gain/(loss) on derivative financial instruments transferred to the income statement                                                                       (51)                (2)
+   Share of fair value adjustments of derivative financial instruments of joint ventures and associates                                                        (1)                5
+   Tax on items that may be reclassified to the income statement subsequently                                                                                  (4)               20
+   Other comprehensive income after tax for the period                                                                                                         (5)                8
+
+  The above condensed statement of comprehensive income should be read in conjunction with the accompanying notes.
+
+Vestas Wind Systems A/S                                                                                                                                                                                        Page 14 of 26
+Interim Financial Report – First Quarter 2023
+
+=== Original PDF page 15 ===
+31 March               31 March        31 December
+  mEUR                                                                                                        Note                        2023                   2022                  2022
+
+  Cash and cash equivalents                                                                                    3.2                     1,707                   1,801               2,378
+  Assets held for sale                                                                                         2.2                           -                       -               173
+
+  Total assets                                                                                                                       19,914                  20,078              20,090
+
+The above condensed balance sheet should be read in conjunction with the accompanying notes.
+
+Vestas Wind Systems A/S                                                                                                                                                                                        Page 15 of 26
+Interim Financial Report – First Quarter 2023
+
+=== Original PDF page 16 ===
+31 March                 31 March        31 December)
+  mEUR                                                                                                      Note                      2023                     2022                  2022
+
+  Total non-current liabilities                                                                                                     4,137                     3,197                 3,517
+
+  Total current liabilities                                                                                                       12,753                    12,982                13,513
+
+The above condensed balance sheet should be read in conjunction with the accompanying notes.
+
+Vestas Wind Systems A/S                                                                                                                                                                                        Page 16 of 26
+Interim Financial Report – First Quarter 2023
+
+=== Original PDF page 18 ===
+Q1                 Q1
+  mEUR                                                                                                                               Note                    2023               2022
+  Profit/(loss) for the period                                                                                                                                 16              (765)
+
+  Income tax paid                                                                                                                                             (15)               (68)
+  Cash flow from operating activities before change in net working capital                                                                                   248               (319)
+
+  Cash flow from operating activities                                                                                                                       (974)              (928)
+
+  The above condensed cash flow statement should be read in conjunction with the accompanying notes.
+
+Vestas Wind Systems A/S                                                                                                                                                                                        Page 18 of 26
+Interim Financial Report – First Quarter 2023

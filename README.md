@@ -10,6 +10,19 @@ The implemented test measures a specific part of that idea: two accounting signa
 
 ## Quick start
 
+**Additional EU coverage experiment:** [EU restoration results](results_eu_restored/REPORT.md)
+restore all seven previously uncovered European candidates using 42 original
+annual reports/statements for FY2020–FY2025. Run `python3 run_eu_restoration.py`
+to reproduce that separate experiment. Its [method](EU_RESTORATION_METHOD.md),
+source evidence, coverage checks and ledgers accompany the results. The
+published reproduction described below retains its original inputs and outputs.
+
+**EU interim extension:** [Interim-data results](results_eu_interim/REPORT.md)
+add 92 original quarterly or half-year observations for those seven companies.
+Run `python3 run_eu_interim.py` to compare the restored pool with and without
+these interim updates. The [method](EU_INTERIM_METHOD.md), dated source records,
+twelve-month calculations and validation accompany the results.
+
 Clone this repository or extract `Actual_Dates_Backtest_Replication.zip`. Open a terminal in the directory containing `run_all.py`, `backtest.py` and `data/`. The ZIP names that directory `Actual_Dates_Backtest`.
 
 Check Python:

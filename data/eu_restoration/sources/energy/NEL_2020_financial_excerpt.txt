@@ -1,0 +1,278 @@
+30
+Consolidated financial statements
+
+Consolidated statement of
+comprehensive income
+
+
+
+
+
+(Amounts in NOK thousands)                                                                                                                                             Nel group
+
+
+                                                                                                                                               NOTE                                                 2020                                          2019
+
+ Revenue from contracts with customers                                                                       2.1, 2.3                                                578 333                                        519 051
+ Other operating income                                                                                                          2.2                                                      73 548                                          50 657
+ Total revenue and operating income                                                                                                                                                651 881                                       569 707
+
+
+ Raw materials                                                                                                                              2.4                                                   393 982                                       342 374
+ Personnel expenses                                                                                                                  2.5                                                   329 402                                       243 194
+ Depreciation and amortisation                                                                                            4.1, 4.2                                                   91 286                                         75 500
+ Impairment of tangible and intangible assets                                                             4.1, 4.2                                                   71 666                                                   0
+ Other operating expenses                                                                                                     2.6                                                    180 042                                        162 234
+ Total operating expenses                                                                                                                                                                   1 066 378                                       823 302
+
+
+ Operating loss                                                                                                                                                                                            -414 497                                     -253 595
+
+
+ Finance income                                                                                                                           2.7                                                 1 675 567                                          12 643
+ Finance costs                                                                                                                               2.7                                                      -16 789                                           -6 501
+ Share of profit (loss) from associates and joint ventures                                        3.4                                                          1 242                                        -29 786
+
+
+ Pre-tax income (loss)                                                                                                                                                                           1 245 523                                      -277 238
+ Tax expense (-income)                                                                                                            2.8                                                      -16 357                                           -7 529
+ Net income (loss) attributable to equity holders of the company                                                                               1 261 880                                      -269 710
+
+
+ OTHER COMPREHENSIVE INCOME THAT ARE OR MAY SUBSEQUENTLY
+ BE RECLASSIFIED TO PROFIT OR LOSS (NET OF TAX)
+ Currency translation differences                                                                                                                                                           18 151                                            2 240
+ Cash flow hedges, effective portion of changes in fair value                                  6.4                                                       14 050                                          -2 388
+ Cash flow hedges, reclassified                                                                                             6.4                                                        -1 820                                             1 602
+ Comprehensive income attributable to equity holders of the company                                                                  1 292 261                                     -268 256
+
+
+ Earnings per share (NOK) attributable to Nel shareholders                                  2.9                                                        0,92                                           -0,22
+ Diluted earnings per share (NOK) attributable to Nel shareholders                  2.9                                                         0,91                                           -0,22
+
+The accompanying notes are an integral part of the consolidated financial statements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30
+
+PDF PAGE 31
+Consolidated statement of
+financial position as of 31 December
+
+
+
+
+
+(Amounts in NOK thousands)                                                                                                                                             Nel group
+
+
+  ASSETS                                                                                                                                   NOTE                                               2020                                           2019
+
+
+  NON-CURRENT ASSETS
+  Technology                                                                                                                                   3.1                                                  427 341                                          451 736
+  Customer relationship                                                                                                            3.1                                                    44 695                                            57 185
+  Goodwill                                                                                                                                         3.1                                                   619 731                                         609 154
+  Property, plant and equipment                                                                                           3.2, 3.3                                             378 052                                         256 170
+  Investments in associates and joint ventures                                                              3.4                                                       1 289                                              3 795
+  Non-current financial assets                                                                                                3.5                                                     71 835                                            18 392
+  Total non-current assets                                                                                                                                                                 1 542 943                                     1 396 432
+
+
+  CURRENT ASSETS
+  Inventories                                                                                                                                    4.1                                                  237 129                                        205 234
+  Trade receivables                                                                                                                       4.2                                                  101 449                                         183 333
+  Contract assets                                                                                                                          2.1                                                  127 976                                            37 103
+  Other current assets                                                                                                                4.3                                              1 794 345                                           82 590
+  Cash and cash equivalents                                                                                                   4.4                                             2 332 854                                         525 982
+  Total current assets                                                                                                                                                                           4 593 753                                      1 034 241
+
+
+ TOTAL ASSETS                                                                                                                                                                                     6 136 696                                     2 430 673
+
+The accompanying notes are an integral part of the consolidated financial statements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                                                                                                         31
+
+PDF PAGE 32
+Consolidated financial statements
+
+Consolidated statement of
+financial position as of 31 December
+
+
+
+
+
+(Amounts in NOK thousands)                                                                                                                                           Nel group
+
+
+  EQUITY AND LIABILITIES                                                                                               NOTE                                               2020                                           2019
+
+
+  EQUITY
+  Share capital                                                                                                                                5.1                                                  281 559                                         244 421
+  Treasury shares                                                                                                                          5.1                                                         -79                                                  -14
+  Share premium                                                                                                                           5.1                                             4 367 306                                     2 089 418
+  Other capital reserves                                                                                                             5.1                                                    43 937                                           36 256
+  Retained earnings                                                                                                                     5.1                                                 693 563                                         -575 112
+  Other components of equity                                                                                                5.1                                                    82 029                                            51 649
+  Total equity                                                                                                                                                                                             5 468 316                                      1 846 618
+
+
+  NON-CURRENT LIABILITIES
+  Deferred tax liabilities                                                                                                              2.8                                                    55 144                                           63 343
+  Long-term debt                                                                                                                          5.2                                                   30 284                                            30 577
+  Lease liabilities                                                                                                                           3.3                                                     77 125                                             79 121
+  Deferred income                                                                                                                        5.3                                                    63 601                                            59 015
+  Other non-current liabilities                                                                                                 5.4                                                      11 140                                            15 340
+  Total non-current liabilites                                                                                                                                                                 237 294                                         247 396
+
+
+  CURRENT LIABILITIES
+  Trade payables                                                                                                                                                                                            81 570                                            92 197
+  Lease liabilities                                                                                                                           3.3                                                     14 291                                            12 066
+  Contract liabilities                                                                                                                     2.1                                                  193 082                                          147 481
+  Other current liabilities                                                                                                           5.4                                                    67 407                                              51 211
+  Provisions                                                                                                                                     5.5                                                     74 735                                           33 704
+  Total current liabilities                                                                                                                                                                          431 085                                        336 659
+
+
+ Total liabilities                                                                                                                                                                                           668 379                                        584 055
+
+
+ TOTAL EQUITY AND LIABILITIES                                                                                                                                                6 136 696                                     2 430 673
+
+The accompanying notes are an integral part of the consolidated financial statements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32
+
+PDF PAGE 33
+Consolidated statement
+of cash flows
+
+
+
+
+
+
+(Amounts in NOK thousands)                                                                                                                                             Nel group
+
+  CASH FLOWS FROM OPERATING ACTIVITIES                                                    NOTE                                               2020                                           2019
+
+  Pre-tax income (loss)                                                                                                                                                                        1 245 523                                       -277 238
+  Interests paid, reversed                                                                                                          2.7                                                        4 411                                               4 715
+  Depreciation, amortisation and impairment                                                               3.1, 3.2                                              162 952                                           75 500
+  Change in fair value equity instruments                                                                         2.7, 4.3                                        -1 632 006                                                    0
+  Equity-settled share-based compensation expense                                                2.5                                                      7 682                                              6 307
+  Change in provisions                                                                                                               5.5                                                    30 974                                           68 947
+  Change in inventories                                                                                                              4.1                                                   -31 895                                          -70 430
+  Change in trade receivables                                                                                                 4.2                                                    81 884                                           -74 674
+  Change in trade payables                                                                                                                                                                    -10 627                                            22 723
+  Changes in other current assets and other liabilities                                             4.3, 5.4                                               -74 783                                           44 437
+  Net cash flow from operating activities                                                                                                                                    -215 886                                         -199 713
+
+
+  CASH FLOWS FROM INVESTMENT ACTIVITIES
+  Purchases of property, plant and equipment                                                               3.2                                                -148 539                                          -49 913
+  Payments for capitalised technology                                                                               3.1                                                  -83 659                                         -68 949
+  Purchases of other investments                                                                                        3.5, 4.3                                              -57 880                                                    0
+  Investments in other financial assets                                                                              3.5                                                   -12 998                                             -7 849
+  Loan given to associates and joint ventures                                                                 3.4                                                             0                                             -5 975
+  Investments in associates and joint ventures                                                              3.4                                                      -567                                            -3 085
+  Sale of subsidiaries, net of cash sold                                                                                3.4                                                   -19 829                                               1 653
+  Acquisition of subsidiaries, net of cash acquired                                                        3.4                                                    26 022                                                    0
+  Proceeds from sales of other investments                                                                   3.5, 4.3                                                  3 019                                                    0
+  Net cash flow from investment activities                                                                                                                                -294 430                                         -134 118
+
+
+  CASH FLOWS FROM FINANCING ACTIVITIES1
+  Interests paid2                                                                                                                             2.7                                                      -4 411                                             -4 715
+  Gross cash flow from share issues                                                                                    5.1                                              2 383 259                                        545 984
+  Transaction costs from share issues                                                                                5.1                                                   -68 297                                         -20 426
+  Proceeds from new loan                                                                                                        5.2                                                    16 395                                                    0
+  Payment of lease liabilities                                                                                                    3.3                                                    -10 915                                             -8 163
+  Payment of non-current liabilities                                                                                     5.2                                                     -2 320                                            -2 700
+  Net cash flow from financing activities                                                                                                                                    2 313 710                                         509 981
+
+
+  Foreign currency effects on cash                                                                                                                                                        3 478                                                  86
+
+
+  Net change in cash and cash equivalents                                                                                                                              1 806 872                                          176 235
+  Cash balance as of 01.01                                                                                                        4.4                                                 525 982                                         349 747
+  Cash balance as of 31.12                                                                                                        4.4                                             2 332 854                                         525 982
+
+
+
+
+1 For reconciliation of liabilities arising from financing activities see note 3.3 and 5.2 for lease liabilities and long-term debt, respectively.
+
+2 Interest paid includes interest expense on lease liabilities.
+
+
+The accompanying notes are an integral part of the consolidated financial statements.
+
+                                                                                                                                                                                                                                                                              33

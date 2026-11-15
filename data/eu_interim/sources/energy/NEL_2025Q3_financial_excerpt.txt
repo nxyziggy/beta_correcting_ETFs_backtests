@@ -1,0 +1,215 @@
+PDF page 12
+                                                                                                                                                     Nel ASA Q3 2025 report
+
+
+
+
+Condensed interim financial statements
+
+Consolidated statement of comprehensive income (unaudited)
+   (Amounts in NOK thousands)                                                  Note        Q3 2025            Q3 2024           YTD 2025           YTD 2024                 2024
+
+  Revenue and income
+  Revenue from contracts with customers                                 3                 303 373            365 905             632 631             974 353        1 389 909
+  Other income                                                                               45 723             25 383            106 762              70 104           105 024
+   Total revenue and income                                                                 349 096           391 288             739 393          1 044 457         1 494 933
+
+  Operating expenses
+  Raw materials                                                                             132 611           158 412             263 203            346 188            503 976
+  Personnel expenses                                                                        134 960           163 704             421 181            479 436            645 586
+  Depreciation, amortisation and impairment                                    4, 5          67 702             56 070            206 347            146 535            216 486
+  Other operating expenses                                                                  118 542           158 775             293 385            356 003            518 313
+   Total operating expenses                                                                 453 815           536 961          1 184 116           1 328 162         1 884 361
+
+   Operating loss                                                                         -104 719           -145 673            -444 723           -283 705           -389 428
+
+  Finance income                                                                             27 799             25 911              78 642             94 717           132 076
+  Finance cost                                                                                -9 596              3 274           -36 429             -10 252             -6 833
+  Share of loss from associates and joint ventures                                               783                   0             4 527                     0                 0
+  Net financial items                                                                        18 986             29 185              46 740             84 465           125 243
+  Pre-tax income (loss)                                                                     -85 733          -116 488            -397 983           -199 240           -264 185
+  Tax expense (income)                                                                        -1 032             -1 326             -3 217              -5 428            -6 554
+  Net income (loss) from continuing operation                                               -84 701          -115 162            -394 766           -193 812           -257 631
+  Net income (loss) from discontinued operation                                                      0                 0                   0           13 289            13 289
+   Net income (loss) for the period                                                         -84 701          -115 162            -394 766           -180 523           -244 342
+
+  Items that are or may subsequently be
+  reclassified to income statement:
+  Currency translation differences                                                          -10 191            -17 287           -143 629                2 606           92 554
+
+  Cash flow hedges, effective portion of changes in fair value                                -5 004           -31 354              -4 700            -47 097           -52 108
+  Cash flow hedges, reclassified                                                               3 835            22 142               7 997             34 684            43 244
+   Other comprehensive income                                                               -11 360            -26 499           -140 332               -9 807           83 690
+
+   Total comprehensive income                                                               -96 061          -141 661            -535 098           -190 330           -160 652
+
+  Basic EPS (figures in NOK) 1)                                                                -0.05              -0.07               -0.22              -0.11             -0.15
+   Diluted EPS (figures in NOK) 1)2)                                                           -0.05              -0.07               -0.22              -0.11             -0.15
+
+  Weighted average number of outstanding shares (million)                                      1 838              1 671              1 795               1 671             1 671
+
+
+
+1) Basic earnings per share are computed using the weighted average number of ordinary shares outstanding.
+2) Diluted earnings per share are computed using the weighted average number of ordinary shares outstanding adjusted for share options. The number
+of      share options outstanding in Q3, as potential shares,    was 6.4 million shares.
+
+
+
+
+The accompanying notes are an integral part of the condensed consolidated financial statements (unaudited).
+
+
+
+
+© 2025 | www.nelhydrogen.com                                                                                                                                                                                                  11      of 21
+
+
+Nel – All rights reserved
+PDF page 13
+                                                                                                                                                       Nel ASA Q3 2025 report
+
+
+
+
+
+
+Consolidated statement of financial position  (unaudited)
+
+   (Amounts in NOK thousands)                                                                               Note                        30.09.2025                    31.12.2024
+
+  ASSETS
+  Intangible assets                                                                                                4                         984 832                    1 029 173
+  Property, plant and equipment                                                                                    5                       1 570 179                    1 664 079
+  Restricted cash and cash equivalents                                                                                                       130 698                       158 750
+  Other non-current assets                                                                                                                     48 838                       44 519
+   Total non-current assets                                                                                                                2 734 547                    2 896 521
+
+  Inventories                                                                                                                                936 242                       531 748
+  Trade receivables                                                                                                6                         198 169                       700 679
+  Contract assets                                                                                                                              38 192                       24 155
+  Other current assets                                                                                                                       217 728                           273 269
+  Restricted cash and cash equivalents                                                                                                                0                       2 260
+  Cash and cash equivalents                                                                                                                1 756 614                    1 875 580
+   Total current assets                                                                                                                    3 146 945                    3 407 691
+
+   TOTAL ASSETS                                                                                                                            5 881 492                    6 304 212
+
+  EQUITY AND LIABILITIES
+  Shareholders' equity                                                                                                                     4 792 871                    4 977 276
+   Total equity                                                                                                                            4 792 871                    4 977 276
+
+  Deferred tax liability                                                                                                                       27 563                       34 813
+  Lease liabilities                                                                                                                          197 053                       215 523
+  Other non-current liabilities                                                                                                                74 755                       74 542
+   Total non-current liabilities                                                                                                             299 371                       324 878
+
+  Trade payables                                                                                                                             105 002                       110 742
+  Lease liabilities                                                                                                                            42 698                       44 479
+  Contract liabilities                                                                                                                       382 371                       583 392
+  Other current liabilities                                                                                                                  259 179                       263 445
+   Total current liabilities                                                                                                                 789 250                    1 002 058
+
+   Total liabilities                                                                                                                       1 088 621                    1 326 936
+
+  TOTAL EQUITY AND LIABILITIES                                                                                                             5 881 492                    6 304 212
+
+
+
+
+
+
+The accompanying notes are an integral part of the condensed consolidated financial statements (unaudited).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2025 | www.nelhydrogen.com                                                                                                                                                                                                  12      of 21
+
+
+Nel – All rights reserved
+PDF page 14
+                                                                                                                                                   Nel ASA Q3 2025 report
+
+
+
+
+
+
+Consolidated statement of cash flows    (unaudited)
+
+  (Amounts in NOK thousands)                                                                       Q3 2025             Q3 2024            YTD 2025            YTD 2024                   2024
+
+
+  Cash flow from operating activities
+  Pre-tax income (loss) 1)                                                                          -85 733            -116 488            -397 983            -199 240             -264 185
+
+  Net income (loss) from discontinued operation                                                              0                   0                   0            13 289              13 289
+  Discontinued operation                                                                                     0                   0                   0         -172 034             -172 034
+  Depreciation, amortisation and impairment                                                          67 702              56 070             206 347             146 535              216 486
+  Change in net working capital 2)                                                                -152 741               12 247              -40 728             -38 959             -82 318
+
+  Other adjustments                                                                                  38 826                  699             -10 554             -16 105              47 182
+   Net cash flow from operating activities                                                        -131 946              -47 472            -242 918            -266 514             -241 581
+
+
+  Cash flow from investing activities
+  Purchases of property, plant and equipment                                                        -38 175            -132 166            -113 828            -436 117             -527 337
+  Payments for capitalised technology                                                               -30 509             -27 479              -82 835             -91 035            -119 241
+  Cash flows from (used in) decrease (increase) in restricted cash 4)                                40 148             -70 155               57 780             -58 718             -18 236
+
+  Purchase of other investments                                                                              0                   0           -17 952                     0                    0
+  Investments in other financial assets                                                                      0                   0           -35 000                     0                    0
+  Investments in associates and joint ventures                                                           783                     0             4 527                     0                    0
+  Proceeds from sales of other investments                                                                   0                   0                   0          116 632              116 632
+  Discontinued operation                                                                                     0                   0                   0           -33 728             -33 728
+   Net cash flow from investing activities                                                          -27 752            -229 800            -187 308            -502 966             -581 910
+
+  Cash flow from financing activities
+  Interest paid 3)                                                                                    -4 091              -4 318             -12 695             -11 984             -16 166
+
+  Gross cash flow from share issues                                                                          0                   0          353 070                      0                    0
+  Transaction costs connected to share issues                                                                0                   0            -3 840                     0                    0
+  Distribution of shares in Cavendish Hydrogen ASA 5)                                                        0                   0                   0         -625 420             -625 420
+
+  Payment of lease liabilities                                                                        -7 453              -5 284             -21 889             -13 569             -20 943
+  Discontinued operation                                                                                     0                   0                   0             -3 459              -3 459
+   Net cash flow from financing activities                                                          -11 544               -9 602            314 646            -654 432             -665 988
+
+   Foreign currency effects on cash                                                                       -53               -190              -3 386                1 199               1 628
+
+   Net change in cash and cash equivalents                                                        -171 295             -287 064            -118 966          -1 422 713          -1 487 851
+
+  Cash and cash equivalents beginning of period                                                  1 927 909           2 227 782            1 875 580           3 363 431           3 363 431
+  Cash and cash equivalents                                                                      1 756 614           1 940 718            1 756 614           1 940 718           1 875 580
+
+1)    Q3 2025 includes interests received of NOK 22 (26) million.
+2)  Change in net working capital comprises    changes  in inventories, trade receivables, contract assets, contract liabilities,  trade payables  and
+    prepayment to suppliers.
+3)    Interest paid includes interest expense on lease liabilities.
+4)    Cash flow changes in restricted bank deposits and collateral for bank guarantees with a maturity longer than three months at the date of purchase.
+5)    The line item includes the cash balance distributed as part of the company Cavendish Hydrogen ASA.
+
+
+
+
+
+
+
+
+© 2025 | www.nelhydrogen.com                                                                                                                                                                                                  13      of 21
+
+
+Nel – All rights reserved

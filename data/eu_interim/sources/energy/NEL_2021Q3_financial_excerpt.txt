@@ -1,0 +1,177 @@
+PDF page 14
+                                                     Condensed interim financial statement and notes - third quarter 2021
+
+
+
+
+Condensed interim financial statements
+
+Consolidated statement of comprehensive income (unaudited)
+
+                                                                                               Q3               Q3             YTD             YTD        Full year
+ (amounts in NOK thousands)                                                 Note             2021            2020             2021            2020             2020
+
+ Revenue and operating income
+ Revenue from contracts with customers                                                   220 524           118 501         517 391         372 874          558 601
+ Other operating income                                                                     8 783           29 217          32 493          49 926           93 280
+ Total revenue and operating income                                              3       229 306           147 718        549 884          422 800          651 881
+
+ Operating expenses
+ Raw materials                                                                            160 626           81 162        362 534          244 354         393 982
+ Personnel expenses                                                                       126 457          78 670          331 957         234 612         329 402
+ Depreciation, amortisation and impairment                                    4, 5         25 926           74 185          78 575          119 892         162 952
+ Other operating expenses                                                                  55 238          29 957          162 974           99 138         180 042
+ Total operating expenses                                                                368 247          263 973         936 040          697 996        1 066 378
+
+ Operating loss                                                                          -138 941         -116 255        -386 156        -275 196         -414 497
+
+ Finance income                                                                             6 037            2 899          59 799          717 315       1 675 567
+ Finance cost                                                                            -376 017        -514 648       -1 076 541        -480 637          -16 789
+ Share of loss from associates and joint ventures                                                 0           -637                 0         -1 036            1 242
+ Net financial items                                                                    -369 980         -512 386       -1 016 742         235 643        1 660 020
+ Pre-tax income (loss)                                                                   -508 921        -628 641      -1 402 899          -39 553       1 245 523
+ Tax expense (income)                                                                       -1 883           -1 951         -5 535           -6 067         -16 357
+ Net income (loss)                                                                      -507 038         -626 690      -1 397 364          -33 485        1 261 880
+
+ Items that are or may subsequently be reclassified to income statement:
+ Currency translation differences                                                           12 701           1 307            2 138         83 549            18 151
+ Cash flow hedges, effective portion of changes in fair value                               -1 285           8 454          -7 237              630          14 050
+ Cash flow hedges, reclassified                                                              3 149          -1 667           4 454            2 994           -1 820
+ Other comprehensive income                                                                14 565            8 094            -645           87 173          30 380
+
+ Total comprehensive income                                                             -492 473         -618 596       -1 398 010          53 687        1 292 261
+
+ Basic EPS (figures in NOK)  1)                                                              -0.35           -0.47            -0.97           -0.02             0.92
+ Diluted EPS (figures in NOK)  1)                                                            -0.35           -0.47            -0.97           -0.02             0.91
+
+ Weighted average number of outstanding shares (million)                                     1 459           1 327            1 448            1 314           1 367
+
+
+1) Basic and diluted earnings per share are computed using the weighted average number of ordinary shares outstanding.
+
+The accompanying notes are an integral part of the condensed consolidated financial statements (unaudited).
+
+
+
+
+
+                                                                            14
+PDF page 15
+                                                      Condensed interim financial statement and notes - third quarter 2021
+
+
+
+
+
+Consolidated statement of financial position (unaudited)
+
+
+ (amounts in NOK thousands)                                                   Note                                 30.09.2021                           31.12.2020
+
+
+ ASSETS
+ Intangible assets                                                               4                                    1 148 708                            1 091 767
+ Property, plant and equipment                                                   5                                     522 705                               378 052
+ Other non-current assets                                                                                                92 160                                73 124
+ Total non-current assets                                                                                            1 763 573                             1 542 943
+
+ Inventories                                                                                                           301 539                               237 129
+ Trade receivables                                                                                                      136 416                              101 449
+ Contract assets                                                                                                        95 458                               127 976
+ Other current assets                                                                                                  819 558                             1 794 345
+ Cash and cash equivalents                                                                                           2 930 403                            2 332 854
+ Total current assets                                                                                                4 283 373                            4 593 753
+
+ TOTAL ASSETS                                                                                                       6 046 945                              6 136 696
+
+ EQUITY AND LIABILITIES
+ Shareholders' equity                                                                                                5 315 225                             5 468 316
+ Total equity                                                                                                        5 315 225                             5 468 316
+
+ Deferred tax liability                                                                                                  50 261                               55 144
+ Long-term debt                                                                                                         28 065                                30 284
+ Lease liabilities                                                                                                      78 244                                 77 125
+ Other non-current liabilities                                                                                          68 996                                 74 741
+ Total non-current liabilities                                                                                         225 565                               237 294
+
+ Trade payables                                                                                                         101 202                                81 570
+ Lease liabilities                                                                                                       17 224                                14 291
+ Contract liabilities                                                                                                  190 286                               193 082
+ Other current liabilities                                                                                             197 443                               142 142
+ Total current liabilities                                                                                             506 155                               431 085
+
+ Total liabilities                                                                                                      731 721                              668 379
+
+ TOTAL EQUITY AND LIABILITIES                                                                                       6 046 945                              6 136 696
+
+
+
+
+The accompanying notes are an integral part of the condensed consolidated financial statements (unaudited).
+
+
+
+
+
+
+
+                                                                              15
+PDF page 16
+                                                       Condensed interim financial statement and notes - third quarter 2021
+
+
+
+
+
+Consolidated statement of cash flows (unaudited)
+
+                                                                                       Q3                 Q3               YTD                YTD          Full year
+ (amounts in NOK thousands)                                                         2021               2020               2021               2020               2020
+
+ Cash flow from operating activities
+ Pre-tax income (loss) 1)                                                       -508 921           -628 641        -1 402 899             -39 553         1 245 523
+ Depreciation, amortisation and impairment                                        25 926              74 185            78 575            119 892            162 952
+ Change in net working capital                                                     -5 223             -4 159           -44 415               7 951          -35 422
+ Other adjustments 2)                                                            372 413           492 475           1 021 208           -210 258        -1 588 938
+ Net cash flow from operating activities                                        -115 805            -66 140           -347 531           -121 968          -215 886
+
+ Cash flow from investment activities
+ Purchases of property, plant and equipment                                      -51 624            -29 555           -183 652            -75 909          -148 539
+ Payments for capitalised technology                                              -34 112           -14 797            -95 027            -59 909            -83 659
+ Purchases of other investments 3)                                                       0                  0          -37 378            -56 638            -57 880
+ Investments in other financial assets                                                   0                  0           -13 125           -12 998            -12 998
+ Disposal of fixed assets                                                                0                  0           16 000                    0                  0
+ Investments in associates and joint ventures                                        -572               -300             -1 272               -567               -567
+ Sale of subsidiaries, net of cash sold                                                  0                  0                  0                  0          -19 829
+ Acquisition of subsidiaries, net of cash acquired                                       0                  0                  0           26 022             26 022
+ Proceeds from sales of other investments 3)                                       38 179                   0           38 844                    0             3 019
+ Net cash flow from investing activities                                         -48 129            -44 652           -275 610           -179 998          -294 430
+
+ Cash flow from financing activities
+ Interest paid 4)                                                                  -1 044             -1 036            -2 805             -3 390              -4 411
+ Gross cash flow from share issues                                                27 877             86 574         1 253 002          2 378 413          2 383 259
+ Transaction costs connected to share issues                                           -65              -164           -15 522            -68 266            -68 297
+ Proceeds from new loan                                                                  0                  0                  0           16 395             16 395
+ Payment of lease liabilities                                                      -4 030             -2 616           -10 939              -7 891           -10 915
+ Payment of non-current liabilities                                                   -911              -451             -1 367             -1 738            -2 320
+ Net cash flow from financing activities                                           21 826            82 307         1 222 369          2 313 523           2 313 710
+
+ Foreign currency effects on cash                                                   -1 510             6 033             -1 679             6 078              3 478
+
+ Net change in cash and cash equivalents                                        -143 618            -22 451           597 549          2 017 635          1 806 872
+
+ Cash and cash equivalents beginning of period                                 3 074 021         2 566 068          2 332 854            525 982            525 982
+ Cash and cash equivalents                                                    2 930 403           2 543 616         2 930 403          2 543 616          2 332 854
+
+
+1)  Q3 2021 includes interests received of NOK 4.1 (3.3) million.
+2)  Q3 2021 includes a negative fair value adjustment of the shareholding in Nikola Corporation of NOK 67.4 million (USD 10.67 per share as of
+    September 30, 2021). The fair value adjustment was NOK              -513.3 million in   Q3 2020. In addition, Q3 2021 includes a negative fair value
+    adjustment of the shareholding in Everfuel of NOK 311.2 million (a value of NOK 44.92 per share as of September 30, 2021). The fair value
+    adjustment was NOK 0.0 in the third quarter 2020.
+3)  Other investments comprise        bank  deposits  and  advance  payment  guarantees with  a  maturity longer  than three  months  at  the  date  of
+    purchase.
+4)  Interest paid includes interest expense on lease liabilities.
+
+
+                                                                               16

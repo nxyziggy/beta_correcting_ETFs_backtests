@@ -1,0 +1,1407 @@
+[
+  {
+    "ticker": "AMS.SW",
+    "fiscal_year": 2021,
+    "fiscal_quarter": 2,
+    "period_end": "2021-06-30",
+    "publication_date": "2021-07-30",
+    "availability_date": "2021-07-30",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -52.0,
+      "net_income": -160.0,
+      "operating_cash_flow": 397.0
+    },
+    "prior_ytd": {
+      "operating_income": 90.0,
+      "net_income": -9.0,
+      "operating_cash_flow": 312.0
+    },
+    "total_assets": 9534.0,
+    "current_liabilities": 2879.0,
+    "income_source": "https://ams-osram.com/documents/20143/5058144/Q2+2021+ams+report+english+f.pdf/f8c140b0-c3a1-5eab-baf8-e05dc974335f?t=1645022755160",
+    "balance_source": "https://ams-osram.com/documents/20143/5058144/Q2+2021+ams+report+english+f.pdf/f8c140b0-c3a1-5eab-baf8-e05dc974335f?t=1645022755160",
+    "cashflow_source": "https://ams-osram.com/documents/20143/5058144/Q2+2021+ams+report+english+f.pdf/f8c140b0-c3a1-5eab-baf8-e05dc974335f?t=1645022755160",
+    "date_source": "https://ams-osram.com/ko/news/press-releases/q2-2021-results",
+    "evidence": {
+      "income_pdf_page": 24,
+      "balance_pdf_page": 26,
+      "cashflow_pdf_page": 27,
+      "date_document": "issuer release page linking quarterly financial documents",
+      "date_excerpt": "data/eu_interim/sources/industry/AMS2021Q2_date.txt"
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "EUR appendix used, not the leading USD convenience statements. Total group operating cashflow includes discontinued operations (prior 9M2020 CFO is 383, not continuing-only 385). OSRAM acquisition means the earlier FY2020 annual is not a pro-forma full year; this is observed historical consolidated scope, not backfilled acquisition data."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date."
+  },
+  {
+    "ticker": "AMS.SW",
+    "fiscal_year": 2021,
+    "fiscal_quarter": 3,
+    "period_end": "2021-09-30",
+    "publication_date": "2021-11-02",
+    "availability_date": "2021-11-02",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": 30.0,
+      "net_income": -200.0,
+      "operating_cash_flow": 612.0
+    },
+    "prior_ytd": {
+      "operating_income": 10.0,
+      "net_income": -131.0,
+      "operating_cash_flow": 383.0
+    },
+    "total_assets": 9479.0,
+    "current_liabilities": 3079.0,
+    "income_source": "https://ams-osram.com/documents/20143/5058144/Q3+2021+report+english+f.pdf/de4c484f-d0f6-6408-a371-dc2083502a27?t=1637840686137",
+    "balance_source": "https://ams-osram.com/documents/20143/5058144/Q3+2021+report+english+f.pdf/de4c484f-d0f6-6408-a371-dc2083502a27?t=1637840686137",
+    "cashflow_source": "https://ams-osram.com/documents/20143/5058144/Q3+2021+report+english+f.pdf/de4c484f-d0f6-6408-a371-dc2083502a27?t=1637840686137",
+    "date_source": "https://ams-osram.com/ko/news/press-releases/q32021-results",
+    "evidence": {
+      "income_pdf_page": 11,
+      "balance_pdf_page": 12,
+      "cashflow_pdf_page": 13,
+      "date_document": "issuer release page linking quarterly financial documents",
+      "date_excerpt": "data/eu_interim/sources/industry/AMS2021Q3_date.txt"
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "EUR appendix used, not the leading USD convenience statements. Total group operating cashflow includes discontinued operations (prior 9M2020 CFO is 383, not continuing-only 385). OSRAM acquisition means the earlier FY2020 annual is not a pro-forma full year; this is observed historical consolidated scope, not backfilled acquisition data."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date."
+  },
+  {
+    "ticker": "AMS.SW",
+    "fiscal_year": 2022,
+    "fiscal_quarter": 1,
+    "period_end": "2022-03-31",
+    "publication_date": "2022-05-03",
+    "availability_date": "2022-05-03",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": 40.0,
+      "net_income": 15.0,
+      "operating_cash_flow": 147.0
+    },
+    "prior_ytd": {
+      "operating_income": 67.0,
+      "net_income": -2.0,
+      "operating_cash_flow": 206.0
+    },
+    "total_assets": 9615.0,
+    "current_liabilities": 2888.0,
+    "income_source": "https://ams-osram.com/documents/4390887/7195804/Ad-hoc_2022_eng+Financial+results+Q1+2022+f.pdf/1c8d8e6a-642d-fe47-b35c-62a3f19b083a?t=1651518032605",
+    "balance_source": "https://ams-osram.com/documents/4390887/7195804/Ad-hoc_2022_eng+Financial+results+Q1+2022+f.pdf/1c8d8e6a-642d-fe47-b35c-62a3f19b083a?t=1651518032605",
+    "cashflow_source": "https://ams-osram.com/documents/4390887/7195804/Ad-hoc_2022_eng+Financial+results+Q1+2022+f.pdf/1c8d8e6a-642d-fe47-b35c-62a3f19b083a?t=1651518032605",
+    "date_source": "https://ams-osram.com/documents/4390887/7195804/Ad-hoc_2022_eng+Financial+results+Q1+2022+f.pdf/1c8d8e6a-642d-fe47-b35c-62a3f19b083a?t=1651518032605",
+    "evidence": {
+      "income_pdf_page": 5,
+      "balance_pdf_page": 6,
+      "cashflow_pdf_page": 7,
+      "date_pdf_page": 1
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "2022 functional-cost presentation changes reclassify components inside operating income; the selected prior-YTD operating income/net income/CFO match the originally reported totals. No total-flow rebase is required."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date."
+  },
+  {
+    "ticker": "AMS.SW",
+    "fiscal_year": 2022,
+    "fiscal_quarter": 2,
+    "period_end": "2022-06-30",
+    "publication_date": "2022-07-29",
+    "availability_date": "2022-07-29",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": 256.0,
+      "net_income": 74.0,
+      "operating_cash_flow": 247.0
+    },
+    "prior_ytd": {
+      "operating_income": -52.0,
+      "net_income": -160.0,
+      "operating_cash_flow": 397.0
+    },
+    "total_assets": 9941.0,
+    "current_liabilities": 2868.0,
+    "income_source": "https://ams-osram.com/documents/4390887/7195804/ams+OSRAM+HY+and+Q2+report+english+f.pdf/612af48b-0bbe-0dba-2d82-73147ddca3ed?t=1659069237559",
+    "balance_source": "https://ams-osram.com/documents/4390887/7195804/ams+OSRAM+HY+and+Q2+report+english+f.pdf/612af48b-0bbe-0dba-2d82-73147ddca3ed?t=1659069237559",
+    "cashflow_source": "https://ams-osram.com/documents/4390887/7195804/ams+OSRAM+HY+and+Q2+report+english+f.pdf/612af48b-0bbe-0dba-2d82-73147ddca3ed?t=1659069237559",
+    "date_source": "https://ams-osram.com/news/press-releases/q2_hy_2022_results",
+    "evidence": {
+      "income_pdf_page": 6,
+      "balance_pdf_page": 8,
+      "cashflow_pdf_page": 9,
+      "date_document": "issuer release page linking quarterly financial documents",
+      "date_excerpt": "data/eu_interim/sources/industry/AMS2022Q2_date.txt"
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "2022 functional-cost presentation changes reclassify components inside operating income; the selected prior-YTD operating income/net income/CFO match the originally reported totals. No total-flow rebase is required."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date."
+  },
+  {
+    "ticker": "AMS.SW",
+    "fiscal_year": 2022,
+    "fiscal_quarter": 3,
+    "period_end": "2022-09-30",
+    "publication_date": "2022-11-02",
+    "availability_date": "2022-11-02",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -71.0,
+      "net_income": -297.0,
+      "operating_cash_flow": 397.0
+    },
+    "prior_ytd": {
+      "operating_income": 30.0,
+      "net_income": -200.0,
+      "operating_cash_flow": 612.0
+    },
+    "total_assets": 9388.0,
+    "current_liabilities": 2646.0,
+    "income_source": "https://ams-osram.com/documents/4390887/7195804/Ad-hoc_2022_eng+Financial+results+Q3+2022+f.pdf/aacf4f4c-1469-dffe-1fc0-9b2e940647c4?t=1667367352685",
+    "balance_source": "https://ams-osram.com/documents/4390887/7195804/Ad-hoc_2022_eng+Financial+results+Q3+2022+f.pdf/aacf4f4c-1469-dffe-1fc0-9b2e940647c4?t=1667367352685",
+    "cashflow_source": "https://ams-osram.com/documents/4390887/7195804/Ad-hoc_2022_eng+Financial+results+Q3+2022+f.pdf/aacf4f4c-1469-dffe-1fc0-9b2e940647c4?t=1667367352685",
+    "date_source": "https://ams-osram.com/documents/4390887/7195804/Ad-hoc_2022_eng+Financial+results+Q3+2022+f.pdf/aacf4f4c-1469-dffe-1fc0-9b2e940647c4?t=1667367352685",
+    "evidence": {
+      "income_pdf_page": 8,
+      "balance_pdf_page": 9,
+      "cashflow_pdf_page": 10,
+      "date_pdf_page": 1
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "2022 functional-cost presentation changes reclassify components inside operating income; the selected prior-YTD operating income/net income/CFO match the originally reported totals. No total-flow rebase is required."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date."
+  },
+  {
+    "ticker": "AMS.SW",
+    "fiscal_year": 2023,
+    "fiscal_quarter": 1,
+    "period_end": "2023-03-31",
+    "publication_date": "2023-05-02",
+    "availability_date": "2023-05-02",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -90.0,
+      "net_income": -134.0,
+      "operating_cash_flow": 162.0
+    },
+    "prior_ytd": {
+      "operating_income": 40.0,
+      "net_income": 15.0,
+      "operating_cash_flow": 147.0
+    },
+    "total_assets": 8646.0,
+    "current_liabilities": 2717.0,
+    "income_source": "https://ams-osram.com/documents/4390887/9965237/Ad-hoc_2023_eng+Financial+results+Q1+2023+f.pdf/f9f6e636-21d9-0c0f-4e87-c2f5fc960cde?t=1683001022137",
+    "balance_source": "https://ams-osram.com/documents/4390887/9965237/Ad-hoc_2023_eng+Financial+results+Q1+2023+f.pdf/f9f6e636-21d9-0c0f-4e87-c2f5fc960cde?t=1683001022137",
+    "cashflow_source": "https://ams-osram.com/documents/4390887/9965237/Ad-hoc_2023_eng+Financial+results+Q1+2023+f.pdf/f9f6e636-21d9-0c0f-4e87-c2f5fc960cde?t=1683001022137",
+    "date_source": "https://ams-osram.com/documents/4390887/9965237/Ad-hoc_2023_eng+Financial+results+Q1+2023+f.pdf/f9f6e636-21d9-0c0f-4e87-c2f5fc960cde?t=1683001022137",
+    "evidence": {
+      "income_pdf_page": 7,
+      "balance_pdf_page": 8,
+      "cashflow_pdf_page": 9,
+      "date_pdf_page": 1
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date."
+  },
+  {
+    "ticker": "AMS.SW",
+    "fiscal_year": 2023,
+    "fiscal_quarter": 2,
+    "period_end": "2023-06-30",
+    "publication_date": "2023-07-27",
+    "availability_date": "2023-07-27",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -1413.0,
+      "net_income": -1476.0,
+      "operating_cash_flow": 394.0
+    },
+    "prior_ytd": {
+      "operating_income": 256.0,
+      "net_income": 74.0,
+      "operating_cash_flow": 247.0
+    },
+    "total_assets": 7059.0,
+    "current_liabilities": 2656.0,
+    "income_source": "https://ams-osram.com/documents/4390887/9965240/ams%20OSRAM%202023%20HY%20and%20Q2%20report%20english%20ff.pdf/22cef4a8-dfd6-7ff9-ba7f-fe8c260ac976?t=1690487376267",
+    "balance_source": "https://ams-osram.com/documents/4390887/9965240/ams%20OSRAM%202023%20HY%20and%20Q2%20report%20english%20ff.pdf/22cef4a8-dfd6-7ff9-ba7f-fe8c260ac976?t=1690487376267",
+    "cashflow_source": "https://ams-osram.com/documents/4390887/9965240/ams%20OSRAM%202023%20HY%20and%20Q2%20report%20english%20ff.pdf/22cef4a8-dfd6-7ff9-ba7f-fe8c260ac976?t=1690487376267",
+    "date_source": "https://ams-osram.com/news/press-releases/strategy-update-q2-results",
+    "evidence": {
+      "income_pdf_page": 7,
+      "balance_pdf_page": 9,
+      "cashflow_pdf_page": 10,
+      "date_document": "issuer release page linking quarterly financial documents",
+      "date_excerpt": "data/eu_interim/sources/industry/AMS2023Q2_date.txt"
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date."
+  },
+  {
+    "ticker": "AMS.SW",
+    "fiscal_year": 2023,
+    "fiscal_quarter": 3,
+    "period_end": "2023-09-30",
+    "publication_date": "2023-10-31",
+    "availability_date": "2023-10-31",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -1426.0,
+      "net_income": -1531.0,
+      "operating_cash_flow": 594.0
+    },
+    "prior_ytd": {
+      "operating_income": -71.0,
+      "net_income": -297.0,
+      "operating_cash_flow": 397.0
+    },
+    "total_assets": 6964.0,
+    "current_liabilities": 2595.0,
+    "income_source": "https://ams-osram.com/documents/4390887/9965237/Ad-hoc_2023_eng%20Q3%202023%20results%20f.pdf/df094c30-f522-b09f-fd4e-1fb1e0557827?t=1698729810214",
+    "balance_source": "https://ams-osram.com/documents/4390887/9965237/Ad-hoc_2023_eng%20Q3%202023%20results%20f.pdf/df094c30-f522-b09f-fd4e-1fb1e0557827?t=1698729810214",
+    "cashflow_source": "https://ams-osram.com/documents/4390887/9965237/Ad-hoc_2023_eng%20Q3%202023%20results%20f.pdf/df094c30-f522-b09f-fd4e-1fb1e0557827?t=1698729810214",
+    "date_source": "https://ams-osram.com/documents/4390887/9965237/Ad-hoc_2023_eng%20Q3%202023%20results%20f.pdf/df094c30-f522-b09f-fd4e-1fb1e0557827?t=1698729810214",
+    "evidence": {
+      "income_pdf_page": 8,
+      "balance_pdf_page": 9,
+      "cashflow_pdf_page": 10,
+      "date_pdf_page": 1
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date."
+  },
+  {
+    "ticker": "AMS.SW",
+    "fiscal_year": 2024,
+    "fiscal_quarter": 1,
+    "period_end": "2024-03-31",
+    "publication_date": "2024-04-26",
+    "availability_date": "2024-04-26",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -631.0,
+      "net_income": -710.0,
+      "operating_cash_flow": 55.0
+    },
+    "prior_ytd": {
+      "operating_income": -90.0,
+      "net_income": -134.0,
+      "operating_cash_flow": 116.0
+    },
+    "total_assets": 6909.0,
+    "current_liabilities": 3067.0,
+    "income_source": "https://ams-osram.com/documents/4390887/18159172/Ad-hoc_2024_eng%20Q1%202024%20results%20f.pdf/f2cf08e0-a6ce-b34e-85ea-d11209c725db?t=1714104527324",
+    "balance_source": "https://ams-osram.com/documents/4390887/18159172/Ad-hoc_2024_eng%20Q1%202024%20results%20f.pdf/f2cf08e0-a6ce-b34e-85ea-d11209c725db?t=1714104527324",
+    "cashflow_source": "https://ams-osram.com/documents/4390887/18159172/Ad-hoc_2024_eng%20Q1%202024%20results%20f.pdf/f2cf08e0-a6ce-b34e-85ea-d11209c725db?t=1714104527324",
+    "date_source": "https://ams-osram.com/documents/4390887/18159172/Ad-hoc_2024_eng%20Q1%202024%20results%20f.pdf/f2cf08e0-a6ce-b34e-85ea-d11209c725db?t=1714104527324",
+    "evidence": {
+      "income_pdf_page": 8,
+      "balance_pdf_page": 9,
+      "cashflow_pdf_page": 10,
+      "date_pdf_page": 1
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "Interest paid moved from financing to operating cashflow in 2024. The attached contemporaneous prior_annual override makes the annual and prior-YTD CFO bases consistent."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date.",
+    "prior_annual": {
+      "period_end": "2023-12-31",
+      "operating_income": -1430,
+      "net_income": -1613,
+      "operating_cash_flow": 493,
+      "publication_date": "2024-04-26",
+      "availability_date": "2024-04-26",
+      "source": "https://ams-osram.com/documents/4390887/4391329/ams%20OSRAM%20EN%20Annual%20Report%202023.pdf/d73eb460-5fc0-093b-159f-d307d804aca1?t=1713257897189",
+      "supporting_sources": [
+        "https://ams-osram.com/documents/4390887/18159172/Ad-hoc_2024_eng%20Q1%202024%20results%20f.pdf/f2cf08e0-a6ce-b34e-85ea-d11209c725db?t=1714104527324"
+      ],
+      "evidence": {
+        "annual_income_pdf_page": 81,
+        "annual_cashflow_pdf_page": 83,
+        "policy_q1_pdf_page": 5,
+        "reclassified_q1_cashflow_pdf_page": 10
+      },
+      "notes": [
+        "Comparable CFO is derived from observed original FY2023 CFO 674 less interest paid 181 = 493. Original annual p83 already includes interest received 22 in operating cashflow, so no interest-received offset is missing. Original annual and Q1 2024 statement were both published 2024-04-26. Q1 p5 states operating cashflow now includes net interest paid; p10 moves prior Q1 interest paid 46 into CFO, reconciling original 162 to 116.",
+        "This contemporaneous reclassification is used solely for TTM comparability. The original FY2023 annual observation is unchanged; no later FY2024 annual comparative is used."
+      ]
+    }
+  },
+  {
+    "ticker": "AMS.SW",
+    "fiscal_year": 2024,
+    "fiscal_quarter": 2,
+    "period_end": "2024-06-30",
+    "publication_date": "2024-07-26",
+    "availability_date": "2024-07-26",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -616.0,
+      "net_income": -751.0,
+      "operating_cash_flow": 110.0
+    },
+    "prior_ytd": {
+      "operating_income": -1413.0,
+      "net_income": -1476.0,
+      "operating_cash_flow": 318.0
+    },
+    "total_assets": 6692.0,
+    "current_liabilities": 2794.0,
+    "income_source": "https://ams-osram.com/documents/4390887/25202939/ams+OSRAM+EN+HY+Report+2024.pdf/0d4302ad-9d33-cb22-c775-b42c391def68?t=1726072375591",
+    "balance_source": "https://ams-osram.com/documents/4390887/25202939/ams+OSRAM+EN+HY+Report+2024.pdf/0d4302ad-9d33-cb22-c775-b42c391def68?t=1726072375591",
+    "cashflow_source": "https://ams-osram.com/documents/4390887/25202939/ams+OSRAM+EN+HY+Report+2024.pdf/0d4302ad-9d33-cb22-c775-b42c391def68?t=1726072375591",
+    "date_source": "https://ams-osram.com/news/press-releases/q2-2024-results",
+    "evidence": {
+      "income_pdf_page": 9,
+      "balance_pdf_page": 11,
+      "cashflow_pdf_page": 12,
+      "date_document": "issuer release page linking quarterly financial documents",
+      "date_excerpt": "data/eu_interim/sources/industry/AMS2024Q2_date.txt"
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "Interest paid moved from financing to operating cashflow in 2024. The attached contemporaneous prior_annual override makes the annual and prior-YTD CFO bases consistent."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date.",
+    "prior_annual": {
+      "period_end": "2023-12-31",
+      "operating_income": -1430,
+      "net_income": -1613,
+      "operating_cash_flow": 493,
+      "publication_date": "2024-04-26",
+      "availability_date": "2024-04-26",
+      "source": "https://ams-osram.com/documents/4390887/4391329/ams%20OSRAM%20EN%20Annual%20Report%202023.pdf/d73eb460-5fc0-093b-159f-d307d804aca1?t=1713257897189",
+      "supporting_sources": [
+        "https://ams-osram.com/documents/4390887/18159172/Ad-hoc_2024_eng%20Q1%202024%20results%20f.pdf/f2cf08e0-a6ce-b34e-85ea-d11209c725db?t=1714104527324"
+      ],
+      "evidence": {
+        "annual_income_pdf_page": 81,
+        "annual_cashflow_pdf_page": 83,
+        "policy_q1_pdf_page": 5,
+        "reclassified_q1_cashflow_pdf_page": 10
+      },
+      "notes": [
+        "Comparable CFO is derived from observed original FY2023 CFO 674 less interest paid 181 = 493. Original annual p83 already includes interest received 22 in operating cashflow, so no interest-received offset is missing. Original annual and Q1 2024 statement were both published 2024-04-26. Q1 p5 states operating cashflow now includes net interest paid; p10 moves prior Q1 interest paid 46 into CFO, reconciling original 162 to 116.",
+        "This contemporaneous reclassification is used solely for TTM comparability. The original FY2023 annual observation is unchanged; no later FY2024 annual comparative is used."
+      ]
+    }
+  },
+  {
+    "ticker": "AMS.SW",
+    "fiscal_year": 2024,
+    "fiscal_quarter": 3,
+    "period_end": "2024-09-30",
+    "publication_date": "2024-11-07",
+    "availability_date": "2024-11-07",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -547.0,
+      "net_income": -727.0,
+      "operating_cash_flow": 356.0
+    },
+    "prior_ytd": {
+      "operating_income": -1426.0,
+      "net_income": -1531.0,
+      "operating_cash_flow": 459.0
+    },
+    "total_assets": 6909.0,
+    "current_liabilities": 2653.0,
+    "income_source": "https://ams-osram.com/documents/4390887/30856145/Ad-hoc_2024_eng%20Q3%202024%20results.pdf/5241cff7-9ac9-2aa6-1508-4c7ff97e7fb6?t=1730925649953",
+    "balance_source": "https://ams-osram.com/documents/4390887/30856145/Ad-hoc_2024_eng%20Q3%202024%20results.pdf/5241cff7-9ac9-2aa6-1508-4c7ff97e7fb6?t=1730925649953",
+    "cashflow_source": "https://ams-osram.com/documents/4390887/30856145/Ad-hoc_2024_eng%20Q3%202024%20results.pdf/5241cff7-9ac9-2aa6-1508-4c7ff97e7fb6?t=1730925649953",
+    "date_source": "https://ams-osram.com/documents/4390887/30856145/Ad-hoc_2024_eng%20Q3%202024%20results.pdf/5241cff7-9ac9-2aa6-1508-4c7ff97e7fb6?t=1730925649953",
+    "evidence": {
+      "income_pdf_page": 9,
+      "balance_pdf_page": 10,
+      "cashflow_pdf_page": 11,
+      "date_pdf_page": 1
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "Interest paid moved from financing to operating cashflow in 2024. The attached contemporaneous prior_annual override makes the annual and prior-YTD CFO bases consistent."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date.",
+    "prior_annual": {
+      "period_end": "2023-12-31",
+      "operating_income": -1430,
+      "net_income": -1613,
+      "operating_cash_flow": 493,
+      "publication_date": "2024-04-26",
+      "availability_date": "2024-04-26",
+      "source": "https://ams-osram.com/documents/4390887/4391329/ams%20OSRAM%20EN%20Annual%20Report%202023.pdf/d73eb460-5fc0-093b-159f-d307d804aca1?t=1713257897189",
+      "supporting_sources": [
+        "https://ams-osram.com/documents/4390887/18159172/Ad-hoc_2024_eng%20Q1%202024%20results%20f.pdf/f2cf08e0-a6ce-b34e-85ea-d11209c725db?t=1714104527324"
+      ],
+      "evidence": {
+        "annual_income_pdf_page": 81,
+        "annual_cashflow_pdf_page": 83,
+        "policy_q1_pdf_page": 5,
+        "reclassified_q1_cashflow_pdf_page": 10
+      },
+      "notes": [
+        "Comparable CFO is derived from observed original FY2023 CFO 674 less interest paid 181 = 493. Original annual p83 already includes interest received 22 in operating cashflow, so no interest-received offset is missing. Original annual and Q1 2024 statement were both published 2024-04-26. Q1 p5 states operating cashflow now includes net interest paid; p10 moves prior Q1 interest paid 46 into CFO, reconciling original 162 to 116.",
+        "This contemporaneous reclassification is used solely for TTM comparability. The original FY2023 annual observation is unchanged; no later FY2024 annual comparative is used."
+      ]
+    }
+  },
+  {
+    "ticker": "AMS.SW",
+    "fiscal_year": 2025,
+    "fiscal_quarter": 1,
+    "period_end": "2025-03-31",
+    "publication_date": "2025-04-30",
+    "availability_date": "2025-04-30",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -1.0,
+      "net_income": -82.0,
+      "operating_cash_flow": 10.0
+    },
+    "prior_ytd": {
+      "operating_income": -631.0,
+      "net_income": -710.0,
+      "operating_cash_flow": 55.0
+    },
+    "total_assets": 6182.0,
+    "current_liabilities": 1985.0,
+    "income_source": "https://ams-osram.com/documents/d/ams-osram/ad-hoc_2025_eng-q1-2025-results",
+    "balance_source": "https://ams-osram.com/documents/d/ams-osram/ad-hoc_2025_eng-q1-2025-results",
+    "cashflow_source": "https://ams-osram.com/documents/d/ams-osram/ad-hoc_2025_eng-q1-2025-results",
+    "date_source": "https://ams-osram.com/documents/d/ams-osram/ad-hoc_2025_eng-q1-2025-results",
+    "evidence": {
+      "income_pdf_page": 7,
+      "balance_pdf_page": 8,
+      "cashflow_pdf_page": 9,
+      "date_pdf_page": 1
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "Disposals and impairment charges remain in reported consolidated results. Prior YTD totals match the preceding original interim statements; no adjusted/comparable-business earnings series is substituted."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date."
+  },
+  {
+    "ticker": "AMS.SW",
+    "fiscal_year": 2025,
+    "fiscal_quarter": 2,
+    "period_end": "2025-06-30",
+    "publication_date": "2025-07-31",
+    "availability_date": "2025-07-31",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": 50.0,
+      "net_income": -81.0,
+      "operating_cash_flow": 34.0
+    },
+    "prior_ytd": {
+      "operating_income": -616.0,
+      "net_income": -751.0,
+      "operating_cash_flow": 110.0
+    },
+    "total_assets": 6040.0,
+    "current_liabilities": 1975.0,
+    "income_source": "https://ams-osram.com/documents/d/ams-osram/ams-osram-en-hy-report-2025",
+    "balance_source": "https://ams-osram.com/documents/d/ams-osram/ams-osram-en-hy-report-2025",
+    "cashflow_source": "https://ams-osram.com/documents/d/ams-osram/ams-osram-en-hy-report-2025",
+    "date_source": "https://ams-osram.com/news/press-releases/q2-2025-results",
+    "evidence": {
+      "income_pdf_page": 8,
+      "balance_pdf_page": 10,
+      "cashflow_pdf_page": 11,
+      "date_document": "issuer release page linking quarterly financial documents",
+      "date_excerpt": "data/eu_interim/sources/industry/AMS2025Q2_date.txt"
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "Disposals and impairment charges remain in reported consolidated results. Prior YTD totals match the preceding original interim statements; no adjusted/comparable-business earnings series is substituted."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date."
+  },
+  {
+    "ticker": "AMS.SW",
+    "fiscal_year": 2025,
+    "fiscal_quarter": 3,
+    "period_end": "2025-09-30",
+    "publication_date": "2025-11-18",
+    "availability_date": "2025-11-18",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": 87.0,
+      "net_income": -109.0,
+      "operating_cash_flow": 122.0
+    },
+    "prior_ytd": {
+      "operating_income": -547.0,
+      "net_income": -727.0,
+      "operating_cash_flow": 356.0
+    },
+    "total_assets": 6465.0,
+    "current_liabilities": 2130.0,
+    "income_source": "https://ams-osram.com/documents/d/ams-osram/ad-hoc_2025_eng-q3-2025-results",
+    "balance_source": "https://ams-osram.com/documents/d/ams-osram/ad-hoc_2025_eng-q3-2025-results",
+    "cashflow_source": "https://ams-osram.com/documents/d/ams-osram/ad-hoc_2025_eng-q3-2025-results",
+    "date_source": "https://ams-osram.com/documents/d/ams-osram/ad-hoc_2025_eng-q3-2025-results",
+    "evidence": {
+      "income_pdf_page": 7,
+      "balance_pdf_page": 8,
+      "cashflow_pdf_page": 9,
+      "date_pdf_page": 1
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "Disposals and impairment charges remain in reported consolidated results. Prior YTD totals match the preceding original interim statements; no adjusted/comparable-business earnings series is substituted.",
+      "The available official full-statement PDF is explicitly dated 18 November 2025; use this date rather than an earlier calendar or headline date."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date."
+  },
+  {
+    "ticker": "AMS.SW",
+    "fiscal_year": 2026,
+    "fiscal_quarter": 1,
+    "period_end": "2026-03-31",
+    "publication_date": "2026-05-06",
+    "availability_date": "2026-05-06",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -26.0,
+      "net_income": -154.0,
+      "operating_cash_flow": 0.0
+    },
+    "prior_ytd": {
+      "operating_income": -1.0,
+      "net_income": -82.0,
+      "operating_cash_flow": 10.0
+    },
+    "total_assets": 6533.0,
+    "current_liabilities": 2043.0,
+    "income_source": "https://ams-osram.com/documents/d/ams-osram/ad-hoc_2026_en-q1-2026-results",
+    "balance_source": "https://ams-osram.com/documents/d/ams-osram/ad-hoc_2026_en-q1-2026-results",
+    "cashflow_source": "https://ams-osram.com/documents/d/ams-osram/ad-hoc_2026_en-q1-2026-results",
+    "date_source": "https://ams-osram.com/documents/d/ams-osram/ad-hoc_2026_en-q1-2026-results",
+    "evidence": {
+      "income_pdf_page": 8,
+      "balance_pdf_page": 9,
+      "cashflow_pdf_page": 10,
+      "date_pdf_page": 1
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "Disposals and impairment charges remain in reported consolidated results. Prior YTD totals match the preceding original interim statements; no adjusted/comparable-business earnings series is substituted."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date."
+  },
+  {
+    "ticker": "AMS.SW",
+    "fiscal_year": 2026,
+    "fiscal_quarter": 2,
+    "period_end": "2026-06-30",
+    "publication_date": "2026-08-04",
+    "availability_date": "2026-08-04",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -27.0,
+      "net_income": -276.0,
+      "operating_cash_flow": -78.0
+    },
+    "prior_ytd": {
+      "operating_income": 50.0,
+      "net_income": -81.0,
+      "operating_cash_flow": 34.0
+    },
+    "total_assets": 6256.0,
+    "current_liabilities": 2018.0,
+    "income_source": "https://ams-osram.com/documents/d/ams-osram/ams-osram-en-hy-report-2026",
+    "balance_source": "https://ams-osram.com/documents/d/ams-osram/ams-osram-en-hy-report-2026",
+    "cashflow_source": "https://ams-osram.com/documents/d/ams-osram/ams-osram-en-hy-report-2026",
+    "date_source": "https://ams-osram.com/news/press-releases/q2-2026-results",
+    "evidence": {
+      "income_pdf_page": 8,
+      "balance_pdf_page": 10,
+      "cashflow_pdf_page": 11,
+      "date_document": "issuer release page linking quarterly financial documents",
+      "date_excerpt": "data/eu_interim/sources/industry/AMS2026Q2_date.txt"
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "Disposals and impairment charges remain in reported consolidated results. Prior YTD totals match the preceding original interim statements; no adjusted/comparable-business earnings series is substituted."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date."
+  },
+  {
+    "ticker": "ENR.DE",
+    "fiscal_year": 2021,
+    "fiscal_quarter": 3,
+    "period_end": "2021-06-30",
+    "publication_date": "2021-08-04",
+    "availability_date": "2021-08-04",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": 51.0,
+      "net_income": -177.0,
+      "operating_cash_flow": 694.0
+    },
+    "prior_ytd": {
+      "operating_income": -1553.0,
+      "net_income": -1469.0,
+      "operating_cash_flow": 561.0
+    },
+    "total_assets": 44141.0,
+    "current_liabilities": 22579.0,
+    "income_source": "https://assets.siemens-energy.com/dam/45855aee-a6fd-47ed-89bb-b03b008c7453/SE-Q3FY21-Earnings-Release-pdf_Original%20file.pdf",
+    "balance_source": "https://assets.siemens-energy.com/dam/45855aee-a6fd-47ed-89bb-b03b008c7453/SE-Q3FY21-Earnings-Release-pdf_Original%20file.pdf",
+    "cashflow_source": "https://assets.siemens-energy.com/dam/45855aee-a6fd-47ed-89bb-b03b008c7453/SE-Q3FY21-Earnings-Release-pdf_Original%20file.pdf",
+    "date_source": "https://assets.siemens-energy.com/dam/45855aee-a6fd-47ed-89bb-b03b008c7453/SE-Q3FY21-Earnings-Release-pdf_Original%20file.pdf",
+    "evidence": {
+      "income_pdf_page": 9,
+      "balance_pdf_page": 11,
+      "cashflow_pdf_page": 12,
+      "date_pdf_page": 1
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "Siemens intercompany receivables/payables were reclassified within the balance sheet by their nature. This does not change total assets/current liabilities or the selected flow totals."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date."
+  },
+  {
+    "ticker": "ENR.DE",
+    "fiscal_year": 2022,
+    "fiscal_quarter": 1,
+    "period_end": "2021-12-31",
+    "publication_date": "2022-02-09",
+    "availability_date": "2022-02-09",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -152.0,
+      "net_income": -240.0,
+      "operating_cash_flow": 27.0
+    },
+    "prior_ytd": {
+      "operating_income": 164.0,
+      "net_income": 99.0,
+      "operating_cash_flow": -248.0
+    },
+    "total_assets": 45064.0,
+    "current_liabilities": 23651.0,
+    "income_source": "https://assets.siemens-energy.com/dam/ad1f75c8-9270-48f5-a0ff-b03b00904df9/SE-Q1FY22-Earnings-Release-Including-FY22-Guidance-pdf_Original%20file.pdf",
+    "balance_source": "https://assets.siemens-energy.com/dam/ad1f75c8-9270-48f5-a0ff-b03b00904df9/SE-Q1FY22-Earnings-Release-Including-FY22-Guidance-pdf_Original%20file.pdf",
+    "cashflow_source": "https://assets.siemens-energy.com/dam/ad1f75c8-9270-48f5-a0ff-b03b00904df9/SE-Q1FY22-Earnings-Release-Including-FY22-Guidance-pdf_Original%20file.pdf",
+    "date_source": "https://assets.siemens-energy.com/dam/ad1f75c8-9270-48f5-a0ff-b03b00904df9/SE-Q1FY22-Earnings-Release-Including-FY22-Guidance-pdf_Original%20file.pdf",
+    "evidence": {
+      "income_pdf_page": 9,
+      "balance_pdf_page": 11,
+      "cashflow_pdf_page": 12,
+      "date_pdf_page": 1
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date."
+  },
+  {
+    "ticker": "ENR.DE",
+    "fiscal_year": 2022,
+    "fiscal_quarter": 2,
+    "period_end": "2022-03-31",
+    "publication_date": "2022-05-11",
+    "availability_date": "2022-05-11",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -345.0,
+      "net_income": -492.0,
+      "operating_cash_flow": -198.0
+    },
+    "prior_ytd": {
+      "operating_income": 272.0,
+      "net_income": 130.0,
+      "operating_cash_flow": 213.0
+    },
+    "total_assets": 46248.0,
+    "current_liabilities": 25209.0,
+    "income_source": "https://assets.siemens-energy.com/dam/d835e992-b16a-4e0a-90d3-b03b00923736/SE-Q2FY22-Earnings-Release-Including-Guidance-pdf_Original%20file.pdf",
+    "balance_source": "https://assets.siemens-energy.com/dam/d835e992-b16a-4e0a-90d3-b03b00923736/SE-Q2FY22-Earnings-Release-Including-Guidance-pdf_Original%20file.pdf",
+    "cashflow_source": "https://assets.siemens-energy.com/dam/d835e992-b16a-4e0a-90d3-b03b00923736/SE-Q2FY22-Earnings-Release-Including-Guidance-pdf_Original%20file.pdf",
+    "date_source": "https://assets.siemens-energy.com/dam/d835e992-b16a-4e0a-90d3-b03b00923736/SE-Q2FY22-Earnings-Release-Including-Guidance-pdf_Original%20file.pdf",
+    "evidence": {
+      "income_pdf_page": 9,
+      "balance_pdf_page": 11,
+      "cashflow_pdf_page": 12,
+      "date_pdf_page": 1
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date."
+  },
+  {
+    "ticker": "ENR.DE",
+    "fiscal_year": 2022,
+    "fiscal_quarter": 3,
+    "period_end": "2022-06-30",
+    "publication_date": "2022-08-08",
+    "availability_date": "2022-08-08",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -881.0,
+      "net_income": -1025.0,
+      "operating_cash_flow": -63.0
+    },
+    "prior_ytd": {
+      "operating_income": 51.0,
+      "net_income": -177.0,
+      "operating_cash_flow": 694.0
+    },
+    "total_assets": 48463.0,
+    "current_liabilities": 27000.0,
+    "income_source": "https://assets.siemens-energy.com/dam/50edf33b-6a0c-4812-bbad-b03b007f8898/2022-08-08-Siemens-Energy-Q3-Earnings-Release-including-Guidance-pdf_Original%20file.pdf",
+    "balance_source": "https://assets.siemens-energy.com/dam/50edf33b-6a0c-4812-bbad-b03b007f8898/2022-08-08-Siemens-Energy-Q3-Earnings-Release-including-Guidance-pdf_Original%20file.pdf",
+    "cashflow_source": "https://assets.siemens-energy.com/dam/50edf33b-6a0c-4812-bbad-b03b007f8898/2022-08-08-Siemens-Energy-Q3-Earnings-Release-including-Guidance-pdf_Original%20file.pdf",
+    "date_source": "https://assets.siemens-energy.com/dam/50edf33b-6a0c-4812-bbad-b03b007f8898/2022-08-08-Siemens-Energy-Q3-Earnings-Release-including-Guidance-pdf_Original%20file.pdf",
+    "evidence": {
+      "income_pdf_page": 9,
+      "balance_pdf_page": 11,
+      "cashflow_pdf_page": 12,
+      "date_pdf_page": 1
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date."
+  },
+  {
+    "ticker": "ENR.DE",
+    "fiscal_year": 2023,
+    "fiscal_quarter": 1,
+    "period_end": "2022-12-31",
+    "publication_date": "2023-02-07",
+    "availability_date": "2023-02-07",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -480.0,
+      "net_income": -598.0,
+      "operating_cash_flow": 118.0
+    },
+    "prior_ytd": {
+      "operating_income": -159.0,
+      "net_income": -246.0,
+      "operating_cash_flow": 27.0
+    },
+    "total_assets": 48013.0,
+    "current_liabilities": 29991.0,
+    "income_source": "https://assets.siemens-energy.com/dam/b5d3944f-4bed-4d34-9839-b03d017e2ea9/2023-02-07-Siemens-Energy-Q1-FY2023-Earnings-Release-including-Guidance-2-pdf_Original%20file.pdf",
+    "balance_source": "https://assets.siemens-energy.com/dam/b5d3944f-4bed-4d34-9839-b03d017e2ea9/2023-02-07-Siemens-Energy-Q1-FY2023-Earnings-Release-including-Guidance-2-pdf_Original%20file.pdf",
+    "cashflow_source": "https://assets.siemens-energy.com/dam/b5d3944f-4bed-4d34-9839-b03d017e2ea9/2023-02-07-Siemens-Energy-Q1-FY2023-Earnings-Release-including-Guidance-2-pdf_Original%20file.pdf",
+    "date_source": "https://assets.siemens-energy.com/dam/b5d3944f-4bed-4d34-9839-b03d017e2ea9/2023-02-07-Siemens-Energy-Q1-FY2023-Earnings-Release-including-Guidance-2-pdf_Original%20file.pdf",
+    "evidence": {
+      "income_pdf_page": 10,
+      "balance_pdf_page": 12,
+      "cashflow_pdf_page": 13,
+      "date_pdf_page": 1
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "FY2022 comparatives were revised for derivatives accounting. Use the contemporaneous 2023-02-07 prior_annual override, not the original FY2022 income totals or a future annual report."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date.",
+    "prior_annual": {
+      "period_end": "2022-09-30",
+      "operating_income": -574,
+      "net_income": -712,
+      "operating_cash_flow": 2218,
+      "publication_date": "2023-02-07",
+      "availability_date": "2023-02-07",
+      "source": "https://assets.siemens-energy.com/dam/70e97f49-979a-4939-b701-b03d017dd998/2023-02-07-Siemens-Energy-Comparable-Key-Figures-FY2022-pdf_Original%20file.pdf",
+      "supporting_sources": [
+        "https://assets.siemens-energy.com/dam/a53b116d-b976-47cb-b9c5-b037009bb85c/2022-12-12-Siemens-Energy-AG-Annual-Report-2022-pdf_Original%20file.pdf"
+      ],
+      "evidence": {
+        "revised_policy_pdf_page": 1,
+        "revised_income_pdf_page": 2,
+        "original_annual_cashflow_pdf_page": 68
+      },
+      "notes": [
+        "Issuer comparable FY2022 figures, published with Q1 FY2023 on 2023-02-07, explicitly adjust derivative accounting. Reported comparable operating income = income before taxes -603 minus financial result -29 = -574; independently Profit -188 minus acquisition amortization/goodwill impairments 386 = -574. Total net loss -712 is stated directly and equals the four disclosed quarterly net results.",
+        "CFO 2218 comes from original FY2022 annual report released 2022-12-12. The revised 2023 quarterly statements retain FY2022 YTD CFO 27, -198 and -63, matching original quarterly statements. The derivatives restatement concerns non-cash fair-value recognition.",
+        "The comparable-key-figures source contains an internal inconsistency in its annual income-tax line (-128 does not reconcile to annual pretax/net income); that tax line is not used. The selected net income is supported by its four-quarter sum, and operating income by two independent disclosed bridges. Original FY2022 annual scores remain unchanged."
+      ]
+    }
+  },
+  {
+    "ticker": "ENR.DE",
+    "fiscal_year": 2023,
+    "fiscal_quarter": 2,
+    "period_end": "2023-03-31",
+    "publication_date": "2023-05-15",
+    "availability_date": "2023-05-15",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -487.0,
+      "net_income": -787.0,
+      "operating_cash_flow": -41.0
+    },
+    "prior_ytd": {
+      "operating_income": -358.0,
+      "net_income": -502.0,
+      "operating_cash_flow": -198.0
+    },
+    "total_assets": 48320.0,
+    "current_liabilities": 28970.0,
+    "income_source": "https://assets.siemens-energy.com/dam/b4dd8983-7c90-4374-8edc-b02f000092ad/2023-05-15-earnings-release-q2-fy23-en-pdf_Original%20file.pdf",
+    "balance_source": "https://assets.siemens-energy.com/dam/b4dd8983-7c90-4374-8edc-b02f000092ad/2023-05-15-earnings-release-q2-fy23-en-pdf_Original%20file.pdf",
+    "cashflow_source": "https://assets.siemens-energy.com/dam/b4dd8983-7c90-4374-8edc-b02f000092ad/2023-05-15-earnings-release-q2-fy23-en-pdf_Original%20file.pdf",
+    "date_source": "https://assets.siemens-energy.com/dam/b4dd8983-7c90-4374-8edc-b02f000092ad/2023-05-15-earnings-release-q2-fy23-en-pdf_Original%20file.pdf",
+    "evidence": {
+      "income_pdf_page": 10,
+      "balance_pdf_page": 12,
+      "cashflow_pdf_page": 13,
+      "date_pdf_page": 1
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "FY2022 comparatives were revised for derivatives accounting. Use the contemporaneous 2023-02-07 prior_annual override, not the original FY2022 income totals or a future annual report."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date.",
+    "prior_annual": {
+      "period_end": "2022-09-30",
+      "operating_income": -574,
+      "net_income": -712,
+      "operating_cash_flow": 2218,
+      "publication_date": "2023-02-07",
+      "availability_date": "2023-02-07",
+      "source": "https://assets.siemens-energy.com/dam/70e97f49-979a-4939-b701-b03d017dd998/2023-02-07-Siemens-Energy-Comparable-Key-Figures-FY2022-pdf_Original%20file.pdf",
+      "supporting_sources": [
+        "https://assets.siemens-energy.com/dam/a53b116d-b976-47cb-b9c5-b037009bb85c/2022-12-12-Siemens-Energy-AG-Annual-Report-2022-pdf_Original%20file.pdf"
+      ],
+      "evidence": {
+        "revised_policy_pdf_page": 1,
+        "revised_income_pdf_page": 2,
+        "original_annual_cashflow_pdf_page": 68
+      },
+      "notes": [
+        "Issuer comparable FY2022 figures, published with Q1 FY2023 on 2023-02-07, explicitly adjust derivative accounting. Reported comparable operating income = income before taxes -603 minus financial result -29 = -574; independently Profit -188 minus acquisition amortization/goodwill impairments 386 = -574. Total net loss -712 is stated directly and equals the four disclosed quarterly net results.",
+        "CFO 2218 comes from original FY2022 annual report released 2022-12-12. The revised 2023 quarterly statements retain FY2022 YTD CFO 27, -198 and -63, matching original quarterly statements. The derivatives restatement concerns non-cash fair-value recognition.",
+        "The comparable-key-figures source contains an internal inconsistency in its annual income-tax line (-128 does not reconcile to annual pretax/net income); that tax line is not used. The selected net income is supported by its four-quarter sum, and operating income by two independent disclosed bridges. Original FY2022 annual scores remain unchanged."
+      ]
+    }
+  },
+  {
+    "ticker": "ENR.DE",
+    "fiscal_year": 2023,
+    "fiscal_quarter": 3,
+    "period_end": "2023-06-30",
+    "publication_date": "2023-08-07",
+    "availability_date": "2023-08-07",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -2642.0,
+      "net_income": -3718.0,
+      "operating_cash_flow": 170.0
+    },
+    "prior_ytd": {
+      "operating_income": -935.0,
+      "net_income": -1066.0,
+      "operating_cash_flow": -63.0
+    },
+    "total_assets": 47944.0,
+    "current_liabilities": 31076.0,
+    "income_source": "https://assets.siemens-energy.com/dam/75fbc908-ba94-4e6a-960e-b0740123892a/2023-08-07-Earnings-Release-Q3-FY23-EN-pdf_Original%20file.pdf",
+    "balance_source": "https://assets.siemens-energy.com/dam/75fbc908-ba94-4e6a-960e-b0740123892a/2023-08-07-Earnings-Release-Q3-FY23-EN-pdf_Original%20file.pdf",
+    "cashflow_source": "https://assets.siemens-energy.com/dam/75fbc908-ba94-4e6a-960e-b0740123892a/2023-08-07-Earnings-Release-Q3-FY23-EN-pdf_Original%20file.pdf",
+    "date_source": "https://assets.siemens-energy.com/dam/75fbc908-ba94-4e6a-960e-b0740123892a/2023-08-07-Earnings-Release-Q3-FY23-EN-pdf_Original%20file.pdf",
+    "evidence": {
+      "income_pdf_page": 10,
+      "balance_pdf_page": 12,
+      "cashflow_pdf_page": 13,
+      "date_pdf_page": 1
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "FY2022 comparatives were revised for derivatives accounting. Use the contemporaneous 2023-02-07 prior_annual override, not the original FY2022 income totals or a future annual report."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date.",
+    "prior_annual": {
+      "period_end": "2022-09-30",
+      "operating_income": -574,
+      "net_income": -712,
+      "operating_cash_flow": 2218,
+      "publication_date": "2023-02-07",
+      "availability_date": "2023-02-07",
+      "source": "https://assets.siemens-energy.com/dam/70e97f49-979a-4939-b701-b03d017dd998/2023-02-07-Siemens-Energy-Comparable-Key-Figures-FY2022-pdf_Original%20file.pdf",
+      "supporting_sources": [
+        "https://assets.siemens-energy.com/dam/a53b116d-b976-47cb-b9c5-b037009bb85c/2022-12-12-Siemens-Energy-AG-Annual-Report-2022-pdf_Original%20file.pdf"
+      ],
+      "evidence": {
+        "revised_policy_pdf_page": 1,
+        "revised_income_pdf_page": 2,
+        "original_annual_cashflow_pdf_page": 68
+      },
+      "notes": [
+        "Issuer comparable FY2022 figures, published with Q1 FY2023 on 2023-02-07, explicitly adjust derivative accounting. Reported comparable operating income = income before taxes -603 minus financial result -29 = -574; independently Profit -188 minus acquisition amortization/goodwill impairments 386 = -574. Total net loss -712 is stated directly and equals the four disclosed quarterly net results.",
+        "CFO 2218 comes from original FY2022 annual report released 2022-12-12. The revised 2023 quarterly statements retain FY2022 YTD CFO 27, -198 and -63, matching original quarterly statements. The derivatives restatement concerns non-cash fair-value recognition.",
+        "The comparable-key-figures source contains an internal inconsistency in its annual income-tax line (-128 does not reconcile to annual pretax/net income); that tax line is not used. The selected net income is supported by its four-quarter sum, and operating income by two independent disclosed bridges. Original FY2022 annual scores remain unchanged."
+      ]
+    }
+  },
+  {
+    "ticker": "ENR.DE",
+    "fiscal_year": 2024,
+    "fiscal_quarter": 1,
+    "period_end": "2023-12-31",
+    "publication_date": "2024-02-07",
+    "availability_date": "2024-02-07",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": 1813.0,
+      "net_income": 1582.0,
+      "operating_cash_flow": -132.0
+    },
+    "prior_ytd": {
+      "operating_income": -480.0,
+      "net_income": -598.0,
+      "operating_cash_flow": 118.0
+    },
+    "total_assets": 48521.0,
+    "current_liabilities": 30944.0,
+    "income_source": "https://assets.siemens-energy.com/dam/db7c8e99-29a4-4c5c-b70e-b10e00e4b8f1/2024-02-07-Earnings-Release-Q1-FY24-EN-pdf_Original%20file.pdf",
+    "balance_source": "https://assets.siemens-energy.com/dam/db7c8e99-29a4-4c5c-b70e-b10e00e4b8f1/2024-02-07-Earnings-Release-Q1-FY24-EN-pdf_Original%20file.pdf",
+    "cashflow_source": "https://assets.siemens-energy.com/dam/db7c8e99-29a4-4c5c-b70e-b10e00e4b8f1/2024-02-07-Earnings-Release-Q1-FY24-EN-pdf_Original%20file.pdf",
+    "date_source": "https://assets.siemens-energy.com/dam/db7c8e99-29a4-4c5c-b70e-b10e00e4b8f1/2024-02-07-Earnings-Release-Q1-FY24-EN-pdf_Original%20file.pdf",
+    "evidence": {
+      "income_pdf_page": 10,
+      "balance_pdf_page": 12,
+      "cashflow_pdf_page": 13,
+      "date_pdf_page": 1
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date."
+  },
+  {
+    "ticker": "ENR.DE",
+    "fiscal_year": 2024,
+    "fiscal_quarter": 2,
+    "period_end": "2024-03-31",
+    "publication_date": "2024-05-08",
+    "availability_date": "2024-05-08",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": 2249.0,
+      "net_income": 1690.0,
+      "operating_cash_flow": 482.0
+    },
+    "prior_ytd": {
+      "operating_income": -487.0,
+      "net_income": -787.0,
+      "operating_cash_flow": -41.0
+    },
+    "total_assets": 50192.0,
+    "current_liabilities": 32180.0,
+    "income_source": "https://assets.siemens-energy.com/dam/5d37b77c-3e71-4a3c-a96b-b16a0044ecff/2024-05-08-Earnings-Release_Q2-FY-2024_EN-pdf_Original%20file.pdf",
+    "balance_source": "https://assets.siemens-energy.com/dam/5d37b77c-3e71-4a3c-a96b-b16a0044ecff/2024-05-08-Earnings-Release_Q2-FY-2024_EN-pdf_Original%20file.pdf",
+    "cashflow_source": "https://assets.siemens-energy.com/dam/5d37b77c-3e71-4a3c-a96b-b16a0044ecff/2024-05-08-Earnings-Release_Q2-FY-2024_EN-pdf_Original%20file.pdf",
+    "date_source": "https://assets.siemens-energy.com/dam/5d37b77c-3e71-4a3c-a96b-b16a0044ecff/2024-05-08-Earnings-Release_Q2-FY-2024_EN-pdf_Original%20file.pdf",
+    "evidence": {
+      "income_pdf_page": 10,
+      "balance_pdf_page": 12,
+      "cashflow_pdf_page": 13,
+      "date_pdf_page": 1
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date."
+  },
+  {
+    "ticker": "ENR.DE",
+    "fiscal_year": 2024,
+    "fiscal_quarter": 3,
+    "period_end": "2024-06-30",
+    "publication_date": "2024-08-07",
+    "availability_date": "2024-08-07",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": 2303.0,
+      "net_income": 1588.0,
+      "operating_cash_flow": 1419.0
+    },
+    "prior_ytd": {
+      "operating_income": -2642.0,
+      "net_income": -3718.0,
+      "operating_cash_flow": 170.0
+    },
+    "total_assets": 51185.0,
+    "current_liabilities": 33340.0,
+    "income_source": "https://assets.siemens-energy.com/dam/cef1e912-2cc9-4e90-b32a-b1c500420e11/2024-08-07-Earnings-Release-and-Financial-Results-Q3-FY-2024-pdf_Original%20file.pdf",
+    "balance_source": "https://assets.siemens-energy.com/dam/cef1e912-2cc9-4e90-b32a-b1c500420e11/2024-08-07-Earnings-Release-and-Financial-Results-Q3-FY-2024-pdf_Original%20file.pdf",
+    "cashflow_source": "https://assets.siemens-energy.com/dam/cef1e912-2cc9-4e90-b32a-b1c500420e11/2024-08-07-Earnings-Release-and-Financial-Results-Q3-FY-2024-pdf_Original%20file.pdf",
+    "date_source": "https://assets.siemens-energy.com/dam/cef1e912-2cc9-4e90-b32a-b1c500420e11/2024-08-07-Earnings-Release-and-Financial-Results-Q3-FY-2024-pdf_Original%20file.pdf",
+    "evidence": {
+      "income_pdf_page": 10,
+      "balance_pdf_page": 12,
+      "cashflow_pdf_page": 13,
+      "date_pdf_page": 1
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date."
+  },
+  {
+    "ticker": "ENR.DE",
+    "fiscal_year": 2025,
+    "fiscal_quarter": 1,
+    "period_end": "2024-12-31",
+    "publication_date": "2025-02-12",
+    "availability_date": "2025-02-12",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": 399.0,
+      "net_income": 252.0,
+      "operating_cash_flow": 1694.0
+    },
+    "prior_ytd": {
+      "operating_income": 1813.0,
+      "net_income": 1582.0,
+      "operating_cash_flow": -132.0
+    },
+    "total_assets": 54667.0,
+    "current_liabilities": 36759.0,
+    "income_source": "https://assets.siemens-energy.com/dam/a90e9048-69be-4ae7-95b5-b2820050888b/Earnings_Release_Q1_FY_2025-pdf_Original%20file.pdf",
+    "balance_source": "https://assets.siemens-energy.com/dam/a90e9048-69be-4ae7-95b5-b2820050888b/Earnings_Release_Q1_FY_2025-pdf_Original%20file.pdf",
+    "cashflow_source": "https://assets.siemens-energy.com/dam/a90e9048-69be-4ae7-95b5-b2820050888b/Earnings_Release_Q1_FY_2025-pdf_Original%20file.pdf",
+    "date_source": "https://assets.siemens-energy.com/dam/a90e9048-69be-4ae7-95b5-b2820050888b/Earnings_Release_Q1_FY_2025-pdf_Original%20file.pdf",
+    "evidence": {
+      "income_pdf_page": 10,
+      "balance_pdf_page": 12,
+      "cashflow_pdf_page": 13,
+      "date_pdf_page": 1
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date."
+  },
+  {
+    "ticker": "ENR.DE",
+    "fiscal_year": 2025,
+    "fiscal_quarter": 2,
+    "period_end": "2025-03-31",
+    "publication_date": "2025-05-08",
+    "availability_date": "2025-05-08",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": 956.0,
+      "net_income": 753.0,
+      "operating_cash_flow": 3261.0
+    },
+    "prior_ytd": {
+      "operating_income": 2249.0,
+      "net_income": 1690.0,
+      "operating_cash_flow": 482.0
+    },
+    "total_assets": 54942.0,
+    "current_liabilities": 36787.0,
+    "income_source": "https://assets.siemens-energy.com/dam/8da371bf-4d93-459d-8716-b2d7004418d9/Earnings_Release_Q2_FY_2025-pdf_Original%20file.pdf",
+    "balance_source": "https://assets.siemens-energy.com/dam/8da371bf-4d93-459d-8716-b2d7004418d9/Earnings_Release_Q2_FY_2025-pdf_Original%20file.pdf",
+    "cashflow_source": "https://assets.siemens-energy.com/dam/8da371bf-4d93-459d-8716-b2d7004418d9/Earnings_Release_Q2_FY_2025-pdf_Original%20file.pdf",
+    "date_source": "https://assets.siemens-energy.com/dam/8da371bf-4d93-459d-8716-b2d7004418d9/Earnings_Release_Q2_FY_2025-pdf_Original%20file.pdf",
+    "evidence": {
+      "income_pdf_page": 10,
+      "balance_pdf_page": 12,
+      "cashflow_pdf_page": 13,
+      "date_pdf_page": 1
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date."
+  },
+  {
+    "ticker": "ENR.DE",
+    "fiscal_year": 2025,
+    "fiscal_quarter": 3,
+    "period_end": "2025-06-30",
+    "publication_date": "2025-08-06",
+    "availability_date": "2025-08-06",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": 1866.0,
+      "net_income": 1450.0,
+      "operating_cash_flow": 3979.0
+    },
+    "prior_ytd": {
+      "operating_income": 2303.0,
+      "net_income": 1588.0,
+      "operating_cash_flow": 1419.0
+    },
+    "total_assets": 55117.0,
+    "current_liabilities": 37438.0,
+    "income_source": "https://assets.siemens-energy.com/dam/a181bfed-4213-4a9e-8d6a-b331004a9a73/2025-08-06_ER_E_final-pdf_Original%20file.pdf",
+    "balance_source": "https://assets.siemens-energy.com/dam/a181bfed-4213-4a9e-8d6a-b331004a9a73/2025-08-06_ER_E_final-pdf_Original%20file.pdf",
+    "cashflow_source": "https://assets.siemens-energy.com/dam/a181bfed-4213-4a9e-8d6a-b331004a9a73/2025-08-06_ER_E_final-pdf_Original%20file.pdf",
+    "date_source": "https://assets.siemens-energy.com/dam/a181bfed-4213-4a9e-8d6a-b331004a9a73/2025-08-06_ER_E_final-pdf_Original%20file.pdf",
+    "evidence": {
+      "income_pdf_page": 10,
+      "balance_pdf_page": 12,
+      "cashflow_pdf_page": 13,
+      "date_pdf_page": 1
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date."
+  },
+  {
+    "ticker": "ENR.DE",
+    "fiscal_year": 2026,
+    "fiscal_quarter": 1,
+    "period_end": "2025-12-31",
+    "publication_date": "2026-02-11",
+    "availability_date": "2026-02-11",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": 962.0,
+      "net_income": 746.0,
+      "operating_cash_flow": 3154.0
+    },
+    "prior_ytd": {
+      "operating_income": 399.0,
+      "net_income": 252.0,
+      "operating_cash_flow": 1694.0
+    },
+    "total_assets": 60191.0,
+    "current_liabilities": 41158.0,
+    "income_source": "https://assets.siemens-energy.com/dam/f8b7f2d2-e4f2-4fe5-8295-b3ee005765a4/2026-02-11_Earnings-Release-Q1-FY26-pdf_Original%20file.pdf",
+    "balance_source": "https://assets.siemens-energy.com/dam/f8b7f2d2-e4f2-4fe5-8295-b3ee005765a4/2026-02-11_Earnings-Release-Q1-FY26-pdf_Original%20file.pdf",
+    "cashflow_source": "https://assets.siemens-energy.com/dam/f8b7f2d2-e4f2-4fe5-8295-b3ee005765a4/2026-02-11_Earnings-Release-Q1-FY26-pdf_Original%20file.pdf",
+    "date_source": "https://assets.siemens-energy.com/dam/f8b7f2d2-e4f2-4fe5-8295-b3ee005765a4/2026-02-11_Earnings-Release-Q1-FY26-pdf_Original%20file.pdf",
+    "evidence": {
+      "income_pdf_page": 9,
+      "balance_pdf_page": 11,
+      "cashflow_pdf_page": 12,
+      "date_pdf_page": 1
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date."
+  },
+  {
+    "ticker": "ENR.DE",
+    "fiscal_year": 2026,
+    "fiscal_quarter": 2,
+    "period_end": "2026-03-31",
+    "publication_date": "2026-05-12",
+    "availability_date": "2026-05-12",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": 2024.0,
+      "net_income": 1581.0,
+      "operating_cash_flow": 5234.0
+    },
+    "prior_ytd": {
+      "operating_income": 956.0,
+      "net_income": 753.0,
+      "operating_cash_flow": 3261.0
+    },
+    "total_assets": 61861.0,
+    "current_liabilities": 43262.0,
+    "income_source": "https://assets.siemens-energy.com/dam/d38d682a-d64f-4f9e-b4fe-b4480041e5ea/2026-05-12-Earnings_Release_Q2_FY26_EN-pdf_Original%20file.pdf",
+    "balance_source": "https://assets.siemens-energy.com/dam/d38d682a-d64f-4f9e-b4fe-b4480041e5ea/2026-05-12-Earnings_Release_Q2_FY26_EN-pdf_Original%20file.pdf",
+    "cashflow_source": "https://assets.siemens-energy.com/dam/d38d682a-d64f-4f9e-b4fe-b4480041e5ea/2026-05-12-Earnings_Release_Q2_FY26_EN-pdf_Original%20file.pdf",
+    "date_source": "https://assets.siemens-energy.com/dam/d38d682a-d64f-4f9e-b4fe-b4480041e5ea/2026-05-12-Earnings_Release_Q2_FY26_EN-pdf_Original%20file.pdf",
+    "evidence": {
+      "income_pdf_page": 9,
+      "balance_pdf_page": 11,
+      "cashflow_pdf_page": 12,
+      "date_pdf_page": 1
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date."
+  },
+  {
+    "ticker": "ENR.DE",
+    "fiscal_year": 2026,
+    "fiscal_quarter": 3,
+    "period_end": "2026-06-30",
+    "publication_date": "2026-08-05",
+    "availability_date": "2026-08-05",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": 3539.0,
+      "net_income": 2769.0,
+      "operating_cash_flow": 7759.0
+    },
+    "prior_ytd": {
+      "operating_income": 1866.0,
+      "net_income": 1450.0,
+      "operating_cash_flow": 3979.0
+    },
+    "total_assets": 63836.0,
+    "current_liabilities": 44914.0,
+    "income_source": "https://assets.siemens-energy.com/dam/30018eed-275d-4e73-811e-b49d004cdc3d/2026-08-05-Earnings_Release_Q3_FY26_EN-pdf_Original%20file.pdf",
+    "balance_source": "https://assets.siemens-energy.com/dam/30018eed-275d-4e73-811e-b49d004cdc3d/2026-08-05-Earnings_Release_Q3_FY26_EN-pdf_Original%20file.pdf",
+    "cashflow_source": "https://assets.siemens-energy.com/dam/30018eed-275d-4e73-811e-b49d004cdc3d/2026-08-05-Earnings_Release_Q3_FY26_EN-pdf_Original%20file.pdf",
+    "date_source": "https://assets.siemens-energy.com/dam/30018eed-275d-4e73-811e-b49d004cdc3d/2026-08-05-Earnings_Release_Q3_FY26_EN-pdf_Original%20file.pdf",
+    "evidence": {
+      "income_pdf_page": 9,
+      "balance_pdf_page": 11,
+      "cashflow_pdf_page": 12,
+      "date_pdf_page": 1
+    },
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ],
+    "ttm_compatible": true,
+    "source_class": "primary_original_interim",
+    "availability_basis": "Full financial statements in the dated issuer earnings release, or half-year report published with that issuer release; no headline-only earlier date."
+  }
+]

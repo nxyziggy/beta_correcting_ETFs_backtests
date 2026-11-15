@@ -1,0 +1,60 @@
+{
+  "runs": [
+    {
+      "run": "EU_annual_restoration_reference_q75_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882,
+      "restored_primary_score_rows": 434,
+      "restored_secondary_score_rows": 0
+    },
+    {
+      "run": "EU_annual_restoration_reference_q50_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882,
+      "restored_primary_score_rows": 434,
+      "restored_secondary_score_rows": 0
+    },
+    {
+      "run": "EU_annual_restoration_reference_equal_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882,
+      "restored_primary_score_rows": 434,
+      "restored_secondary_score_rows": 0
+    },
+    {
+      "run": "EU_restored_interim_q75_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882,
+      "restored_primary_score_rows": 434,
+      "restored_secondary_score_rows": 0
+    },
+    {
+      "run": "EU_restored_interim_q50_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882,
+      "restored_primary_score_rows": 434,
+      "restored_secondary_score_rows": 0
+    },
+    {
+      "run": "EU_restored_interim_equal_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882,
+      "restored_primary_score_rows": 434,
+      "restored_secondary_score_rows": 0
+    }
+  ],
+  "original_files_preserved": 1825,
+  "annual_reference_runs_reproduced": 3,
+  "expected_interims": 92,
+  "recovered_interims": 92,
+  "usable_ttm": 92,
+  "excluded": 0,
+  "arithmetic_fields_checked": 276,
+  "equal_weight_coverage_and_NAV_unchanged": true
+}

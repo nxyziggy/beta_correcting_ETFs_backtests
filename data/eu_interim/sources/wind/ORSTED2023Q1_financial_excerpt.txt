@@ -1,0 +1,63 @@
+Source: https://cdn.orsted.com/-/media/q12023/interim-financial-reportq12023.pdf
+Source ID: ORSTED2023Q1
+Publication date: 2023-05-03
+Original issuer PDF; extracted table context, not reformatted financial data.
+
+=== Original PDF page 17 ===
+Interim financial report  First quarter 2023                                                                                                                                                                      Consolidated financial statements
+
+         Income statement                                                                                                                 Statement of comprehensive income
+Note     DKKm                                                                                         Q1 2023             Q1 2022         DKKm                                                                                                    Q1 2023            Q1 2022
+3        Revenue                                                                                        29,369              33,762        Profit (loss) for the period                                                                              3,202               5,701
+         Cost of sales                                                                                (20,344)            (24,547)        Other comprehensive income:
+         Employee costs                                                                                 (1,540)              (1,166)      Value adjustments for the period                                                                          12,963            (22,961)
+         Share of profit (loss) in associates and joint ventures                                             62                  55       Value adjustments transferred to income statement                                                           (551)             5,692
+4        Other operating income                                                                          1,096               2,576        Value adjustments transferred to balance sheet                                                                   -              (32)
+4        Other operating expenses                                                                         (104)                 (76)      Exchange rate adjustments:
+         Operating profit (loss) before depreciation, amortisation,                                                                       Exchange rate adjustments relating to net investments in foreign enterprises                                   71               (52)
+         and impairment losses (EBITDA)                                                                  6,910               9,429        Value adjustment of net investment hedges                                                                    (88)                (41)
+         assets, and property, plant, and equipment                                                     (2,438)              (2,128)
+         Operating profit (loss) (EBIT)                                                                  4,472               7,301        Tax on hedging instruments                                                                                (2,679)             3,342
+         Gain (loss) on divestment of enterprises                                                           169                 108       Tax on exchange rate adjustments                                                                             (68)                112
+         Profit (loss) before tax                                                                        3,135               6,561        Total comprehensive income                                                                                12,851            (8,230)
+8        Tax on profit (loss) for the period                                                                 67               (860)       Comprehensive income for the period is attributable to:
+         Profit (loss) for the period                                                                    3,202               5,701        Shareholders in Ørsted A/S                                                                                12,472             (8,373)
+         Profit (loss) for the period is attributable to:                                                                                 Interest payments and costs, hybrid capital owners of Ørsted A/S                                             145                145
+         Shareholders in Ørsted A/S                                                                       2,810              5,556        Non-controlling interests                                                                                    234                  (2)
+         Non-controlling interests                                                                         247                     -
+         Earnings per share (DKK)                                                                           4.6                13.2       ’Value adjustments for the period’ in the first three months of 2023 are mainly
+         Diluted earnings per share (DKK)                                                                   4.6                13.2       a result of gains on power hedges due to decrease in power prices.
+
+=== Original PDF page 18 ===
+Interim financial report  First quarter 2023                                                                                                                                                                 Consolidated financial statements
+
+        Assets                                                                    31 March     31 December             31 March                 Equity and liabilities                                                   31 March      31 December             31 March
+Note    DKKm                                                                          2023               2022              2022        Note     DKKm                                                                          2023              2022               2022
+        Intangible assets                                                            4,300              4,029              1,828                Share capital                                                                4,204              4,204             4,204
+        Contract assets                                                                 913               408                   2               Other payables                                                               7,265              7,363             4,463
+        Trade receivables                                                             8,733             12,701             8,724                Non-current liabilities                                                    148,581           143,742           105,834
+        Other receivables                                                             15,151           20,289             17,650                Provisions                                                                     603                585                731
+        Current assets                                                             104,101            112,728           109,617                 Contract liabilities                                                         2,305              2,269              1,460
+        Assets classified as held for sale                                                 -                  -            1,248                Trade payables                                                              14,450             20,641             19,517
+        Assets                                                                    306,644             314,142           301,687                 Tax equity liabilities                                                       2,874              1,903               1,197
+                                                                                                                                                Other payables                                                               6,604               7,518            5,660
+                                                                                                                                       8        Income tax                                                                    5,391              5,115             5,951
+                                                                                                                                                Current liabilities                                                         55,237            74,868            118,555
+                                                                                                                                                Liabilities                                                               203,818            218,610           224,389
+
+=== Original PDF page 20 ===
+Interim financial report  First quarter 2023                                                                                                                                                                        Consolidated financial statements
+
+         Statement of cash flows
+Note     DKKm                                                                                            Q1 2023            Q1 2022        Note     DKKm                                                                                            Q1 2023            Q1 2022
+                                                                                                                                                    Proceeds from raising of loans                                                                     14,854              6,559
+         Operating profit (loss) before depreciation, amortisation, and                                                                             Instalments on loans                                                                                (549)            (6,923)
+         impairment losses (EBITDA)                                                                         6,910              9,429
+
+         Cash flows from operating activities                                                              10,119                (37)      Statement of cash flows
+         Purchase of intangible assets and property, plant, and equipment                                  (8,772)            (6,801)      Our supplementary statement of gross and net investments appears from
+         Sale of intangible assets and property, plant, and equipment                                         (20)             1,862       note 6 ’Gross and net investments’ and free cash flow (FCF) from note 2
+         Divestment of enterprises                                                                               2                (19)     ’Segment information’.
+
+         Purchase of other equity investments                                                                    3                  1      ’Cash’ according to the balance sheet as at 31 March 2023 includes ’Bank
+         Purchase of securities                                                                             (7,911)             (813)      overdrafts that are part of the ongoing cash management’, amounting to

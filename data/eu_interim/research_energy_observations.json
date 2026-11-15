@@ -1,0 +1,1030 @@
+[
+  {
+    "ticker": "ALFEN.AS",
+    "fiscal_year": 2021,
+    "fiscal_quarter": 2,
+    "period_end": "2021-06-30",
+    "publication_date": "2021-08-27",
+    "availability_date": "2021-08-27",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": 12.602,
+      "net_income": 9.024,
+      "operating_cash_flow": 2.871
+    },
+    "prior_ytd": {
+      "operating_income": 6.572,
+      "net_income": 4.896,
+      "operating_cash_flow": -4.276
+    },
+    "total_assets": 163.028,
+    "current_liabilities": 61.952,
+    "income_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt255c084a1b9338bf/678a67086d4ece8ed599fc8d/Alfen_2021_Semi-Annual_Report.pdf",
+    "balance_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt255c084a1b9338bf/678a67086d4ece8ed599fc8d/Alfen_2021_Semi-Annual_Report.pdf",
+    "cashflow_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt255c084a1b9338bf/678a67086d4ece8ed599fc8d/Alfen_2021_Semi-Annual_Report.pdf",
+    "date_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt5f3ed0ab6b3179c3/678a6707101c364d1a9130c9/Alfen_2021_HY_trading_update_-_Press_Release.pdf",
+    "evidence": {
+      "pdf_pages_one_based": [
+        8,
+        9
+      ],
+      "financial_excerpt": "data/eu_interim/sources/energy/ALFEN_2021H1_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/energy/ALFEN_2021H1_publication_evidence.txt"
+    },
+    "ttm_compatible": true,
+    "ttm_compatibility_basis": "Six-month income/cash-flow figures with same-period prior-year comparatives; combine with prior original annual report.",
+    "notes": [
+      "Original semi-annual consolidated statements, EUR thousands converted to millions. Quarter-one/three trading updates are not substituted for complete statements."
+    ]
+  },
+  {
+    "ticker": "ALFEN.AS",
+    "fiscal_year": 2022,
+    "fiscal_quarter": 2,
+    "period_end": "2022-06-30",
+    "publication_date": "2022-08-25",
+    "availability_date": "2022-08-25",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": 31.52,
+      "net_income": 24.552,
+      "operating_cash_flow": -1.052
+    },
+    "prior_ytd": {
+      "operating_income": 12.602,
+      "net_income": 9.024,
+      "operating_cash_flow": 2.871
+    },
+    "total_assets": 257.407,
+    "current_liabilities": 117.594,
+    "income_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt1d8c73c6c770f72d/678a6729420e0fbc08e16c4c/Alfen_2022_Semi-Annual_Report.pdf",
+    "balance_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt1d8c73c6c770f72d/678a6729420e0fbc08e16c4c/Alfen_2022_Semi-Annual_Report.pdf",
+    "cashflow_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt1d8c73c6c770f72d/678a6729420e0fbc08e16c4c/Alfen_2022_Semi-Annual_Report.pdf",
+    "date_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt1d971f876e3917a8/678a6717e5381a7d1c01c099/Alfen_2022_HY_trading_update_-_Press_Release.pdf",
+    "evidence": {
+      "pdf_pages_one_based": [
+        8,
+        9
+      ],
+      "financial_excerpt": "data/eu_interim/sources/energy/ALFEN_2022H1_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/energy/ALFEN_2022H1_publication_evidence.txt"
+    },
+    "ttm_compatible": true,
+    "ttm_compatibility_basis": "Six-month income/cash-flow figures with same-period prior-year comparatives; combine with prior original annual report.",
+    "notes": [
+      "Original semi-annual consolidated statements, EUR thousands converted to millions. Quarter-one/three trading updates are not substituted for complete statements.",
+      "Income-statement operating profit used; cash-flow reconciliation starting EBIT differs by EUR1,000 in H1 2022/H1 2023, retained as source rounding discrepancy rather than overriding reported profit."
+    ]
+  },
+  {
+    "ticker": "ALFEN.AS",
+    "fiscal_year": 2023,
+    "fiscal_quarter": 2,
+    "period_end": "2023-06-30",
+    "publication_date": "2023-08-23",
+    "availability_date": "2023-08-23",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": 13.608,
+      "net_income": 9.38,
+      "operating_cash_flow": -47.044
+    },
+    "prior_ytd": {
+      "operating_income": 31.52,
+      "net_income": 24.552,
+      "operating_cash_flow": -1.052
+    },
+    "total_assets": 397.811,
+    "current_liabilities": 212.104,
+    "income_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt5d059be452d5e399/678a67406d4ece39ac99fc9f/Alfen_2023_Semi-Annual_Report.pdf",
+    "balance_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt5d059be452d5e399/678a67406d4ece39ac99fc9f/Alfen_2023_Semi-Annual_Report.pdf",
+    "cashflow_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt5d059be452d5e399/678a67406d4ece39ac99fc9f/Alfen_2023_Semi-Annual_Report.pdf",
+    "date_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt7f7a6e10c35a0348/Trading%20update%20-%20Press%20Release%202023%20HY",
+    "evidence": {
+      "pdf_pages_one_based": [
+        8,
+        9
+      ],
+      "financial_excerpt": "data/eu_interim/sources/energy/ALFEN_2023H1_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/energy/ALFEN_2023H1_publication_evidence.txt"
+    },
+    "ttm_compatible": true,
+    "ttm_compatibility_basis": "Six-month income/cash-flow figures with same-period prior-year comparatives; combine with prior original annual report.",
+    "notes": [
+      "Original semi-annual consolidated statements, EUR thousands converted to millions. Quarter-one/three trading updates are not substituted for complete statements.",
+      "Income-statement operating profit used; cash-flow reconciliation starting EBIT differs by EUR1,000 in H1 2022/H1 2023, retained as source rounding discrepancy rather than overriding reported profit."
+    ]
+  },
+  {
+    "ticker": "ALFEN.AS",
+    "fiscal_year": 2024,
+    "fiscal_quarter": 2,
+    "period_end": "2024-06-30",
+    "publication_date": "2024-08-21",
+    "availability_date": "2024-08-21",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -12.14,
+      "net_income": -11.065,
+      "operating_cash_flow": 1.582
+    },
+    "prior_ytd": {
+      "operating_income": 13.608,
+      "net_income": 9.38,
+      "operating_cash_flow": -47.044
+    },
+    "total_assets": 383.445,
+    "current_liabilities": 151.788,
+    "income_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt8d347e80ab0d66d4/678a6750f3f1207c7cdd21f0/Alfen_2024_Semi-Annual_Report.pdf",
+    "balance_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt8d347e80ab0d66d4/678a6750f3f1207c7cdd21f0/Alfen_2024_Semi-Annual_Report.pdf",
+    "cashflow_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt8d347e80ab0d66d4/678a6750f3f1207c7cdd21f0/Alfen_2024_Semi-Annual_Report.pdf",
+    "date_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt1dd1fbed95ec1a81/678a674f2bd7f6c2e0f8f6f9/Alfen_2024_HY_trading_update_-_Press_Release.pdf",
+    "evidence": {
+      "pdf_pages_one_based": [
+        9,
+        10
+      ],
+      "financial_excerpt": "data/eu_interim/sources/energy/ALFEN_2024H1_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/energy/ALFEN_2024H1_publication_evidence.txt"
+    },
+    "ttm_compatible": true,
+    "ttm_compatibility_basis": "Six-month income/cash-flow figures with same-period prior-year comparatives; combine with prior original annual report.",
+    "notes": [
+      "Original semi-annual consolidated statements, EUR thousands converted to millions. Quarter-one/three trading updates are not substituted for complete statements.",
+      "Income-statement operating profit used; cash-flow reconciliation starting EBIT differs by EUR1,000 in H1 2022/H1 2023, retained as source rounding discrepancy rather than overriding reported profit."
+    ]
+  },
+  {
+    "ticker": "ALFEN.AS",
+    "fiscal_year": 2025,
+    "fiscal_quarter": 2,
+    "period_end": "2025-06-30",
+    "publication_date": "2025-08-20",
+    "availability_date": "2025-08-20",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": 0.384,
+      "net_income": -1.303,
+      "operating_cash_flow": 10.751
+    },
+    "prior_ytd": {
+      "operating_income": -12.14,
+      "net_income": -11.065,
+      "operating_cash_flow": 1.582
+    },
+    "total_assets": 338.708,
+    "current_liabilities": 130.238,
+    "income_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt3c90fb4645d4c6e2/68a6e048ae247042b299dcbf/Alfen_Semi-Annual_Report_2025_vF.pdf",
+    "balance_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt3c90fb4645d4c6e2/68a6e048ae247042b299dcbf/Alfen_Semi-Annual_Report_2025_vF.pdf",
+    "cashflow_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt3c90fb4645d4c6e2/68a6e048ae247042b299dcbf/Alfen_Semi-Annual_Report_2025_vF.pdf",
+    "date_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/bltda29295000f5c404/68a6c95156ee7d3cf644aa72/Alfen_25HY_Press_Release_Final.pdf",
+    "evidence": {
+      "pdf_pages_one_based": [
+        9,
+        10
+      ],
+      "financial_excerpt": "data/eu_interim/sources/energy/ALFEN_2025H1_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/energy/ALFEN_2025H1_publication_evidence.txt"
+    },
+    "ttm_compatible": true,
+    "ttm_compatibility_basis": "Six-month income/cash-flow figures with same-period prior-year comparatives; combine with prior original annual report.",
+    "notes": [
+      "Original semi-annual consolidated statements, EUR thousands converted to millions. Quarter-one/three trading updates are not substituted for complete statements."
+    ]
+  },
+  {
+    "ticker": "ALFEN.AS",
+    "fiscal_year": 2026,
+    "fiscal_quarter": 2,
+    "period_end": "2026-06-30",
+    "publication_date": "2026-08-18",
+    "availability_date": "2026-08-18",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": 0.811,
+      "net_income": -0.454,
+      "operating_cash_flow": 36.451
+    },
+    "prior_ytd": {
+      "operating_income": 0.384,
+      "net_income": -1.303,
+      "operating_cash_flow": 10.751
+    },
+    "total_assets": 326.627,
+    "current_liabilities": 121.163,
+    "income_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt294b839d49cfef29/6a848064257aaf412751cdca/Alfen_2026_Semi-Annual_Report.pdf",
+    "balance_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt294b839d49cfef29/6a848064257aaf412751cdca/Alfen_2026_Semi-Annual_Report.pdf",
+    "cashflow_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt294b839d49cfef29/6a848064257aaf412751cdca/Alfen_2026_Semi-Annual_Report.pdf",
+    "date_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt54fd796375ff7b89/6ad1f40f4e8c9f9d59c6c38f/Alfen_2026_HY_trading_update_-_Press_Release.pdf",
+    "evidence": {
+      "pdf_pages_one_based": [
+        9,
+        10
+      ],
+      "financial_excerpt": "data/eu_interim/sources/energy/ALFEN_2026H1_financial_excerpt.txt",
+      "publication_evidence": "data/eu_interim/sources/energy/ALFEN_2026H1_publication_evidence.txt"
+    },
+    "ttm_compatible": true,
+    "ttm_compatibility_basis": "Six-month income/cash-flow figures with same-period prior-year comparatives; combine with prior original annual report.",
+    "notes": [
+      "Original semi-annual consolidated statements, EUR thousands converted to millions. Quarter-one/three trading updates are not substituted for complete statements."
+    ]
+  },
+  {
+    "ticker": "NEL.OL",
+    "fiscal_year": 2021,
+    "fiscal_quarter": 2,
+    "period_end": "2021-06-30",
+    "publication_date": "2021-08-19",
+    "availability_date": "2021-08-19",
+    "currency": "NOK",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -247.216,
+      "net_income": -890.326,
+      "operating_cash_flow": -231.725
+    },
+    "prior_ytd": {
+      "operating_income": -158.941,
+      "net_income": 593.205,
+      "operating_cash_flow": -55.828
+    },
+    "total_assets": 6557.78,
+    "current_liabilities": 539.986,
+    "income_source": "https://mb.cision.com/Main/115/3399294/1455892.pdf",
+    "balance_source": "https://mb.cision.com/Main/115/3399294/1455892.pdf",
+    "cashflow_source": "https://mb.cision.com/Main/115/3399294/1455892.pdf",
+    "date_source": "https://nelhydrogen.com/press-release/nel-asa-second-quarter-2021-financial-results/",
+    "evidence": {
+      "pdf_pages_one_based": [
+        14,
+        15,
+        16
+      ],
+      "financial_excerpt": "data/eu_interim/sources/energy/NEL_2021Q2_financial_excerpt.txt"
+    },
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary."
+    ],
+    "ttm_compatible": true,
+    "ttm_compatibility_basis": "Use observed full prior-year flow column from this same report; avoids mixing later-restated YTD comparison with old annual basis.",
+    "prior_annual": {
+      "operating_income": -414.497,
+      "net_income": 1261.88,
+      "operating_cash_flow": -215.886,
+      "period_end": "2020-12-31",
+      "source": "https://mb.cision.com/Main/115/3399294/1455892.pdf",
+      "publication_date": "2021-08-19",
+      "availability_date": "2021-08-19"
+    }
+  },
+  {
+    "ticker": "NEL.OL",
+    "fiscal_year": 2021,
+    "fiscal_quarter": 3,
+    "period_end": "2021-09-30",
+    "publication_date": "2021-10-21",
+    "availability_date": "2021-10-21",
+    "currency": "NOK",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -386.156,
+      "net_income": -1397.364,
+      "operating_cash_flow": -347.531
+    },
+    "prior_ytd": {
+      "operating_income": -275.196,
+      "net_income": -33.485,
+      "operating_cash_flow": -121.968
+    },
+    "total_assets": 6046.945,
+    "current_liabilities": 506.155,
+    "income_source": "https://mb.cision.com/Main/115/3437177/1483906.pdf",
+    "balance_source": "https://mb.cision.com/Main/115/3437177/1483906.pdf",
+    "cashflow_source": "https://mb.cision.com/Main/115/3437177/1483906.pdf",
+    "date_source": "https://nelhydrogen.com/press-release/nel-asa-third-quarter-2021-financial-results/",
+    "evidence": {
+      "pdf_pages_one_based": [
+        14,
+        15,
+        16
+      ],
+      "financial_excerpt": "data/eu_interim/sources/energy/NEL_2021Q3_financial_excerpt.txt"
+    },
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary."
+    ],
+    "ttm_compatible": true,
+    "ttm_compatibility_basis": "Use observed full prior-year flow column from this same report; avoids mixing later-restated YTD comparison with old annual basis.",
+    "prior_annual": {
+      "operating_income": -414.497,
+      "net_income": 1261.88,
+      "operating_cash_flow": -215.886,
+      "period_end": "2020-12-31",
+      "source": "https://mb.cision.com/Main/115/3437177/1483906.pdf",
+      "publication_date": "2021-10-21",
+      "availability_date": "2021-10-21"
+    }
+  },
+  {
+    "ticker": "NEL.OL",
+    "fiscal_year": 2022,
+    "fiscal_quarter": 1,
+    "period_end": "2022-03-31",
+    "publication_date": "2022-05-11",
+    "availability_date": "2022-05-11",
+    "currency": "NOK",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -186.609,
+      "net_income": 83.743,
+      "operating_cash_flow": -158.773
+    },
+    "prior_ytd": {
+      "operating_income": -98.151,
+      "net_income": -578.064,
+      "operating_cash_flow": -184.616
+    },
+    "total_assets": 7564.86,
+    "current_liabilities": 706.409,
+    "income_source": "https://mb.cision.com/Public/115/3564598/ba3f964a6897fac1.pdf",
+    "balance_source": "https://mb.cision.com/Public/115/3564598/ba3f964a6897fac1.pdf",
+    "cashflow_source": "https://mb.cision.com/Public/115/3564598/ba3f964a6897fac1.pdf",
+    "date_source": "https://nelhydrogen.com/press-release/nel-asa-first-quarter-2022-financial-results/",
+    "evidence": {
+      "pdf_pages_one_based": [
+        13,
+        14,
+        15
+      ],
+      "financial_excerpt": "data/eu_interim/sources/energy/NEL_2022Q1_financial_excerpt.txt"
+    },
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary."
+    ],
+    "ttm_compatible": true,
+    "ttm_compatibility_basis": "Use observed full prior-year flow column from this same report; avoids mixing later-restated YTD comparison with old annual basis.",
+    "prior_annual": {
+      "operating_income": -582.853,
+      "net_income": -1666.852,
+      "operating_cash_flow": -449.458,
+      "period_end": "2021-12-31",
+      "source": "https://mb.cision.com/Public/115/3564598/ba3f964a6897fac1.pdf",
+      "publication_date": "2022-05-11",
+      "availability_date": "2022-05-11"
+    }
+  },
+  {
+    "ticker": "NEL.OL",
+    "fiscal_year": 2022,
+    "fiscal_quarter": 2,
+    "period_end": "2022-06-30",
+    "publication_date": "2022-08-11",
+    "availability_date": "2022-08-11",
+    "currency": "NOK",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -427.625,
+      "net_income": -190.774,
+      "operating_cash_flow": -378.428
+    },
+    "prior_ytd": {
+      "operating_income": -247.216,
+      "net_income": -890.326,
+      "operating_cash_flow": -231.725
+    },
+    "total_assets": 7497.75,
+    "current_liabilities": 836.238,
+    "income_source": "https://nelhydrogen.com/wp-content/uploads/2022/08/Q2-report-2022.pdf",
+    "balance_source": "https://nelhydrogen.com/wp-content/uploads/2022/08/Q2-report-2022.pdf",
+    "cashflow_source": "https://nelhydrogen.com/wp-content/uploads/2022/08/Q2-report-2022.pdf",
+    "date_source": "https://nelhydrogen.com/press-release/nel-asa-second-quarter-2022-financial-results/",
+    "evidence": {
+      "pdf_pages_one_based": [
+        13,
+        14,
+        15
+      ],
+      "financial_excerpt": "data/eu_interim/sources/energy/NEL_2022Q2_financial_excerpt.txt"
+    },
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary."
+    ],
+    "ttm_compatible": true,
+    "ttm_compatibility_basis": "Use observed full prior-year flow column from this same report; avoids mixing later-restated YTD comparison with old annual basis.",
+    "prior_annual": {
+      "operating_income": -582.853,
+      "net_income": -1666.852,
+      "operating_cash_flow": -449.458,
+      "period_end": "2021-12-31",
+      "source": "https://nelhydrogen.com/wp-content/uploads/2022/08/Q2-report-2022.pdf",
+      "publication_date": "2022-08-11",
+      "availability_date": "2022-08-11"
+    }
+  },
+  {
+    "ticker": "NEL.OL",
+    "fiscal_year": 2022,
+    "fiscal_quarter": 3,
+    "period_end": "2022-09-30",
+    "publication_date": "2022-10-20",
+    "availability_date": "2022-10-20",
+    "currency": "NOK",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -687.795,
+      "net_income": -450.413,
+      "operating_cash_flow": -496.844
+    },
+    "prior_ytd": {
+      "operating_income": -386.156,
+      "net_income": -1397.364,
+      "operating_cash_flow": -347.531
+    },
+    "total_assets": 7375.003,
+    "current_liabilities": 907.889,
+    "income_source": "https://nelhydrogen.com/wp-content/uploads/2022/10/Q3-2022-Report.pdf",
+    "balance_source": "https://nelhydrogen.com/wp-content/uploads/2022/10/Q3-2022-Report.pdf",
+    "cashflow_source": "https://nelhydrogen.com/wp-content/uploads/2022/10/Q3-2022-Report.pdf",
+    "date_source": "https://nelhydrogen.com/press-release/nel-asa-third-quarter-2022-financial-results/",
+    "evidence": {
+      "pdf_pages_one_based": [
+        13,
+        14,
+        15
+      ],
+      "financial_excerpt": "data/eu_interim/sources/energy/NEL_2022Q3_financial_excerpt.txt"
+    },
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary."
+    ],
+    "ttm_compatible": true,
+    "ttm_compatibility_basis": "Use observed full prior-year flow column from this same report; avoids mixing later-restated YTD comparison with old annual basis.",
+    "prior_annual": {
+      "operating_income": -582.853,
+      "net_income": -1666.852,
+      "operating_cash_flow": -449.458,
+      "period_end": "2021-12-31",
+      "source": "https://nelhydrogen.com/wp-content/uploads/2022/10/Q3-2022-Report.pdf",
+      "publication_date": "2022-10-20",
+      "availability_date": "2022-10-20"
+    }
+  },
+  {
+    "ticker": "NEL.OL",
+    "fiscal_year": 2023,
+    "fiscal_quarter": 1,
+    "period_end": "2023-03-31",
+    "publication_date": "2023-04-27",
+    "availability_date": "2023-04-27",
+    "currency": "NOK",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -174.811,
+      "net_income": -192.196,
+      "operating_cash_flow": -28.522
+    },
+    "prior_ytd": {
+      "operating_income": -186.609,
+      "net_income": 83.743,
+      "operating_cash_flow": -158.779
+    },
+    "total_assets": 8491.791,
+    "current_liabilities": 1289.534,
+    "income_source": "https://mb.cision.com/Main/115/3743908/2015968.pdf",
+    "balance_source": "https://mb.cision.com/Main/115/3743908/2015968.pdf",
+    "cashflow_source": "https://mb.cision.com/Main/115/3743908/2015968.pdf",
+    "date_source": "https://nelhydrogen.com/press-release/nel-asa-first-quarter-2023-financial-results/",
+    "evidence": {
+      "pdf_pages_one_based": [
+        12,
+        13,
+        14
+      ],
+      "financial_excerpt": "data/eu_interim/sources/energy/NEL_2023Q1_financial_excerpt.txt"
+    },
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary."
+    ],
+    "ttm_compatible": true,
+    "ttm_compatibility_basis": "Use observed full prior-year flow column from this same report; avoids mixing later-restated YTD comparison with old annual basis.",
+    "prior_annual": {
+      "operating_income": -1278.654,
+      "net_income": -1171.169,
+      "operating_cash_flow": -690.58,
+      "period_end": "2022-12-31",
+      "source": "https://mb.cision.com/Main/115/3743908/2015968.pdf",
+      "publication_date": "2023-04-27",
+      "availability_date": "2023-04-27"
+    }
+  },
+  {
+    "ticker": "NEL.OL",
+    "fiscal_year": 2023,
+    "fiscal_quarter": 2,
+    "period_end": "2023-06-30",
+    "publication_date": "2023-07-18",
+    "availability_date": "2023-07-18",
+    "currency": "NOK",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -368.349,
+      "net_income": -534.522,
+      "operating_cash_flow": -334.48
+    },
+    "prior_ytd": {
+      "operating_income": -427.625,
+      "net_income": -190.774,
+      "operating_cash_flow": -378.428
+    },
+    "total_assets": 8223.748,
+    "current_liabilities": 1350.386,
+    "income_source": "https://mb.cision.com/Public/115/3806082/acf0971f5e2f6a6d.pdf",
+    "balance_source": "https://mb.cision.com/Public/115/3806082/acf0971f5e2f6a6d.pdf",
+    "cashflow_source": "https://mb.cision.com/Public/115/3806082/acf0971f5e2f6a6d.pdf",
+    "date_source": "https://nelhydrogen.com/press-release/nel-asa-second-quarter-2023-financial-results/",
+    "evidence": {
+      "pdf_pages_one_based": [
+        12,
+        13,
+        14
+      ],
+      "financial_excerpt": "data/eu_interim/sources/energy/NEL_2023Q2_financial_excerpt.txt"
+    },
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary."
+    ],
+    "ttm_compatible": true,
+    "ttm_compatibility_basis": "Use observed full prior-year flow column from this same report; avoids mixing later-restated YTD comparison with old annual basis.",
+    "prior_annual": {
+      "operating_income": -1278.654,
+      "net_income": -1171.169,
+      "operating_cash_flow": -690.58,
+      "period_end": "2022-12-31",
+      "source": "https://mb.cision.com/Public/115/3806082/acf0971f5e2f6a6d.pdf",
+      "publication_date": "2023-07-18",
+      "availability_date": "2023-07-18"
+    }
+  },
+  {
+    "ticker": "NEL.OL",
+    "fiscal_year": 2023,
+    "fiscal_quarter": 3,
+    "period_end": "2023-09-30",
+    "publication_date": "2023-10-25",
+    "availability_date": "2023-10-25",
+    "currency": "NOK",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -533.414,
+      "net_income": -760.808,
+      "operating_cash_flow": -529.474
+    },
+    "prior_ytd": {
+      "operating_income": -687.794,
+      "net_income": -450.412,
+      "operating_cash_flow": -496.844
+    },
+    "total_assets": 7952.961,
+    "current_liabilities": 1262.956,
+    "income_source": "https://mb.cision.com/Public/115/3860739/803d2358a40afa41.pdf",
+    "balance_source": "https://mb.cision.com/Public/115/3860739/803d2358a40afa41.pdf",
+    "cashflow_source": "https://mb.cision.com/Public/115/3860739/803d2358a40afa41.pdf",
+    "date_source": "https://nelhydrogen.com/press-release/nel-asa-third-quarter-2023-financial-results/",
+    "evidence": {
+      "pdf_pages_one_based": [
+        12,
+        13,
+        14
+      ],
+      "financial_excerpt": "data/eu_interim/sources/energy/NEL_2023Q3_financial_excerpt.txt"
+    },
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary."
+    ],
+    "ttm_compatible": true,
+    "ttm_compatibility_basis": "Use observed full prior-year flow column from this same report; avoids mixing later-restated YTD comparison with old annual basis.",
+    "prior_annual": {
+      "operating_income": -1278.654,
+      "net_income": -1171.169,
+      "operating_cash_flow": -690.58,
+      "period_end": "2022-12-31",
+      "source": "https://mb.cision.com/Public/115/3860739/803d2358a40afa41.pdf",
+      "publication_date": "2023-10-25",
+      "availability_date": "2023-10-25"
+    }
+  },
+  {
+    "ticker": "NEL.OL",
+    "fiscal_year": 2024,
+    "fiscal_quarter": 1,
+    "period_end": "2024-03-31",
+    "publication_date": "2024-04-17",
+    "availability_date": "2024-04-17",
+    "currency": "NOK",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -74.017,
+      "net_income": -22.023,
+      "operating_cash_flow": -61.532
+    },
+    "prior_ytd": {
+      "operating_income": -174.811,
+      "net_income": -192.196,
+      "operating_cash_flow": -28.522
+    },
+    "total_assets": 7750.775,
+    "current_liabilities": 1192.52,
+    "income_source": "https://mb.cision.com/Public/115/3962646/84b5bb701881cbbf.pdf",
+    "balance_source": "https://mb.cision.com/Public/115/3962646/84b5bb701881cbbf.pdf",
+    "cashflow_source": "https://mb.cision.com/Public/115/3962646/84b5bb701881cbbf.pdf",
+    "date_source": "https://nelhydrogen.com/press-release/nel-asa-first-quarter-2024-financial-results/",
+    "evidence": {
+      "pdf_pages_one_based": [
+        13,
+        14,
+        15
+      ],
+      "financial_excerpt": "data/eu_interim/sources/energy/NEL_2024Q1_financial_excerpt.txt"
+    },
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary."
+    ],
+    "ttm_compatible": true,
+    "ttm_compatibility_basis": "Use observed full prior-year flow column from this same report; avoids mixing later-restated YTD comparison with old annual basis.",
+    "prior_annual": {
+      "operating_income": -699.504,
+      "net_income": -855.196,
+      "operating_cash_flow": -669.668,
+      "period_end": "2023-12-31",
+      "source": "https://mb.cision.com/Public/115/3962646/84b5bb701881cbbf.pdf",
+      "publication_date": "2024-04-17",
+      "availability_date": "2024-04-17"
+    }
+  },
+  {
+    "ticker": "NEL.OL",
+    "fiscal_year": 2024,
+    "fiscal_quarter": 2,
+    "period_end": "2024-06-30",
+    "publication_date": "2024-07-17",
+    "availability_date": "2024-07-17",
+    "currency": "NOK",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -138.032,
+      "net_income": -65.361,
+      "operating_cash_flow": -219.042
+    },
+    "prior_ytd": {
+      "operating_income": -216.594,
+      "net_income": -534.522,
+      "operating_cash_flow": -334.48
+    },
+    "total_assets": 6319.943,
+    "current_liabilities": 938.389,
+    "income_source": "https://mb.cision.com/Public/115/4015784/9f07ddbdedd7fe49.pdf",
+    "balance_source": "https://mb.cision.com/Public/115/4015784/9f07ddbdedd7fe49.pdf",
+    "cashflow_source": "https://mb.cision.com/Public/115/4015784/9f07ddbdedd7fe49.pdf",
+    "date_source": "https://nelhydrogen.com/press-release/nel-asa-second-quarter-2024-financial-results/",
+    "evidence": {
+      "pdf_pages_one_based": [
+        12,
+        13,
+        14
+      ],
+      "financial_excerpt": "data/eu_interim/sources/energy/NEL_2024Q2_financial_excerpt.txt"
+    },
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary.",
+      "Cavendish/Fueling spin-off: EBIT is continuing-operation subtotal while net income/CFO include discontinued operations. Each metric uses the same scope across annual/currentYTD/priorYTD within this report; prior annual EBIT is explicitly the restated continuing-operation amount, first usable on this report publication date."
+    ],
+    "ttm_compatible": true,
+    "ttm_compatibility_basis": "Use observed full prior-year flow column from this same report; avoids mixing later-restated YTD comparison with old annual basis.",
+    "prior_annual": {
+      "operating_income": -443.52,
+      "net_income": -855.196,
+      "operating_cash_flow": -669.668,
+      "period_end": "2023-12-31",
+      "source": "https://mb.cision.com/Public/115/4015784/9f07ddbdedd7fe49.pdf",
+      "publication_date": "2024-07-17",
+      "availability_date": "2024-07-17"
+    }
+  },
+  {
+    "ticker": "NEL.OL",
+    "fiscal_year": 2024,
+    "fiscal_quarter": 3,
+    "period_end": "2024-09-30",
+    "publication_date": "2024-10-16",
+    "availability_date": "2024-10-16",
+    "currency": "NOK",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -283.705,
+      "net_income": -180.523,
+      "operating_cash_flow": -266.514
+    },
+    "prior_ytd": {
+      "operating_income": -320.731,
+      "net_income": -760.808,
+      "operating_cash_flow": -529.474
+    },
+    "total_assets": 6182.63,
+    "current_liabilities": 939.884,
+    "income_source": "https://mb.cision.com/Public/115/4051717/81a93995a33bc896.pdf",
+    "balance_source": "https://mb.cision.com/Public/115/4051717/81a93995a33bc896.pdf",
+    "cashflow_source": "https://mb.cision.com/Public/115/4051717/81a93995a33bc896.pdf",
+    "date_source": "https://nelhydrogen.com/press-release/nel-asa-third-quarter-2024-financial-results/",
+    "evidence": {
+      "pdf_pages_one_based": [
+        12,
+        13,
+        14
+      ],
+      "financial_excerpt": "data/eu_interim/sources/energy/NEL_2024Q3_financial_excerpt.txt"
+    },
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary.",
+      "Cavendish/Fueling spin-off: EBIT is continuing-operation subtotal while net income/CFO include discontinued operations. Each metric uses the same scope across annual/currentYTD/priorYTD within this report; prior annual EBIT is explicitly the restated continuing-operation amount, first usable on this report publication date."
+    ],
+    "ttm_compatible": true,
+    "ttm_compatibility_basis": "Use observed full prior-year flow column from this same report; avoids mixing later-restated YTD comparison with old annual basis.",
+    "prior_annual": {
+      "operating_income": -443.52,
+      "net_income": -855.196,
+      "operating_cash_flow": -669.668,
+      "period_end": "2023-12-31",
+      "source": "https://mb.cision.com/Public/115/4051717/81a93995a33bc896.pdf",
+      "publication_date": "2024-10-16",
+      "availability_date": "2024-10-16"
+    }
+  },
+  {
+    "ticker": "NEL.OL",
+    "fiscal_year": 2025,
+    "fiscal_quarter": 1,
+    "period_end": "2025-03-31",
+    "publication_date": "2025-04-30",
+    "availability_date": "2025-04-30",
+    "currency": "NOK",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -187.085,
+      "net_income": -179.364,
+      "operating_cash_flow": -57.922
+    },
+    "prior_ytd": {
+      "operating_income": -12.612,
+      "net_income": -22.023,
+      "operating_cash_flow": -61.532
+    },
+    "total_assets": 6331.572,
+    "current_liabilities": 957.992,
+    "income_source": "https://mb.cision.com/Public/115/4143131/82b74c336fe0566e.pdf",
+    "balance_source": "https://mb.cision.com/Public/115/4143131/82b74c336fe0566e.pdf",
+    "cashflow_source": "https://mb.cision.com/Public/115/4143131/82b74c336fe0566e.pdf",
+    "date_source": "https://nelhydrogen.com/press-release/nel-asa-first-quarter-2025-financial-results/",
+    "evidence": {
+      "pdf_pages_one_based": [
+        12,
+        13,
+        14
+      ],
+      "financial_excerpt": "data/eu_interim/sources/energy/NEL_2025Q1_financial_excerpt.txt"
+    },
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary.",
+      "Cavendish/Fueling spin-off: EBIT is continuing-operation subtotal while net income/CFO include discontinued operations. Each metric uses the same scope across annual/currentYTD/priorYTD within this report; prior annual EBIT is explicitly the restated continuing-operation amount, first usable on this report publication date."
+    ],
+    "ttm_compatible": true,
+    "ttm_compatibility_basis": "Use observed full prior-year flow column from this same report; avoids mixing later-restated YTD comparison with old annual basis.",
+    "prior_annual": {
+      "operating_income": -389.428,
+      "net_income": -244.342,
+      "operating_cash_flow": -241.581,
+      "period_end": "2024-12-31",
+      "source": "https://mb.cision.com/Public/115/4143131/82b74c336fe0566e.pdf",
+      "publication_date": "2025-04-30",
+      "availability_date": "2025-04-30"
+    }
+  },
+  {
+    "ticker": "NEL.OL",
+    "fiscal_year": 2025,
+    "fiscal_quarter": 2,
+    "period_end": "2025-06-30",
+    "publication_date": "2025-07-16",
+    "availability_date": "2025-07-16",
+    "currency": "NOK",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -340.004,
+      "net_income": -310.065,
+      "operating_cash_flow": -110.973
+    },
+    "prior_ytd": {
+      "operating_income": -138.032,
+      "net_income": -65.361,
+      "operating_cash_flow": -219.042
+    },
+    "total_assets": 6145.791,
+    "current_liabilities": 948.775,
+    "income_source": "https://mb.cision.com/Public/115/4207418/9c805735da107815.pdf",
+    "balance_source": "https://mb.cision.com/Public/115/4207418/9c805735da107815.pdf",
+    "cashflow_source": "https://mb.cision.com/Public/115/4207418/9c805735da107815.pdf",
+    "date_source": "https://nelhydrogen.com/press-release/nel-asa-second-quarter-2025-financial-results/",
+    "evidence": {
+      "pdf_pages_one_based": [
+        12,
+        13,
+        14
+      ],
+      "financial_excerpt": "data/eu_interim/sources/energy/NEL_2025Q2_financial_excerpt.txt"
+    },
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary.",
+      "Cavendish/Fueling spin-off: EBIT is continuing-operation subtotal while net income/CFO include discontinued operations. Each metric uses the same scope across annual/currentYTD/priorYTD within this report; prior annual EBIT is explicitly the restated continuing-operation amount, first usable on this report publication date."
+    ],
+    "ttm_compatible": true,
+    "ttm_compatibility_basis": "Use observed full prior-year flow column from this same report; avoids mixing later-restated YTD comparison with old annual basis.",
+    "prior_annual": {
+      "operating_income": -389.428,
+      "net_income": -244.342,
+      "operating_cash_flow": -241.581,
+      "period_end": "2024-12-31",
+      "source": "https://mb.cision.com/Public/115/4207418/9c805735da107815.pdf",
+      "publication_date": "2025-07-16",
+      "availability_date": "2025-07-16"
+    }
+  },
+  {
+    "ticker": "NEL.OL",
+    "fiscal_year": 2025,
+    "fiscal_quarter": 3,
+    "period_end": "2025-09-30",
+    "publication_date": "2025-10-29",
+    "availability_date": "2025-10-29",
+    "currency": "NOK",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -444.723,
+      "net_income": -394.766,
+      "operating_cash_flow": -242.918
+    },
+    "prior_ytd": {
+      "operating_income": -283.705,
+      "net_income": -180.523,
+      "operating_cash_flow": -266.514
+    },
+    "total_assets": 5881.492,
+    "current_liabilities": 789.25,
+    "income_source": "https://mb.cision.com/Public/115/4257965/92c9ef7a054a8e0e.pdf",
+    "balance_source": "https://mb.cision.com/Public/115/4257965/92c9ef7a054a8e0e.pdf",
+    "cashflow_source": "https://mb.cision.com/Public/115/4257965/92c9ef7a054a8e0e.pdf",
+    "date_source": "https://nelhydrogen.com/press-release/nel-asa-third-quarter-2025-financial-results/",
+    "evidence": {
+      "pdf_pages_one_based": [
+        12,
+        13,
+        14
+      ],
+      "financial_excerpt": "data/eu_interim/sources/energy/NEL_2025Q3_financial_excerpt.txt"
+    },
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary.",
+      "Cavendish/Fueling spin-off: EBIT is continuing-operation subtotal while net income/CFO include discontinued operations. Each metric uses the same scope across annual/currentYTD/priorYTD within this report; prior annual EBIT is explicitly the restated continuing-operation amount, first usable on this report publication date."
+    ],
+    "ttm_compatible": true,
+    "ttm_compatibility_basis": "Use observed full prior-year flow column from this same report; avoids mixing later-restated YTD comparison with old annual basis.",
+    "prior_annual": {
+      "operating_income": -389.428,
+      "net_income": -244.342,
+      "operating_cash_flow": -241.581,
+      "period_end": "2024-12-31",
+      "source": "https://mb.cision.com/Public/115/4257965/92c9ef7a054a8e0e.pdf",
+      "publication_date": "2025-10-29",
+      "availability_date": "2025-10-29"
+    }
+  },
+  {
+    "ticker": "NEL.OL",
+    "fiscal_year": 2026,
+    "fiscal_quarter": 1,
+    "period_end": "2026-03-31",
+    "publication_date": "2026-04-22",
+    "availability_date": "2026-04-22",
+    "currency": "NOK",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -150.243,
+      "net_income": -143.719,
+      "operating_cash_flow": -165.231
+    },
+    "prior_ytd": {
+      "operating_income": -187.085,
+      "net_income": -179.364,
+      "operating_cash_flow": -57.922
+    },
+    "total_assets": 4653.898,
+    "current_liabilities": 623.333,
+    "income_source": "https://mb.cision.com/Public/115/4337890/84ecbd6cdc11d41b.pdf",
+    "balance_source": "https://mb.cision.com/Public/115/4337890/84ecbd6cdc11d41b.pdf",
+    "cashflow_source": "https://mb.cision.com/Public/115/4337890/84ecbd6cdc11d41b.pdf",
+    "date_source": "https://nelhydrogen.com/press-release/nel-asa-first-quarter-2026-financial-results/",
+    "evidence": {
+      "pdf_pages_one_based": [
+        12,
+        13,
+        14
+      ],
+      "financial_excerpt": "data/eu_interim/sources/energy/NEL_2026Q1_financial_excerpt.txt"
+    },
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary.",
+      "Cavendish/Fueling spin-off: EBIT is continuing-operation subtotal while net income/CFO include discontinued operations. Each metric uses the same scope across annual/currentYTD/priorYTD within this report; prior annual EBIT is explicitly the restated continuing-operation amount, first usable on this report publication date."
+    ],
+    "ttm_compatible": true,
+    "ttm_compatibility_basis": "Use observed full prior-year flow column from this same report; avoids mixing later-restated YTD comparison with old annual basis.",
+    "prior_annual": {
+      "operating_income": -1364.667,
+      "net_income": -1265.117,
+      "operating_cash_flow": -252.795,
+      "period_end": "2025-12-31",
+      "source": "https://mb.cision.com/Public/115/4337890/84ecbd6cdc11d41b.pdf",
+      "publication_date": "2026-04-22",
+      "availability_date": "2026-04-22"
+    }
+  },
+  {
+    "ticker": "NEL.OL",
+    "fiscal_year": 2026,
+    "fiscal_quarter": 2,
+    "period_end": "2026-06-30",
+    "publication_date": "2026-07-15",
+    "availability_date": "2026-07-15",
+    "currency": "NOK",
+    "unit": "million",
+    "ytd": {
+      "operating_income": -355.463,
+      "net_income": -332.29,
+      "operating_cash_flow": -163.558
+    },
+    "prior_ytd": {
+      "operating_income": -340.004,
+      "net_income": -310.065,
+      "operating_cash_flow": -110.973
+    },
+    "total_assets": 4639.479,
+    "current_liabilities": 666.27,
+    "income_source": "https://mb.cision.com/Public/115/4374557/96afc9701633c3dd.pdf",
+    "balance_source": "https://mb.cision.com/Public/115/4374557/96afc9701633c3dd.pdf",
+    "cashflow_source": "https://mb.cision.com/Public/115/4374557/96afc9701633c3dd.pdf",
+    "date_source": "https://nelhydrogen.com/press-release/nel-asa-second-quarter-2026-financial-results/",
+    "evidence": {
+      "pdf_pages_one_based": [
+        12,
+        13,
+        14
+      ],
+      "financial_excerpt": "data/eu_interim/sources/energy/NEL_2026Q2_financial_excerpt.txt"
+    },
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary.",
+      "Cavendish/Fueling spin-off: EBIT is continuing-operation subtotal while net income/CFO include discontinued operations. Each metric uses the same scope across annual/currentYTD/priorYTD within this report; prior annual EBIT is explicitly the restated continuing-operation amount, first usable on this report publication date."
+    ],
+    "ttm_compatible": true,
+    "ttm_compatibility_basis": "Use observed full prior-year flow column from this same report; avoids mixing later-restated YTD comparison with old annual basis.",
+    "prior_annual": {
+      "operating_income": -1364.667,
+      "net_income": -1265.117,
+      "operating_cash_flow": -252.795,
+      "period_end": "2025-12-31",
+      "source": "https://mb.cision.com/Public/115/4374557/96afc9701633c3dd.pdf",
+      "publication_date": "2026-07-15",
+      "availability_date": "2026-07-15"
+    }
+  }
+]

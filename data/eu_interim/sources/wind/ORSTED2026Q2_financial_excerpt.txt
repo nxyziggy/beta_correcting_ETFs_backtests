@@ -1,0 +1,65 @@
+Source: https://cdn.orsted.com/-/media/q22026/orsted-interim-financial-report-h1-2026.pdf
+Source ID: ORSTED2026Q2
+Publication date: 2026-08-13
+Original issuer PDF; extracted table context, not reformatted financial data.
+
+=== Original PDF page 19 ===
+Interim Report First half-year 2026                                                                                                                                                                      Consolidated financial statements
+
+        Income statement                                                                                                            Statement of comprehensive income
+Note    DKKm                                                                                     H1 2026             H1 2025        DKKm                                                                                               H1 2026           H1 2025
+3       Revenue                                                                                    48,268             37,840        Profit (loss) for the period                                                                          3,308             8,238
+        Cost of sales                                                                             (28,404)           (21,298)       Other comprehensive income:
+        Employee costs                                                                             (3,092)             (3,128)      Value adjustments for the period                                                                     (1,719)              797
+        Share of profit (loss) in associates and joint ventures                                        (63)                 27      Value adjustments transferred to income statement                                                       416               764
+5       Other operating income                                                                       2,996              6,201       Exchange rate adjustments:
+5       Other operating expenses                                                                     (445)                  67      Exchange rate adjustments relating to net investments in foreign enterprises                          2,726            (8,139)
+        Operating profit (loss) before depreciation, amortisation,                                                                  Value adjustment of net investment hedges                                                            (1,147)            4,127
+        and impairment losses (EBITDA)                                                             14,968             15,515        Value adjustments and hedges transferred to income statement                                             (10)                 -
+        Amortisation and depreciation of intangible assets and of property,                                                         Tax:
+4       and equipment                                                                              (2,537)                252       Tax on exchange rate adjustments                                                                          86             (557)
+        Operating profit (loss) (EBIT)                                                               7,327            10,777        Other:
+        Gain (loss) on divestment of enterprises                                                       (69)               211       Share of other comprehensive income of associated companies, after tax                                     2                (7)
+        Share of profit (loss) in associates and joint ventures                                         17                  18      Other comprehensive income (loss) that may be reclassified to
+6       Financial income                                                                             3,150              4,473       the income statement                                                                                    805            (3,293)
+6       Financial expenses                                                                         (4,490)             (6,371)      Total comprehensive income                                                                            4,113             4,945
+        Profit (loss) before tax                                                                     5,935              9,108       Comprehensive income for the period is attributable to:
+10      Tax on profit (loss) for the period                                                        (2,627)               (870)      Shareholders in Ørsted A/S                                                                            3,273             4,581
+        Profit (loss) for the period                                                                 3,308              8,238       Interest payments and costs, hybrid capital owners of Ørsted A/S                                        147               151
+        Profit (loss) for the period is attributable to:                                                                            Non-controlling interests                                                                               693               213
+        Shareholders in Ørsted A/S                                                                   2,694              7,539       Total comprehensive income                                                                            4,113             4,945
+        Interest payments and costs, hybrid capital owners of Ørsted A/S                               147                151       In H1 2026, ’Exchange rate adjustments relating to net investments in foreign
+        Non-controlling interests                                                                      467                548       enterprises’ were impacted by an increase in the USD and GBP exchange
+
+=== Original PDF page 21 ===
+Interim Report First half-year 2026                                                                                                                                                                 Consolidated financial statements
+
+        Assets                                                                 30 June    31 December              30 June               Equity and liabilities                                                 30 June    31 December              30 June
+Note    DKKm                                                                      2026              2025             2025        Note    DKKm                                                                      2026              2025             2025
+        Intangible assets                                                          606               755             2,305               Share capital                                                           13,212            13,212             4,204
+        Inventories                                                             11,746             9,938             9,310               Other payables                                                          11,676            11,264             5,400
+12      Derivatives                                                              3,110             3,539             4,285               Non-current liabilities                                               153,099           151,833           135,977
+        Trade receivables                                                        7,601             9,848             7,055               Provisions                                                               1,464             1,558             2,075
+9       Assets classified as held for sale                                             -         10,609                   -              Other payables                                                           4,167             5,503             7,164
+        Assets                                                                359,980           367,922           285,112        10      Income tax                                                               3,996             4,631             5,943
+                                                                                                                                         Current liabilities                                                     54,624            65,277           51,716
+                                                                                                                                         Liabilities                                                           207,723           217,110           187,693
+
+=== Original PDF page 23 ===
+Interim Report First half-year 2026                                                                                                                                                                           Consolidated financial statements
+
+        Statement of cash flows
+Note    DKKm                                                    H1 2026           H1 2025           Q2 2026            Q2 2025          Note    DKKm                                                    H1 2026           H1 2025            Q2 2026           Q2 2025
+        Operating profit (loss) before                                                                                                          Proceeds from raising of loans                                464             2,439               393              2,387
+        depreciation, amortisation, and                                                                                                         Instalments on loans                                      (8,918)            (5,686)            1,086            (2,058)
+                                                                                                                                                and cash equivalents
+        Cash flows from operating activities                       9,124              7,820             2,587              7,186                Cash and cash equivalents at 30 June                      20,509            11,883             20,509            11,883
+        Purchase of intangible assets and of                                                                                            Statement of cash flows
+        Sale of intangible assets and of                                                                                                Our supplementary statement of gross and net investments appears from
+        property, plant, and equipment                                899             7,008                 93             4,323        note 7 ’Gross and net investments’ and free cash flow (FCF) from note 2
+        Divestment of enterprises                                  8,545                   2            8,545                   2       ’Segment information’.
+
+        Sale and purchase of other equity                                                                                               ’Cash’ according to the balance sheet as at 30 June 2026 includes ’Bank
+        investments                                                      7             (227)                  -            (227)        overdrafts that are part of the ongoing cash management’, amounting to
+        Purchase of securities                                   (52,171)            (8,713)         (20,682)            (1,777)        DKK 1 million (2025: DKK 121 million).
+        Sale/maturation of securities                             30,477            10,572             11,602              4,188

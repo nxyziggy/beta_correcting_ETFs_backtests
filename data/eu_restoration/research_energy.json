@@ -1,0 +1,368 @@
+{
+  "companies": [
+    "ALFEN.AS",
+    "NEL.OL"
+  ],
+  "status": "Complete original annual inputs recovered for FY2020 through FY2025, 12 observations",
+  "rows_file": "data/eu_restoration/research_energy_rows.json",
+  "evidence": [
+    {
+      "observation_id": "restored_alfen_2020",
+      "ticker": "ALFEN.AS",
+      "fiscal_year": 2020,
+      "source_class": "original_issuer_annual_report",
+      "source_url": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/bltae25913f206bca23/678a66e50557a021e93da480/Alfen_2020_Annual_Report.pdf",
+      "publication_date": "2021-02-17",
+      "date_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/bltb8445f169017ac39/678a66ed2b1a0e70023cef19/Alfen_2020_FY_trading_update_-_Press_Release.pdf",
+      "source_pdf_pages_1based": [
+        44,
+        45
+      ],
+      "source_unit": "thousand",
+      "normalization": "Divide all five reported figures by 1000 to million",
+      "raw_five_fields": [
+        17351,
+        11987,
+        20111,
+        146552,
+        53894
+      ],
+      "source_sha256": "e42a5e88351c2d8d4781e094e1698438804bfba0804602d8c6df917f5eb39dd8",
+      "source_bytes": 4358203,
+      "financial_excerpt": "data/eu_restoration/sources/energy/ALFEN_2020_financial_excerpt.txt",
+      "date_evidence_file": "data/eu_restoration/sources/energy/ALFEN_2020_publication_evidence.txt",
+      "local_full_report": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/energy/ALFEN_2020.pdf"
+    },
+    {
+      "observation_id": "restored_alfen_2021",
+      "ticker": "ALFEN.AS",
+      "fiscal_year": 2021,
+      "source_class": "original_issuer_annual_report",
+      "source_url": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt847b2ad47d960088/678a66fe5732c59a9b9b0d7a/Alfen_2021_Annual_Report.pdf",
+      "publication_date": "2022-02-16",
+      "date_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/bltce9ab2138a6cea19/678a66feb600e6bc7d10237a/Alfen_2021_FY_trading_update_-_Press_Release.pdf",
+      "source_pdf_pages_1based": [
+        46,
+        47
+      ],
+      "source_unit": "thousand",
+      "normalization": "Divide all five reported figures by 1000 to million",
+      "raw_five_fields": [
+        27690,
+        21450,
+        10538,
+        194184,
+        79949
+      ],
+      "source_sha256": "12eff6c314e1f7194d9f789b46c3f903093ebfd9ed49c6c74743344c0a2a7c6e",
+      "source_bytes": 4186648,
+      "financial_excerpt": "data/eu_restoration/sources/energy/ALFEN_2021_financial_excerpt.txt",
+      "date_evidence_file": "data/eu_restoration/sources/energy/ALFEN_2021_publication_evidence.txt",
+      "local_full_report": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/energy/ALFEN_2021.pdf"
+    },
+    {
+      "observation_id": "restored_alfen_2022",
+      "ticker": "ALFEN.AS",
+      "fiscal_year": 2022,
+      "source_class": "original_issuer_annual_report",
+      "source_url": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt0513fb8100e437ac/678a67110b6b4925edeaa5ed/Alfen_2022_Annual_Report.pdf",
+      "publication_date": "2023-02-15",
+      "date_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt803564604c51abcc/678a671734e7155831ec842c/Alfen_2022_FY_trading_update_-_Press_Release.pdf",
+      "source_pdf_pages_1based": [
+        56,
+        57
+      ],
+      "source_unit": "thousand",
+      "normalization": "Divide all five reported figures by 1000 to million",
+      "raw_five_fields": [
+        67746,
+        53047,
+        429,
+        321074,
+        151909
+      ],
+      "source_sha256": "45a4f923985f145433ffda2e9bed8da19441eeaae13e6aa9e80026abde444317",
+      "source_bytes": 31258201,
+      "financial_excerpt": "data/eu_restoration/sources/energy/ALFEN_2022_financial_excerpt.txt",
+      "date_evidence_file": "data/eu_restoration/sources/energy/ALFEN_2022_publication_evidence.txt",
+      "local_full_report": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/energy/ALFEN_2022.pdf"
+    },
+    {
+      "observation_id": "restored_alfen_2023",
+      "ticker": "ALFEN.AS",
+      "fiscal_year": 2023,
+      "source_class": "original_issuer_annual_report",
+      "source_url": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt7101c6631a26e0fb/678a67377ec96e23ad3d4e71/Alfen_2023_Annual_Report.pdf",
+      "publication_date": "2024-02-13",
+      "date_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt4da3dfd2313da6ca/678a673ba0c96022828f23fd/Alfen_2023_FY_trading_update_-_Press_Release.pdf",
+      "source_pdf_pages_1based": [
+        61,
+        62
+      ],
+      "source_unit": "thousand",
+      "normalization": "Divide all five reported figures by 1000 to million",
+      "raw_five_fields": [
+        41859,
+        29684,
+        5637,
+        395969,
+        190703
+      ],
+      "source_sha256": "aaedf60ee7c09ffb100108efe2c2263dc5c980eb2c8ddbc50793bcefc9445882",
+      "source_bytes": 29762159,
+      "financial_excerpt": "data/eu_restoration/sources/energy/ALFEN_2023_financial_excerpt.txt",
+      "date_evidence_file": "data/eu_restoration/sources/energy/ALFEN_2023_publication_evidence.txt",
+      "local_full_report": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/energy/ALFEN_2023.pdf"
+    },
+    {
+      "observation_id": "restored_alfen_2024",
+      "ticker": "ALFEN.AS",
+      "fiscal_year": 2024,
+      "source_class": "original_issuer_annual_report",
+      "source_url": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt2c12b54909b22c44/67b5b6571f1ef5458d74928a/Alfen_Annual_Report_2024.pdf",
+      "publication_date": "2025-02-12",
+      "date_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt099ec3ca20a4c36c/67b5b64eb3ac03b2224170ae/Alfen_2024_FY_trading_update_-_Press_Release.pdf",
+      "source_pdf_pages_1based": [
+        77,
+        78
+      ],
+      "source_unit": "thousand",
+      "normalization": "Divide all five reported figures by 1000 to million",
+      "raw_five_fields": [
+        -30496,
+        -27014,
+        55820,
+        362750,
+        150094
+      ],
+      "source_sha256": "29b38b3e08a8a5ec18e09c0221abe540644f6e570d1315310fda0eaa06f47edd",
+      "source_bytes": 85245464,
+      "financial_excerpt": "data/eu_restoration/sources/energy/ALFEN_2024_financial_excerpt.txt",
+      "date_evidence_file": "data/eu_restoration/sources/energy/ALFEN_2024_publication_evidence.txt",
+      "local_full_report": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/energy/ALFEN_2024.pdf"
+    },
+    {
+      "observation_id": "restored_alfen_2025",
+      "ticker": "ALFEN.AS",
+      "fiscal_year": 2025,
+      "source_class": "original_issuer_annual_report",
+      "source_url": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt5a730a1862105091/698b732ef7607f82a821efe0/Alfen_Annual_Report_2025.pdf",
+      "publication_date": "2026-02-10",
+      "date_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/blt14cf238e5589d189/698b7985c3f503465ab36845/Alfen_2025_FY_trading_update_-_Press_Release.pdf",
+      "source_pdf_pages_1based": [
+        73,
+        74
+      ],
+      "source_unit": "thousand",
+      "normalization": "Divide all five reported figures by 1000 to million",
+      "raw_five_fields": [
+        2671,
+        -189,
+        32543,
+        312531,
+        106134
+      ],
+      "source_sha256": "f5ec464f7e9add530c8369f7eb02918426cdf68d68413cd351cdee7ed1e0e7e2",
+      "source_bytes": 64049631,
+      "financial_excerpt": "data/eu_restoration/sources/energy/ALFEN_2025_financial_excerpt.txt",
+      "date_evidence_file": "data/eu_restoration/sources/energy/ALFEN_2025_publication_evidence.txt",
+      "local_full_report": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/energy/ALFEN_2025.pdf",
+      "date_evidence_explanation": "Issuer release is dated 10 February 2026, says it reports consolidated 2025 financial statements today, and page11 explicitly directs readers to annualreport2025 available on Alfen website. Secondary regulatory filing index independently dates FY2025 ESEF filing2026-02-10.",
+      "secondary_date_corroboration_url": "https://financialfilings.com/companies/alfen-nv/download/"
+    },
+    {
+      "observation_id": "restored_nel_2020",
+      "ticker": "NEL.OL",
+      "fiscal_year": 2020,
+      "source_class": "original_issuer_annual_report",
+      "source_url": "https://nelhydrogen.com/wp-content/uploads/2021/03/2020-Annual-Report.pdf",
+      "publication_date": "2021-03-25",
+      "date_source": "https://nelhydrogen.com/press-releases/annual-reports/",
+      "source_pdf_pages_1based": [
+        30,
+        31,
+        32,
+        33
+      ],
+      "source_unit": "thousand",
+      "normalization": "Divide all five reported figures by 1000 to million",
+      "raw_five_fields": [
+        -414497,
+        1261880,
+        -215886,
+        6136696,
+        431085
+      ],
+      "source_sha256": "a341e341c12c71519057aadf0f1715acb37366d5d9f27a062fc47f95fc236a74",
+      "source_bytes": 2411089,
+      "financial_excerpt": "data/eu_restoration/sources/energy/NEL_2020_financial_excerpt.txt",
+      "date_evidence_file": "data/eu_restoration/sources/energy/NEL_publication_evidence.txt",
+      "local_full_report": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/energy/NEL_2020.pdf"
+    },
+    {
+      "observation_id": "restored_nel_2021",
+      "ticker": "NEL.OL",
+      "fiscal_year": 2021,
+      "source_class": "original_issuer_annual_report",
+      "source_url": "https://96e597bb58d206f85397.b-cdn.net/wp-content/uploads/2022/03/Nel-ASA-2021-Annual-Report-1.pdf",
+      "publication_date": "2022-03-23",
+      "date_source": "https://nelhydrogen.com/press-releases/annual-reports/",
+      "source_pdf_pages_1based": [
+        58,
+        59,
+        60,
+        61
+      ],
+      "source_unit": "thousand",
+      "normalization": "Divide all five reported figures by 1000 to million",
+      "raw_five_fields": [
+        -582853,
+        -1666852,
+        -449458,
+        6006984,
+        705051
+      ],
+      "source_sha256": "c5b0bfdbd50c25978399a83b8c479c30dbfd2337f9729cc46fc1e92ec301e84d",
+      "source_bytes": 5789059,
+      "financial_excerpt": "data/eu_restoration/sources/energy/NEL_2021_financial_excerpt.txt",
+      "date_evidence_file": "data/eu_restoration/sources/energy/NEL_publication_evidence.txt",
+      "local_full_report": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/energy/NEL_2021.pdf"
+    },
+    {
+      "observation_id": "restored_nel_2022",
+      "ticker": "NEL.OL",
+      "fiscal_year": 2022,
+      "source_class": "original_issuer_annual_report",
+      "source_url": "https://mb.cision.com/Public/115/3722339/88c2e2916664514f.pdf",
+      "publication_date": "2023-03-02",
+      "date_source": "https://nelhydrogen.com/press-releases/annual-reports/",
+      "source_pdf_pages_1based": [
+        62,
+        63,
+        64,
+        65
+      ],
+      "source_unit": "thousand",
+      "normalization": "Divide all five reported figures by 1000 to million",
+      "raw_five_fields": [
+        -1278654,
+        -1171169,
+        -690580,
+        6950512,
+        1191617
+      ],
+      "source_sha256": "b6121d93709e7245f8b77169160adb95dd995a69987b8c14cbf91f3c824f2c8e",
+      "source_bytes": 20319167,
+      "financial_excerpt": "data/eu_restoration/sources/energy/NEL_2022_financial_excerpt.txt",
+      "date_evidence_file": "data/eu_restoration/sources/energy/NEL_publication_evidence.txt",
+      "local_full_report": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/energy/NEL_2022.pdf"
+    },
+    {
+      "observation_id": "restored_nel_2023",
+      "ticker": "NEL.OL",
+      "fiscal_year": 2023,
+      "source_class": "original_issuer_annual_report",
+      "source_url": "https://mb.cision.com/Public/115/3936356/8793f21c0c1c1d16.pdf",
+      "publication_date": "2024-02-28",
+      "date_source": "https://nelhydrogen.com/press-releases/annual-reports/",
+      "source_pdf_pages_1based": [
+        80,
+        81,
+        82,
+        83
+      ],
+      "source_unit": "thousand",
+      "normalization": "Divide all five reported figures by 1000 to million",
+      "raw_five_fields": [
+        -699504,
+        -855196,
+        -669668,
+        7857020,
+        1328151
+      ],
+      "source_sha256": "4d5f0fe9c64aa352a860f76065a0cb2684e687a622a5e0b2c749d2405dc74386",
+      "source_bytes": 13867866,
+      "financial_excerpt": "data/eu_restoration/sources/energy/NEL_2023_financial_excerpt.txt",
+      "date_evidence_file": "data/eu_restoration/sources/energy/NEL_publication_evidence.txt",
+      "local_full_report": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/energy/NEL_2023.pdf"
+    },
+    {
+      "observation_id": "restored_nel_2024",
+      "ticker": "NEL.OL",
+      "fiscal_year": 2024,
+      "source_class": "original_issuer_annual_report",
+      "source_url": "https://mb.cision.com/Main/115/4110753/3284598.pdf",
+      "publication_date": "2025-02-26",
+      "date_source": "https://nelhydrogen.com/press-releases/annual-reports/",
+      "source_pdf_pages_1based": [
+        80,
+        81,
+        82,
+        83
+      ],
+      "source_unit": "thousand",
+      "normalization": "Divide all five reported figures by 1000 to million",
+      "raw_five_fields": [
+        -389428,
+        -244342,
+        -241581,
+        6304212,
+        1002058
+      ],
+      "source_sha256": "18c5dc1c5b1b3ce5139c069e560c14d340319696a2105dee486d68c439597806",
+      "source_bytes": 9957983,
+      "financial_excerpt": "data/eu_restoration/sources/energy/NEL_2024_financial_excerpt.txt",
+      "date_evidence_file": "data/eu_restoration/sources/energy/NEL_publication_evidence.txt",
+      "local_full_report": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/energy/NEL_2024.pdf"
+    },
+    {
+      "observation_id": "restored_nel_2025",
+      "ticker": "NEL.OL",
+      "fiscal_year": 2025,
+      "source_class": "original_issuer_annual_report",
+      "source_url": "https://mb.cision.com/Main/115/4313005/3952679.pdf",
+      "publication_date": "2026-02-26",
+      "date_source": "https://nelhydrogen.com/press-releases/annual-reports/",
+      "source_pdf_pages_1based": [
+        91,
+        92,
+        93,
+        94
+      ],
+      "source_unit": "thousand",
+      "normalization": "Divide all five reported figures by 1000 to million",
+      "raw_five_fields": [
+        -1364667,
+        -1265117,
+        -252795,
+        4956832,
+        764725
+      ],
+      "source_sha256": "f8f58412f6702e48ddda23f46ef67797cf2484a58b3b22442d1db645b2f99f86",
+      "source_bytes": 8626163,
+      "financial_excerpt": "data/eu_restoration/sources/energy/NEL_2025_financial_excerpt.txt",
+      "date_evidence_file": "data/eu_restoration/sources/energy/NEL_publication_evidence.txt",
+      "local_full_report": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/energy/NEL_2025.pdf"
+    }
+  ],
+  "notes": [
+    "All five inputs use consolidated financial statements, not parent-company statements, and the current-year column of the relevant original annual report.",
+    "Annual observations are sufficient to cover September 2021 through November 2026 under inherited 550-day freshness; no interim observations were added in this first restoration.",
+    "NEL FY2020 report is dated March 22, 2021 internally. March 25 issuer stock-exchange announcement is used conservatively as publicly evidenced availability.",
+    "NEL FY2024 operating profit is reported for continuing operations following Cavendish spin-off; reported net income and operating cash flow include discontinued operations. Retained those original statement totals, consistent with the broad input definitions. Comparability is imperfect.",
+    "NEL operating losses in original reports differ from vendor standardized histories: FY2022 -1278.654m versus vendor -951.36m; FY2023 -699.504m versus vendor -446.17m; FY2025 -1364.667m versus vendor -586.58m. Statutory impairments and discontinued-operation treatment matter.",
+    "Alfen statutory operating profit differs from vendor Operating Income (e.g. FY2021 27.690m vs28.33m, FY2024 -30.496m vs-21.6m, FY2025 2.671m vs5.77m). Original statutory amounts used, no adjusted-EBITDA substitutions.",
+    "Original report PDFs were retrieved from issuer/CDN archives. Current copies are not a certified archive of first-published versions; no claim of certified point-in-time vintage.",
+    "Full PDF source files are retained durably in the sibling eu_source_reports/energy directory outside this Git repository; source hashes, remote URLs and compact financial-page text excerpts are retained in the repository.",
+    "Internet Archive was not needed: original issuer archive links worked after replacing obsolete Alfen URLs with its current Contentstack CDN."
+  ],
+  "independent_cross_review": {
+    "scope": [
+      "VWS.CO FY2020",
+      "VWS.CO FY2022",
+      "ORSTED.CO FY2020",
+      "ORSTED.CO FY2025"
+    ],
+    "result": "All five row fields checked against research_wind captured pages; current-year columns, signs and IFRS choices matched. No discrepancy identified."
+  }
+}

@@ -1,0 +1,100 @@
+Source: https://mb.cision.com/Public/18886/4023967/b26e2892ce2e1337.pdf
+Source ID: VWS2024Q2
+Publication date: 2024-08-14
+Original issuer PDF; extracted table context, not reformatted financial data.
+
+=== Original PDF page 4 ===
+Q2               Q2)                H1                H1               FY)
+    mEUR                                                                                               2024              2023              2024              2023              2023
+    Financial key figures
+    Income statement
+    Revenue                                                                                             3,296             3,429             5,977             6,258           15,382
+    Gross profit                                                                                           156              221               400               409             1,283
+    Operating profit/(loss) before amortisation, depreciation and
+    impairment (EBITDA) before special items                                                                40               132              171               368             1,028
+    Operating profit/(loss) (EBIT) before special items                                                  (185)               (70)            (253)               (30)             231
+    Operating profit/(loss) before amortisation, depreciation and
+    impairment (EBITDA)                                                                                     40               134              172               396             1,089
+    Operating profit/(loss) (EBIT)                                                                       (185)               (68)           (252)                 (2)             292
+    Net operating profit after tax (NOPAT)                                                               (125)               (60)           (174)                 (2)             223
+    Net financial items                                                                                    (53)             (58)              (88)              (92)             (164)
+    Profit/(loss) before tax                                                                             (230)             (130)            (335)               (99)              102
+    Profit/(loss) for the period                                                                         (156)             (115)            (231)               (99)                78
+    Balance sheet
+    Cash flow statement
+    Cash flow from operating activities                                                                    831                 48               76            (926)             1,027
+    Cash flow from investing activities                                                                  (332)             (158)             (547)            (269)             (782)
+  Vestas Wind Systems A/S
+  Interim Financial Report – Second Quarter 2024                                                                                                                                            Page 4 of 30
+
+=== Original PDF page 16 ===
+Condensed income statement 1 January – 3 0 June
+
+                                                                                                                        Q2               Q2                H1               H1
+  mEUR                                                                                      Note                      2024             2023             2024             2023
+
+  Income from investments in joint ventures and associates                                                                  -             16                  -            25
+  Operating profit/(loss) (EBIT) before special items                                       1.1                       (185)              (70)             (253 )           (30)
+
+  Special items                                                                                   1.4                      0               2                  1            28
+  Operating profit/(loss) (EBIT)                                                                                      (185)              (68)             (252 )            (2)
+
+  Profit/(loss) for the period                                                                                        (156)            (115)              (231)           (99)
+
+                                                                                                                         Q2               Q2               H1               H1
+   mEUR                                                                                                               2024             2023             2024             2023
+
+   Profit/(loss) for the period                                                                                       (156)            (115)            (231)             (99)
+
+   Items that may be reclassified to the income statement subsequently:
+   Exchange rate adjustments relating to foreign entities                                                                 (2)            (39)              19              (61)
+   Fair value adjustments of derivative financial instruments for the period                                              82             (19)             233               54
+   Gain/(loss) on derivative financial instruments transferred to the income statement                                    11             (35)             (47)             (86)
+
+   associates                                                                                                              2                -                1              (1)
+   Tax on items that may be reclassified to the income statement subsequently                                            (24)               8             (50)                3
+
+  The above condensed statement of comprehensive income should be read in conjunction with the accompanying notes.
+
+  Vestas Wind Systems A/S                                                                                                                                                                 Page 16 of 30
+  Interim Financial Report – Second Quarter 2024
+
+=== Original PDF page 17 ===
+30 June              30 June       31 December
+  mEUR                                                                                                 Note                      2024                 2023                 2023
+
+  Total assets                                                                                                               23,617               20,333              22,514
+
+The above condensed balance sheet should be read in conjunction with the accompanying notes.
+
+  Vestas Wind Systems A/S                                                                                                                                                                  Page 17 of 30
+  Interim Financial Report – Second Quarter 2024
+
+=== Original PDF page 18 ===
+30 June              30 June       31 December)
+  mEUR                                                                                                   Note                       2024                 2023                  2023
+
+  Total non-current liabilities                                                                                                   5,445                  4,215                5,452
+
+  Total current liabilities                                                                                                      15,246                13,269               14,020
+
+The above condensed balance sheet should be read in conjunction with the accompanying notes.
+
+  Vestas Wind Systems A/S                                                                                                                                                                    Page 18 of 30
+  Interim Financial Report – Second Quarter 2024
+
+=== Original PDF page 20 ===
+Q2                Q2                H1                H1
+  mEUR                                                                                          Note                2024              2023              2024              2023
+  Profit/(loss) for the period                                                                                      (156)             (115)              (231)              (99)
+
+  Income tax paid                                                                                                     (39)              (38)              (79)              (53)
+  Cash flow from operating activities before change in net working
+  capital                                                                                                              83               137                 (3)             385
+
+  Cash flow from operating activities                                                                                831                  48                76             (926)
+
+  The above condensed cash flow statement should be read in conjunction with the accompanying notes.
+
+  Vestas Wind Systems A/S                                                                                                                                                                   Page 20 of 30
+  Interim Financial Report – Second Quarter 2024
