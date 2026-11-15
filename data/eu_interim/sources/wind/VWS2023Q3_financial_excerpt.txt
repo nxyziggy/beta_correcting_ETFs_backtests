@@ -1,0 +1,105 @@
+Source: https://mb.cision.com/Public/18886/3871454/bd272be966f1337b.pdf
+Source ID: VWS2023Q3
+Publication date: 2023-11-08
+Original issuer PDF; extracted table context, not reformatted financial data.
+
+=== Original PDF page 4 ===
+Q3                Q3)                9M                 9M                 FY)
+    mEUR                                                                                          2023               2022               2023               2022               2022
+    Financial key figures
+    Income statement
+    Revenue                                                                                        4,353              3,913            10,611               9,703            14,486
+    Gross profit                                                                                      351               161                760                280                118
+    Operating profit/(loss) before amortisation, depreciation and
+    impairment (EBITDA) before special items                                                          264                101               632                122                (63)
+    Operating profit/(loss) (EBIT) before special items                                                70              (127)                 40             (638)            (1,152)
+    Operating profit/(loss) before amortisation, depreciation and
+    impairment (EBITDA)                                                                               263                103               659              (317)              (437)
+    Operating profit/(loss) (EBIT)                                                                     69              (114)                 67           (1,155)            (1,596)
+    Net operating profit after tax (NOPAT)                                                             69                (98)                67             (992)            (1,071)
+    Net financial items                                                                               (32)              (65)              (124)               (65)             (110)
+    Profit/(loss) before tax                                                                           28              (171)               (71)           (1,199)            (1,696)
+    Profit/(loss) for the period                                                                       28              (147)               (71)           (1,031)            (1,572)
+    Balance sheet
+    Cash flow statement
+    Cash flow from operating activities                                                              (31)              (614)             (957)            (1,730)               (195)
+    Cash flow from investing activities before acquisitions of
+Vestas Wind Systems A/S                                                                                                                                                                                          Page 4 of 30
+Interim Financial Report – Third    Quarter 2023
+
+=== Original PDF page 15 ===
+Condensed income statement 1 January – 3 0 September
+
+                                                                                                                      Q3              Q31)               9M                9M
+  mEUR                                                                                        Note                  2023             2022              2023             2022
+
+  Income from investments in joint ventures and associates                                                             14                 -               39                 -
+  Operating profit/(loss) (EBIT) before special items                                          1.1                     70            (127)                40            (638)
+
+  Special items                                                                                1.4                    (1)               13                27            (517)
+  Operating profit/(loss) (EBIT)                                                                                       69            (114)                67          (1,155)
+  Income from investments in joint ventures and associates                                                             (9)                8             (14)               21
+
+  Profit/(loss) for the period                                                                                         28            (147)              (71)          (1,031)
+
+                                                                                                                      Q3              Q3)               9M                9M
+   mEUR                                                                                                            2023              2022             2023              2022
+   Profit/(loss) for the period                                                                                       28             (147)             (71)           (1,031)
+
+   Items that may be reclassified to the income statement subsequently:
+   Exchange rate adjustments relating to foreign entities                                                             26               112             (36)              125
+   Fair value adjustments of derivative financial instruments for the period                                          90               155              144                75
+   Gain/(loss) on derivative financial instruments transferred to the income statement                               (19)              (29)            (105)              (39)
+   Share of fair value adjustments of derivative financial instruments of joint ventures
+   and associates                                                                                                       1                 3                0               13
+   Tax on items that may be reclassified to the income statement subsequently                                        (14)              (27)             (10)               (0)
+   Other comprehensive income after tax for the period                                                                84               214               (7)             174
+
+  The above condensed statement of comprehensive income should be read in conjunction with the accompanying notes.
+
+Vestas Wind Systems A/S                                                                                                                                                                                        Page 15 of 30
+Interim Financial Report – Third    Quarter 2023
+
+=== Original PDF page 16 ===
+30 September          30 September          31 December
+  mEUR                                                                                                    Note                      2023                   2022                 2022
+
+  Cash and cash equivalents                                                                                3.2                   1,696                  1,139               2,378
+  Assets held for sale                                                                                     2.2                         -                   157                173
+
+  Total assets                                                                                                                  20,857                 20,447             20,090
+
+The above condensed balance sheet should be read in conjunction with the accompanying notes.
+
+Vestas Wind Systems A/S                                                                                                                                                                                        Page 16 of 30
+Interim Financial Report – Third    Quarter 2023
+
+=== Original PDF page 17 ===
+30 September             30 September          31 December)
+  mEUR                                                                                                     Note                      2023                     2022                   2022
+
+  Total non-current liabilities                                                                                                     4,375                     3,658                 3,517
+
+  Total current liabilities                                                                                                       13,501                    13,062                13,513
+
+The above condensed balance sheet should be read in conjunction with the accompanying notes.
+
+Vestas Wind Systems A/S                                                                                                                                                                                        Page 17 of 30
+Interim Financial Report – Third    Quarter 2023
+
+=== Original PDF page 19 ===
+Q3               Q3                9M               9M
+  mEUR                                                                                                Note                 2023              2022             2023              2022
+
+  Profit/(loss) for the period                                                                                                28            (147)              (71)           (1,031)
+
+  Income tax paid                                                                                                            (34)              (30)             (87)            (120)
+  Cash flow from operating activities before change in net working
+  capital                                                                                                                    337                81              722             (328)
+
+  Cash flow from operating activities                                                                                       (31)             (614)            (957)           (1,730)
+
+  The above condensed cash flow statement should be read in conjunction with the accompanying notes.
+
+Vestas Wind Systems A/S                                                                                                                                                                                        Page 19 of 30
+Interim Financial Report – Third    Quarter 2023

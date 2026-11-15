@@ -1,0 +1,242 @@
+[
+  {
+    "path": "EU_RESTORATION_METHOD.md",
+    "sha256": "8140c10b206dcf8c4583fadf59744ae08a8e60120e8ff6b01dbb6f7272511153",
+    "bytes": 3329
+  },
+  {
+    "path": "backtest.py",
+    "sha256": "2af12310d739b7b352c4a8e634fa10d3e70fe3df0365697aea8107e397506b6e",
+    "bytes": 29626
+  },
+  {
+    "path": "data/eu_restoration/mixed_inputs.json",
+    "sha256": "ed6ffcb534ad4e57ebc00784a1f794025def49ea71c5f27d935418b80ede5f23",
+    "bytes": 67848
+  },
+  {
+    "path": "data/eu_restoration/primary_inputs.json",
+    "sha256": "ed6ffcb534ad4e57ebc00784a1f794025def49ea71c5f27d935418b80ede5f23",
+    "bytes": 67848
+  },
+  {
+    "path": "data/eu_restoration/research_energy.json",
+    "sha256": "d518e403d24ae294ebb30ad3a53c1bf1b8bb764c33e2159b725b36b4079ce253",
+    "bytes": 17319
+  },
+  {
+    "path": "data/eu_restoration/research_energy_rows.json",
+    "sha256": "27a1057500c3ab570a03733230405d868015389bb31f5b5a7be70d2757ea32dc",
+    "bytes": 13162
+  },
+  {
+    "path": "data/eu_restoration/research_industry.json",
+    "sha256": "562bcc7b070fdf98678bfda15936b66e1ef28af51d7ff8c3738d06ce09f3662b",
+    "bytes": 20436
+  },
+  {
+    "path": "data/eu_restoration/research_industry_rows.json",
+    "sha256": "64e3295b64bac6ea94f38035d544a793ede4c7d0b25741f8c487a00504b8c629",
+    "bytes": 33053
+  },
+  {
+    "path": "data/eu_restoration/research_wind.json",
+    "sha256": "ab046db8c0fe1871e050517bd273eb70f25ee59ef72c22b0249e5b91570c21fa",
+    "bytes": 23145
+  },
+  {
+    "path": "data/eu_restoration/research_wind_rows.json",
+    "sha256": "4cccbf0f6dd2e0bac243722aba8ef1ed6d8cbc4066a462edecdb55e11d02ec0d",
+    "bytes": 13779
+  },
+  {
+    "path": "data/eu_restoration/restored_financials.csv",
+    "sha256": "952f298b75227d4e75f4499d8b171bd25f155249e3ccac44cff076d94d7b8277",
+    "bytes": 23847
+  },
+  {
+    "path": "data/eu_restoration/secondary_candidates.json",
+    "sha256": "ad95fad22efa691bd6b978c6c7522fe504559188e68a4730a5b3be5c6fa634ab",
+    "bytes": 37140
+  },
+  {
+    "path": "data/eu_restoration/sources/energy/ALFEN_2020_financial_excerpt.txt",
+    "sha256": "a8dcef12b0a18047b6b94548421b04d1a5539d0d1f241d82f72cf2113ce2575f",
+    "bytes": 18716
+  },
+  {
+    "path": "data/eu_restoration/sources/energy/ALFEN_2020_publication_evidence.txt",
+    "sha256": "6827d89f155ba180fff1eb7c2f1502b7372e4e31a0b0f3dd9b5627f7eccf943f",
+    "bytes": 581
+  },
+  {
+    "path": "data/eu_restoration/sources/energy/ALFEN_2021_financial_excerpt.txt",
+    "sha256": "39337df086175f5b8504b3f2a82f98b7bdaa54c414758ca9cf639c5a9e00c2cb",
+    "bytes": 19017
+  },
+  {
+    "path": "data/eu_restoration/sources/energy/ALFEN_2021_publication_evidence.txt",
+    "sha256": "c0ad8de3f340fd155aae8485c95341ee0ae8573bf52bd7822f2d5345189f6bdc",
+    "bytes": 884
+  },
+  {
+    "path": "data/eu_restoration/sources/energy/ALFEN_2022_financial_excerpt.txt",
+    "sha256": "2d09c6429fa15e842998038be0970866aff92454556ae135ee4880187fa7402d",
+    "bytes": 19602
+  },
+  {
+    "path": "data/eu_restoration/sources/energy/ALFEN_2022_publication_evidence.txt",
+    "sha256": "64d7553ccf016bb826d60d09a91045c024d2ae3700dd3c9e05faaf03caf4a6ec",
+    "bytes": 741
+  },
+  {
+    "path": "data/eu_restoration/sources/energy/ALFEN_2023_financial_excerpt.txt",
+    "sha256": "96265ea4f01810d67b7653e62d950af41300969a7a79bb5df6cfe393bd949489",
+    "bytes": 20587
+  },
+  {
+    "path": "data/eu_restoration/sources/energy/ALFEN_2023_publication_evidence.txt",
+    "sha256": "95c6db133e2bb2b8437b3e25594840152b800cc276c92f87b2e7b2909ff5ecdd",
+    "bytes": 1131
+  },
+  {
+    "path": "data/eu_restoration/sources/energy/ALFEN_2024_financial_excerpt.txt",
+    "sha256": "daec014ebea376afb6d3e8c1f00f6c99aee372dd34eb67bac8ee555a2ac3bdc6",
+    "bytes": 20525
+  },
+  {
+    "path": "data/eu_restoration/sources/energy/ALFEN_2024_publication_evidence.txt",
+    "sha256": "81d2225998b9e35c80745fb975fdeb9695de472a6af0ac771b75b7b4ac031b09",
+    "bytes": 928
+  },
+  {
+    "path": "data/eu_restoration/sources/energy/ALFEN_2025_financial_excerpt.txt",
+    "sha256": "f9622936bb4747f379b1077cdc443480cec61271f80a16e6b99731a726f429a2",
+    "bytes": 20197
+  },
+  {
+    "path": "data/eu_restoration/sources/energy/ALFEN_2025_publication_evidence.txt",
+    "sha256": "a3bdb84a8c455a55ba53abb383608af46a013e0cb5b3ae014995fc91b5d9f0fa",
+    "bytes": 1504
+  },
+  {
+    "path": "data/eu_restoration/sources/energy/NEL_2020_financial_excerpt.txt",
+    "sha256": "032542a8b4b418e7d6d3e0da9736f1eadf10f56878d3ec9eabb485efa6b88266",
+    "bytes": 24608
+  },
+  {
+    "path": "data/eu_restoration/sources/energy/NEL_2021_financial_excerpt.txt",
+    "sha256": "ac36d604205c6d9a64958d6bad517992a6b680463d24f30d36d682b193d9abcf",
+    "bytes": 23161
+  },
+  {
+    "path": "data/eu_restoration/sources/energy/NEL_2022_financial_excerpt.txt",
+    "sha256": "f60e0eeb8d8c22a1cec79b0c30843ff6f88959901da092d5c11044394b0dbc11",
+    "bytes": 20055
+  },
+  {
+    "path": "data/eu_restoration/sources/energy/NEL_2023_financial_excerpt.txt",
+    "sha256": "7aa6afa89195860c2968062b6fedcd4ad195c5776c3848368e1c55c833b34e45",
+    "bytes": 19822
+  },
+  {
+    "path": "data/eu_restoration/sources/energy/NEL_2024_financial_excerpt.txt",
+    "sha256": "5a44dbdf6b33a67494e5ee5c107beb3e4adb979231b03526ced0707d5c7f10ec",
+    "bytes": 20744
+  },
+  {
+    "path": "data/eu_restoration/sources/energy/NEL_2025_financial_excerpt.txt",
+    "sha256": "6b1bef49b25308d4b5790b7108fd19bc672df08721b1d548b22f96ab9b815319",
+    "bytes": 20487
+  },
+  {
+    "path": "data/eu_restoration/sources/energy/NEL_publication_evidence.txt",
+    "sha256": "745284a9e57569787b957a0f73ae4cf09d29189464c61dbb4c616822763f886f",
+    "bytes": 900
+  },
+  {
+    "path": "data/eu_restoration/sources/industry/urls.json",
+    "sha256": "9eb93bfc0e832f565fea25c0c4f45887c1d8bd6941ad6c6d04305967767d0821",
+    "bytes": 2432
+  },
+  {
+    "path": "data/eu_restoration/sources/industry/verified_facts.json",
+    "sha256": "7c0c11daf4a5086b914d11f8c2a51d63398b9f1c52464244ff3886e17db72290",
+    "bytes": 16720
+  },
+  {
+    "path": "data/eu_restoration/sources/wind/ORSTED_2020_verified_pages.json",
+    "sha256": "af80b274b3d5a8ab1502ec41627b9063658c17a6dadc27a6d827409415ce7a9c",
+    "bytes": 41251
+  },
+  {
+    "path": "data/eu_restoration/sources/wind/ORSTED_2021_verified_pages.json",
+    "sha256": "054086122b0d00bc96b087faa4cb1704e0e95c1d5cefceb65a6fcd83afc7ee5b",
+    "bytes": 38544
+  },
+  {
+    "path": "data/eu_restoration/sources/wind/ORSTED_2022_verified_pages.json",
+    "sha256": "f2a1fde9d11cc532572db816d2a190e86c326df59e7049b9a983e5e773e56511",
+    "bytes": 30398
+  },
+  {
+    "path": "data/eu_restoration/sources/wind/ORSTED_2023_verified_pages.json",
+    "sha256": "41d5f95b1cf890f56e67abe4aa8f8f9af95f9718b025e308d4be93f6cbe9cf88",
+    "bytes": 48465
+  },
+  {
+    "path": "data/eu_restoration/sources/wind/ORSTED_2024_verified_pages.json",
+    "sha256": "4d4d626166ebd0c38dfe0a930baa1f4785cc924d6f64ab76a3f1c007844b950e",
+    "bytes": 52223
+  },
+  {
+    "path": "data/eu_restoration/sources/wind/ORSTED_2025_verified_pages.json",
+    "sha256": "81a840fed090f591f40df8dd9d4b6b71fce613d15dd050356b470b9567e33425",
+    "bytes": 52323
+  },
+  {
+    "path": "data/eu_restoration/sources/wind/VWS_2020_verified_pages.json",
+    "sha256": "f2fa2fd106512ac8f5bfb43b87a4f0b0f67fddfb845d0b26c99a63906b918bee",
+    "bytes": 102296
+  },
+  {
+    "path": "data/eu_restoration/sources/wind/VWS_2021_verified_pages.json",
+    "sha256": "15a796dd59c3712f29d45840421708ff0e5c54676ffdd402c766867cc5654a0b",
+    "bytes": 42253
+  },
+  {
+    "path": "data/eu_restoration/sources/wind/VWS_2022_verified_pages.json",
+    "sha256": "c2061d0821c8e44e1042d6ab027928865a0f7219778d6a54bb0bbccd8d664590",
+    "bytes": 41801
+  },
+  {
+    "path": "data/eu_restoration/sources/wind/VWS_2023_verified_pages.json",
+    "sha256": "2ec69a6a83bba914d3516f71a2918695bc374c8bc9cb5f29419c96d1ef11ae07",
+    "bytes": 41321
+  },
+  {
+    "path": "data/eu_restoration/sources/wind/VWS_2024_verified_pages.json",
+    "sha256": "0a4b11e6c16e919a64e2d91aab9b6574b5f0f382bce783797ff7ebf5576b0455",
+    "bytes": 37656
+  },
+  {
+    "path": "data/eu_restoration/sources/wind/VWS_2025_verified_pages.json",
+    "sha256": "5b3ad91b9441ce4d0ae5b3e6df9970fe19dac7597562c9467a4c047923319553",
+    "bytes": 36882
+  },
+  {
+    "path": "data/eu_restoration/sources/wind/build_rows.py",
+    "sha256": "4acb358b71ba1f2851a4745b287b9c99031b352a63486f067e9d49e2394235ba",
+    "bytes": 7164
+  },
+  {
+    "path": "data/eu_restoration/sources/wind/recover.py",
+    "sha256": "e851e2941dede0a36bb739d88211bc8574082cac441227e5fbb3cb53f2327180",
+    "bytes": 2497
+  },
+  {
+    "path": "run_eu_restoration.py",
+    "sha256": "52fdc0fac0d8ff9aec98b7463654dbe7a0e37824e27697e0d642203adf2c6ac9",
+    "bytes": 16538
+  }
+]

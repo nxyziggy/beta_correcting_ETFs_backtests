@@ -1,0 +1,100 @@
+Source: https://mb.cision.com/Public/18886/4261980/abcb531ca9de3ed2.pdf
+Source ID: VWS2025Q3
+Publication date: 2025-11-05
+Original issuer PDF; extracted table context, not reformatted financial data.
+
+=== Original PDF page 4 ===
+Q3               Q3               9M)                9M               FY)
+  mEUR                                                                                                2025              2024              2025              2024              2024
+  Financial key figures
+  Income statement
+  Revenue                                                                                              5,339             5,177           12,552            11,154            17,295
+  EBITDA before special items                                                                             673              444             1,230               615            1,605
+  Operating profit/(loss) (EBIT) before special items                                                     416               235              487               (18)              741
+  EBITDA                                                                                                  671              440             1,234               612            1,658
+  Operating profit/(loss) (EBIT)                                                                          414               231              491               (21)              794
+  Net operating profit after tax (NOPAT)                                                                  310               159              368               (14)              556
+  Net financial items                                                                                     (15)              (36)              (38)           (124)               (86)
+  Profit/(loss) before tax                                                                                405               184              458             (151)               705
+  Profit/(loss) for the period                                                                            304               127              343             (104)               494
+  Balance sheet
+  Cash flow statement
+  Cash flow from operating activities                                                                     840                89              988               165            2,332
+  Cash flow from investing activities                                                                   (302)             (373)             (912)            (920)           (1,341)
+  Vestas Wind Systems A/S
+  Interim Report –  Third Quarter 2025                                                                                                                                                    Page 4 of 28
+
+=== Original PDF page 15 ===
+Condensed income statement 1 January-   30 September
+
+                                                                                                                     Q3                Q3               9m             9m
+  mEUR                                                                                    Note                    2025              2024              2025           2024
+
+  Income from investments in joint ventures and associates                                                              -                1                  -             1
+  Operating profit/(loss) (EBIT) before special items                                           1.1                 416               235               487             (18)
+
+  Special items                                                                                 1.3                   (2)              (4)                 4             (3)
+  Operating profit/(loss) (EBIT)                                                                                    414                231              491            (21)
+
+  Income tax                                                                                                       (101)              (57)             (115)             47
+  Profit/(loss) for the period                                                                                      304                127              343           (104)
+
+Condensed statement of comprehensive income 1 January - 30 September
+                                                                                                                     Q3                Q3               9M              9M
+   mEUR                                                                                                           2025              2024              2025           2024
+   Profit/(loss) for the period                                                                                     304                127              343           (104)
+
+   Items that may be subsequently reclassified to the income statement:
+
+   Fair value adjustments of derivative financial instruments for the period                                          81            (116)               (28)           117
+   Gain/(loss) on derivative financial instruments transferred to the income statement                               (8)             (13)                22             (60)
+   Share of fair value adjustments of derivative financial instruments of joint ventures and
+   associates                                                                                                           -              (2)                 1            (1)
+   Tax on items that may be reclassified to the income statement subsequently                                       (17)                31               14             (19)
+   Other comprehensive income after tax for the period                                                                61            (140)              (219)            16
+
+The above condensed statement of comprehensive income should be read in conjunction with the accompanying notes.
+
+ Vestas Wind Systems A/S                                                                                                                                                                 Page 15 of 28
+ Interim Report – Third Quarter 2025
+
+=== Original PDF page 16 ===
+30 September         30 September          31 December
+  mEUR                                                                                                 Note                      2025                 2024                 2024
+
+  Total assets                                                                                                              25,918                22,921             24,644
+
+The above condensed balance sheet should be read in conjunction with the accompanying notes.
+
+ Vestas Wind Systems A/S                                                                                                                                                                   Page 16 of 28
+ Interim Report – Third Quarter 2025
+
+=== Original PDF page 17 ===
+30 September          30 September          31 December)
+  mEUR                                                                                                   Note                       2025                 2024                  2024
+
+  Total non-current liabilities                                                                                                   5,169                  5,441                5,622
+
+  Total current liabilities                                                                                                     17,267                 14,561               15,480
+
+The above condensed balance sheet should be read in conjunction with the accompanying notes.
+
+ Vestas Wind Systems A/S                                                                                                                                                                      Page 17 of 28
+ Interim Report – Third Quarter 2025
+
+=== Original PDF page 19 ===
+Condensed cash flow statement 1 January –  30 September
+                                                                                                                         Q3                Q3                 9M                 9M
+ mEUR                                                                                            Note                 2025               2024               2025               2024
+ Profit/(loss) for the period                                                                                          304                127                343              (104)
+
+ Income tax paid                                                                                                        (45)              (78)             (196)              (157)
+ Cash flow from operating activities before change in net working
+ capital                                                                                                               569               571                 966                568
+
+ Cash flow from operating activities                                                                                   840                  89               988                165
+
+The above condensed cash flow statement should be read in conjunction with the accompanying notes.
+
+ Vestas Wind Systems A/S                                                                                                                                                                      Page 19 of 28
+ Interim Report – Third Quarter 2025

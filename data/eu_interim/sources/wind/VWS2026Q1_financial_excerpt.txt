@@ -1,0 +1,95 @@
+Source: https://mb.cision.com/Public/18886/4344988/8503066e29d0add4.pdf
+Source ID: VWS2026Q1
+Publication date: 2026-05-06
+Original issuer PDF; extracted table context, not reformatted financial data.
+
+=== Original PDF page 4 ===
+Q1                  Q1)                 FY)
+    mEUR                                                                                                                                 2026                2025                 2025
+    Financial key figures
+    Income statement
+    Revenue                                                                                                                               3,966               3,468             18,822
+    EBITDA                                                                                                                                  365                  248              2,053
+    Operating profit/(loss) (EBIT) before special items                                                                                     127                   14              1,067
+    Operating profit/(loss) (EBIT)                                                                                                            92                  20              1,015
+    Net financial items                                                                                                                       (2)               (14)                   17
+    Profit/(loss) for the period                                                                                                              70                    5                780
+    Balance sheet
+    Cash flow statement
+    Cash flow from operating activities                                                                                                    (289)                  28              2,286
+    Total investments                                                                                                                      (198)               (307)               (382)
+Vestas Wind Systems A/S                                                                                                                                                                                          Page 4 of 25
+Interim Report – First Quarter 2026
+
+=== Original PDF page 14 ===
+Condensed income statement 1 January-   31 March
+
+                                                                                                                                                     Q1                      Q1
+  mEUR                                                                                                         Note                                2026                   2025
+
+  Administration costs                                                                                                                              (123)                  (109)
+  Operating profit/(loss) (EBIT) before special items                                                                 1.1                            127                      14
+
+  Special items                                                                                                       1.3                            (35)                      6
+  Operating profit/(loss) (EBIT)                                                                                                                      92                            20
+
+  Income tax                                                                                                                                         (22)                      (2)
+  Profit/(loss) for the period                                                                                                                        70                        5
+
+                                                                                                                                                     Q1                      Q1
+   mEUR                                                                                                                                            2026                   2025
+   Profit /(loss) for the period                                                                                                                      70                       5
+
+   Items that may be subsequently reclassified to the income statement:
+   Exchange rate adjustments relating to foreign entities                                                                                             45                     (64)
+   Fair value adjustments of derivative financial instruments for the period                                                                          (5)                    (48)
+   Gain/(loss) on derivative financial instruments transferred to the income statement                                                                  1                     (5)
+   Share of fair value adjustments of derivative financial instruments of joint ventures and associates                                                 -                       -
+   Tax on items that may be reclassified to the income statement subsequently                                                                         (1)                     18
+   Other comprehensive income after tax for the period                                                                                                40                     (99)
+
+  The above condensed statement of comprehensive income should be read in conjunction with the accompanying notes.
+
+Vestas Wind Systems A/S                                                                                                                                                                                        Page 14 of 25
+Interim Report –  First Quarter 2026
+
+=== Original PDF page 15 ===
+31 March              31 March        31 December
+  mEUR                                                                                                    Note                      2026                  2025                 2025
+
+  Total assets                                                                                                                  26,707                25,277              25,732
+
+The above condensed balance sheet should be read in conjunction with the accompanying notes.
+
+Vestas Wind Systems A/S                                                                                                                                                                                        Page 15 of 25
+Interim Report –  First Quarter 2026
+
+=== Original PDF page 16 ===
+31 March              31 March        31 December)
+  mEUR                                                                                                       Note                       2026                  2025                   2025
+
+  Total non-current liabilities                                                                                                       5,632                   5,714                5,004
+
+  Total current liabilities                                                                                                          17,155                 16,198                16,847
+
+The above condensed balance sheet should be read in conjunction with the accompanying notes.
+
+Vestas Wind Systems A/S                                                                                                                                                                                        Page 16 of 25
+Interim Report –  First Quarter 2026
+
+=== Original PDF page 18 ===
+Condensed cash flow statement  1 January -    31 March
+                                                                                                                                                              Q1                    Q1
+ mEUR                                                                                                                          Note                        2026                  2025
+ Profit/(loss) for the period                                                                                                                                  70                    5
+ Adjustment for non-cash transactions                                                                                                                        163                  402
+ Income tax paid                                                                                                                                               13                 (24)
+ Cash flow from operating activities before change in net working capital                                                                                    254                  373
+ Change in net working capital                                                                                                                             (543)                 (345)
+ Cash flow from operating activities                                                                                                                       (289)                    28
+ Purchase of intangible assets                                                                                                                               (80)                (128)
+
+The above condensed cash flow statement should be read in conjunction with the accompanying notes.
+
+Vestas Wind Systems A/S                                                                                                                                                                                        Page 18 of 25
+Interim Report –  First Quarter 2026

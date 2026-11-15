@@ -1,0 +1,80 @@
+{
+  "ticker": "SAF.PA",
+  "expected": 6,
+  "recovered": 6,
+  "frequency": "half-year",
+  "gaps": [],
+  "retrieval": "Original issuer PDFs read through web PDF text extraction. Direct curl downloads returned403; web screenshot cachemiss. Columns verified using full income/balance/cash-flow statements and consecutive original comparative columns.",
+  "sources": [
+    {
+      "period_end": "2021-06-30",
+      "url": "https://www.safran-group.com/download/media/404856",
+      "date": "2021-08-04",
+      "date_evidence": "https://www.safran-group.com/pressroom/safran-announces-availability-its-2021-interim-financial-report-2021-08-04",
+      "pages_one_based": {
+        "income": 13,
+        "balance": 16,
+        "cashflow": 18
+      }
+    },
+    {
+      "period_end": "2022-06-30",
+      "url": "https://www.safran-group.com/download/media/419356",
+      "date": "2022-08-03",
+      "date_evidence": "https://www.safran-group.com/pressroom/safran-announces-availability-its-2022-interim-financial-report-2022-08-03",
+      "pages_one_based": {
+        "income": 20,
+        "balance": 22,
+        "cashflow": 24
+      }
+    },
+    {
+      "period_end": "2023-06-30",
+      "url": "https://www.safran-group.com/download/media/432771",
+      "date": "2023-07-27",
+      "date_evidence": "https://www.safran-group.com/finance/publications-results?items_per_page=All&page=3&years%5B0%5D=3590-2023",
+      "pages_one_based": {
+        "income": 13,
+        "balance": 16,
+        "cashflow": 18
+      }
+    },
+    {
+      "period_end": "2024-06-30",
+      "url": "https://www.safran-group.com/download/media/441806",
+      "date": "2024-08-05",
+      "date_evidence": "https://www.safran-group.com/download/press_release/file/2240180",
+      "pages_one_based": {
+        "income": 15,
+        "balance": 18,
+        "cashflow": 19
+      }
+    },
+    {
+      "period_end": "2025-06-30",
+      "url": "https://www.safran-group.com/download/media/448922",
+      "date": "2025-08-05",
+      "date_evidence": "https://www.safran-group.com/finance/regulated-information",
+      "pages_one_based": {
+        "income": 14,
+        "balance": 16,
+        "cashflow": 18
+      }
+    },
+    {
+      "period_end": "2026-06-30",
+      "url": "https://www.safran-group.com/download/media/451695",
+      "date": "2026-07-28",
+      "date_evidence": "https://www.safran-group.com/finance/publications-results?type%5B0%5D=result",
+      "pages_one_based": {
+        "income": 9,
+        "balance": 11,
+        "cashflow": 13
+      }
+    }
+  ],
+  "limitations": [
+    "Some complete-report availability dates are conservative versus earlier earnings announcements.",
+    "Primary pages are linked; no local PDF binary hash claimed for web-only retrieval."
+  ]
+}

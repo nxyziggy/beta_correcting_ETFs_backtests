@@ -1,0 +1,102 @@
+Source: https://www.vestas.com/content/dam/vestas-com/global/en/investor/reports-and-presentations/financial/2023/230809_12_Company_Announcement.pdf.coredownload.inline.pdf
+Source ID: VWS2023Q2
+Publication date: 2023-08-09
+Original issuer PDF; extracted table context, not reformatted financial data.
+
+=== Original PDF page 4 ===
+Q2                 Q2)                 H1                 H1                 FY)
+    mEUR                                                                                            2023               2022                2023               2022               2022
+    Financial key figures
+    Income statement
+    Revenue                                                                                          3,429              3,305              6,258              5,790             14,486
+    Gross profit                                                                                       221                  97                409                119                118
+    Operating profit/(loss) before amortisation, depreciation and
+    impairment (EBITDA) before special items                                                           132                  41                368               (21)                (63)
+    Operating profit/(loss) (EBIT) before special items                                                (70)              (182)               (30)              (511)            (1,152)
+    Operating profit/(loss) before amortisation, depreciation and
+    impairment (EBITDA)                                                                                134                  42                396              (420)              (437)
+    Operating profit/(loss) (EBIT)                                                                     (68)              (147)                 (2)          (1,041)             (1,596)
+    Net operating profit after tax (NOPAT)                                                             (60)              (125)                 (2)             (894)            (1,071)
+    Net financial items                                                                                (58)                 (6)              (92)                   0             (110)
+    Profit/(loss) before tax                                                                         (130)               (139)               (99)           (1,028)             (1,696)
+    Profit/(loss) for the period                                                                     (115)               (119)               (99)              (884)            (1,572)
+    Balance sheet
+    Cash flow statement
+    Cash flow from operating activities                                                                  48              (188)              (926)           (1,116)                (195)
+    Cash flow from investing activities before acquisitions of
+  3)     Earnings per share has been calculated over a 12-  month period and in accordance with IAS 33 on earnings per share.
+  4)     The number disclosed in the Interim Financial Report, Q2 2022 for the Service order backlog has been corrected from EUR 31.3bn to EUR 29.0bn.
+Vestas Wind Systems A/S                                                                                                                                                                                         Page 4 of 30
+Interim Financial Report – Second Quarter 2023
+
+=== Original PDF page 15 ===
+Condensed income statement 1 January – 30 June
+
+                                                                                                                           Q2              Q21)                H1              H11)
+  mEUR                                                                                           Note                   2023              2022              2023              2022
+
+  Operating profit/(loss) (EBIT) before special items                                     1.1                           (70)               (182)              (30)            (511)
+
+  Operating profit/(loss) (EBIT)                                                                                         (68)             (147)                (2)            (1,041)
+
+  Profit/(loss) for the period                                                                                          (115)             (119)              (99)              (884)
+
+                                                                                                                           Q2             Q2)                H1                 H1
+   mEUR                                                                                                                 2023            2022               2023               2022
+   Profit /(loss) for the period                                                                                        (115)           (119)               (99)             (884)
+
+   Items that may be reclassified to the income statement               subsequently:
+
+   Fair value adjustments of derivative financial instruments for the period                                             (19)             (11)                54               (80)
+   Gain/(loss) on derivative financial instruments transferred to the income statement                                   (35)              (8)              (86)               (10)
+   Share of fair value adjustments of derivative financial instruments of joint ventures
+   and associates                                                                                                            -               5                (1)                10
+   Tax on items that may be reclassified to the income statement subsequently                                               8                7                3                  27
+
+  The above condensed statement of comprehensive income should be read in conjunction with the accompanying notes.
+
+Vestas Wind Systems A/S                                                                                                                                                                                       Page 15 of 30
+Interim Financial Report – Second Quarter 2023
+
+=== Original PDF page 16 ===
+30 June               30 June       31 December
+  mEUR                                                                                                    Note                      2023                  2022                 2022
+
+  Cash and cash equivalents                                                                                3.2                   1,504                  1,350              2,378
+  Assets held for sale                                                                                     2.2                         -                    41                173
+
+  Total assets                                                                                                                  20,333                20,458              20,090
+
+The above condensed balance sheet should be read in conjunction with the accompanying notes.
+
+Vestas Wind Systems A/S                                                                                                                                                                                       Page 16 of 30
+Interim Financial Report – Second Quarter 2023
+
+=== Original PDF page 17 ===
+30 June                  30 June       31 December)
+  mEUR                                                                                                     Note                      2023                      2022                  2022
+
+  Total non-current liabilities                                                                                                     4,215                     3,288                 3,517
+
+  Total current liabilities                                                                                                       13,269                    13,512                13,513
+
+The above condensed balance sheet should be read in conjunction with the accompanying notes.
+
+Vestas Wind Systems A/S                                                                                                                                                                                       Page 17 of 30
+Interim Financial Report – Second Quarter 2023
+
+=== Original PDF page 19 ===
+Q2                Q2               H1                H1
+  mEUR                                                                                                Note                 2023              2022              2023             2022
+  Profit/(loss) for the period                                                                                             (115)              (119)              (99)            (884)
+
+  Income tax paid                                                                                                            (38)              (22)              (53)              (90)
+  Cash flow from operating activities before change in net working
+  capital                                                                                                                    137               (90)             385              (409)
+
+  Cash flow from operating activities                                                                                          48             (188)           (926)            (1,116)
+
+  The above condensed cash flow statement should be read in conjunction with the accompanying notes.
+
+Vestas Wind Systems A/S                                                                                                                                                                                       Page 19 of 30
+Interim Financial Report – Second Quarter 2023

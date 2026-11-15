@@ -1,0 +1,175 @@
+Source: https://mb.cision.com/Public/18886/3659957/8378e644c5ae415a.pdf
+Source ID: VWS2022Q3
+Publication date: 2022-11-02
+Original issuer PDF; extracted table context, not reformatted financial data.
+
+=== Original PDF page 4 ===
+Q3               Q34)                 9M               9M4)                FY4)
+    mEUR                                                                                            2022              20214)               2022             20214)              20214)
+    Financial highlights
+    Income statement
+    Revenue                                                                                          3,913              5,538              9,703             11,036             15,587
+    Gross profit                                                                                        161               599                 280              1,163              1,556
+    Operating profit/(loss) before amortisation, depreciation and
+    impairment (EBITDA) before special items                                                            101               557                 122                998              1,341
+    Operating profit/(loss) (EBIT) before special items                                               (127)               318               (638)                334                 429
+    Operating profit/(loss) before amortisation, depreciation and
+    impairment (EBITDA)                                                                                 103               486               (317)                927              1,250
+    Operating profit/(loss) (EBIT)                                                                    (114)               199             (1,155)                215                 290
+    Net financial items                                                                                (65)               (40)               (65)                (70)              (101)
+    Profit/(loss) before tax                                                                          (171)               163             (1,199)               194                  225
+    Profit/(loss) for the period                                                                      (147)               116             (1,031)                135                 144
+    Balance sheet
+    Cash flow statement
+    Cash flow from operating activities                                                               (614)               513             (1,730)                 111               956
+    Cash flow from investing activities before acquisitions of
+  3)     Earnings per share has been calculated over a 12-       month period and in accordance with IAS 33 on earnings per share.
+  4)     Comparative figures for 2021 have been adjusted               following the accounting policy change for configuration and customisation cost in cloud computing arrangements, refer to
+        note 5.3.
+
+Vestas Wind Systems A/S                                                                                                                                                                                          Page 4 of 36
+Interim Financial Report – Third Quarter 2022
+
+=== Original PDF page 17 ===
+Condensed income statement 1 January –  30 September
+
+                                                                                                                           Q3               Q31)                9M               9M)
+  mEUR                                                                                           Note                    2022            20211)              2022             20211)
+
+  Administration costs                                                                                                    (86)               (93)           (262)               (265)
+  Operating profit/(loss) (EBIT) before special items                                    1.1                            (127)               318              (638)               334
+
+  Special items                                                                                    1.3                     13              (119)             (517)             (119)
+  Operating profit/(loss) (EBIT)                                                                                        (114)               199           (1,155)                215
+
+  Profit/(loss) for the period                                                                                          (147)               116           (1,031)                135
+
+                                                                                                                            Q3              Q31)                9M               9M1)
+   mEUR                                                                                                                   2022            20211)              2022            20211)
+   Profit /(loss) for the period                                                                                        (147)              116             (1,031)             135
+
+   Items that may be reclassified to the income statement subsequently:
+
+   Fair value adjustments of derivative financial instruments for the period                                             155               136                 75              159
+   Gain/(loss) on derivative financial instruments transferred to the income statement                                    (29)              (27)              (39)              (41)
+   Share of fair value adjustments of derivatives financial instruments of joint ventures
+   and associates                                                                                                           3                 0                13                  3
+   Tax on items that may be reclassified to the income statement subsequently                                             (27)              (27)                (0)             (26)
+   Other comprehensive income after tax for the period                                                                    214              113                174              185
+
+  The above condensed statement of comprehensive income should be read in conjunction with the accompanying notes.
+
+  1) Comparative figures for 2021 are adjusted in relation to accounting policy change for configuration and customisation cost in cloud computing arrangements, refer to note 5.3.
+
+Vestas Wind Systems A/S                                                                                                                                                                                        Page 17 of 36
+Interim Financial Report – Third Quarter 2022
+
+=== Original PDF page 18 ===
+30 September           30 September)        31 December1)
+  mEUR                                                                                                       Note                        2022                 20211)                20211)
+
+  Assets held for sale                                                                                           2.2                    157                         -                   -
+
+  Total assets                                                                                                                      20,447                  18,927              19,648
+
+The above condensed balance sheet should be read in conjunction with the accompanying notes.
+
+1) Comparative figures for 2021 are adjusted in relation to accounting policy change for configuration and customisation cost in cloud computing arrangements, refer to note 5.3.
+
+Vestas Wind Systems A/S                                                                                                                                                                                        Page 18 of 36
+Interim Financial Report – Third Quarter 2022
+
+=== Original PDF page 19 ===
+30 September            30 September1)          31 December1)
+  mEUR                                                                                                          Note                       2022                    20211)                 20211)
+
+  Total non-current liabilities                                                                                                          3,658                      1,917                  2,251
+
+  Total current liabilities                                                                                                            13,062                     12,320                 12,700
+
+The above condensed balance sheet should be read in conjunction with the accompanying notes.
+
+1) Comparative figures for 2021 are adjusted in relation to accounting policy change for configuration and customisation cost in   cloud computing arrangements, refer to note 5.3.
+
+Vestas Wind Systems A/S                                                                                                                                                                                        Page 19 of 36
+Interim Financial Report – Third Quarter 2022
+
+=== Original PDF page 21 ===
+Q3                Q31)                9M                9M1)
+  mEUR                                                                                              Note                  2022              20211)               2022              20211)
+  Profit/(loss) for the period                                                                                           (147)                116             (1,031)                135
+
+  Income tax paid                                                                                                          (30)                 (9)             (120)                (32)
+  Cash flow from operating activities before change in net working capital                                                  81                521               (328)                627
+
+  Cash flow from operating activities                                                                                    (614)                513             (1,730)                111
+
+  The above condensed cash flow statement should be read in conjunction with the accompanying notes.
+
+  1) Comparative figures for 2021 are adjusted in relation to accounting policy change for configuration and customisation cost in   cloud computing arrangements, refer to note 5.3.
+
+Vestas Wind Systems A/S                                                                                                                                                                                        Page 21 of 36
+Interim Financial Report – Third Quarter 2022
+
+=== Original PDF page 30 ===
+Estimate regarding the valuation of assets and liabilities in Russia   and Ukraine
+Measurement of the  provision for the potential  risks related to the ceasing of activities in Russia and Ukraine as well as
+write-down of inventory located in Russia and Ukraine  is associated with significant estimation uncertainty due to the
+current situation in Russia and Ukraine. The recogni       sed cost reflect management’s best estimate based on the current
+expectations.
+
+5.3 Changes in accounting policy and disclosures
+
+Except for the changes below, the accounting policies remain unchanged compared to the annual report for the year ended
+31 December 2021, to which reference is made.
+
+IAS 38, Configuration or customisation costs in a cloud computing arrangement
+As announced in Vestas’ Annual    Report  2021, as of   1 January 2022, Vestas has changed its accounting policy on
+configuration and customisation costs related to   cloud computing arrangements, also referred to as Software as a Service
+(SaaS).
+
+Previously, Vestas had     capitalised   costs related to the implementation of cloud computing arrangements as intangible
+assets. Under the new policy, implementation costs including costs to configure and customise the cloud provider’s
+application software are recognised as operating expenses when the services are received.
+
+Historical financial information has been restated to account for the impact of the change in accounting policy in relation to
+SaaS arrangements as follows:
+
+Condensed income statement extract 1 July - 30     September
+
+                                                                                                                  Q3 2021      Effect of new               Q3 2021
+  mEUR                                                                                                          Reported               policy             Restated
+  Production costs                                                                                                 (4,938)                 (1)              (4,939)
+  Operating profit (EBIT) before special items                                                                        600                  (1)                 599
+  Research and development costs                                                                                      (81)                 (5)                  (86)
+  Distribution costs                                                                                                 (101)                 (1)                (102)
+  Administration cost                                                                                                 (93)                   -                  (93)
+
+  Operating profit (EBIT) before special items                                                                        325                  (7)                 318
+
+  Operating profit (EBIT)                                                                                             206                  (7)                 199
+  Profit before tax                                                                                                   170                  (7)                 163
+
+  Profit for the period                                                                                               123                  (7)                 116
+
+  Profit is attributable to:
+  Owners of Vestas                                                                                                    122                  (7)                 115
+  Non-controlling interests                                                                                              1                   -                    1
+
+  Earnings per share (EPS)
+  Earnings per share for the period (EUR), basic                                                                     0.12                                     0.11
+  Earnings per share for the period (EUR), diluted                                                                   0.12                                     0.11
+
+Condensed statement of comprehensive income extract 1 July - 30 September
+
+                                                                                                                  Q3 2021     Effect of new                Q3 2021
+  mEUR                                                                                                          Reported               policy             Restated
+  Profit for the period                                                                                               123                 (7)                  116
+
+  Other comprehensive income after tax for the period                                                                 113                   -                  113
+  Total comprehensive income for the period                                                                           236                 (7)                  229
+
+Vestas Wind Systems A/S                                                                                                                                                                                        Page 30 of 36
+Interim Financial Report – Third Quarter 2022
+
+                                                                                              Classification: Public

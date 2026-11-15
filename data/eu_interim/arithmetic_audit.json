@@ -1,0 +1,3599 @@
+[
+  {
+    "observation_id": "eu_ttm_e6a36a89f30fa64d5840",
+    "ticker": "ALFEN.AS",
+    "period_end": "2021-06-30",
+    "available": "2021-08-27",
+    "current_source_id": "interim_source_05907bf9ffa274bd05d2",
+    "prior_annual_source_id": "eu_restore_3a5fec682d67c7581d92",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 17.351,
+        "current_ytd": 12.602,
+        "prior_ytd": 6.572,
+        "value": 23.381
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 11.987,
+        "current_ytd": 9.024,
+        "prior_ytd": 4.896,
+        "value": 16.115
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 20.111,
+        "current_ytd": 2.871,
+        "prior_ytd": -4.276,
+        "value": 27.258
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original semi-annual consolidated statements, EUR thousands converted to millions. Quarter-one/three trading updates are not substituted for complete statements."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_ca4178d8461f64096cc2",
+    "ticker": "ALFEN.AS",
+    "period_end": "2022-06-30",
+    "available": "2022-08-25",
+    "current_source_id": "interim_source_23631879de4799c4a9c6",
+    "prior_annual_source_id": "eu_restore_4eb508f69c0edb7ab0f9",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 27.69,
+        "current_ytd": 31.52,
+        "prior_ytd": 12.602,
+        "value": 46.608000000000004
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 21.45,
+        "current_ytd": 24.552,
+        "prior_ytd": 9.024,
+        "value": 36.977999999999994
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 10.538,
+        "current_ytd": -1.052,
+        "prior_ytd": 2.871,
+        "value": 6.615
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original semi-annual consolidated statements, EUR thousands converted to millions. Quarter-one/three trading updates are not substituted for complete statements.",
+      "Income-statement operating profit used; cash-flow reconciliation starting EBIT differs by EUR1,000 in H1 2022/H1 2023, retained as source rounding discrepancy rather than overriding reported profit."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_260f6c5147af0c0960da",
+    "ticker": "ALFEN.AS",
+    "period_end": "2023-06-30",
+    "available": "2023-08-23",
+    "current_source_id": "interim_source_59be07f7fc39c230deae",
+    "prior_annual_source_id": "eu_restore_75a67a6e5c630d5a59fe",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 67.746,
+        "current_ytd": 13.608,
+        "prior_ytd": 31.52,
+        "value": 49.834
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 53.047,
+        "current_ytd": 9.38,
+        "prior_ytd": 24.552,
+        "value": 37.875
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 0.429,
+        "current_ytd": -47.044,
+        "prior_ytd": -1.052,
+        "value": -45.562999999999995
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original semi-annual consolidated statements, EUR thousands converted to millions. Quarter-one/three trading updates are not substituted for complete statements.",
+      "Income-statement operating profit used; cash-flow reconciliation starting EBIT differs by EUR1,000 in H1 2022/H1 2023, retained as source rounding discrepancy rather than overriding reported profit."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_13e038cf1d81e675236f",
+    "ticker": "ALFEN.AS",
+    "period_end": "2024-06-30",
+    "available": "2024-08-21",
+    "current_source_id": "interim_source_d56a39e6eb9e69c1279c",
+    "prior_annual_source_id": "eu_restore_4a9f7374690fd3d58d98",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 41.859,
+        "current_ytd": -12.14,
+        "prior_ytd": 13.608,
+        "value": 16.111
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 29.684,
+        "current_ytd": -11.065,
+        "prior_ytd": 9.38,
+        "value": 9.238999999999999
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 5.637,
+        "current_ytd": 1.582,
+        "prior_ytd": -47.044,
+        "value": 54.263
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original semi-annual consolidated statements, EUR thousands converted to millions. Quarter-one/three trading updates are not substituted for complete statements.",
+      "Income-statement operating profit used; cash-flow reconciliation starting EBIT differs by EUR1,000 in H1 2022/H1 2023, retained as source rounding discrepancy rather than overriding reported profit."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_4c75fd81d02828bcb4a4",
+    "ticker": "ALFEN.AS",
+    "period_end": "2025-06-30",
+    "available": "2025-08-20",
+    "current_source_id": "interim_source_d1629ecb0b2ce8e1256f",
+    "prior_annual_source_id": "eu_restore_f7fd9578ad1e2f2b90f8",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -30.496,
+        "current_ytd": 0.384,
+        "prior_ytd": -12.14,
+        "value": -17.971999999999998
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -27.014,
+        "current_ytd": -1.303,
+        "prior_ytd": -11.065,
+        "value": -17.252000000000002
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 55.82,
+        "current_ytd": 10.751,
+        "prior_ytd": 1.582,
+        "value": 64.989
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original semi-annual consolidated statements, EUR thousands converted to millions. Quarter-one/three trading updates are not substituted for complete statements."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_26ce083f2ecd14bb9d86",
+    "ticker": "ALFEN.AS",
+    "period_end": "2026-06-30",
+    "available": "2026-08-18",
+    "current_source_id": "interim_source_faa5645482f9badd3332",
+    "prior_annual_source_id": "eu_restore_c3a55dad571abc0e1a44",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 2.671,
+        "current_ytd": 0.811,
+        "prior_ytd": 0.384,
+        "value": 3.098
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -0.189,
+        "current_ytd": -0.454,
+        "prior_ytd": -1.303,
+        "value": 0.6599999999999999
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 32.543,
+        "current_ytd": 36.451,
+        "prior_ytd": 10.751,
+        "value": 58.243
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original semi-annual consolidated statements, EUR thousands converted to millions. Quarter-one/three trading updates are not substituted for complete statements."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_494336c49141a210723f",
+    "ticker": "AMS.SW",
+    "period_end": "2021-06-30",
+    "available": "2021-07-30",
+    "current_source_id": "interim_source_80eef0d481a16c80da95",
+    "prior_annual_source_id": "eu_restore_78e52dc811b3fb5c0c6e",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 138.0,
+        "current_ytd": -52.0,
+        "prior_ytd": 90.0,
+        "value": -4.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -87.0,
+        "current_ytd": -160.0,
+        "prior_ytd": -9.0,
+        "value": -238.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 702.0,
+        "current_ytd": 397.0,
+        "prior_ytd": 312.0,
+        "value": 787.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "EUR appendix used, not the leading USD convenience statements. Total group operating cashflow includes discontinued operations (prior 9M2020 CFO is 383, not continuing-only 385). OSRAM acquisition means the earlier FY2020 annual is not a pro-forma full year; this is observed historical consolidated scope, not backfilled acquisition data."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_8860b0c461b464cc9d3c",
+    "ticker": "AMS.SW",
+    "period_end": "2021-09-30",
+    "available": "2021-11-02",
+    "current_source_id": "interim_source_1c102b59c9d6c1f6d666",
+    "prior_annual_source_id": "eu_restore_78e52dc811b3fb5c0c6e",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 138.0,
+        "current_ytd": 30.0,
+        "prior_ytd": 10.0,
+        "value": 158.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -87.0,
+        "current_ytd": -200.0,
+        "prior_ytd": -131.0,
+        "value": -156.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 702.0,
+        "current_ytd": 612.0,
+        "prior_ytd": 383.0,
+        "value": 931.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "EUR appendix used, not the leading USD convenience statements. Total group operating cashflow includes discontinued operations (prior 9M2020 CFO is 383, not continuing-only 385). OSRAM acquisition means the earlier FY2020 annual is not a pro-forma full year; this is observed historical consolidated scope, not backfilled acquisition data."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_8f9dafd72564c2317037",
+    "ticker": "AMS.SW",
+    "period_end": "2022-03-31",
+    "available": "2022-05-03",
+    "current_source_id": "interim_source_ef2eef03f33609b3fbc4",
+    "prior_annual_source_id": "eu_restore_f1969e1110e3dacabbad",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 197.0,
+        "current_ytd": 40.0,
+        "prior_ytd": 67.0,
+        "value": 170.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -32.0,
+        "current_ytd": 15.0,
+        "prior_ytd": -2.0,
+        "value": -15.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 792.0,
+        "current_ytd": 147.0,
+        "prior_ytd": 206.0,
+        "value": 733.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "2022 functional-cost presentation changes reclassify components inside operating income; the selected prior-YTD operating income/net income/CFO match the originally reported totals. No total-flow rebase is required."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_80de817b259ce3c40750",
+    "ticker": "AMS.SW",
+    "period_end": "2022-06-30",
+    "available": "2022-07-29",
+    "current_source_id": "interim_source_21e980685178fcb0c5d9",
+    "prior_annual_source_id": "eu_restore_f1969e1110e3dacabbad",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 197.0,
+        "current_ytd": 256.0,
+        "prior_ytd": -52.0,
+        "value": 505.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -32.0,
+        "current_ytd": 74.0,
+        "prior_ytd": -160.0,
+        "value": 202.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 792.0,
+        "current_ytd": 247.0,
+        "prior_ytd": 397.0,
+        "value": 642.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "2022 functional-cost presentation changes reclassify components inside operating income; the selected prior-YTD operating income/net income/CFO match the originally reported totals. No total-flow rebase is required."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_5bb0ce26870986cda30f",
+    "ticker": "AMS.SW",
+    "period_end": "2022-09-30",
+    "available": "2022-11-02",
+    "current_source_id": "interim_source_5f96ebaaaa04824249d6",
+    "prior_annual_source_id": "eu_restore_f1969e1110e3dacabbad",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 197.0,
+        "current_ytd": -71.0,
+        "prior_ytd": 30.0,
+        "value": 96.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -32.0,
+        "current_ytd": -297.0,
+        "prior_ytd": -200.0,
+        "value": -129.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 792.0,
+        "current_ytd": 397.0,
+        "prior_ytd": 612.0,
+        "value": 577.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "2022 functional-cost presentation changes reclassify components inside operating income; the selected prior-YTD operating income/net income/CFO match the originally reported totals. No total-flow rebase is required."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_3cfc2bac92fa5bc41da0",
+    "ticker": "AMS.SW",
+    "period_end": "2023-03-31",
+    "available": "2023-05-02",
+    "current_source_id": "interim_source_edcfded41124ebc8d790",
+    "prior_annual_source_id": "eu_restore_c63076babc6243b99c57",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -161.0,
+        "current_ytd": -90.0,
+        "prior_ytd": 40.0,
+        "value": -291.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -444.0,
+        "current_ytd": -134.0,
+        "prior_ytd": 15.0,
+        "value": -593.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 599.0,
+        "current_ytd": 162.0,
+        "prior_ytd": 147.0,
+        "value": 614.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_edffce633d6ca0265537",
+    "ticker": "AMS.SW",
+    "period_end": "2023-06-30",
+    "available": "2023-07-27",
+    "current_source_id": "interim_source_2e3dcfc932e95372cd44",
+    "prior_annual_source_id": "eu_restore_c63076babc6243b99c57",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -161.0,
+        "current_ytd": -1413.0,
+        "prior_ytd": 256.0,
+        "value": -1830.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -444.0,
+        "current_ytd": -1476.0,
+        "prior_ytd": 74.0,
+        "value": -1994.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 599.0,
+        "current_ytd": 394.0,
+        "prior_ytd": 247.0,
+        "value": 746.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_dcb47a18ef3025ef7dbd",
+    "ticker": "AMS.SW",
+    "period_end": "2023-09-30",
+    "available": "2023-10-31",
+    "current_source_id": "interim_source_83e789e95de4d90cdc33",
+    "prior_annual_source_id": "eu_restore_c63076babc6243b99c57",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -161.0,
+        "current_ytd": -1426.0,
+        "prior_ytd": -71.0,
+        "value": -1516.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -444.0,
+        "current_ytd": -1531.0,
+        "prior_ytd": -297.0,
+        "value": -1678.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 599.0,
+        "current_ytd": 594.0,
+        "prior_ytd": 397.0,
+        "value": 796.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_d7dc243fe5c28fe33814",
+    "ticker": "AMS.SW",
+    "period_end": "2024-03-31",
+    "available": "2024-04-26",
+    "current_source_id": "interim_source_cb582f4584a247faf4a9",
+    "prior_annual_source_id": "interim_comparable_annual_d1846b134d4a739899ea",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1430.0,
+        "current_ytd": -631.0,
+        "prior_ytd": -90.0,
+        "value": -1971.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1613.0,
+        "current_ytd": -710.0,
+        "prior_ytd": -134.0,
+        "value": -2189.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 493.0,
+        "current_ytd": 55.0,
+        "prior_ytd": 116.0,
+        "value": 432.0
+      }
+    ],
+    "comparable_annual_override": true,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "Interest paid moved from financing to operating cashflow in 2024. The attached contemporaneous prior_annual override makes the annual and prior-YTD CFO bases consistent."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_c07805197468c2652e59",
+    "ticker": "AMS.SW",
+    "period_end": "2024-06-30",
+    "available": "2024-07-26",
+    "current_source_id": "interim_source_dee018d77ca10b31f4bb",
+    "prior_annual_source_id": "interim_comparable_annual_d1846b134d4a739899ea",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1430.0,
+        "current_ytd": -616.0,
+        "prior_ytd": -1413.0,
+        "value": -633.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1613.0,
+        "current_ytd": -751.0,
+        "prior_ytd": -1476.0,
+        "value": -888.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 493.0,
+        "current_ytd": 110.0,
+        "prior_ytd": 318.0,
+        "value": 285.0
+      }
+    ],
+    "comparable_annual_override": true,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "Interest paid moved from financing to operating cashflow in 2024. The attached contemporaneous prior_annual override makes the annual and prior-YTD CFO bases consistent."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_4821ed4de68a28132686",
+    "ticker": "AMS.SW",
+    "period_end": "2024-09-30",
+    "available": "2024-11-07",
+    "current_source_id": "interim_source_c4cad451973f7f773420",
+    "prior_annual_source_id": "interim_comparable_annual_d1846b134d4a739899ea",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1430.0,
+        "current_ytd": -547.0,
+        "prior_ytd": -1426.0,
+        "value": -551.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1613.0,
+        "current_ytd": -727.0,
+        "prior_ytd": -1531.0,
+        "value": -809.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 493.0,
+        "current_ytd": 356.0,
+        "prior_ytd": 459.0,
+        "value": 390.0
+      }
+    ],
+    "comparable_annual_override": true,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "Interest paid moved from financing to operating cashflow in 2024. The attached contemporaneous prior_annual override makes the annual and prior-YTD CFO bases consistent."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_55d937fe9f105d3c4520",
+    "ticker": "AMS.SW",
+    "period_end": "2025-03-31",
+    "available": "2025-04-30",
+    "current_source_id": "interim_source_1b87d5d74d27a68e03ec",
+    "prior_annual_source_id": "eu_restore_4f19a23ecae6cbd3cd47",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -547.0,
+        "current_ytd": -1.0,
+        "prior_ytd": -631.0,
+        "value": 83.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -785.0,
+        "current_ytd": -82.0,
+        "prior_ytd": -710.0,
+        "value": -157.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 435.0,
+        "current_ytd": 10.0,
+        "prior_ytd": 55.0,
+        "value": 390.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "Disposals and impairment charges remain in reported consolidated results. Prior YTD totals match the preceding original interim statements; no adjusted/comparable-business earnings series is substituted."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_3b6b6a6abc4d116e9424",
+    "ticker": "AMS.SW",
+    "period_end": "2025-06-30",
+    "available": "2025-07-31",
+    "current_source_id": "interim_source_86e190691d105ec33af7",
+    "prior_annual_source_id": "eu_restore_4f19a23ecae6cbd3cd47",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -547.0,
+        "current_ytd": 50.0,
+        "prior_ytd": -616.0,
+        "value": 119.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -785.0,
+        "current_ytd": -81.0,
+        "prior_ytd": -751.0,
+        "value": -115.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 435.0,
+        "current_ytd": 34.0,
+        "prior_ytd": 110.0,
+        "value": 359.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "Disposals and impairment charges remain in reported consolidated results. Prior YTD totals match the preceding original interim statements; no adjusted/comparable-business earnings series is substituted."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_7a23476c871122869893",
+    "ticker": "AMS.SW",
+    "period_end": "2025-09-30",
+    "available": "2025-11-18",
+    "current_source_id": "interim_source_faedd74c604f81f29115",
+    "prior_annual_source_id": "eu_restore_4f19a23ecae6cbd3cd47",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -547.0,
+        "current_ytd": 87.0,
+        "prior_ytd": -547.0,
+        "value": 87.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -785.0,
+        "current_ytd": -109.0,
+        "prior_ytd": -727.0,
+        "value": -167.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 435.0,
+        "current_ytd": 122.0,
+        "prior_ytd": 356.0,
+        "value": 201.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "Disposals and impairment charges remain in reported consolidated results. Prior YTD totals match the preceding original interim statements; no adjusted/comparable-business earnings series is substituted.",
+      "The available official full-statement PDF is explicitly dated 18 November 2025; use this date rather than an earlier calendar or headline date."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_acbb8cd6a18238def1aa",
+    "ticker": "AMS.SW",
+    "period_end": "2026-03-31",
+    "available": "2026-05-06",
+    "current_source_id": "interim_source_dabb5fdb7874fe74d279",
+    "prior_annual_source_id": "eu_restore_9480e64c22b00d74327f",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 102.0,
+        "current_ytd": -26.0,
+        "prior_ytd": -1.0,
+        "value": 77.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -129.0,
+        "current_ytd": -154.0,
+        "prior_ytd": -82.0,
+        "value": -201.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 237.0,
+        "current_ytd": 0.0,
+        "prior_ytd": 10.0,
+        "value": 227.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "Disposals and impairment charges remain in reported consolidated results. Prior YTD totals match the preceding original interim statements; no adjusted/comparable-business earnings series is substituted."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_6521005bc86bb63bdbbd",
+    "ticker": "AMS.SW",
+    "period_end": "2026-06-30",
+    "available": "2026-08-04",
+    "current_source_id": "interim_source_7e1e320d5f15e7bda689",
+    "prior_annual_source_id": "eu_restore_9480e64c22b00d74327f",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 102.0,
+        "current_ytd": -27.0,
+        "prior_ytd": 50.0,
+        "value": 25.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -129.0,
+        "current_ytd": -276.0,
+        "prior_ytd": -81.0,
+        "value": -324.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 237.0,
+        "current_ytd": -78.0,
+        "prior_ytd": 34.0,
+        "value": 125.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "Disposals and impairment charges remain in reported consolidated results. Prior YTD totals match the preceding original interim statements; no adjusted/comparable-business earnings series is substituted."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_16c1b82ed72624ad288f",
+    "ticker": "ENR.DE",
+    "period_end": "2021-06-30",
+    "available": "2021-08-04",
+    "current_source_id": "interim_source_bbdcb9f56300ffa3f2e0",
+    "prior_annual_source_id": "eu_restore_a33844c2bfc6ef536837",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1991.0,
+        "current_ytd": 51.0,
+        "prior_ytd": -1553.0,
+        "value": -387.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1859.0,
+        "current_ytd": -177.0,
+        "prior_ytd": -1469.0,
+        "value": -567.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 1601.0,
+        "current_ytd": 694.0,
+        "prior_ytd": 561.0,
+        "value": 1734.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "Siemens intercompany receivables/payables were reclassified within the balance sheet by their nature. This does not change total assets/current liabilities or the selected flow totals."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_913bab24e7d53a76b2be",
+    "ticker": "ENR.DE",
+    "period_end": "2021-12-31",
+    "available": "2022-02-09",
+    "current_source_id": "interim_source_e1a57d9edce16040b42c",
+    "prior_annual_source_id": "eu_restore_b50963513f2425b56ee1",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -357.0,
+        "current_ytd": -152.0,
+        "prior_ytd": 164.0,
+        "value": -673.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -560.0,
+        "current_ytd": -240.0,
+        "prior_ytd": 99.0,
+        "value": -899.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 1946.0,
+        "current_ytd": 27.0,
+        "prior_ytd": -248.0,
+        "value": 2221.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_8eb1097631535f795c23",
+    "ticker": "ENR.DE",
+    "period_end": "2022-03-31",
+    "available": "2022-05-11",
+    "current_source_id": "interim_source_72da03947e801d82e7a7",
+    "prior_annual_source_id": "eu_restore_b50963513f2425b56ee1",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -357.0,
+        "current_ytd": -345.0,
+        "prior_ytd": 272.0,
+        "value": -974.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -560.0,
+        "current_ytd": -492.0,
+        "prior_ytd": 130.0,
+        "value": -1182.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 1946.0,
+        "current_ytd": -198.0,
+        "prior_ytd": 213.0,
+        "value": 1535.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_aa015b3d29d5962b0b7b",
+    "ticker": "ENR.DE",
+    "period_end": "2022-06-30",
+    "available": "2022-08-08",
+    "current_source_id": "interim_source_4958eb2106a0392d754d",
+    "prior_annual_source_id": "eu_restore_b50963513f2425b56ee1",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -357.0,
+        "current_ytd": -881.0,
+        "prior_ytd": 51.0,
+        "value": -1289.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -560.0,
+        "current_ytd": -1025.0,
+        "prior_ytd": -177.0,
+        "value": -1408.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 1946.0,
+        "current_ytd": -63.0,
+        "prior_ytd": 694.0,
+        "value": 1189.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_7571df7a81a088a4cfcd",
+    "ticker": "ENR.DE",
+    "period_end": "2022-12-31",
+    "available": "2023-02-07",
+    "current_source_id": "interim_source_362b48fec4c421313488",
+    "prior_annual_source_id": "interim_comparable_annual_df7828fba6b7d3dd840c",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -574.0,
+        "current_ytd": -480.0,
+        "prior_ytd": -159.0,
+        "value": -895.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -712.0,
+        "current_ytd": -598.0,
+        "prior_ytd": -246.0,
+        "value": -1064.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 2218.0,
+        "current_ytd": 118.0,
+        "prior_ytd": 27.0,
+        "value": 2309.0
+      }
+    ],
+    "comparable_annual_override": true,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "FY2022 comparatives were revised for derivatives accounting. Use the contemporaneous 2023-02-07 prior_annual override, not the original FY2022 income totals or a future annual report."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_3f2d489cc18a5a4f7288",
+    "ticker": "ENR.DE",
+    "period_end": "2023-03-31",
+    "available": "2023-05-15",
+    "current_source_id": "interim_source_38150c5d2a1732dd547d",
+    "prior_annual_source_id": "interim_comparable_annual_df7828fba6b7d3dd840c",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -574.0,
+        "current_ytd": -487.0,
+        "prior_ytd": -358.0,
+        "value": -703.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -712.0,
+        "current_ytd": -787.0,
+        "prior_ytd": -502.0,
+        "value": -997.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 2218.0,
+        "current_ytd": -41.0,
+        "prior_ytd": -198.0,
+        "value": 2375.0
+      }
+    ],
+    "comparable_annual_override": true,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "FY2022 comparatives were revised for derivatives accounting. Use the contemporaneous 2023-02-07 prior_annual override, not the original FY2022 income totals or a future annual report."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_698a6bf5e97ccbf4a863",
+    "ticker": "ENR.DE",
+    "period_end": "2023-06-30",
+    "available": "2023-08-07",
+    "current_source_id": "interim_source_c12873044a3029d28178",
+    "prior_annual_source_id": "interim_comparable_annual_df7828fba6b7d3dd840c",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -574.0,
+        "current_ytd": -2642.0,
+        "prior_ytd": -935.0,
+        "value": -2281.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -712.0,
+        "current_ytd": -3718.0,
+        "prior_ytd": -1066.0,
+        "value": -3364.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 2218.0,
+        "current_ytd": 170.0,
+        "prior_ytd": -63.0,
+        "value": 2451.0
+      }
+    ],
+    "comparable_annual_override": true,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts.",
+      "FY2022 comparatives were revised for derivatives accounting. Use the contemporaneous 2023-02-07 prior_annual override, not the original FY2022 income totals or a future annual report."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_a39e7a338674df898cc8",
+    "ticker": "ENR.DE",
+    "period_end": "2023-12-31",
+    "available": "2024-02-07",
+    "current_source_id": "interim_source_361b685353a5e9f0e403",
+    "prior_annual_source_id": "eu_restore_08329e43bd6befa282df",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -3257.0,
+        "current_ytd": 1813.0,
+        "prior_ytd": -480.0,
+        "value": -964.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -4588.0,
+        "current_ytd": 1582.0,
+        "prior_ytd": -598.0,
+        "value": -2408.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 1622.0,
+        "current_ytd": -132.0,
+        "prior_ytd": 118.0,
+        "value": 1372.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_0d383df999bbb9ef6801",
+    "ticker": "ENR.DE",
+    "period_end": "2024-03-31",
+    "available": "2024-05-08",
+    "current_source_id": "interim_source_2cd0e72eebe40d4fce88",
+    "prior_annual_source_id": "eu_restore_08329e43bd6befa282df",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -3257.0,
+        "current_ytd": 2249.0,
+        "prior_ytd": -487.0,
+        "value": -521.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -4588.0,
+        "current_ytd": 1690.0,
+        "prior_ytd": -787.0,
+        "value": -2111.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 1622.0,
+        "current_ytd": 482.0,
+        "prior_ytd": -41.0,
+        "value": 2145.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_45495304ba3bc15061a6",
+    "ticker": "ENR.DE",
+    "period_end": "2024-06-30",
+    "available": "2024-08-07",
+    "current_source_id": "interim_source_efb4692df6a0d67f8c73",
+    "prior_annual_source_id": "eu_restore_08329e43bd6befa282df",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -3257.0,
+        "current_ytd": 2303.0,
+        "prior_ytd": -2642.0,
+        "value": 1688.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -4588.0,
+        "current_ytd": 1588.0,
+        "prior_ytd": -3718.0,
+        "value": 718.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 1622.0,
+        "current_ytd": 1419.0,
+        "prior_ytd": 170.0,
+        "value": 2871.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_ff3f5567ca6e2739cfdf",
+    "ticker": "ENR.DE",
+    "period_end": "2024-12-31",
+    "available": "2025-02-12",
+    "current_source_id": "interim_source_fc4d36c462f116a9248d",
+    "prior_annual_source_id": "eu_restore_2c36a750ad28e406d94d",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 2125.0,
+        "current_ytd": 399.0,
+        "prior_ytd": 1813.0,
+        "value": 711.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 1335.0,
+        "current_ytd": 252.0,
+        "prior_ytd": 1582.0,
+        "value": 5.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 2889.0,
+        "current_ytd": 1694.0,
+        "prior_ytd": -132.0,
+        "value": 4715.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_45c40bfa40faed50361a",
+    "ticker": "ENR.DE",
+    "period_end": "2025-03-31",
+    "available": "2025-05-08",
+    "current_source_id": "interim_source_8d28d8957ecbaf7bdbac",
+    "prior_annual_source_id": "eu_restore_2c36a750ad28e406d94d",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 2125.0,
+        "current_ytd": 956.0,
+        "prior_ytd": 2249.0,
+        "value": 832.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 1335.0,
+        "current_ytd": 753.0,
+        "prior_ytd": 1690.0,
+        "value": 398.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 2889.0,
+        "current_ytd": 3261.0,
+        "prior_ytd": 482.0,
+        "value": 5668.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_add14dc16daacfe26356",
+    "ticker": "ENR.DE",
+    "period_end": "2025-06-30",
+    "available": "2025-08-06",
+    "current_source_id": "interim_source_b2f923e6ceac39c93620",
+    "prior_annual_source_id": "eu_restore_2c36a750ad28e406d94d",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 2125.0,
+        "current_ytd": 1866.0,
+        "prior_ytd": 2303.0,
+        "value": 1688.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 1335.0,
+        "current_ytd": 1450.0,
+        "prior_ytd": 1588.0,
+        "value": 1197.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 2889.0,
+        "current_ytd": 3979.0,
+        "prior_ytd": 1419.0,
+        "value": 5449.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_43ca67e4a6ebd8d65d83",
+    "ticker": "ENR.DE",
+    "period_end": "2025-12-31",
+    "available": "2026-02-11",
+    "current_source_id": "interim_source_f8869e9e7b066884281c",
+    "prior_annual_source_id": "eu_restore_5556502f3e7ee270929e",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 2149.0,
+        "current_ytd": 962.0,
+        "prior_ytd": 399.0,
+        "value": 2712.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 1685.0,
+        "current_ytd": 746.0,
+        "prior_ytd": 252.0,
+        "value": 2179.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 5821.0,
+        "current_ytd": 3154.0,
+        "prior_ytd": 1694.0,
+        "value": 7281.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_e1ab6fdbc529d2392abe",
+    "ticker": "ENR.DE",
+    "period_end": "2026-03-31",
+    "available": "2026-05-12",
+    "current_source_id": "interim_source_7c92c1395f837b070a77",
+    "prior_annual_source_id": "eu_restore_5556502f3e7ee270929e",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 2149.0,
+        "current_ytd": 2024.0,
+        "prior_ytd": 956.0,
+        "value": 3217.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 1685.0,
+        "current_ytd": 1581.0,
+        "prior_ytd": 753.0,
+        "value": 2513.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 5821.0,
+        "current_ytd": 5234.0,
+        "prior_ytd": 3261.0,
+        "value": 7794.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_7df47dce887f7d24a33a",
+    "ticker": "ENR.DE",
+    "period_end": "2026-06-30",
+    "available": "2026-08-05",
+    "current_source_id": "interim_source_b39568de0de691a65fac",
+    "prior_annual_source_id": "eu_restore_5556502f3e7ee270929e",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 2149.0,
+        "current_ytd": 3539.0,
+        "prior_ytd": 1866.0,
+        "value": 3822.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 1685.0,
+        "current_ytd": 2769.0,
+        "prior_ytd": 1450.0,
+        "value": 3004.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 5821.0,
+        "current_ytd": 7759.0,
+        "prior_ytd": 3979.0,
+        "value": 9601.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported IFRS operating income and group net income including non-controlling interests; no adjusted EBIT/EBITDA substitution.",
+      "YTD flows and corresponding prior-year YTD flows are copied from this interim document; balance-sheet values are current-period closing amounts."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_d97fc96e0cf03ad99f9a",
+    "ticker": "NEL.OL",
+    "period_end": "2021-06-30",
+    "available": "2021-08-19",
+    "current_source_id": "interim_source_ed3ddeb69426b4b7d9d7",
+    "prior_annual_source_id": "interim_comparable_annual_f5dd81f27c3a85631a14",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -414.497,
+        "current_ytd": -247.216,
+        "prior_ytd": -158.941,
+        "value": -502.77199999999993
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 1261.88,
+        "current_ytd": -890.326,
+        "prior_ytd": 593.205,
+        "value": -221.65099999999995
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -215.886,
+        "current_ytd": -231.725,
+        "prior_ytd": -55.828,
+        "value": -391.783
+      }
+    ],
+    "comparable_annual_override": true,
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_e8b5323750c6255174ce",
+    "ticker": "NEL.OL",
+    "period_end": "2021-09-30",
+    "available": "2021-10-21",
+    "current_source_id": "interim_source_25e76223e383961675a2",
+    "prior_annual_source_id": "interim_comparable_annual_fbcf80ddaa5f2b6ad2fc",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -414.497,
+        "current_ytd": -386.156,
+        "prior_ytd": -275.196,
+        "value": -525.457
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 1261.88,
+        "current_ytd": -1397.364,
+        "prior_ytd": -33.485,
+        "value": -101.99899999999992
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -215.886,
+        "current_ytd": -347.531,
+        "prior_ytd": -121.968,
+        "value": -441.449
+      }
+    ],
+    "comparable_annual_override": true,
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_a5eb6ffd2b07ede50576",
+    "ticker": "NEL.OL",
+    "period_end": "2022-03-31",
+    "available": "2022-05-11",
+    "current_source_id": "interim_source_17632ac8d4bca27fc155",
+    "prior_annual_source_id": "interim_comparable_annual_efe00a5697437545b656",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -582.853,
+        "current_ytd": -186.609,
+        "prior_ytd": -98.151,
+        "value": -671.311
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1666.852,
+        "current_ytd": 83.743,
+        "prior_ytd": -578.064,
+        "value": -1005.0450000000002
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -449.458,
+        "current_ytd": -158.773,
+        "prior_ytd": -184.616,
+        "value": -423.615
+      }
+    ],
+    "comparable_annual_override": true,
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_9114755f3c7beda4591e",
+    "ticker": "NEL.OL",
+    "period_end": "2022-06-30",
+    "available": "2022-08-11",
+    "current_source_id": "interim_source_60df52b28e61cba43797",
+    "prior_annual_source_id": "interim_comparable_annual_428e4bc464dbd08caaec",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -582.853,
+        "current_ytd": -427.625,
+        "prior_ytd": -247.216,
+        "value": -763.262
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1666.852,
+        "current_ytd": -190.774,
+        "prior_ytd": -890.326,
+        "value": -967.3000000000002
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -449.458,
+        "current_ytd": -378.428,
+        "prior_ytd": -231.725,
+        "value": -596.161
+      }
+    ],
+    "comparable_annual_override": true,
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_78f0810a5422545d5193",
+    "ticker": "NEL.OL",
+    "period_end": "2022-09-30",
+    "available": "2022-10-20",
+    "current_source_id": "interim_source_57dbafc31937e0d2cfe5",
+    "prior_annual_source_id": "interim_comparable_annual_0a9909e4189ab9ea0d14",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -582.853,
+        "current_ytd": -687.795,
+        "prior_ytd": -386.156,
+        "value": -884.492
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1666.852,
+        "current_ytd": -450.413,
+        "prior_ytd": -1397.364,
+        "value": -719.9010000000003
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -449.458,
+        "current_ytd": -496.844,
+        "prior_ytd": -347.531,
+        "value": -598.771
+      }
+    ],
+    "comparable_annual_override": true,
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_e8484c2282d65a916847",
+    "ticker": "NEL.OL",
+    "period_end": "2023-03-31",
+    "available": "2023-04-27",
+    "current_source_id": "interim_source_8a41205da8208bbae0fb",
+    "prior_annual_source_id": "interim_comparable_annual_8e147a6bb66876a21f5a",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1278.654,
+        "current_ytd": -174.811,
+        "prior_ytd": -186.609,
+        "value": -1266.856
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1171.169,
+        "current_ytd": -192.196,
+        "prior_ytd": 83.743,
+        "value": -1447.108
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -690.58,
+        "current_ytd": -28.522,
+        "prior_ytd": -158.779,
+        "value": -560.3230000000001
+      }
+    ],
+    "comparable_annual_override": true,
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_985122e6c07930f17bbc",
+    "ticker": "NEL.OL",
+    "period_end": "2023-06-30",
+    "available": "2023-07-18",
+    "current_source_id": "interim_source_c87b68cfd86435ec75c6",
+    "prior_annual_source_id": "interim_comparable_annual_40e1dbe5473fadef4393",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1278.654,
+        "current_ytd": -368.349,
+        "prior_ytd": -427.625,
+        "value": -1219.378
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1171.169,
+        "current_ytd": -534.522,
+        "prior_ytd": -190.774,
+        "value": -1514.9170000000004
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -690.58,
+        "current_ytd": -334.48,
+        "prior_ytd": -378.428,
+        "value": -646.632
+      }
+    ],
+    "comparable_annual_override": true,
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_eb3dc53cd6601b98aac4",
+    "ticker": "NEL.OL",
+    "period_end": "2023-09-30",
+    "available": "2023-10-25",
+    "current_source_id": "interim_source_d3604c8b18a09dcb829c",
+    "prior_annual_source_id": "interim_comparable_annual_6add6b386b7afddb0ca9",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1278.654,
+        "current_ytd": -533.414,
+        "prior_ytd": -687.794,
+        "value": -1124.274
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1171.169,
+        "current_ytd": -760.808,
+        "prior_ytd": -450.412,
+        "value": -1481.565
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -690.58,
+        "current_ytd": -529.474,
+        "prior_ytd": -496.844,
+        "value": -723.21
+      }
+    ],
+    "comparable_annual_override": true,
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_e3c7c487977f2bdfb0cc",
+    "ticker": "NEL.OL",
+    "period_end": "2024-03-31",
+    "available": "2024-04-17",
+    "current_source_id": "interim_source_99e667c178bfa954a1a7",
+    "prior_annual_source_id": "interim_comparable_annual_97a84ef50208f9e7f98d",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -699.504,
+        "current_ytd": -74.017,
+        "prior_ytd": -174.811,
+        "value": -598.7099999999999
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -855.196,
+        "current_ytd": -22.023,
+        "prior_ytd": -192.196,
+        "value": -685.023
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -669.668,
+        "current_ytd": -61.532,
+        "prior_ytd": -28.522,
+        "value": -702.678
+      }
+    ],
+    "comparable_annual_override": true,
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_af578ad00e0b5c6e3c69",
+    "ticker": "NEL.OL",
+    "period_end": "2024-06-30",
+    "available": "2024-07-17",
+    "current_source_id": "interim_source_fe8ae0f133b5afb02f94",
+    "prior_annual_source_id": "interim_comparable_annual_425f840cd938f04d2fa8",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -443.52,
+        "current_ytd": -138.032,
+        "prior_ytd": -216.594,
+        "value": -364.958
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -855.196,
+        "current_ytd": -65.361,
+        "prior_ytd": -534.522,
+        "value": -386.03499999999997
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -669.668,
+        "current_ytd": -219.042,
+        "prior_ytd": -334.48,
+        "value": -554.23
+      }
+    ],
+    "comparable_annual_override": true,
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary.",
+      "Cavendish/Fueling spin-off: EBIT is continuing-operation subtotal while net income/CFO include discontinued operations. Each metric uses the same scope across annual/currentYTD/priorYTD within this report; prior annual EBIT is explicitly the restated continuing-operation amount, first usable on this report publication date."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_fef75e08b16dccab95f5",
+    "ticker": "NEL.OL",
+    "period_end": "2024-09-30",
+    "available": "2024-10-16",
+    "current_source_id": "interim_source_25246920c45b66d9b332",
+    "prior_annual_source_id": "interim_comparable_annual_019a0a0e708994c7dc57",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -443.52,
+        "current_ytd": -283.705,
+        "prior_ytd": -320.731,
+        "value": -406.4939999999999
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -855.196,
+        "current_ytd": -180.523,
+        "prior_ytd": -760.808,
+        "value": -274.91100000000006
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -669.668,
+        "current_ytd": -266.514,
+        "prior_ytd": -529.474,
+        "value": -406.70799999999997
+      }
+    ],
+    "comparable_annual_override": true,
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary.",
+      "Cavendish/Fueling spin-off: EBIT is continuing-operation subtotal while net income/CFO include discontinued operations. Each metric uses the same scope across annual/currentYTD/priorYTD within this report; prior annual EBIT is explicitly the restated continuing-operation amount, first usable on this report publication date."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_514c54c92c3da2884450",
+    "ticker": "NEL.OL",
+    "period_end": "2025-03-31",
+    "available": "2025-04-30",
+    "current_source_id": "interim_source_c3f0cb690b9c064b9d5d",
+    "prior_annual_source_id": "interim_comparable_annual_1f9d1fca88acc997e860",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -389.428,
+        "current_ytd": -187.085,
+        "prior_ytd": -12.612,
+        "value": -563.9010000000001
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -244.342,
+        "current_ytd": -179.364,
+        "prior_ytd": -22.023,
+        "value": -401.683
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -241.581,
+        "current_ytd": -57.922,
+        "prior_ytd": -61.532,
+        "value": -237.971
+      }
+    ],
+    "comparable_annual_override": true,
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary.",
+      "Cavendish/Fueling spin-off: EBIT is continuing-operation subtotal while net income/CFO include discontinued operations. Each metric uses the same scope across annual/currentYTD/priorYTD within this report; prior annual EBIT is explicitly the restated continuing-operation amount, first usable on this report publication date."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_47bdde89be78d9ada1e3",
+    "ticker": "NEL.OL",
+    "period_end": "2025-06-30",
+    "available": "2025-07-16",
+    "current_source_id": "interim_source_9fc4b60dde748d168c49",
+    "prior_annual_source_id": "interim_comparable_annual_dd74218dea7bb3847134",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -389.428,
+        "current_ytd": -340.004,
+        "prior_ytd": -138.032,
+        "value": -591.4
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -244.342,
+        "current_ytd": -310.065,
+        "prior_ytd": -65.361,
+        "value": -489.04600000000005
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -241.581,
+        "current_ytd": -110.973,
+        "prior_ytd": -219.042,
+        "value": -133.51199999999997
+      }
+    ],
+    "comparable_annual_override": true,
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary.",
+      "Cavendish/Fueling spin-off: EBIT is continuing-operation subtotal while net income/CFO include discontinued operations. Each metric uses the same scope across annual/currentYTD/priorYTD within this report; prior annual EBIT is explicitly the restated continuing-operation amount, first usable on this report publication date."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_98269dcf54e94094616e",
+    "ticker": "NEL.OL",
+    "period_end": "2025-09-30",
+    "available": "2025-10-29",
+    "current_source_id": "interim_source_0013a283729d3100bcf0",
+    "prior_annual_source_id": "interim_comparable_annual_44e02d4b13c68909206e",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -389.428,
+        "current_ytd": -444.723,
+        "prior_ytd": -283.705,
+        "value": -550.4460000000001
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -244.342,
+        "current_ytd": -394.766,
+        "prior_ytd": -180.523,
+        "value": -458.58500000000004
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -241.581,
+        "current_ytd": -242.918,
+        "prior_ytd": -266.514,
+        "value": -217.985
+      }
+    ],
+    "comparable_annual_override": true,
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary.",
+      "Cavendish/Fueling spin-off: EBIT is continuing-operation subtotal while net income/CFO include discontinued operations. Each metric uses the same scope across annual/currentYTD/priorYTD within this report; prior annual EBIT is explicitly the restated continuing-operation amount, first usable on this report publication date."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_32e1e1f8096d3aa74cde",
+    "ticker": "NEL.OL",
+    "period_end": "2026-03-31",
+    "available": "2026-04-22",
+    "current_source_id": "interim_source_6ef1ebf26391273e49a2",
+    "prior_annual_source_id": "interim_comparable_annual_f2431e1f5bd9724287a0",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1364.667,
+        "current_ytd": -150.243,
+        "prior_ytd": -187.085,
+        "value": -1327.8249999999998
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1265.117,
+        "current_ytd": -143.719,
+        "prior_ytd": -179.364,
+        "value": -1229.472
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -252.795,
+        "current_ytd": -165.231,
+        "prior_ytd": -57.922,
+        "value": -360.1039999999999
+      }
+    ],
+    "comparable_annual_override": true,
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary.",
+      "Cavendish/Fueling spin-off: EBIT is continuing-operation subtotal while net income/CFO include discontinued operations. Each metric uses the same scope across annual/currentYTD/priorYTD within this report; prior annual EBIT is explicitly the restated continuing-operation amount, first usable on this report publication date."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_ec40ec44a0cde6878913",
+    "ticker": "NEL.OL",
+    "period_end": "2026-06-30",
+    "available": "2026-07-15",
+    "current_source_id": "interim_source_f07ccd1770187c8c16e2",
+    "prior_annual_source_id": "interim_comparable_annual_fbc88eb6ade82da4ecf5",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1364.667,
+        "current_ytd": -355.463,
+        "prior_ytd": -340.004,
+        "value": -1380.1259999999997
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1265.117,
+        "current_ytd": -332.29,
+        "prior_ytd": -310.065,
+        "value": -1287.3419999999999
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -252.795,
+        "current_ytd": -163.558,
+        "prior_ytd": -110.973,
+        "value": -305.37999999999994
+      }
+    ],
+    "comparable_annual_override": true,
+    "notes": [
+      "Original current-year and comparable prior-year YTD columns from same interim statements; all amounts converted NOK thousands to millions.",
+      "Net income uses total profit/loss for the period, including discontinued operations when present. Operating cash flow uses formal consolidated cash-flow statement, not alternative-performance summary.",
+      "Cavendish/Fueling spin-off: EBIT is continuing-operation subtotal while net income/CFO include discontinued operations. Each metric uses the same scope across annual/currentYTD/priorYTD within this report; prior annual EBIT is explicitly the restated continuing-operation amount, first usable on this report publication date."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_ff7f1ea7483200df3b67",
+    "ticker": "ORSTED.CO",
+    "period_end": "2021-06-30",
+    "available": "2021-08-12",
+    "current_source_id": "interim_source_f470b55533439b9c0e33",
+    "prior_annual_source_id": "eu_restore_c7cbfd157972f821ff3d",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 9010.0,
+        "current_ytd": 9170.0,
+        "prior_ytd": 7460.0,
+        "value": 10720.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 15537.0,
+        "current_ytd": 7142.0,
+        "prior_ytd": 3493.0,
+        "value": 19186.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 16466.0,
+        "current_ytd": 11234.0,
+        "prior_ytd": 7769.0,
+        "value": 19931.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used.",
+      "From 2021 \u00d8rsted reports IFRS only. Use the prior FY2020 IFRS EBIT, not the former business-performance measure. Group net profit includes the reported 2020 discontinued Oil & Gas result in the historical comparator; no continuing-only profit is substituted. Reported CFO excludes separately presented discontinued-operation cash flow consistently with the original FY2020 annual CFO subtotal."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_d767af8ceedf9cddcdc1",
+    "ticker": "ORSTED.CO",
+    "period_end": "2021-09-30",
+    "available": "2021-11-03",
+    "current_source_id": "interim_source_efa5452ac7eb56e82307",
+    "prior_annual_source_id": "eu_restore_c7cbfd157972f821ff3d",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 9010.0,
+        "current_ytd": 10215.0,
+        "prior_ytd": 7820.0,
+        "value": 11405.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 15537.0,
+        "current_ytd": 7629.0,
+        "prior_ytd": 14822.0,
+        "value": 8344.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 16466.0,
+        "current_ytd": 11480.0,
+        "prior_ytd": 9710.0,
+        "value": 18236.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used.",
+      "From 2021 \u00d8rsted reports IFRS only. Use the prior FY2020 IFRS EBIT, not the former business-performance measure. Group net profit includes the reported 2020 discontinued Oil & Gas result in the historical comparator; no continuing-only profit is substituted. Reported CFO excludes separately presented discontinued-operation cash flow consistently with the original FY2020 annual CFO subtotal."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_55b8b9883c337f08fcf2",
+    "ticker": "ORSTED.CO",
+    "period_end": "2022-03-31",
+    "available": "2022-04-29",
+    "current_source_id": "interim_source_a5be467a8eb1ae57a146",
+    "prior_annual_source_id": "eu_restore_0fa6cf66c50f55bd5c00",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 16195.0,
+        "current_ytd": 7301.0,
+        "prior_ytd": 2933.0,
+        "value": 20563.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 10887.0,
+        "current_ytd": 5701.0,
+        "prior_ytd": 1598.0,
+        "value": 14990.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 12148.0,
+        "current_ytd": -37.0,
+        "prior_ytd": 8087.0,
+        "value": 4024.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_8e08c91bfc1abea27c50",
+    "ticker": "ORSTED.CO",
+    "period_end": "2022-06-30",
+    "available": "2022-08-11",
+    "current_source_id": "interim_source_553a842fa92c959a7937",
+    "prior_annual_source_id": "eu_restore_0fa6cf66c50f55bd5c00",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 16195.0,
+        "current_ytd": 8612.0,
+        "prior_ytd": 9170.0,
+        "value": 15637.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 10887.0,
+        "current_ytd": 5970.0,
+        "prior_ytd": 7142.0,
+        "value": 9715.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 12148.0,
+        "current_ytd": 2318.0,
+        "prior_ytd": 11234.0,
+        "value": 3232.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_5d7015ed6bda01083012",
+    "ticker": "ORSTED.CO",
+    "period_end": "2022-09-30",
+    "available": "2022-11-03",
+    "current_source_id": "interim_source_d71a9952fb5061761f63",
+    "prior_annual_source_id": "eu_restore_0fa6cf66c50f55bd5c00",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 16195.0,
+        "current_ytd": 18399.0,
+        "prior_ytd": 10215.0,
+        "value": 24379.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 10887.0,
+        "current_ytd": 15325.0,
+        "prior_ytd": 7629.0,
+        "value": 18583.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 12148.0,
+        "current_ytd": -8991.0,
+        "prior_ytd": 11480.0,
+        "value": -8323.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_5ca02c82141080a6079c",
+    "ticker": "ORSTED.CO",
+    "period_end": "2023-03-31",
+    "available": "2023-05-03",
+    "current_source_id": "interim_source_158f8a8e3353922b9485",
+    "prior_annual_source_id": "eu_restore_d85983e4e30cc759e1d9",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 19774.0,
+        "current_ytd": 4472.0,
+        "prior_ytd": 7301.0,
+        "value": 16945.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 14996.0,
+        "current_ytd": 3202.0,
+        "prior_ytd": 5701.0,
+        "value": 12497.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 11924.0,
+        "current_ytd": 10119.0,
+        "prior_ytd": -37.0,
+        "value": 22080.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_5e4ec5f67b284aeae4f4",
+    "ticker": "ORSTED.CO",
+    "period_end": "2023-06-30",
+    "available": "2023-08-10",
+    "current_source_id": "interim_source_32587790b5ca300b9b1a",
+    "prior_annual_source_id": "eu_restore_d85983e4e30cc759e1d9",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 19774.0,
+        "current_ytd": 5338.0,
+        "prior_ytd": 8612.0,
+        "value": 16500.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 14996.0,
+        "current_ytd": 2664.0,
+        "prior_ytd": 5970.0,
+        "value": 11690.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 11924.0,
+        "current_ytd": 12566.0,
+        "prior_ytd": 2318.0,
+        "value": 22172.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_bd440df6813dbcfbf3a9",
+    "ticker": "ORSTED.CO",
+    "period_end": "2023-09-30",
+    "available": "2023-11-01",
+    "current_source_id": "interim_source_a89f4bbb69e570f4da63",
+    "prior_annual_source_id": "eu_restore_d85983e4e30cc759e1d9",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 19774.0,
+        "current_ytd": -16448.0,
+        "prior_ytd": 18399.0,
+        "value": -15073.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 14996.0,
+        "current_ytd": -19898.0,
+        "prior_ytd": 15325.0,
+        "value": -20227.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 11924.0,
+        "current_ytd": 22362.0,
+        "prior_ytd": -8991.0,
+        "value": 43277.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_b0bd5bc4c1f616fddc38",
+    "ticker": "ORSTED.CO",
+    "period_end": "2024-03-31",
+    "available": "2024-05-02",
+    "current_source_id": "interim_source_baf5f0e9f30512c88ee0",
+    "prior_annual_source_id": "eu_restore_38d943c7414245e30a56",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -17853.0,
+        "current_ytd": 5826.0,
+        "prior_ytd": 4472.0,
+        "value": -16499.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -20182.0,
+        "current_ytd": 2609.0,
+        "prior_ytd": 3202.0,
+        "value": -20775.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 28532.0,
+        "current_ytd": 3608.0,
+        "prior_ytd": 10119.0,
+        "value": 22021.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used.",
+      "The Q4 2023 accounting-presentation change nets revenue and related costs of failed own-use power contracts; note 1 states EBITDA is unaffected. EBIT, group net profit and CFO comparatives match the earlier reported totals, so no flow restatement override is required."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_98244bc0e89b3b6f5eec",
+    "ticker": "ORSTED.CO",
+    "period_end": "2024-06-30",
+    "available": "2024-08-15",
+    "current_source_id": "interim_source_d88eca791aff1068b24d",
+    "prior_annual_source_id": "eu_restore_38d943c7414245e30a56",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -17853.0,
+        "current_ytd": 5800.0,
+        "prior_ytd": 5338.0,
+        "value": -17391.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -20182.0,
+        "current_ytd": 931.0,
+        "prior_ytd": 2664.0,
+        "value": -21915.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 28532.0,
+        "current_ytd": 9689.0,
+        "prior_ytd": 12566.0,
+        "value": 25655.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used.",
+      "The Q4 2023 accounting-presentation change nets revenue and related costs of failed own-use power contracts; note 1 states EBITDA is unaffected. EBIT, group net profit and CFO comparatives match the earlier reported totals, so no flow restatement override is required."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_7676621f7001344520a9",
+    "ticker": "ORSTED.CO",
+    "period_end": "2024-09-30",
+    "available": "2024-11-05",
+    "current_source_id": "interim_source_d0cbac18e8ca5b86dc0a",
+    "prior_annual_source_id": "eu_restore_38d943c7414245e30a56",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -17853.0,
+        "current_ytd": 12516.0,
+        "prior_ytd": -16448.0,
+        "value": 11111.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -20182.0,
+        "current_ytd": 6100.0,
+        "prior_ytd": -19898.0,
+        "value": 5816.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 28532.0,
+        "current_ytd": 8050.0,
+        "prior_ytd": 22362.0,
+        "value": 14220.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used.",
+      "The Q4 2023 accounting-presentation change nets revenue and related costs of failed own-use power contracts; note 1 states EBITDA is unaffected. EBIT, group net profit and CFO comparatives match the earlier reported totals, so no flow restatement override is required."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_26fc8793e87668586d7f",
+    "ticker": "ORSTED.CO",
+    "period_end": "2025-03-31",
+    "available": "2025-05-07",
+    "current_source_id": "interim_source_4d1022964baa9d6767c3",
+    "prior_annual_source_id": "eu_restore_5051b36c70bbb3ab73f1",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 6171.0,
+        "current_ytd": 6588.0,
+        "prior_ytd": 5826.0,
+        "value": 6933.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 16.0,
+        "current_ytd": 4887.0,
+        "prior_ytd": 2609.0,
+        "value": 2294.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 18356.0,
+        "current_ytd": 634.0,
+        "prior_ytd": 3608.0,
+        "value": 15382.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used.",
+      "Restated FFO/rating-agency and sustainability statistics are not used; CFO is the IFRS cash-flow subtotal, not FFO."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_d18ab9f62e89fb793a98",
+    "ticker": "ORSTED.CO",
+    "period_end": "2025-06-30",
+    "available": "2025-08-11",
+    "current_source_id": "interim_source_7b7b21cf9c206c994e95",
+    "prior_annual_source_id": "eu_restore_5051b36c70bbb3ab73f1",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 6171.0,
+        "current_ytd": 10777.0,
+        "prior_ytd": 5800.0,
+        "value": 11148.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 16.0,
+        "current_ytd": 8238.0,
+        "prior_ytd": 931.0,
+        "value": 7323.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 18356.0,
+        "current_ytd": 7820.0,
+        "prior_ytd": 9689.0,
+        "value": 16487.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used.",
+      "Restated FFO/rating-agency and sustainability statistics are not used; CFO is the IFRS cash-flow subtotal, not FFO."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_8e904ecef0338b190784",
+    "ticker": "ORSTED.CO",
+    "period_end": "2025-09-30",
+    "available": "2025-11-05",
+    "current_source_id": "interim_source_32df24e918fcdc1f2978",
+    "prior_annual_source_id": "eu_restore_5051b36c70bbb3ab73f1",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 6171.0,
+        "current_ytd": 9661.0,
+        "prior_ytd": 12516.0,
+        "value": 3316.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 16.0,
+        "current_ytd": 6536.0,
+        "prior_ytd": 6100.0,
+        "value": 452.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 18356.0,
+        "current_ytd": 6654.0,
+        "prior_ytd": 8050.0,
+        "value": 16960.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used.",
+      "Restated FFO/rating-agency and sustainability statistics are not used; CFO is the IFRS cash-flow subtotal, not FFO."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_03a23e74e18047706dea",
+    "ticker": "ORSTED.CO",
+    "period_end": "2026-03-31",
+    "available": "2026-05-06",
+    "current_source_id": "interim_source_10f464ec25bc30f23f30",
+    "prior_annual_source_id": "eu_restore_7c47ef1c4b669a1b3524",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 8620.0,
+        "current_ytd": 5705.0,
+        "prior_ytd": 6588.0,
+        "value": 7737.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 3165.0,
+        "current_ytd": 2621.0,
+        "prior_ytd": 4887.0,
+        "value": 899.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 23741.0,
+        "current_ytd": 6537.0,
+        "prior_ytd": 634.0,
+        "value": 29644.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used.",
+      "Restated FFO/rating-agency and sustainability statistics are not used; CFO is the IFRS cash-flow subtotal, not FFO.",
+      "Management statement page 44 contains a 2025 year typo. Cover/end page 45 and scheduled results call on page 2 identify 6 May 2026; publication date uses that consistent 2026 evidence."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_e06f20c7a44a12b63e6e",
+    "ticker": "ORSTED.CO",
+    "period_end": "2026-06-30",
+    "available": "2026-08-13",
+    "current_source_id": "interim_source_950e42ece49d2cb87eeb",
+    "prior_annual_source_id": "eu_restore_7c47ef1c4b669a1b3524",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 8620.0,
+        "current_ytd": 7327.0,
+        "prior_ytd": 10777.0,
+        "value": 5170.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 3165.0,
+        "current_ytd": 3308.0,
+        "prior_ytd": 8238.0,
+        "value": -1765.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 23741.0,
+        "current_ytd": 9124.0,
+        "prior_ytd": 7820.0,
+        "value": 25045.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used.",
+      "Restated FFO/rating-agency and sustainability statistics are not used; CFO is the IFRS cash-flow subtotal, not FFO."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_d93d14a93ce5e754f78b",
+    "ticker": "SAF.PA",
+    "period_end": "2021-06-30",
+    "available": "2021-08-04",
+    "current_source_id": "interim_source_af873bb573d2d162100b",
+    "prior_annual_source_id": "eu_restore_d6182e067af4ab19f6db",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 927.0,
+        "current_ytd": 156.0,
+        "prior_ytd": 715.0,
+        "value": 368.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 386.0,
+        "current_ytd": 687.0,
+        "prior_ytd": -325.0,
+        "value": 1398.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 1866.0,
+        "current_ytd": 1030.0,
+        "prior_ytd": 1322.0,
+        "value": 1574.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported consolidated IFRS profit from operations, total group profit and operating cash flow after working-capital changes. No adjusted income or free-cash-flow substitution.",
+      "Prior YTD column matches the preceding original interim statement for all three flow metrics (where prior collected), no unresolved flow restatement identified.",
+      "Conservative evidenced complete interim-report availability date used; earlier preliminary financial releases may have contained the same values. No claim of earliest possible availability."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_93fd94416945e0e404e9",
+    "ticker": "SAF.PA",
+    "period_end": "2022-06-30",
+    "available": "2022-08-03",
+    "current_source_id": "interim_source_7337ba5df1debaf0a0da",
+    "prior_annual_source_id": "eu_restore_7624fdefde72949724ad",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 864.0,
+        "current_ytd": 876.0,
+        "prior_ytd": 156.0,
+        "value": 1584.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 68.0,
+        "current_ytd": -3747.0,
+        "prior_ytd": 687.0,
+        "value": -4366.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 2436.0,
+        "current_ytd": 2072.0,
+        "prior_ytd": 1030.0,
+        "value": 3478.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported consolidated IFRS profit from operations, total group profit and operating cash flow after working-capital changes. No adjusted income or free-cash-flow substitution.",
+      "Prior YTD column matches the preceding original interim statement for all three flow metrics (where prior collected), no unresolved flow restatement identified.",
+      "Conservative evidenced complete interim-report availability date used; earlier preliminary financial releases may have contained the same values. No claim of earliest possible availability.",
+      "Issuer availability press release has a stale template sentence referring to August4 2021; dated headline and official financial archive both establish August3 2022."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_1a8695dc44188915c880",
+    "ticker": "SAF.PA",
+    "period_end": "2023-06-30",
+    "available": "2023-07-27",
+    "current_source_id": "interim_source_388c961361c94e81aa59",
+    "prior_annual_source_id": "eu_restore_f36ea71b9b6232ac0eb5",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 2043.0,
+        "current_ytd": 1349.0,
+        "prior_ytd": 876.0,
+        "value": 2516.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -2426.0,
+        "current_ytd": 1905.0,
+        "prior_ytd": -3747.0,
+        "value": 3226.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 3545.0,
+        "current_ytd": 2063.0,
+        "prior_ytd": 2072.0,
+        "value": 3536.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported consolidated IFRS profit from operations, total group profit and operating cash flow after working-capital changes. No adjusted income or free-cash-flow substitution.",
+      "Prior YTD column matches the preceding original interim statement for all three flow metrics (where prior collected), no unresolved flow restatement identified."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_f38daf0e69fde9f2d154",
+    "ticker": "SAF.PA",
+    "period_end": "2024-06-30",
+    "available": "2024-08-05",
+    "current_source_id": "interim_source_140ccc6a46a7e4233156",
+    "prior_annual_source_id": "eu_restore_27db10d637fb020090d0",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 2798.0,
+        "current_ytd": 1944.0,
+        "prior_ytd": 1349.0,
+        "value": 3393.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 3520.0,
+        "current_ytd": 106.0,
+        "prior_ytd": 1905.0,
+        "value": 1721.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 4270.0,
+        "current_ytd": 2220.0,
+        "prior_ytd": 2063.0,
+        "value": 4427.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported consolidated IFRS profit from operations, total group profit and operating cash flow after working-capital changes. No adjusted income or free-cash-flow substitution.",
+      "Prior YTD column matches the preceding original interim statement for all three flow metrics (where prior collected), no unresolved flow restatement identified.",
+      "Conservative evidenced complete interim-report availability date used; earlier preliminary financial releases may have contained the same values. No claim of earliest possible availability."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_75c8ee47cf5fc1dd78cb",
+    "ticker": "SAF.PA",
+    "period_end": "2025-06-30",
+    "available": "2025-08-05",
+    "current_source_id": "interim_source_396ed87906d7ca6f64bf",
+    "prior_annual_source_id": "eu_restore_937d1f1f8c5db07c0ee1",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 4192.0,
+        "current_ytd": 2431.0,
+        "prior_ytd": 1944.0,
+        "value": 4679.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -575.0,
+        "current_ytd": 5112.0,
+        "prior_ytd": 106.0,
+        "value": 4431.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 4733.0,
+        "current_ytd": 2622.0,
+        "prior_ytd": 2220.0,
+        "value": 5135.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported consolidated IFRS profit from operations, total group profit and operating cash flow after working-capital changes. No adjusted income or free-cash-flow substitution.",
+      "Prior YTD column matches the preceding original interim statement for all three flow metrics (where prior collected), no unresolved flow restatement identified.",
+      "Conservative evidenced complete interim-report availability date used; earlier preliminary financial releases may have contained the same values. No claim of earliest possible availability."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_48b2b3cee424934d0669",
+    "ticker": "SAF.PA",
+    "period_end": "2026-06-30",
+    "available": "2026-07-28",
+    "current_source_id": "interim_source_03d732c13f4d64b7cf08",
+    "prior_annual_source_id": "eu_restore_e5b6c7ac03832ed91cfc",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 4308.0,
+        "current_ytd": 2459.0,
+        "prior_ytd": 2431.0,
+        "value": 4336.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 7286.0,
+        "current_ytd": 1800.0,
+        "prior_ytd": 5112.0,
+        "value": 3974.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 5721.0,
+        "current_ytd": 3596.0,
+        "prior_ytd": 2622.0,
+        "value": 6695.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Reported consolidated IFRS profit from operations, total group profit and operating cash flow after working-capital changes. No adjusted income or free-cash-flow substitution.",
+      "Prior YTD column matches the preceding original interim statement for all three flow metrics (where prior collected), no unresolved flow restatement identified."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_9e308bea273b1bc6175d",
+    "ticker": "VWS.CO",
+    "period_end": "2021-06-30",
+    "available": "2021-08-11",
+    "current_source_id": "interim_source_c617eead0ffc16287fe5",
+    "prior_annual_source_id": "eu_restore_793a148a59222f2962a7",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 698.0,
+        "current_ytd": 30.0,
+        "prior_ytd": -78.0,
+        "value": 806.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 771.0,
+        "current_ytd": 33.0,
+        "prior_ytd": -85.0,
+        "value": 889.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 743.0,
+        "current_ytd": -386.0,
+        "prior_ytd": -709.0,
+        "value": 1066.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_008e46efda4fd3b34414",
+    "ticker": "VWS.CO",
+    "period_end": "2021-09-30",
+    "available": "2021-11-03",
+    "current_source_id": "interim_source_f4a09ab9551fdec3ae83",
+    "prior_annual_source_id": "eu_restore_793a148a59222f2962a7",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 698.0,
+        "current_ytd": 236.0,
+        "prior_ytd": 340.0,
+        "value": 594.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 771.0,
+        "current_ytd": 156.0,
+        "prior_ytd": 205.0,
+        "value": 722.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 743.0,
+        "current_ytd": 137.0,
+        "prior_ytd": -21.0,
+        "value": 901.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_af581350dfd79fcb026f",
+    "ticker": "VWS.CO",
+    "period_end": "2022-03-31",
+    "available": "2022-05-01",
+    "current_source_id": "interim_source_70f401ab45b0415a80bf",
+    "prior_annual_source_id": "interim_comparable_annual_191ad19133a84e6ccef8",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 290.0,
+        "current_ytd": -894.0,
+        "prior_ytd": -78.0,
+        "value": -526.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 144.0,
+        "current_ytd": -765.0,
+        "prior_ytd": -64.0,
+        "value": -557.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 956.0,
+        "current_ytd": -928.0,
+        "prior_ytd": -754.0,
+        "value": 782.0
+      }
+    ],
+    "comparable_annual_override": true,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used.",
+      "Vestas adopted expense accounting for configuration/customisation costs in cloud computing arrangements from 1 January 2022. FY2021 and 2021 YTD comparatives were restated. Contemporary page 4 FY2021 supplies all three restated annual flows: EBIT 290, group profit 144, CFO 956. The original FY2021 annual values (322/176/996) must not be combined with these restated YTD columns. IAS 37 was applied by cumulative-effect opening-equity adjustment without restating comparatives; no unreported flow adjustment is invented."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_4a8ee3a9c1a3e69216e1",
+    "ticker": "VWS.CO",
+    "period_end": "2022-06-30",
+    "available": "2022-08-10",
+    "current_source_id": "interim_source_886f5a9e6c47fd05dfa5",
+    "prior_annual_source_id": "interim_comparable_annual_b0dcc6097ce3d52f21d8",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 290.0,
+        "current_ytd": -1041.0,
+        "prior_ytd": 16.0,
+        "value": -767.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 144.0,
+        "current_ytd": -884.0,
+        "prior_ytd": 19.0,
+        "value": -759.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 956.0,
+        "current_ytd": -1116.0,
+        "prior_ytd": -402.0,
+        "value": 242.0
+      }
+    ],
+    "comparable_annual_override": true,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used.",
+      "Vestas adopted expense accounting for configuration/customisation costs in cloud computing arrangements from 1 January 2022. FY2021 and 2021 YTD comparatives were restated. Contemporary page 4 FY2021 supplies all three restated annual flows: EBIT 290, group profit 144, CFO 956. The original FY2021 annual values (322/176/996) must not be combined with these restated YTD columns. IAS 37 was applied by cumulative-effect opening-equity adjustment without restating comparatives; no unreported flow adjustment is invented."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_ff326d5f5e601e717948",
+    "ticker": "VWS.CO",
+    "period_end": "2022-09-30",
+    "available": "2022-11-02",
+    "current_source_id": "interim_source_3d1b18cc34efef4b3cac",
+    "prior_annual_source_id": "interim_comparable_annual_93b4708ffb57e9faae64",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 290.0,
+        "current_ytd": -1155.0,
+        "prior_ytd": 215.0,
+        "value": -1080.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 144.0,
+        "current_ytd": -1031.0,
+        "prior_ytd": 135.0,
+        "value": -1022.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 956.0,
+        "current_ytd": -1730.0,
+        "prior_ytd": 111.0,
+        "value": -885.0
+      }
+    ],
+    "comparable_annual_override": true,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used.",
+      "Vestas adopted expense accounting for configuration/customisation costs in cloud computing arrangements from 1 January 2022. FY2021 and 2021 YTD comparatives were restated. Contemporary page 4 FY2021 supplies all three restated annual flows: EBIT 290, group profit 144, CFO 956. The original FY2021 annual values (322/176/996) must not be combined with these restated YTD columns. IAS 37 was applied by cumulative-effect opening-equity adjustment without restating comparatives; no unreported flow adjustment is invented."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_fcc7581a31ed33a96f2f",
+    "ticker": "VWS.CO",
+    "period_end": "2023-03-31",
+    "available": "2023-05-10",
+    "current_source_id": "interim_source_5bd0bebf7c5565a513da",
+    "prior_annual_source_id": "eu_restore_7f64f5f3bd2d82daef0f",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1596.0,
+        "current_ytd": 66.0,
+        "prior_ytd": -894.0,
+        "value": -636.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1572.0,
+        "current_ytd": 16.0,
+        "prior_ytd": -765.0,
+        "value": -791.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -195.0,
+        "current_ytd": -974.0,
+        "prior_ytd": -928.0,
+        "value": -241.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_2a6463b16f6e806026ef",
+    "ticker": "VWS.CO",
+    "period_end": "2023-06-30",
+    "available": "2023-08-09",
+    "current_source_id": "interim_source_c7d44f325f496839ceb1",
+    "prior_annual_source_id": "eu_restore_7f64f5f3bd2d82daef0f",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1596.0,
+        "current_ytd": -2.0,
+        "prior_ytd": -1041.0,
+        "value": -557.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1572.0,
+        "current_ytd": -99.0,
+        "prior_ytd": -884.0,
+        "value": -787.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -195.0,
+        "current_ytd": -926.0,
+        "prior_ytd": -1116.0,
+        "value": -5.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_5bb3530012b4e5183424",
+    "ticker": "VWS.CO",
+    "period_end": "2023-09-30",
+    "available": "2023-11-08",
+    "current_source_id": "interim_source_b763a7f0bc17c954389c",
+    "prior_annual_source_id": "eu_restore_7f64f5f3bd2d82daef0f",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1596.0,
+        "current_ytd": 67.0,
+        "prior_ytd": -1155.0,
+        "value": -374.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -1572.0,
+        "current_ytd": -71.0,
+        "prior_ytd": -1031.0,
+        "value": -612.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": -195.0,
+        "current_ytd": -957.0,
+        "prior_ytd": -1730.0,
+        "value": 578.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_996eccbcd61ebef76a0f",
+    "ticker": "VWS.CO",
+    "period_end": "2024-03-31",
+    "available": "2024-05-02",
+    "current_source_id": "interim_source_7e4bd3ca90ba1d051949",
+    "prior_annual_source_id": "eu_restore_32ecd1f0c03fb8e5b4c7",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 292.0,
+        "current_ytd": -67.0,
+        "prior_ytd": 66.0,
+        "value": 159.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 78.0,
+        "current_ytd": -75.0,
+        "prior_ytd": 16.0,
+        "value": -13.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 1027.0,
+        "current_ytd": -755.0,
+        "prior_ytd": -974.0,
+        "value": 1246.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_c7e36abb678d64782295",
+    "ticker": "VWS.CO",
+    "period_end": "2024-06-30",
+    "available": "2024-08-14",
+    "current_source_id": "interim_source_6d3627bebd855bfa2fb7",
+    "prior_annual_source_id": "eu_restore_32ecd1f0c03fb8e5b4c7",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 292.0,
+        "current_ytd": -252.0,
+        "prior_ytd": -2.0,
+        "value": 42.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 78.0,
+        "current_ytd": -231.0,
+        "prior_ytd": -99.0,
+        "value": -54.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 1027.0,
+        "current_ytd": 76.0,
+        "prior_ytd": -926.0,
+        "value": 2029.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_49cf02c143464f181945",
+    "ticker": "VWS.CO",
+    "period_end": "2024-09-30",
+    "available": "2024-11-05",
+    "current_source_id": "interim_source_12819c37d6fe910f0ad2",
+    "prior_annual_source_id": "eu_restore_32ecd1f0c03fb8e5b4c7",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 292.0,
+        "current_ytd": -21.0,
+        "prior_ytd": 67.0,
+        "value": 204.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 78.0,
+        "current_ytd": -104.0,
+        "prior_ytd": -71.0,
+        "value": 45.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 1027.0,
+        "current_ytd": 165.0,
+        "prior_ytd": -957.0,
+        "value": 2149.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_065ead5a70d08e960512",
+    "ticker": "VWS.CO",
+    "period_end": "2025-03-31",
+    "available": "2025-05-06",
+    "current_source_id": "interim_source_89d6dd86ca4baca00421",
+    "prior_annual_source_id": "eu_restore_c2417f185ba1e54efcea",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 794.0,
+        "current_ytd": 20.0,
+        "prior_ytd": -67.0,
+        "value": 881.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 494.0,
+        "current_ytd": 5.0,
+        "prior_ytd": -75.0,
+        "value": 574.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 2332.0,
+        "current_ytd": 28.0,
+        "prior_ytd": -755.0,
+        "value": 3115.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_9faeec77c0ea5b4565a0",
+    "ticker": "VWS.CO",
+    "period_end": "2025-06-30",
+    "available": "2025-08-13",
+    "current_source_id": "interim_source_5a642ee6ad3bab653add",
+    "prior_annual_source_id": "eu_restore_c2417f185ba1e54efcea",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 794.0,
+        "current_ytd": 77.0,
+        "prior_ytd": -252.0,
+        "value": 1123.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 494.0,
+        "current_ytd": 39.0,
+        "prior_ytd": -231.0,
+        "value": 764.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 2332.0,
+        "current_ytd": 148.0,
+        "prior_ytd": 76.0,
+        "value": 2404.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_7a842a99e8ff3d996b10",
+    "ticker": "VWS.CO",
+    "period_end": "2025-09-30",
+    "available": "2025-11-05",
+    "current_source_id": "interim_source_2c65d8025a719f616786",
+    "prior_annual_source_id": "eu_restore_c2417f185ba1e54efcea",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 794.0,
+        "current_ytd": 491.0,
+        "prior_ytd": -21.0,
+        "value": 1306.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 494.0,
+        "current_ytd": 343.0,
+        "prior_ytd": -104.0,
+        "value": 941.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 2332.0,
+        "current_ytd": 988.0,
+        "prior_ytd": 165.0,
+        "value": 3155.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_260e1ce357180078e96d",
+    "ticker": "VWS.CO",
+    "period_end": "2026-03-31",
+    "available": "2026-05-06",
+    "current_source_id": "interim_source_59f4e32c6ac3f9519b89",
+    "prior_annual_source_id": "eu_restore_8d2215521e586a9a7646",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 1015.0,
+        "current_ytd": 92.0,
+        "prior_ytd": 20.0,
+        "value": 1087.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 780.0,
+        "current_ytd": 70.0,
+        "prior_ytd": 5.0,
+        "value": 845.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 2286.0,
+        "current_ytd": -289.0,
+        "prior_ytd": 28.0,
+        "value": 1969.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used."
+    ]
+  },
+  {
+    "observation_id": "eu_ttm_d00faf740065b069e5af",
+    "ticker": "VWS.CO",
+    "period_end": "2026-06-30",
+    "available": "2026-08-12",
+    "current_source_id": "interim_source_e962df00eb81db3d23a1",
+    "prior_annual_source_id": "eu_restore_8d2215521e586a9a7646",
+    "calculations": [
+      {
+        "field": "operating_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 1015.0,
+        "current_ytd": 511.0,
+        "prior_ytd": 77.0,
+        "value": 1449.0
+      },
+      {
+        "field": "net_income",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 780.0,
+        "current_ytd": 355.0,
+        "prior_ytd": 39.0,
+        "value": 1096.0
+      },
+      {
+        "field": "operating_cash_flow",
+        "method": "prior annual + current YTD - comparative prior YTD",
+        "prior_annual": 2286.0,
+        "current_ytd": 130.0,
+        "prior_ytd": 148.0,
+        "value": 2268.0
+      }
+    ],
+    "comparable_annual_override": false,
+    "notes": [
+      "Original issuer consolidated interim statement. EBIT is after special items and impairments; net income is total group profit, including non-controlling interests. CFO is the reported operating cash-flow subtotal. YTD columns, not stand-alone quarter figures, are used."
+    ]
+  }
+]

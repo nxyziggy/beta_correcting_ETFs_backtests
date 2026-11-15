@@ -1,0 +1,65 @@
+Source: https://cdn.orsted.com/-/media/q3-2022/financial-interim-report-q3-2022.pdf
+Source ID: ORSTED2022Q3
+Publication date: 2022-11-03
+Original issuer PDF; extracted table context, not reformatted financial data.
+
+=== Original PDF page 20 ===
+Interim financial report  First nine months 2022                                                                                                                                                             Consolidated financial statements
+
+Note    Income statement, DKKm                                                                     9M 2022             9M 2021         Statement of comprehensive income, DKKm                                                             9M 2022             9M 2021
+3       Revenue                                                                                      96,598              47,007        Profit (loss) for the period                                                                           15,325             7,629
+        Cost of sales                                                                               (72,339)            (31,099)       Other comprehensive income:
+        Employee costs                                                                                (3,801)             (3,125)      Value adjustments for the period                                                                      (71,736)          (36,733)
+        Share of profit (loss) in associates and joint ventures                                           44                  55       Value adjustments transferred to income statement                                                      22,854              2,977
+4       Other operating income                                                                        13,192               7,143       Value adjustments transferred to balance sheet                                                            (118)              (86)
+4       Other operating expenses                                                                     (3,708)               (239)       Exchange rate adjustments:
+        Operating profit (loss) before depreciation,                                                                                   Exchange rate adjustments relating to net investments in foreign enterprises                             1,622             3,846
+        amortisation, and impairment losses (EBITDA)                                                 25,361              16,043        Value adjustment of net investment hedges                                                              (1,970)           (2,244)
+        Amortisation, depreciation, and impairment losses on                                                                           Value adjustments and hedges transferred to income statement                                              676                   -
+        intangible assets, and property, plant, and equipment                                        (6,962)             (5,828)
+        Operating profit (loss) (EBIT)                                                               18,399              10,215        Tax:
+        Gain (loss) on divestment of enterprises                                                         299                 (58)      Tax on hedging instruments                                                                              6,523              6,782
+        Profit (loss) before tax                                                                      17,149               8,916       Other comprehensive income                                                                           (41,452)           (25,471)
+9       Tax on profit (loss) for the period                                                           (1,824)             (1,287)      Total comprehensive income                                                                            (26,127)          (17,842)
+        Profit (loss) for the period                                                                  15,325              7,629        Comprehensive income for the period is attributable to:
+        Profit (loss) for the period is attributable to:                                                                               Shareholders in Ørsted A/S                                                                            (26,431)           (18,517)
+        Shareholders in Ørsted A/S                                                                    15,037              7,074        Interest payments and costs, hybrid capital owners of Ørsted A/S                                          277                575
+          programme is less than 0.1 % of the share capital.                                                                           Value adjustments for the period in the first nine
+                                                                                                                                       months of 2022 are mainly due to losses on power
+                                                                                                                                       hedges as a consequence of the increase in power
+
+=== Original PDF page 22 ===
+Interim financial report  First nine months 2022                                                                                                                                                          Consolidated financial statements
+
+                                                                          30 September        31 December      30 September                                                                                     30 September        31 December      30 September
+Note    Assets, DKKm                                                                 2022               2021              2021       Note     Equity and liabilities, DKKm                                                 2022              2021               2021
+        Intangible assets                                                           3,510              1,543             1,330                Share capital                                                               4,204             4,204             4,204
+        Contract assets                                                              1,344                  2                 2               Other payables                                                               5,412            4,682              1,276
+        Trade receivables                                                           11,091             9,565              6,271               Non-current liabilities                                                  156,857             97,788            86,407
+        Other receivables                                                          29,479             14,815             7,484                Provisions                                                                    828               764                533
+        Current assets                                                           139,502             86,829             89,215                Trade payables                                                             20,222            20,231             15,182
+        Assets classified as held for sale                                           1,257             1,335             1,353                Tax equity liabilities                                                      1,847              1,206             1,434
+        Assets                                                                   359,758           270,385            261,892                 Other payables                                                              8,858             4,768              4,832
+                                                                                                                                     9        Income tax                                                                  5,076              5,021             4,869
+                                                                                                                                              Current liabilities                                                      148,603             86,968            95,660
+Assets and liabilities classified as held for sale                                                                                            Liabilities                                                             305,460             184,756           182,067
+At 30 September 2022 and at 30 September 2021,                                                                                                Liabilities relating to assets classified
+assets and related liabilities held for sale comprised                                                                                        as held for sale                                                              521               492                675
+our oil pipe system in Denmark, which is an activity                                                                                          Equity and liabilities                                                   359,758           270,385            261,892
+
+=== Original PDF page 24 ===
+Interim financial report  First nine months 2022                                                                                                                                                                Consolidated financial statements
+
+Note    Statement of cash flows, DKKm                            9M 2022            9M 2021           Q3 2022            Q3 2021         Note    Statement of cash flows, DKKm                            9M 2022            9M 2021           Q3 2022            Q3 2021
+        Operating profit (loss) before                                                                                                           Proceeds from raising of loans                             34,438             15,723            14,075              8,858
+        depreciation, amortisation, and                                                                                                          Instalments on loans                                      (22,793)            (1,309)           (8,897)                20
+                                                                                                                                                 beginning of the period                                      8,614             5,210             4,976               7,551
+        Cash flows from operating activities                       (8,991)            11,480           (11,309)               246                Total net change in cash and cash
+        Purchase of intangible assets and                                                                                                        equivalents                                                 (1,327)              772              2,397            (1,387)
+        Sale/maturation of securities                               2,394              2,210               927                564                                                                            Our supplementary statement of gross and net
+        Change in other non-current assets                                                                                                                                                                   investments appears from note 6 ’Gross and net
+                                                                         2                55                 20                30                                                                            investments’ and free cash flow (FCF) from note 2
+        Transactions with associates and                                                                                                                                                                     ’Segment information’.
+        Dividends received and capital reduction                        16                28                 (6)                  -                                                                          ’Cash’ according to the balance sheet as at
+        Cash flows from investing activities                       (1,972)          (20,559)             8,850            (8,696)                                                                            30 September 2022 includes  ’Cash, not available
+                                                                                                                                                                                                             for use’ amounting to DKK 2,139 million and ’Bank

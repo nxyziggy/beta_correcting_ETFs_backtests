@@ -1,0 +1,434 @@
+[
+  {
+    "document_id": "AMS2020",
+    "url": "https://ams-osram.com/documents/20143/3749114/ENG%2BGesch%C3%A4ftsbericht%2Bams%2B2020%2BDS.pdf/63deea0f-89c9-04c4-5713-be8452540734?t=1631521897905",
+    "publication_date": "2021-04-30",
+    "publication_date_source": "https://ams-osram.com/news/press-releases/annual-report-2020",
+    "pdf_pages_one_based": {
+      "income": 45,
+      "balance": 46,
+      "cashflow": 46
+    },
+    "financial_facts": {
+      "operating_income": 138,
+      "net_income": -87,
+      "operating_cash_flow": 702,
+      "total_assets": 9963,
+      "current_liabilities": 3052
+    },
+    "currency": "EUR",
+    "unit": "million",
+    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/AMS2020.pdf",
+    "sha256": "a089d301839013111fa417c26e0e7e632e720b971faeb6a2087fcfd2594fa07c",
+    "retrieval": "downloaded issuer PDF",
+    "source_class": "primary_original_annual"
+  },
+  {
+    "document_id": "AMS2021",
+    "url": "https://ams-osram.com/documents/4390887/7186639/ams+OSRAM+ENG+Annual+Report+2021.pdf/bd499ed8-8ad9-ffe9-ea5a-00a4d3d080f2?t=1651243968659",
+    "publication_date": "2022-04-29",
+    "publication_date_source": "https://ams-osram.com/documents/20143/6675042/Ad-hoc_2022_eng%2BAnnual%2BReport%2B2021%2Bf.pdf/4365c9af-9d21-d9e2-209b-fb6ef003633b?t=1651248650181",
+    "pdf_pages_one_based": {
+      "income": 51,
+      "balance": 52,
+      "cashflow": 52
+    },
+    "financial_facts": {
+      "operating_income": 197,
+      "net_income": -32,
+      "operating_cash_flow": 792,
+      "total_assets": 9644,
+      "current_liabilities": 3001
+    },
+    "currency": "EUR",
+    "unit": "million",
+    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/AMS2021.pdf",
+    "sha256": "f11acf3c9ff2d27d4ddf1356b5dd15a565fee02617feba9c369760d71518b433",
+    "retrieval": "downloaded issuer PDF",
+    "source_class": "primary_original_annual"
+  },
+  {
+    "document_id": "AMS2022",
+    "url": "https://ams-osram.com/documents/4390887/7195804/ams+OSRAM+ENG+Annual+Report+2022.pdf/41e30a76-ed35-2d2c-7933-6f1512453b17?t=1682601137245",
+    "publication_date": "2023-04-27",
+    "publication_date_source": "https://ams-osram.com/news/press-releases/annual-report-2022",
+    "pdf_pages_one_based": {
+      "income": 69,
+      "balance": 70,
+      "cashflow": 71
+    },
+    "financial_facts": {
+      "operating_income": -161,
+      "net_income": -444,
+      "operating_cash_flow": 599,
+      "total_assets": 8832,
+      "current_liabilities": 2717
+    },
+    "currency": "EUR",
+    "unit": "million",
+    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/AMS2022.pdf",
+    "sha256": "ae95e41b9731663bb633e9703fe99d3aef8959159c000bb62dc8e3393c7d80f8",
+    "retrieval": "downloaded issuer PDF",
+    "source_class": "primary_original_annual"
+  },
+  {
+    "document_id": "AMS2023",
+    "url": "https://ams-osram.com/documents/4390887/4391329/ams%20OSRAM%20EN%20Annual%20Report%202023.pdf/d73eb460-5fc0-093b-159f-d307d804aca1?t=1713257897189",
+    "publication_date": "2024-04-26",
+    "publication_date_source": "https://ams-osram.com/news/press-releases/annual-report-2023",
+    "pdf_pages_one_based": {
+      "income": 81,
+      "balance": 82,
+      "cashflow": 83
+    },
+    "financial_facts": {
+      "operating_income": -1430,
+      "net_income": -1613,
+      "operating_cash_flow": 674,
+      "total_assets": 7401,
+      "current_liabilities": 2455
+    },
+    "currency": "EUR",
+    "unit": "million",
+    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/AMS2023.pdf",
+    "sha256": "e7d1151a77222d86c429fd1c59b656e2da2058ffd35559a76af151d93cd0c700",
+    "retrieval": "downloaded issuer PDF",
+    "source_class": "primary_original_annual"
+  },
+  {
+    "document_id": "AMS2024",
+    "url": "https://ams-osram.com/documents/d/ams-osram/annualreport2024",
+    "publication_date": "2025-03-21",
+    "publication_date_source": "https://ams-osram.com/news/press-releases/annual-report-2024",
+    "pdf_pages_one_based": {
+      "income": 147,
+      "balance": 148,
+      "cashflow": 149
+    },
+    "financial_facts": {
+      "operating_income": -547,
+      "net_income": -785,
+      "operating_cash_flow": 435,
+      "total_assets": 6903,
+      "current_liabilities": 2514
+    },
+    "currency": "EUR",
+    "unit": "million",
+    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/AMS2024.pdf",
+    "sha256": "25bf6b3ec184b8806169880c7519ab503fa5cb3dd8f006eda76f6ee0e5e7996a",
+    "retrieval": "downloaded issuer PDF",
+    "source_class": "primary_original_annual"
+  },
+  {
+    "document_id": "AMS2025",
+    "url": "https://ams-osram.com/documents/d/ams-osram/eng-geschafts-und-nachhaltigkeitsbericht-ams-osram-2025",
+    "publication_date": "2026-03-20",
+    "publication_date_source": "https://ams-osram.com/news/press-releases/annual-report-2025",
+    "pdf_pages_one_based": {
+      "income": 137,
+      "balance": 138,
+      "cashflow": 139
+    },
+    "financial_facts": {
+      "operating_income": 102,
+      "net_income": -129,
+      "operating_cash_flow": 237,
+      "total_assets": 6812,
+      "current_liabilities": 2028
+    },
+    "currency": "EUR",
+    "unit": "million",
+    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/AMS2025.pdf",
+    "sha256": "edc3a0e45adbf198d67639c52e9a425d986f3a16a45b7981fc50535166e97167",
+    "retrieval": "downloaded issuer PDF",
+    "source_class": "primary_original_annual"
+  },
+  {
+    "document_id": "ENR2020",
+    "url": "https://assets.siemens-energy.com/dam/aacb6500-05f7-4223-95a7-b03500a83386/2020-12-07-Siemens-Energy-AG-Annual-Report-2020-pdf_Original%20file.pdf",
+    "publication_date": "2020-12-07",
+    "publication_date_source": "https://www.siemens-energy.com/global/en/home/investor-relations/publications-ad-hoc.html",
+    "pdf_pages_one_based": {
+      "income": 82,
+      "balance": 84,
+      "cashflow": 85
+    },
+    "financial_facts": {
+      "operating_income": -1991,
+      "net_income": -1859,
+      "operating_cash_flow": 1601,
+      "total_assets": 43032,
+      "current_liabilities": 21669
+    },
+    "currency": "EUR",
+    "unit": "million",
+    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/ENR2020.pdf",
+    "sha256": "6a3514f033c84dcd162363d5245341c80143739de3aa1151b37af86cd4706e7e",
+    "retrieval": "downloaded issuer PDF",
+    "source_class": "primary_original_annual"
+  },
+  {
+    "document_id": "ENR2021",
+    "url": "https://assets.siemens-energy.com/dam/8645bda3-d1f6-4bd3-bdb8-b03400a3ffc5/2021-12-07-Siemens-Energy-AG-Annual-Report-2021-pdf_Original%20file.pdf",
+    "publication_date": "2021-12-07",
+    "publication_date_source": "https://www.siemens-energy.com/global/en/home/investor-relations/publications-ad-hoc.html",
+    "pdf_pages_one_based": {
+      "income": 64,
+      "balance": 66,
+      "cashflow": 67
+    },
+    "financial_facts": {
+      "operating_income": -357,
+      "net_income": -560,
+      "operating_cash_flow": 1946,
+      "total_assets": 44141,
+      "current_liabilities": 22602
+    },
+    "currency": "EUR",
+    "unit": "million",
+    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/ENR2021.pdf",
+    "sha256": "db14119f6237395c6d8f8586b9515fe7f71088dbd0204bf0befd6fe27115a51c",
+    "retrieval": "downloaded issuer PDF",
+    "source_class": "primary_original_annual"
+  },
+  {
+    "document_id": "ENR2022",
+    "url": "https://assets.siemens-energy.com/dam/a53b116d-b976-47cb-b9c5-b037009bb85c/2022-12-12-Siemens-Energy-AG-Annual-Report-2022-pdf_Original%20file.pdf",
+    "publication_date": "2022-12-12",
+    "publication_date_source": "https://www.siemens-energy.com/global/en/home/investor-relations/publications-ad-hoc.html",
+    "pdf_pages_one_based": {
+      "income": 65,
+      "balance": 67,
+      "cashflow": 68
+    },
+    "financial_facts": {
+      "operating_income": -489,
+      "net_income": -647,
+      "operating_cash_flow": 2218,
+      "total_assets": 51173,
+      "current_liabilities": 27941
+    },
+    "currency": "EUR",
+    "unit": "million",
+    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/ENR2022.pdf",
+    "sha256": "51e95a6faf90f5018cca3a99334b2d6f6967df1f2a2b69b909ac6b13abadf85b",
+    "retrieval": "downloaded issuer PDF",
+    "source_class": "primary_original_annual"
+  },
+  {
+    "document_id": "ENR2023",
+    "url": "https://assets.siemens-energy.com/dam/41a02640-9d16-4610-af08-b0ce00e67556/2023-12-06-Siemens-Energy-AG-Annual-Report-2023-pdf_Original%20file.pdf",
+    "publication_date": "2023-12-06",
+    "publication_date_source": "https://www.siemens-energy.com/global/en/home/investor-relations/publications-ad-hoc.html",
+    "pdf_pages_one_based": {
+      "income": 86,
+      "balance": 88,
+      "cashflow": 89
+    },
+    "financial_facts": {
+      "operating_income": -3257,
+      "net_income": -4588,
+      "operating_cash_flow": 1622,
+      "total_assets": 47907,
+      "current_liabilities": 31599
+    },
+    "currency": "EUR",
+    "unit": "million",
+    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/ENR2023.pdf",
+    "sha256": "928c3df2a228bd68bb8f3aa95be262dc0ca4656cc6257b4074a00f40aa19ca63",
+    "retrieval": "downloaded issuer PDF",
+    "source_class": "primary_original_annual"
+  },
+  {
+    "document_id": "ENR2024",
+    "url": "https://assets.siemens-energy.com/dam/6974f976-432a-4ed9-ba61-b24301167dc8/A-Siemens-Energy-Annual-Report-2024-pdf_Original%20file.pdf",
+    "publication_date": "2024-12-12",
+    "publication_date_source": "https://www.siemens-energy.com/global/en/home/investor-relations/publications-ad-hoc.html",
+    "pdf_pages_one_based": {
+      "income": 87,
+      "balance": 89,
+      "cashflow": 90
+    },
+    "financial_facts": {
+      "operating_income": 2125,
+      "net_income": 1335,
+      "operating_cash_flow": 2889,
+      "total_assets": 50874,
+      "current_liabilities": 33471
+    },
+    "currency": "EUR",
+    "unit": "million",
+    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/ENR2024.pdf",
+    "sha256": "b4802b2310ed9b29276eeed55b99a354700feee6c47bde5d124df322f37fc4a1",
+    "retrieval": "downloaded issuer PDF",
+    "source_class": "primary_original_annual"
+  },
+  {
+    "document_id": "ENR2025",
+    "url": "https://assets.siemens-energy.com/dam/32b27e9a-af91-4915-8b51-b3af012d0d98/A-Siemens_Energy_Annual_Report_2025-pdf_Original%20file.pdf",
+    "publication_date": "2025-12-11",
+    "publication_date_source": "https://www.siemens-energy.com/global/en/home/investor-relations/publications-ad-hoc.html",
+    "pdf_pages_one_based": {
+      "income": 148,
+      "balance": 150,
+      "cashflow": 151
+    },
+    "financial_facts": {
+      "operating_income": 2149,
+      "net_income": 1685,
+      "operating_cash_flow": 5821,
+      "total_assets": 56637,
+      "current_liabilities": 38491
+    },
+    "currency": "EUR",
+    "unit": "million",
+    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/ENR2025.pdf",
+    "sha256": "e1a6b748568204b1c287a689e03615729c7f5b44d5c2a0d6c338160421bf6ee4",
+    "retrieval": "downloaded issuer PDF",
+    "source_class": "primary_original_annual"
+  },
+  {
+    "document_id": "SAF2020",
+    "url": "https://www.safran-group.com/sites/default/files/2021-09/opt_mel_safr_deu_2020_production_uk_202104011830.pdf",
+    "publication_date": "2021-04-01",
+    "publication_date_source": "https://www.safran-group.com/finance/regulated-information",
+    "pdf_pages_one_based": {
+      "income": 128,
+      "balance": 130,
+      "cashflow": 132
+    },
+    "financial_facts": {
+      "operating_income": 927,
+      "net_income": 386,
+      "operating_cash_flow": 1866,
+      "total_assets": 39531,
+      "current_liabilities": 19026
+    },
+    "currency": "EUR",
+    "unit": "million",
+    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/SAF2020.pdf",
+    "sha256": "ea8f9140aaf286490b71a0305f1d339578ebc46c0011723354ca97b1784c1c40",
+    "retrieval": "downloaded issuer PDF",
+    "source_class": "primary_original_annual"
+  },
+  {
+    "document_id": "SAF2021",
+    "url": "https://www.safran-group.com/sites/default/files/2022-04/SAFR_DEU_2021_PRODUCTION_US_MEL.pdf",
+    "publication_date": "2022-04-01",
+    "publication_date_source": "https://www.safran-group.com/finance/regulated-information",
+    "pdf_pages_one_based": {
+      "income": 126,
+      "balance": 128,
+      "cashflow": 130
+    },
+    "financial_facts": {
+      "operating_income": 864,
+      "net_income": 68,
+      "operating_cash_flow": 2436,
+      "total_assets": 41716,
+      "current_liabilities": 19828
+    },
+    "currency": "EUR",
+    "unit": "million",
+    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/SAF2021.pdf",
+    "sha256": "0a7f1a40d8f6bd0527dbd1b4fef354894733c3f0250eb0150666db60e6bff8b7",
+    "retrieval": "downloaded issuer PDF",
+    "source_class": "primary_original_annual"
+  },
+  {
+    "document_id": "SAF2022",
+    "url": "https://www.safran-group.com/sites/default/files/2023-04/SAFR_PDF_MEL_UK_DEU_2022.pdf",
+    "publication_date": "2023-04-03",
+    "publication_date_source": "https://www.safran-group.com/finance/regulated-information",
+    "pdf_pages_one_based": {
+      "income": 128,
+      "balance": 130,
+      "cashflow": 132
+    },
+    "financial_facts": {
+      "operating_income": 2043,
+      "net_income": -2426,
+      "operating_cash_flow": 3545,
+      "total_assets": 46828,
+      "current_liabilities": 27427
+    },
+    "currency": "EUR",
+    "unit": "million",
+    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/SAF2022.pdf",
+    "sha256": "9c925e1b89887394ee990fa51a7d3ed2ffa6a2d5efd3b2eb0ad9dcc9ba55a74e",
+    "retrieval": "downloaded issuer PDF",
+    "source_class": "primary_original_annual"
+  },
+  {
+    "document_id": "SAF2023",
+    "url": "https://www.safran-group.com/sites/default/files/2024-03/2023-safran-universal-registration-document.pdf",
+    "publication_date": "2024-03-29",
+    "publication_date_source": "https://www.safran-group.com/finance/regulated-information",
+    "pdf_pages_one_based": {
+      "income": 146,
+      "balance": 149,
+      "cashflow": 150
+    },
+    "financial_facts": {
+      "operating_income": 2798,
+      "net_income": 3520,
+      "operating_cash_flow": 4270,
+      "total_assets": 50468,
+      "current_liabilities": 30787
+    },
+    "currency": "EUR",
+    "unit": "million",
+    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/SAF2023.pdf",
+    "sha256": "a541dc835da2314a5b042acdc3f8c49c2500ab68b2fbdd0418b64f8e7e25886f",
+    "retrieval": "downloaded issuer PDF",
+    "source_class": "primary_original_annual"
+  },
+  {
+    "document_id": "SAF2024",
+    "url": "https://www.safran-group.com/sites/default/files/2025-04/2024-safran-universal-registration-document.pdf",
+    "publication_date": "2025-03-31",
+    "publication_date_source": "https://www.safran-group.com/finance/regulated-information",
+    "pdf_pages_one_based": {
+      "income": 189,
+      "balance": 191,
+      "cashflow": 193
+    },
+    "financial_facts": {
+      "operating_income": 4192,
+      "net_income": -575,
+      "operating_cash_flow": 4733,
+      "total_assets": 55012,
+      "current_liabilities": 37440
+    },
+    "currency": "EUR",
+    "unit": "million",
+    "local_pdf_path": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/industry/SAF2024.pdf",
+    "sha256": "f6c84baccd2402d184ab87c0ac0898039a057995e7039858086736f421d8a8ce",
+    "retrieval": "downloaded issuer PDF",
+    "source_class": "primary_original_annual"
+  },
+  {
+    "document_id": "SAF2025",
+    "url": "https://www.safran-group.com/download/media/450394",
+    "publication_date": "2026-02-13",
+    "publication_date_source": "https://www.safran-group.com/finance/publications-results?type%5B0%5D=result",
+    "pdf_pages_one_based": {
+      "income": 9,
+      "balance": 11,
+      "cashflow": 13
+    },
+    "financial_facts": {
+      "operating_income": 4308,
+      "net_income": 7286,
+      "operating_cash_flow": 5721,
+      "total_assets": 61814,
+      "current_liabilities": 41121
+    },
+    "currency": "EUR",
+    "unit": "million",
+    "local_pdf_path": null,
+    "sha256": null,
+    "retrieval": "issuer PDF read with web tool; HTTP403 on local download",
+    "source_class": "primary_original_annual"
+  }
+]

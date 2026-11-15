@@ -1,0 +1,105 @@
+Source: https://cdn.orsted.com/-/media/q3-2024/interim-financial-report-9m-2024.pdf
+Source ID: ORSTED2024Q3
+Publication date: 2024-11-05
+Original issuer PDF; extracted table context, not reformatted financial data.
+
+=== Original PDF page 19 ===
+Interim report First nine months 2024                                                                                                                                                                            Consolidated financial statements
+
+        Income statement                                                                                                                  Statement of comprehensive income
+Note    DKKm                                                                                         9M 2024             9M 2023          DKKm                                                                                                  9M 2024            9M 2023
+3       Revenue                                                                                         49,957              57,725        Profit (loss) for the period                                                                              6,100           (19,898)
+        Cost of sales                                                                                 (25,524)            (36,774)        Other comprehensive income:
+        Employee costs                                                                                  (4,897)             (4,743)       Value adjustments for the period                                                                          5,486             21,525
+        Share of profit (loss) in associates and joint ventures                                            (60)                  30       Value adjustments transferred to income statement                                                        (1,063)             (960)
+5       Other operating income                                                                           3,590                8,183       Exchange rate adjustments:
+5       Other operating expenses                                                                         6,289                (348)       Exchange rate adjustments relating to net investments in foreign enterprises                              1,250              1,088
+        Operating profit (loss) before depreciation, amortisation,                                                                        Value adjustment of net investment hedges                                                                (1,443)              (977)
+        and impairment losses (EBITDA)                                                                 23,606               19,403        Value adjustments and hedges transferred to income statement                                                    -              (59)
+        Amortisation and depreciation of intangible assets, and property,                                                                 Tax:
+4       and equipment                                                                                   (3,436)           (28,422)        Tax on exchange rate adjustments                                                                           (143)               (50)
+        Operating profit (loss) (EBIT)                                                                  12,516            (16,448)        Other:
+        Gain (loss) on divestment of enterprises                                                           (45)                278
+6       Financial expenses                                                                              (9,108)             (8,725)       Total comprehensive income                                                                              10,095             (3,805)
+        Profit (loss) before tax                                                                                                          Comprehensive income for the period is attributable to:
+                                                                                                         9,367            (19,583)        Shareholders in Ørsted A/S                                                                                9,288            (4,307)
+9       Tax on profit (loss) for the period                                                             (3,267)               (315)       Interest payments and costs, hybrid capital owners of Ørsted A/S                                            227                195
+        Profit (loss) for the period                                                                     6,100            (19,898)
+        Profit (loss) for the period is attributable to:                                                                                  Non-controlling interests                                                                                   580                307
+        Shareholders in Ørsted A/S                                                                       5,729            (20,382)        Total comprehensive income                                                                              10,095             (3,805)
+
+        Interests and costs, hybrid capital owners of Ørsted A/S                                           227                  195       ’Value adjustments for the period’ in the first nine months of 2023 are mainly a
+        Non-controlling interests                                                                          144                 289        result of gains on power hedges due to the significant decrease in power
+
+=== Original PDF page 21 ===
+Interim report First nine months 2024                                                                                                                                                                        Consolidated financial statements
+
+        Assets                                                             30 September        31 December       30 September                   Equity and liabilities                                             30 September        31 December      30 September
+Note    DKKm                                                                          2024               2023              2023        Note     DKKm                                                                         2024               2023               2023
+        Intangible assets                                                             2,518             3,426             3,342                 Share capital                                                                4,204             4,204              4,204
+        Inventories                                                                 14,750             10,539              9,919                Other payables                                                               5,418              6,273             6,662
+11      Derivatives                                                                  6,509             10,473             12,994                Non-current liabilities                                                    141,413           144,144           148,739
+        Contract assets                                                                    -              802                561                Provisions                                                                   4,625             15,955             11,937
+        Current assets                                                              77,508            84,055              91,146                Other payables                                                               5,508              6,225             6,478
+        Assets                                                                    290,341             281,136           286,782        9        Income tax                                                                   6,189              6,283             5,254
+                                                                                                                                                Current liabilities                                                         57,801            59,201            59,682
+ In 2024, we issued a new EUR 750 million (DKK 5.6 billion) hybrid bond and                                                                     Liabilities                                                                199,214          203,345            208,421
+ repurchased our 3017 hybrid bond, nominal EUR 500 million (DKK 3.7 billion).                                                                   Equity and liabilities                                                    290,341            281,136           286,782
+
+=== Original PDF page 23 ===
+Interim report First nine months 2024                                                                                                                                                                                Consolidated financial statements
+
+         Statement of cash flows
+Note     DKKm                                                     9M 2024            9M 2023            Q3 2024            Q3 2023          Note     DKKm                                                     9M 2024             9M 2023           Q3 2024            Q3 2023
+         Operating profit (loss) before                                                                                                              Proceeds from raising of loans                               16,822             17,554             12,477              1,459
+         depreciation, amortisation, and                                                                                                             Instalments on loans                                        (3,333)              (658)              (478)                (52)
+         Income tax paid                                             (3,180)            (2,130)              (659)              (634)                and cash equivalents                                           349               (763)              1,314             3,725
+         Cash flows from operating activities                        8,050             22,362              (1,639)             9,796                 Cash and cash equivalents at the
+                                                                                                                                                     beginning of the period                                      10,144             16,175             9,472              11,863
+         Sale/maturation of securities                                                                                                      Our supplementary statement of gross and net investments appears from
+                                                                     12,584             12,759              7,607              6,967        note 7 ’Gross and net investments’ and free cash flow (FCF) from note 2
+         Change in other non-current assets                               57                (13)                33                (10)      ’Segment information’.
+         Transactions with associates and
+         joint ventures                                                   63               (116)                (2)                (9)      ’Cash’ according to the balance sheet as at 30 September 2024 includes
+         Dividends received and capital                                                                                                     ’Bank overdrafts that are part of the ongoing cash management’, amounting
+
+=== Original PDF page 24 ===
+Interim report First nine months 2024                                                                                                                                                      Consolidated financial statements
+
+1.  Basis of reporting
+
+Ørsted is a listed public company, headquar-                 Change in accounting policy 2023
+tered in Denmark.                                            In Q4 2023, we changed our accounting policy
+This interim report for the first nine months of             regarding presentation of revenue and related
+2024 comprises the interim financial                         costs from the settlement of ‘failed own-use
+statements of Ørsted A/S (the parent                         power contracts’. Previously, we recognised
+company) and any subsidiaries controlled by                  revenue and the cost of sales on a gross basis
+Ørsted A/S.                                                  when these contracts were settled. As the
+                                                             gross presentation does not reflect the magni-
+The interim report has been prepared in                      tude of the Group’s power trading activities,
+accordance with the International Financial                  we have changed the presentation to a net
+Reporting Standards (IFRS), IAS 34 ’Interim                  presentation of revenue and related costs.
+Financial Reporting’ as adopted by the EU, and               The change only impacted revenue and the
+further requirements in the Danish Financial                 cost of sales in the Offshore segment, and thus
+Statements Act (Årsregnskabsloven) for the                   our EBITDA was not impacted.
+presentation of quarterly interim reports by
+listed companies.                                            9M 2023 comparisons have been adjusted
+Definitions of non-IFRS financial measures can               accordingly.
+be found on pages 151, 228, and 229 of the                   Implementation of new standards,
+annual report for 2023.                                      interpretations, and amendments adopted
+The interim consolidated financial statements                by the Group
+for the first nine months of 2024 are a                      The accounting policies adopted in the
+condensed set of financial statements, as they               preparation of the interim financial statements
+do not include all information and disclosures               are consistent with those followed in the
+required by the annual financial statements.                 preparation of our annual consolidated
+The interim consolidated financial statements                financial statements for the year, which ended
+have been prepared using the        same accoun-             on 31 December 2023. The Group has not early
+ting policies as our annual consolidated                     adopted any standard, interpretation, or
+financial statements as of 31 December 2023                  amendment that has been issued but not yet
+and should be read in conjunction with this.                 entered into effect.
+
+                                                             Amendments apply for the first time in 2024
+                                                             but do not have a material impact on our
+                                                             financial statements.
+
+                                                                                                                                                                                                                                           24/50

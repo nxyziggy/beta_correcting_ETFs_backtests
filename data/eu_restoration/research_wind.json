@@ -1,0 +1,472 @@
+{
+  "status": "complete_original_annual_coverage",
+  "scope": "Vestas and Orsted, FY2020\u2013FY2025, annual observations only",
+  "rows": 12,
+  "source_policy": "Current-year figures from each original annual report; no retrospective use of later comparative figures; real release dates from issuer announcements; no vendor fallback required for these two companies.",
+  "archives": {
+    "VWS.CO": "https://www.vestas.com/en/investor/reports-and-presentations/vestas-reporting",
+    "ORSTED.CO": "https://orsted.com/en/investors/financial-reports"
+  },
+  "evidence": [
+    {
+      "ticker": "VWS.CO",
+      "fiscal_year": 2020,
+      "publication_date": "2021-02-10",
+      "publication_date_source": "https://www.vestas.com/en/media/company-news/2021/vestas-annual-report-2020---continued-leadership-in-a-c-c3283502",
+      "financial_source": "https://www.vestas.com/content/dam/vestas-com/global/en/investor/reports-and-presentations/financial/2020/210210_01_Annual_Report_2020.pdf.coredownload.inline.pdf",
+      "source_class": "original_issuer_annual_report",
+      "local_pdf": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/wind/VWS_2020.pdf",
+      "sha256": "272a436ca07da0c5f1897b29206ce0e8eec3649e5845da4593d9573cb60ce8c4",
+      "bytes": 11650962,
+      "pdf_pages": [
+        33,
+        34,
+        35
+      ],
+      "extraction_file": "data/eu_restoration/sources/wind/VWS_2020_verified_pages.json",
+      "field_definitions": {
+        "operating_income": "reported consolidated EBIT after special items, including impairments; IFRS column for Orsted FY2020",
+        "net_income": "total consolidated profit/loss for the year including non-controlling interests and hybrid capital owners",
+        "operating_cash_flow": "reported consolidated cash flows from operating activities",
+        "total_assets": "reported consolidated total assets",
+        "current_liabilities": "reported current-liabilities subtotal; separately presented liabilities relating to assets held for sale are not added"
+      }
+    },
+    {
+      "ticker": "VWS.CO",
+      "fiscal_year": 2021,
+      "publication_date": "2022-02-10",
+      "publication_date_source": "https://www.vestas.com/en/media/company-news/2022/vestas-annual-report-2021---resilience-and-determinatio-c3503915",
+      "financial_source": "https://vestas.com/content/dam/vestas-com/global/en/investor/reports-and-presentations/financial/2021/Vestas_Annual_Report_2021.pdf.coredownload.pdf",
+      "source_class": "original_issuer_annual_report",
+      "local_pdf": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/wind/VWS_2021.pdf",
+      "sha256": "4e4953000707600945a9b094d03826e191ffe99dfd39660bb4e7b4b426e4435e",
+      "bytes": 12017375,
+      "pdf_pages": [
+        69,
+        70,
+        74
+      ],
+      "extraction_file": "data/eu_restoration/sources/wind/VWS_2021_verified_pages.json",
+      "field_definitions": {
+        "operating_income": "reported consolidated EBIT after special items, including impairments; IFRS column for Orsted FY2020",
+        "net_income": "total consolidated profit/loss for the year including non-controlling interests and hybrid capital owners",
+        "operating_cash_flow": "reported consolidated cash flows from operating activities",
+        "total_assets": "reported consolidated total assets",
+        "current_liabilities": "reported current-liabilities subtotal; separately presented liabilities relating to assets held for sale are not added"
+      }
+    },
+    {
+      "ticker": "VWS.CO",
+      "fiscal_year": 2022,
+      "publication_date": "2023-02-08",
+      "publication_date_source": "https://www.vestas.com/en/media/company-news/2023/vestas-annual-report-2022---a-challenging-year-with-neg-c3710817",
+      "financial_source": "https://www.vestas.com/content/dam/vestas-com/global/en/investor/reports-and-presentations/financial/2022/Vestas%20Annual%20Report%202022.pdf",
+      "source_class": "original_issuer_annual_report",
+      "local_pdf": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/wind/VWS_2022.pdf",
+      "sha256": "b9305b4b7effdb5ff31411d8a34cc6aa597746e493b14830ce423b664cf70419",
+      "bytes": 81411464,
+      "pdf_pages": [
+        74,
+        75,
+        79
+      ],
+      "extraction_file": "data/eu_restoration/sources/wind/VWS_2022_verified_pages.json",
+      "field_definitions": {
+        "operating_income": "reported consolidated EBIT after special items, including impairments; IFRS column for Orsted FY2020",
+        "net_income": "total consolidated profit/loss for the year including non-controlling interests and hybrid capital owners",
+        "operating_cash_flow": "reported consolidated cash flows from operating activities",
+        "total_assets": "reported consolidated total assets",
+        "current_liabilities": "reported current-liabilities subtotal; separately presented liabilities relating to assets held for sale are not added"
+      }
+    },
+    {
+      "ticker": "VWS.CO",
+      "fiscal_year": 2023,
+      "publication_date": "2024-02-07",
+      "publication_date_source": "https://www.vestas.com/en/media/company-news/2024/vestas-annual-report-2023---a-return-to-profitability-c3923785",
+      "financial_source": "https://www.vestas.com/content/dam/vestas-com/global/en/investor/reports-and-presentations/financial/2023/2023-annual-report/Annual%20Report%202023.pdf.coredownload.inline.pdf",
+      "source_class": "original_issuer_annual_report",
+      "local_pdf": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/wind/VWS_2023.pdf",
+      "sha256": "3d7e86c4f8793b4817b1b5593d2b1c65abc7cde05e6b08124f6ed4aae521b5b2",
+      "bytes": 9494045,
+      "pdf_pages": [
+        51,
+        52,
+        56
+      ],
+      "extraction_file": "data/eu_restoration/sources/wind/VWS_2023_verified_pages.json",
+      "field_definitions": {
+        "operating_income": "reported consolidated EBIT after special items, including impairments; IFRS column for Orsted FY2020",
+        "net_income": "total consolidated profit/loss for the year including non-controlling interests and hybrid capital owners",
+        "operating_cash_flow": "reported consolidated cash flows from operating activities",
+        "total_assets": "reported consolidated total assets",
+        "current_liabilities": "reported current-liabilities subtotal; separately presented liabilities relating to assets held for sale are not added"
+      }
+    },
+    {
+      "ticker": "VWS.CO",
+      "fiscal_year": 2024,
+      "publication_date": "2025-02-05",
+      "publication_date_source": "https://www.vestas.com/en/media/company-news/2025/vestas-annual-report-2024---progress-in-a-challenging-y-c4100723",
+      "financial_source": "https://www.vestas.com/content/dam/vestas-com/global/en/investor/reports-and-presentations/financial/2024/fy-2024/Vestas%20Annual%20Report%202024.pdf",
+      "source_class": "original_issuer_annual_report",
+      "local_pdf": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/wind/VWS_2024.pdf",
+      "sha256": "7cc52432a0c3dbd463ab48a8464c81d54c131df0617679a39949f6a56081794d",
+      "bytes": 14895872,
+      "pdf_pages": [
+        137,
+        138,
+        142
+      ],
+      "extraction_file": "data/eu_restoration/sources/wind/VWS_2024_verified_pages.json",
+      "field_definitions": {
+        "operating_income": "reported consolidated EBIT after special items, including impairments; IFRS column for Orsted FY2020",
+        "net_income": "total consolidated profit/loss for the year including non-controlling interests and hybrid capital owners",
+        "operating_cash_flow": "reported consolidated cash flows from operating activities",
+        "total_assets": "reported consolidated total assets",
+        "current_liabilities": "reported current-liabilities subtotal; separately presented liabilities relating to assets held for sale are not added"
+      }
+    },
+    {
+      "ticker": "VWS.CO",
+      "fiscal_year": 2025,
+      "publication_date": "2026-02-05",
+      "publication_date_source": "https://www.vestas.com/en/media/company-news/2026/vestas-annual-report-2025---generating-value-amidst-gro-c4302973",
+      "financial_source": "https://www.vestas.com/content/dam/vestas-com/global/en/investor/reports-and-presentations/financial/2025/fy-2025/Vestas%20Annual%20Report%202025.pdf",
+      "source_class": "original_issuer_annual_report",
+      "local_pdf": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/wind/VWS_2025.pdf",
+      "sha256": "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc",
+      "bytes": 7656538,
+      "pdf_pages": [
+        135,
+        136,
+        138
+      ],
+      "extraction_file": "data/eu_restoration/sources/wind/VWS_2025_verified_pages.json",
+      "field_definitions": {
+        "operating_income": "reported consolidated EBIT after special items, including impairments; IFRS column for Orsted FY2020",
+        "net_income": "total consolidated profit/loss for the year including non-controlling interests and hybrid capital owners",
+        "operating_cash_flow": "reported consolidated cash flows from operating activities",
+        "total_assets": "reported consolidated total assets",
+        "current_liabilities": "reported current-liabilities subtotal; separately presented liabilities relating to assets held for sale are not added"
+      }
+    },
+    {
+      "ticker": "ORSTED.CO",
+      "fiscal_year": 2020,
+      "publication_date": "2021-02-03",
+      "publication_date_source": "https://orsted.com/en/company-announcement-list/2021/02/2168747",
+      "financial_source": "https://cdn.orsted.com/-/media/annual2020/annual-report-2020.pdf",
+      "source_class": "original_issuer_annual_report",
+      "local_pdf": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/wind/ORSTED_2020.pdf",
+      "sha256": "bc7e574b17fe23cddcc02b9bd8b512dba8c9229bd2f5b96d0a2d9a4b853a4c8f",
+      "bytes": 18988079,
+      "pdf_pages": [
+        77,
+        79,
+        81
+      ],
+      "extraction_file": "data/eu_restoration/sources/wind/ORSTED_2020_verified_pages.json",
+      "field_definitions": {
+        "operating_income": "reported consolidated EBIT after special items, including impairments; IFRS column for Orsted FY2020",
+        "net_income": "total consolidated profit/loss for the year including non-controlling interests and hybrid capital owners",
+        "operating_cash_flow": "reported consolidated cash flows from operating activities",
+        "total_assets": "reported consolidated total assets",
+        "current_liabilities": "reported current-liabilities subtotal; separately presented liabilities relating to assets held for sale are not added"
+      }
+    },
+    {
+      "ticker": "ORSTED.CO",
+      "fiscal_year": 2021,
+      "publication_date": "2022-02-02",
+      "publication_date_source": "https://orsted.com/en/company-announcement-list/2022/02/2022020247511",
+      "financial_source": "https://cdn.orsted.com/-/media/annual2021/annual-report-2021.pdf",
+      "source_class": "original_issuer_annual_report",
+      "local_pdf": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/wind/ORSTED_2021.pdf",
+      "sha256": "f9e05ef188934fc56398c80eeeb3fd8ac564902b6677a39fb8ec22246c9dfc2e",
+      "bytes": 20778151,
+      "pdf_pages": [
+        73,
+        75,
+        77
+      ],
+      "extraction_file": "data/eu_restoration/sources/wind/ORSTED_2021_verified_pages.json",
+      "field_definitions": {
+        "operating_income": "reported consolidated EBIT after special items, including impairments; IFRS column for Orsted FY2020",
+        "net_income": "total consolidated profit/loss for the year including non-controlling interests and hybrid capital owners",
+        "operating_cash_flow": "reported consolidated cash flows from operating activities",
+        "total_assets": "reported consolidated total assets",
+        "current_liabilities": "reported current-liabilities subtotal; separately presented liabilities relating to assets held for sale are not added"
+      }
+    },
+    {
+      "ticker": "ORSTED.CO",
+      "fiscal_year": 2022,
+      "publication_date": "2023-02-01",
+      "publication_date_source": "https://orsted.com/en/company-announcement-list/2023/02/2023020162371",
+      "financial_source": "https://cdn.orsted.com/-/media/2022-annual-report/orsted-annual-report-2022.pdf",
+      "source_class": "original_issuer_annual_report",
+      "local_pdf": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/wind/ORSTED_2022.pdf",
+      "sha256": "20ea5857a4ed3c52b91ba25a7f47bfd01a6be59ba365491a985058c32b37d2a8",
+      "bytes": 19607126,
+      "pdf_pages": [
+        71,
+        73,
+        75
+      ],
+      "extraction_file": "data/eu_restoration/sources/wind/ORSTED_2022_verified_pages.json",
+      "field_definitions": {
+        "operating_income": "reported consolidated EBIT after special items, including impairments; IFRS column for Orsted FY2020",
+        "net_income": "total consolidated profit/loss for the year including non-controlling interests and hybrid capital owners",
+        "operating_cash_flow": "reported consolidated cash flows from operating activities",
+        "total_assets": "reported consolidated total assets",
+        "current_liabilities": "reported current-liabilities subtotal; separately presented liabilities relating to assets held for sale are not added"
+      }
+    },
+    {
+      "ticker": "ORSTED.CO",
+      "fiscal_year": 2023,
+      "publication_date": "2024-02-07",
+      "publication_date_source": "https://orsted.com/en/company-announcement-list/2024/02/annual-report-for-2023--strong-underlying-results--82041",
+      "financial_source": "https://cdn.orsted.com/-/media/annual-report-2023/orsted-ar-2023.pdf",
+      "source_class": "original_issuer_annual_report",
+      "local_pdf": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/wind/ORSTED_2023.pdf",
+      "sha256": "24f41fe00710536af4e7b500073e59628c76f2e3430d15dec86fc41ec6a57076",
+      "bytes": 19559767,
+      "pdf_pages": [
+        144,
+        145,
+        147
+      ],
+      "extraction_file": "data/eu_restoration/sources/wind/ORSTED_2023_verified_pages.json",
+      "field_definitions": {
+        "operating_income": "reported consolidated EBIT after special items, including impairments; IFRS column for Orsted FY2020",
+        "net_income": "total consolidated profit/loss for the year including non-controlling interests and hybrid capital owners",
+        "operating_cash_flow": "reported consolidated cash flows from operating activities",
+        "total_assets": "reported consolidated total assets",
+        "current_liabilities": "reported current-liabilities subtotal; separately presented liabilities relating to assets held for sale are not added"
+      }
+    },
+    {
+      "ticker": "ORSTED.CO",
+      "fiscal_year": 2024,
+      "publication_date": "2025-02-06",
+      "publication_date_source": "https://orsted.com/en/company-announcement-list/2025/02/delivering-operational-earnings-in-line-with-expec-142508951",
+      "financial_source": "https://cdn.orsted.com/-/media/annual2024/orsted-annual-report-2024.pdf",
+      "source_class": "original_issuer_annual_report",
+      "local_pdf": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/wind/ORSTED_2024.pdf",
+      "sha256": "acf6cdcacc45b9108b2be7f1bd9ee609da5195d41f052e335e3d02b76b2a0e05",
+      "bytes": 15566088,
+      "pdf_pages": [
+        159,
+        160,
+        162
+      ],
+      "extraction_file": "data/eu_restoration/sources/wind/ORSTED_2024_verified_pages.json",
+      "field_definitions": {
+        "operating_income": "reported consolidated EBIT after special items, including impairments; IFRS column for Orsted FY2020",
+        "net_income": "total consolidated profit/loss for the year including non-controlling interests and hybrid capital owners",
+        "operating_cash_flow": "reported consolidated cash flows from operating activities",
+        "total_assets": "reported consolidated total assets",
+        "current_liabilities": "reported current-liabilities subtotal; separately presented liabilities relating to assets held for sale are not added"
+      }
+    },
+    {
+      "ticker": "ORSTED.CO",
+      "fiscal_year": 2025,
+      "publication_date": "2026-02-06",
+      "publication_date_source": "https://orsted.com/en/company-announcement-list/2026/02/a-stronger-and-morecompetitiveorstedafter-a-defini-147853101",
+      "financial_source": "https://cdn.orsted.com/-/media/annual-2025/annual-report-2025.pdf",
+      "source_class": "original_issuer_annual_report",
+      "local_pdf": "/Users/nicolaszhang/Documents/ChatGPT/Haptic BS/eu_source_reports/wind/ORSTED_2025.pdf",
+      "sha256": "b45e5c2c12ec7d5942179e32535d0046f6e5c214ee9085525ca361a28e8b35ab",
+      "bytes": 8528321,
+      "pdf_pages": [
+        117,
+        118,
+        120
+      ],
+      "extraction_file": "data/eu_restoration/sources/wind/ORSTED_2025_verified_pages.json",
+      "field_definitions": {
+        "operating_income": "reported consolidated EBIT after special items, including impairments; IFRS column for Orsted FY2020",
+        "net_income": "total consolidated profit/loss for the year including non-controlling interests and hybrid capital owners",
+        "operating_cash_flow": "reported consolidated cash flows from operating activities",
+        "total_assets": "reported consolidated total assets",
+        "current_liabilities": "reported current-liabilities subtotal; separately presented liabilities relating to assets held for sale are not added"
+      }
+    }
+  ],
+  "vendor_differences": [
+    {
+      "ticker": "VWS.CO",
+      "period_end": "2021-12-31",
+      "field": "operating_income",
+      "original_report_value": 322,
+      "inherited_vendor_value": 428.0
+    },
+    {
+      "ticker": "VWS.CO",
+      "period_end": "2021-12-31",
+      "field": "net_income",
+      "original_report_value": 176,
+      "inherited_vendor_value": 134.0
+    },
+    {
+      "ticker": "VWS.CO",
+      "period_end": "2021-12-31",
+      "field": "operating_cash_flow",
+      "original_report_value": 996,
+      "inherited_vendor_value": 956.0
+    },
+    {
+      "ticker": "VWS.CO",
+      "period_end": "2021-12-31",
+      "field": "total_assets",
+      "original_report_value": 19712,
+      "inherited_vendor_value": 19648.0
+    },
+    {
+      "ticker": "VWS.CO",
+      "period_end": "2022-12-31",
+      "field": "operating_income",
+      "original_report_value": -1596,
+      "inherited_vendor_value": -962.0
+    },
+    {
+      "ticker": "VWS.CO",
+      "period_end": "2023-12-31",
+      "field": "operating_income",
+      "original_report_value": 292,
+      "inherited_vendor_value": 36.0
+    },
+    {
+      "ticker": "VWS.CO",
+      "period_end": "2023-12-31",
+      "field": "net_income",
+      "original_report_value": 78,
+      "inherited_vendor_value": 77.0
+    },
+    {
+      "ticker": "VWS.CO",
+      "period_end": "2024-12-31",
+      "field": "operating_income",
+      "original_report_value": 794,
+      "inherited_vendor_value": 739.0
+    },
+    {
+      "ticker": "VWS.CO",
+      "period_end": "2024-12-31",
+      "field": "net_income",
+      "original_report_value": 494,
+      "inherited_vendor_value": 499.0
+    },
+    {
+      "ticker": "VWS.CO",
+      "period_end": "2025-12-31",
+      "field": "operating_income",
+      "original_report_value": 1015,
+      "inherited_vendor_value": 1067.0
+    },
+    {
+      "ticker": "VWS.CO",
+      "period_end": "2025-12-31",
+      "field": "net_income",
+      "original_report_value": 780,
+      "inherited_vendor_value": 778.0
+    },
+    {
+      "ticker": "ORSTED.CO",
+      "period_end": "2021-12-31",
+      "field": "operating_income",
+      "original_report_value": 16195,
+      "inherited_vendor_value": 8421.0
+    },
+    {
+      "ticker": "ORSTED.CO",
+      "period_end": "2021-12-31",
+      "field": "net_income",
+      "original_report_value": 10887,
+      "inherited_vendor_value": 10962.0
+    },
+    {
+      "ticker": "ORSTED.CO",
+      "period_end": "2021-12-31",
+      "field": "current_liabilities",
+      "original_report_value": 86968,
+      "inherited_vendor_value": 87460.0
+    },
+    {
+      "ticker": "ORSTED.CO",
+      "period_end": "2022-12-31",
+      "field": "operating_income",
+      "original_report_value": 19774,
+      "inherited_vendor_value": 11304.0
+    },
+    {
+      "ticker": "ORSTED.CO",
+      "period_end": "2022-12-31",
+      "field": "net_income",
+      "original_report_value": 14996,
+      "inherited_vendor_value": 15126.0
+    },
+    {
+      "ticker": "ORSTED.CO",
+      "period_end": "2023-12-31",
+      "field": "operating_income",
+      "original_report_value": -17853,
+      "inherited_vendor_value": 12853.0
+    },
+    {
+      "ticker": "ORSTED.CO",
+      "period_end": "2023-12-31",
+      "field": "net_income",
+      "original_report_value": -20182,
+      "inherited_vendor_value": -20506.0
+    },
+    {
+      "ticker": "ORSTED.CO",
+      "period_end": "2024-12-31",
+      "field": "operating_income",
+      "original_report_value": 6171,
+      "inherited_vendor_value": 14118.0
+    },
+    {
+      "ticker": "ORSTED.CO",
+      "period_end": "2024-12-31",
+      "field": "net_income",
+      "original_report_value": 16,
+      "inherited_vendor_value": -206.0
+    },
+    {
+      "ticker": "ORSTED.CO",
+      "period_end": "2025-12-31",
+      "field": "operating_income",
+      "original_report_value": 8620,
+      "inherited_vendor_value": 12495.0
+    },
+    {
+      "ticker": "ORSTED.CO",
+      "period_end": "2025-12-31",
+      "field": "net_income",
+      "original_report_value": 3165,
+      "inherited_vendor_value": 2440.0
+    },
+    {
+      "ticker": "ORSTED.CO",
+      "period_end": "2025-12-31",
+      "field": "current_liabilities",
+      "original_report_value": 65277,
+      "inherited_vendor_value": 67148.0
+    }
+  ],
+  "concerns": [
+    "Annual restoration has lower update frequency than the existing annual+TTM panel. No 2026 interim figures were added.",
+    "Vestas FY2021 later comparatives were restated for cloud-computing accounting; this restoration uses FY2021 values as printed in the FY2021 report.",
+    "Vendor operating_income often differs materially from statutory EBIT: Orsted FY2023 vendor +12853 versus statutory -17853; Vestas FY2022 vendor -962 versus statutory -1596. Mixing them silently would change the score definition.",
+    "For Orsted FY2020, the IFRS column is used, not its alternative business-performance column.",
+    "Orsted presents held-for-sale liabilities separately from current liabilities (2020:687; 2021:492; 2025:1871 DKKm). The literal current-liabilities subtotal is used; this should be disclosed as an accounting comparability limitation.",
+    "Orsted FY2020 operating-cash-flow line refers to continuing operations while profit includes a discontinued-operation loss of 11 DKKm. No unsupported cash-flow adjustment was made.",
+    "These are issuer-hosted historical annual reports retrieved now, with dated release evidence; this is not a certified archive of every original file version."
+  ]
+}

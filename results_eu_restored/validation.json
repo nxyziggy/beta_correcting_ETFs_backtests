@@ -1,0 +1,138 @@
+{
+  "checks": [
+    {
+      "run": "EU_reference_expanded_q75_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 448,
+      "restored_primary_score_rows": 0,
+      "restored_secondary_score_rows": 0
+    },
+    {
+      "run": "EU_reference_expanded_q50_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 448,
+      "restored_primary_score_rows": 0,
+      "restored_secondary_score_rows": 0
+    },
+    {
+      "run": "EU_reference_expanded_equal_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 448,
+      "restored_primary_score_rows": 0,
+      "restored_secondary_score_rows": 0
+    },
+    {
+      "run": "EU_restored_primary_q75_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882,
+      "restored_primary_score_rows": 434,
+      "restored_secondary_score_rows": 0
+    },
+    {
+      "run": "EU_restored_primary_q50_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882,
+      "restored_primary_score_rows": 434,
+      "restored_secondary_score_rows": 0
+    },
+    {
+      "run": "EU_restored_primary_equal_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882,
+      "restored_primary_score_rows": 434,
+      "restored_secondary_score_rows": 0
+    },
+    {
+      "run": "EU_restored_mixed_q75_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882,
+      "restored_primary_score_rows": 434,
+      "restored_secondary_score_rows": 0
+    },
+    {
+      "run": "EU_restored_mixed_q50_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882,
+      "restored_primary_score_rows": 434,
+      "restored_secondary_score_rows": 0
+    },
+    {
+      "run": "EU_restored_mixed_equal_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882,
+      "restored_primary_score_rows": 434,
+      "restored_secondary_score_rows": 0
+    },
+    {
+      "run": "EU_reference_annual_q75_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 448,
+      "restored_primary_score_rows": 0,
+      "restored_secondary_score_rows": 0
+    },
+    {
+      "run": "EU_reference_annual_q50_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 448,
+      "restored_primary_score_rows": 0,
+      "restored_secondary_score_rows": 0
+    },
+    {
+      "run": "EU_reference_annual_equal_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 448,
+      "restored_primary_score_rows": 0,
+      "restored_secondary_score_rows": 0
+    },
+    {
+      "run": "EU_restored_annual_q75_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882,
+      "restored_primary_score_rows": 434,
+      "restored_secondary_score_rows": 0
+    },
+    {
+      "run": "EU_restored_annual_q50_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882,
+      "restored_primary_score_rows": 434,
+      "restored_secondary_score_rows": 0
+    },
+    {
+      "run": "EU_restored_annual_equal_15bp_lag0_from2021-09-30",
+      "result": "PASS",
+      "months": 62,
+      "scores": 882,
+      "restored_primary_score_rows": 434,
+      "restored_secondary_score_rows": 0
+    }
+  ],
+  "published_reference_runs_reproduced": 6,
+  "published_files_unchanged": 1627,
+  "recovered_rows": 42,
+  "mixed_rows": 42,
+  "restored_tickers": [
+    "ALFEN.AS",
+    "AMS.SW",
+    "ENR.DE",
+    "NEL.OL",
+    "ORSTED.CO",
+    "SAF.PA",
+    "VWS.CO"
+  ],
+  "source_limit": "Secondary availability is a sensitivity assumption, not verified point-in-time availability."
+}

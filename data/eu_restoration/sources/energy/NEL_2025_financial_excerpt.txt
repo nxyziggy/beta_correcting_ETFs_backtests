@@ -1,0 +1,137 @@
+91
+Consolidated statement of comprehensive income
+
+ (Amounts in NOK thousands)                                                                                    NOTE                                         2025                                        2024
+ Revenue from contracts with customers                                                                       2.1, 2.3                                   963 114                                   1 389 909
+ Other income                                                                                                      2.2                                  137 074                                     105 024
+ Total revenue and income                                                                                                                             1 100 188                                   1 494 933
+
+ Raw materials                                                                                                     2.4                                  400 626                                     503 976
+ Personnel expenses                                                                                                2.5                                  569 244                                     645 586
+ Depreciation and amortisation                                                                               3.1, 3.2                                   290 470                                     216 486
+ Impairment of tangible and intangible assets                                                                3.1, 3.2                                   799 410                                             0
+ Other operating expenses                                                                                          2.6                                  405 105                                     518 313
+ Total operating expenses                                                                                                                             2 464 855                                   1 884 361
+
+ Operating loss                                                                                                                                      -1 364 667                                    -389 428
+
+ Finance income                                                                                                    2.7                                  105 015                                     132 076
+ Finance costs                                                                                                     2.7                                   -41 027                                      -6 833
+ Share of profit (loss) from associates and joint ventures                                                         3.4                                     4 527                                            0
+ Pre-tax income (loss)                                                                                                                               -1 296 152                                    -264 185
+ Tax expense (-income)                                                                                             2.8                                   -31 035                                      -6 554
+ Net income (loss) from continuing operation                                                                                                         -1 265 117                                    -257 631
+ Net income (loss) from discontinued operation                                                                     2.0                                          0                                    13 289
+ Net income (loss) attributable to equity holders of the company                                                                                     -1 265 117                                    -244 342
+
+ Other comprehensive income that are or may subsequently be reclassified to profit or loss (net of tax)
+ Currency translation differences                                                                                                                       -133 829                                     92 554
+ Cash flow hedges, effective portion of changes in fair value                                                      6.5                                     2 821                                     -52 108
+ Cash flow hedges, reclassified                                                                                    6.5                                        809                                    43 244
+ Comprehensive income attributable to equity holders of the company                                                                                  -1 395 316                                    -160 652
+
+ Earnings per share (NOK) attributable to Nel shareholders                                                         2.9                                      -0.70                                      -0.15
+ Diluted earnings per share (NOK) attributable to Nel shareholders                                                 2.9                                      -0.70                                      -0.15
+
+
+ The accompanying notes are an integral part of the consolidated financial statements.
+
+PDF PAGE 92
+Consolidated statement of financial position as of 31 December
+
+
+  Amounts in NOK thousands                                                                                     NOTE                                  2025                                      2024
+ Non-current assets
+ Technology                                                                                                       3.1                             523 087                                   617 420
+ Goodwill                                                                                                         3.1                              61 364                                   411 753
+ Property, plant and equipment                                                                               3.2, 3.3                           1 190 233                                 1 664 079
+ Non-current restricted cash                                                                                      3.6                             155 027                                   158 750
+ Investments in associates and joint ventures                                                                     3.4                                    0                                      100
+ Non-current financial assets                                                                                     3.5                              40 303                                    44 419
+ Total non-current assets                                                                                                                       1 970 014                                 2 896 521
+
+ Current assets
+ Inventories                                                                                                      4.1                             918 794                                   531 748
+ Trade receivables                                                                                                4.2                             240 913                                   700 679
+ Contract assets                                                                                                  2.1                              67 204                                    24 155
+ Other current assets                                                                                             4.3                             142 449                                   273 269
+ Current restricted cash                                                                                          3.6                                    0                                    2 260
+ Cash and cash equivalents                                                                                        4.4                           1 617 458                                 1 875 580
+ Total current assets                                                                                                                           2 986 818                                 3 407 691
+
+ TOTAL ASSETS                                                                                                                                   4 956 832                                 6 304 212
+
+
+
+PDF PAGE 93
+ Amounts in NOK thousands                                                                                             NOTE                                           2025                                          2024
+ Equity
+ Share capital                                                                                                           5.1                                     367 692                                       334 265
+ Treasury shares                                                                                                         5.1                                           -84                                           -84
+ Share premium                                                                                                           5.1                                   7 914 367                                     7 598 563
+ Other capital reserves                                                                                                  5.1                                       70 639                                        68 647
+ Retained earnings                                                                                                       5.1                                  -4 507 460                                    -3 242 343
+ Other components of equity                                                                                              5.1                                       88 029                                      218 228
+ Total equity                                                                                                                                                  3 933 183                                     4 977 276
+
+ Non-current liabilities
+ Deferred tax liabilities                                                                                                2.8                                             0                                       34 813
+ Lease liabilities                                                                                                       3.3                                     190 185                                       215 523
+ Deferred income                                                                                                         5.3                                       60 488                                        69 279
+ Other non-current liabilities                                                                                           5.4                                        8 251                                         5 263
+ Total non-current liabilities                                                                                                                                   258 924                                       324 878
+
+ Current liabilities
+ Trade payables                                                                                                                                                  126 796                                       110 742
+ Lease liabilities                                                                                                       3.3                                       42 961                                        44 479
+ Contract liabilities                                                                                                    2.1                                     372 420                                       583 392
+ Other current liabilities                                                                                               5.4                                     127 304                                       173 795
+ Provisions                                                                                                              5.5                                       95 244                                        89 650
+ Total current liabilities                                                                                                                                       764 725                                     1 002 058
+ Total liabilities                                                                                                                                             1 023 649                                     1 326 936
+
+ TOTAL EQUITY AND LIABILITIES                                                                                                                                  4 956 832                                     6 304 212
+
+
+The accompanying notes are an integral part of the consolidated financial statements.
+
+PDF PAGE 94
+Consolidated statement of cash flows
+
+ Amounts in NOK thousands                                                                                        NOTE                                         2025                                        2024
+ CASH FLOWS FROM OPERATING ACTIVITIES
+ Pre-tax income (loss)                                                                                                                                 -1 296 152                                    -264 185
+ Net income (loss) from discontinued operation                                                                      2.0                                           0                                     13 289
+ Effects from discontinued operation                                                                                2.0                                           0                                  -172 034
+ Adjustments for interest expense                                                                                   2.7                                     16 672                                      16 171
+ Depreciation, amortisation and impairment                                                                     3.1, 3.2                                 1 089 880                                     216 486
+ Change in fair value equity instruments                                                                       2.7, 4.3                                      6 219                                       2 650
+ Equity-settled share-based compensation expense                                                                    2.5                                      2 012                                       2 718
+ Change in provisions                                                                                               5.5                                      5 594                                      -3 966
+ Change in inventories                                                                                              4.1                                  -387 046                                    -144 064
+ Change in trade receivables and contract balances                                                             2.1, 4.2                                   205 745                                     117 774
+ Change in trade payables                                                                                                                                   16 054                                     -56 029
+ Changes in other balances                                                                                     4.3, 5.4                                     88 227                                      29 609
+ Net cash flow from operating activities                                                                                                                 -252 795                                    -241 581
+ CASH FLOWS FROM INVESTING ACTIVITIES
+ Purchase of property, plant and equipment                                                                          3.2                                  -145 159                                    -527 337
+ Payments for capitalised technology                                                                                3.1                                  -145 248                                    -119 241
+ Cash flows from (used in) decrease (increase) in restricted cash                                                   4.3                                     33 451                                     -18 236
+ Purchase of other investments                                                                                 3.5, 4.3                                    -17 952                                            0
+ Investments in other financial assets                                                                              3.5                                    -35 000                                            0
+ Investments in associates and joint ventures                                                                       3.4                                      4 527                                            0
+ Proceeds from sales of other investments                                                                      3.5, 4.3                                           0                                   116 632
+ Effects from discontinued operation                                                                                2.0                                           0                                    -33 728
+ Net cash flow from investing activities                                                                                                                 -305 381                                    -581 910
+ CASH FLOWS FROM FINANCING ACTIVITIES
+ Interests paid                                                                                                     2.7                                    -16 672                                     -16 166
+ Gross cash flow from share issues                                                                                  5.1                                   353 070                                             0
+ Transaction costs from share issues                                                                                5.1                                     -3 840                                            0
+ Dividends paid (spin-off)                                                                                          2.0                                           0                                  -625 420
+ Payment of lease liabilities                                                                                       3.3                                    -29 455                                     -20 943
+ Effects from discontinued operation                                                                                5.2                                           0                                     -3 459
+ Net cash flow from financing activities                                                                                                                  303 103                                    -665 988
+ Effect of exchange rate changes on cash                                                                                                                    -3 049                                       1 628
+ Net change in cash and cash equivalents                                                                                                                 -258 122                                  -1 487 851
+ Cash balance as of 01.01                                                                                           4.4                                 1 875 580                                   3 363 431
+ Cash balance as of 31.12                                                                                           4.4                                 1 617 458                                   1 875 580

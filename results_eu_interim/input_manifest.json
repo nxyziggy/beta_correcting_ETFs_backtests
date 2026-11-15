@@ -1,0 +1,806 @@
+[
+  {
+    "path": "EU_INTERIM_METHOD.md",
+    "sha256": "b62595135dfd91fed7204f0b276e476064f88793e7493e2e719363233f3b767a"
+  },
+  {
+    "path": "backtest.py",
+    "sha256": "2af12310d739b7b352c4a8e634fa10d3e70fe3df0365697aea8107e397506b6e"
+  },
+  {
+    "path": "data/eu_interim/arithmetic_audit.json",
+    "sha256": "ebf099fc1e7ba5413578bcdcd4bfbeb7208d19b687189d8ccde81906846c0763"
+  },
+  {
+    "path": "data/eu_interim/exclusions.json",
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+  },
+  {
+    "path": "data/eu_interim/financials_interim.csv",
+    "sha256": "133586625f7fd712291bd2a4b251477e3d9961a8ffc00ef04275a7d20f7607c9"
+  },
+  {
+    "path": "data/eu_interim/research_energy.json",
+    "sha256": "ff7759a54c5ab8772219276f6679f1da70ac6e4e01fd66c32cf7af9008d2fcbd"
+  },
+  {
+    "path": "data/eu_interim/research_energy_observations.json",
+    "sha256": "1a9a437d025ad16f794656988420a1de9476313bff1720589a62a2a0a77fb44b"
+  },
+  {
+    "path": "data/eu_interim/research_industry.json",
+    "sha256": "e9bf3ca7a0fa249941dbca7d554bc86c0c8d0784e271e6a673b610c85eb4a484"
+  },
+  {
+    "path": "data/eu_interim/research_industry_observations.json",
+    "sha256": "532463a06cd9f6d3af3ef4887c44e0b9aedf54ab08038d8a00087c46c9dd63c5"
+  },
+  {
+    "path": "data/eu_interim/research_safran.json",
+    "sha256": "fde0f06cbf52f8ee73510b9aedb14df97c8096852bea2b9fb3d16e00d21ae56e"
+  },
+  {
+    "path": "data/eu_interim/research_safran_observations.json",
+    "sha256": "93e9a1e8dfd279daaad5d8d3ebab6f9bf563cd3d3cbe70635a7774a266f4d87f"
+  },
+  {
+    "path": "data/eu_interim/research_wind.json",
+    "sha256": "df84ebd282100d957693f371cba2761786162c3d4c2d7cd23abfa248c2d4a05a"
+  },
+  {
+    "path": "data/eu_interim/research_wind_observations.json",
+    "sha256": "6ed4d019cfed9b2351fd8851c965482e0d6b4af89c1e336866c60243326fc32e"
+  },
+  {
+    "path": "data/eu_interim/source_registry.json",
+    "sha256": "52ae1fe33a6705702e1690029592378a694b7bb59ab2d6cd5315cdedee6b17c7"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/ALFEN_2021H1_financial_excerpt.txt",
+    "sha256": "e56862dcc2a3525b7d8d1865c5a03982be4de2453785e80a06d1582bde24ed65"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/ALFEN_2021H1_publication_evidence.txt",
+    "sha256": "fae0f12271879863da43f18ccb9d7bcf38059cd967aba546cdd2938cfa858dae"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/ALFEN_2022H1_financial_excerpt.txt",
+    "sha256": "0106f5c88cdf6069e9f5164d3f271af628251493348241499150b7b422a75d5c"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/ALFEN_2022H1_publication_evidence.txt",
+    "sha256": "52c6703367b69833ccdcd132f398ac578d9e8a91f24b9fe29eed51584d8289cf"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/ALFEN_2023H1_financial_excerpt.txt",
+    "sha256": "bf3aab59ba5d2bd7b6cac88648492f7ca4bd92c53038e3296e29e84871cac629"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/ALFEN_2023H1_publication_evidence.txt",
+    "sha256": "c9bee09bebfb8bfdbee77b3bc6e740d4131f4724c03bbcb97e272a43449a953f"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/ALFEN_2024H1_financial_excerpt.txt",
+    "sha256": "dc52aee0545f26b1cbaa972ce81069fa82bd5cc00c158ef6084c52cf46d52912"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/ALFEN_2024H1_publication_evidence.txt",
+    "sha256": "2d17cf9d4fc3d4bee8c9d64c35cbe163c4b86ff0495052061191baf28b6e6d7e"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/ALFEN_2025H1_financial_excerpt.txt",
+    "sha256": "d3b1fa28e3ae36d6e33ea64694adee2317fdf23986678f46878297d9213c4915"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/ALFEN_2025H1_publication_evidence.txt",
+    "sha256": "370df6270c657e7ec62a3d26b5824218b558ce0b19475a1fa9c4eb92ce4c5c54"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/ALFEN_2026H1_financial_excerpt.txt",
+    "sha256": "0bce15cbfb921c3ca53e231f83ac85966f07428cc62438721f7c608cbac4f204"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/ALFEN_2026H1_publication_evidence.txt",
+    "sha256": "d5b42216acb7026f1d67a25359d88e5ffceb7e9f8d58f27f316749a508c7cb47"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2021Q2_financial_excerpt.txt",
+    "sha256": "144d0345586fea92e72aa4f2661315914c3c0887c99b3c148781df5d451c9ead"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2021Q2_publication_evidence.txt",
+    "sha256": "0af3ec35e7eebaa8d91dc5cc2216fd9955b8839e55bd88a58028dafb2a935d45"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2021Q3_financial_excerpt.txt",
+    "sha256": "c281b7d79a756356b1d3b0b0deced5a82efb0524ee1cdf04439bcc3b358c270a"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2021Q3_publication_evidence.txt",
+    "sha256": "8b94eaa66b6374c631c0c83a5cbe55be5319a285c8c00938a5c211625b108806"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2022Q1_financial_excerpt.txt",
+    "sha256": "87b7a137aa17a82bd5cd5e236f0961fdfe51e2bd0d40c2b8c499244448c091b0"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2022Q1_publication_evidence.txt",
+    "sha256": "7b31768c531c29f9a5e986b423ffd61a6cb2308159d7c4c43300bd656fdbd45a"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2022Q2_financial_excerpt.txt",
+    "sha256": "9d196a7c86a0370079070f35ec73da02f6f1d8810968900ef0f4264dfcd3977c"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2022Q2_publication_evidence.txt",
+    "sha256": "ebe5c6fc7c66dd0c3117aa93040bd39c3cfc1d32954ad6eb764ac6744d584f31"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2022Q3_financial_excerpt.txt",
+    "sha256": "e5470eaaac4c3a31d01e1b3d227c63b59fe7e6d0a1a3f461e1dbfdda330be75e"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2022Q3_publication_evidence.txt",
+    "sha256": "a93fa0abd7d32f10374a416e8b1e82709eb7de37dd5f3e85dadf9a50822f03bd"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2023Q1_financial_excerpt.txt",
+    "sha256": "a5de912a0d643cf312c9e4f0c207661b47126058d8b84006e8919b0ad2c5f632"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2023Q1_publication_evidence.txt",
+    "sha256": "1d03be3114ca2eb760e94e8157e6f36f989a3d46097f97843588784cff5fe0de"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2023Q2_financial_excerpt.txt",
+    "sha256": "65b438d96f8e8c00c3a6ace09bc253e81dd6bb7551e5c2e2ceedad462e7468ce"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2023Q2_publication_evidence.txt",
+    "sha256": "c2133a78e6e4348d5d27b1a3f84cdd9b28cf17862c74530fe8c744c8f4542fd2"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2023Q3_financial_excerpt.txt",
+    "sha256": "be3f824b01b984168a73cab39eb49445d997d5176adc4504d577705917a243e9"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2023Q3_publication_evidence.txt",
+    "sha256": "43820abf30b05b0b75e49ce89999beff5e6a42886d287c11ed8abef3791a3ae8"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2024Q1_financial_excerpt.txt",
+    "sha256": "d5513d7728b0f8af034a51f40a8fe21fc5d48b0bf924cdd796aad23dabb8e842"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2024Q1_publication_evidence.txt",
+    "sha256": "5887778da2392c8d71b170ac82b84d5bfd649c3d26c708fc2a71967293d347be"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2024Q2_financial_excerpt.txt",
+    "sha256": "a6416771b8692f398ec4693ce2149ea54af26f1215315d872614644928449410"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2024Q2_publication_evidence.txt",
+    "sha256": "8277232ea254c9d4263b214884b36ea900a5a873c71de4dfa1debaa2c21acafe"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2024Q3_financial_excerpt.txt",
+    "sha256": "ec0c95b814074baaa649ea226c50fe0186a28c67d5335ff03d96883dcc6c2da1"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2024Q3_publication_evidence.txt",
+    "sha256": "1316a3c540c3129525c1d9f0b19602c03de3479f0699c502feafc97e1b64aa66"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2025Q1_financial_excerpt.txt",
+    "sha256": "0a068ef9b17971a18937882120b012c985c336487adcbe6c09289c0ec9f334f2"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2025Q1_publication_evidence.txt",
+    "sha256": "18b04c4136bdb6c7875ce7b6fad48e8e6c08a14c3fd3ef85c25654aafb645935"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2025Q2_financial_excerpt.txt",
+    "sha256": "9bd1e8ce445c17608d9e9a87dbc0f6e60814bd034addb37810dc6005b096bd7c"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2025Q2_publication_evidence.txt",
+    "sha256": "c5a5f86f6a4bccdf560916cc33de6ee7ef57b619d0f049d39655806da0a13f1b"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2025Q3_financial_excerpt.txt",
+    "sha256": "0512ffd322bb3dec68a5338c73e76048921bd113ad882d6fed2a2c6f7979a429"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2025Q3_publication_evidence.txt",
+    "sha256": "da8ffad731ee72f6862f0dcc66d41765ab5ac08e1dd35a135e01983e48c7f5e6"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2026Q1_financial_excerpt.txt",
+    "sha256": "33dc100af41c38633880c4668bc4d51b8ab640655b25c81d074a1d6bf42c7047"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2026Q1_publication_evidence.txt",
+    "sha256": "eceb2d97d521cb6fe88eb71c94b8395c13dae9794754897c369927aced4fe40b"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2026Q2_financial_excerpt.txt",
+    "sha256": "2c626e186e266a658d2b298de34383e1e85d62db22876ebffb5a0cc901623dd7"
+  },
+  {
+    "path": "data/eu_interim/sources/energy/NEL_2026Q2_publication_evidence.txt",
+    "sha256": "4b1ded305215a97257d8021c900ada3f4ac0501fd63dd44625a6833e94afaee0"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2021Q2_date.txt",
+    "sha256": "ecb0b6053e5a795201520f48183e925f106cba6610c3385ea4b2d8113786ce77"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2021Q2_facts.txt",
+    "sha256": "4ffb099bed721107bf0c0bed694b6b975b576ca964664375152a5473cf81eb81"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2021Q2_pages.json",
+    "sha256": "d30c5821be8496d83a9211cd980312e651359c49e3720583e1737687e0bfe88a"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2021Q3_date.txt",
+    "sha256": "1be98f11b92df118d542817eb230c1734158e93d01838c1a6b77cfab9954659f"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2021Q3_facts.txt",
+    "sha256": "950cdefd3d9a70f06a0f0131aa4398718ffa79dd93b8fb419cbed24f431e8443"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2021Q3_pages.json",
+    "sha256": "9e2e2e7b4af0c112e94120adbed39832ed06795b77e5c67ebddd7b8ab5566635"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2022Q1_facts.txt",
+    "sha256": "87044d57d1ab1a621dc7a7f427392fddc3a120f019e740a9bf9ac2b27b0be9fb"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2022Q1_pages.json",
+    "sha256": "8ecaea7a07ac6da4c8909c6a77de53dbba95b264a849e65858a68853bcf11a38"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2022Q2_date.txt",
+    "sha256": "b404e8ba9f5a4d065ce0405bef30d4d9049ae32ef559b39a910ecaba93362304"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2022Q2_facts.txt",
+    "sha256": "719210df80b8201340cabe9acc26979ce05cbf298315132ee41750df063be3db"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2022Q2_pages.json",
+    "sha256": "d8b25fcf4ae2d135e631409be20f99e1ad9d31f7fac23d2178201a982047144a"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2022Q3_facts.txt",
+    "sha256": "ddc90cd7115acf4cc3d6c2c8aa5e16bfb23c7177f6618f5dd2e95841980e715a"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2022Q3_pages.json",
+    "sha256": "71e2a3f5c85e96e147c1ecd5f630ef1d2e3d566395f1c78d9a696f1df964d8a7"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2023Q1_facts.txt",
+    "sha256": "926316460751bbbe714cf4a2f1cca246f40a9e4c43fdc544bb6715fd8b23f4c0"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2023Q1_pages.json",
+    "sha256": "2b28583446e767a9437bd3accb1959a6239129fd58e1e2cc0f3db408a6839c0d"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2023Q2_date.txt",
+    "sha256": "5c9b900e81bbd62ed1cde31f01eccc1f789fa8cbd40f19ddb674cbba4e55d6e8"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2023Q2_facts.txt",
+    "sha256": "2ecb971651cd71566c6ae744be7a2e00856fe77575a87208819502cedeb990e8"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2023Q2_pages.json",
+    "sha256": "6c7ea67243670f738eb5a86efe7aaf603b09baa773ee14fdf4db0c9a4964f3bc"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2023Q3_facts.txt",
+    "sha256": "18ba8dd29dc2787814f7c6a522a70a4897687120bf414f04bda4f719809d630c"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2023Q3_pages.json",
+    "sha256": "42a3c0df9d4c666457652a00297e775cb35aa686dbf7936a688ae81b42be3d6e"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2023_annual_pages.json",
+    "sha256": "a2e70d8d2dafa5288ba1e6008266e5613f88eaa40240fc828ce1343aa2057173"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2024Q1_facts.txt",
+    "sha256": "9ac30e5d28d878bada59567fec06771ba2186923db9f291a4ec94bf8a418b1c2"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2024Q1_pages.json",
+    "sha256": "34447c9c215f7b76fe282b6a2693a815e6edb616b4aa10fed1961461925965dc"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2024Q2_date.txt",
+    "sha256": "4e025fb15988eb376aa20fc8a385d069abb0a2d7bae1c1020407df85872eb170"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2024Q2_facts.txt",
+    "sha256": "4054d2a4d555a37ff902b8bd09b87d54def1f10915a8d14412b469b520bc4937"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2024Q2_pages.json",
+    "sha256": "da302070d2d6597102ab6325796c5f8f44ff3705f28e5a85507c8527c732c56b"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2024Q3_facts.txt",
+    "sha256": "48490d06bf25e1917b3ab9b327b7aacd9e443fc1f879df6b14a0193bd018097f"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2024Q3_pages.json",
+    "sha256": "feada216d15d7df18abf8318277b0c4ed10ce86e41ec9e8e0507057f4d45909a"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2025Q1_facts.txt",
+    "sha256": "f487aed764b524a924872ff572af723488725186c3a76fc37470407e904f3a64"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2025Q1_pages.json",
+    "sha256": "f9f5d9267fab4329367afc279d1d0f04ed7772ef0ab6a4ac4e3c38e4004f1bb4"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2025Q2_date.txt",
+    "sha256": "d43d7cd4ac2c31c84bacc88d39c56750a650205ed099e115cff8d92e34496c65"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2025Q2_facts.txt",
+    "sha256": "6501e3b42cf9fbbc440df8a3ee4914b5176b919d8c33778f496157d6d4133766"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2025Q2_pages.json",
+    "sha256": "35b9420a676f7da9e9965b38604c88a4878fe58f4af362622e330ac3abfe5933"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2025Q3_facts.txt",
+    "sha256": "c7e8ca1e4568911864025dbb84db10df9ff829529f1012762aec59ee7a0dd1f0"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2025Q3_pages.json",
+    "sha256": "7e3f31a3e738cfe7d76effce6bfcc5ef1a73fbe620a2d812ccfff2f122c0849b"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2026Q1_facts.txt",
+    "sha256": "c773038b791bc4341889bcb6267d2774cc80c715fa3082b921cc5e757ba26667"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2026Q1_pages.json",
+    "sha256": "bbbbbf4702c7d06f69fe8fcf021a179a5a8c3debd7a5396c03c2e80de1abdf8c"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2026Q2_date.txt",
+    "sha256": "4084bfd0d7c242c2355b9aa0237d4835ea50b3d9204c84debc0615a53f1960f3"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2026Q2_facts.txt",
+    "sha256": "a32f35d136be03655e86b42a5f13d4cd5bc9e2feb78608a9dd795d4d7c4bb291"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/AMS2026Q2_pages.json",
+    "sha256": "e862deae668c9374c7845af6572033430a277afd77fd4ec6507bd06f201a74bb"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2021Q3_facts.txt",
+    "sha256": "39564a9cb08aa5b5cffe57a674c0132df6dc1cfe54de590adb5c61e72f52a0ba"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2021Q3_pages.json",
+    "sha256": "f816f4d399b54fe38110632625fc7a1b1f05e24500ab09c26e81856fa23d1e90"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2022Q1_facts.txt",
+    "sha256": "a3a9595d01420ec281c91810be43f796bb58ac3a3f7456f960006fee41abdac9"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2022Q1_pages.json",
+    "sha256": "72c30cd612ce6ef09cbef61088a84e89bf8119a0bb36feb8a2977388cb600016"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2022Q2_facts.txt",
+    "sha256": "200330b615bcabf9aa521c30ec6f66d6db533ab47d82bbb3b8c9be3cdc6f9617"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2022Q2_pages.json",
+    "sha256": "25cb6ffdafa79546ac62d3caf494fcbfac053941df573cbeedc8ae6486a56d5f"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2022Q3_facts.txt",
+    "sha256": "b15ab2e3acb104dd8a705efe693e0f7fdf58d6124a9cdfd3720b69bbeb992faf"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2022Q3_pages.json",
+    "sha256": "d0e0b6bd4ecfb53d9527a424410cf43fe78b9180006c669ee2d6adebb486ef71"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2022_annual_pages.json",
+    "sha256": "199342ba0d0ac64dee2be53f3e77b7bf727bc323693b1ef6ef7e6c07abc1c5d9"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2022_revised_Feb2023_pages.json",
+    "sha256": "b43e8c2cba82e378de1ad27b149a71a9a27d8213a40d1e87e106b674f9f90704"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2023Q1_facts.txt",
+    "sha256": "31ecf322b3d36976ffa60333b48ad40fe99b64d04e9c8ae8d0eb06ece73395b0"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2023Q1_pages.json",
+    "sha256": "b4b0d1c6a0d4de54d59f4c1a7b1b21e97ab515d39ef9d9eac61852832e54892a"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2023Q2_facts.txt",
+    "sha256": "44a4057d43fe56a2271a538e2ed217d97a4e2651218df946bfddc1858008849d"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2023Q2_pages.json",
+    "sha256": "d084f87ca7b1b3417900f43fe04579c4bc04c66f9f379642230b4303ef3d75b8"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2023Q3_facts.txt",
+    "sha256": "d0ecbc0ac305d847e5362fa406376dbc218b7a5999983d884b7760429ac5d15c"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2023Q3_pages.json",
+    "sha256": "4da8a2f4c123197583c51d076a8b869308775e474a967b1e12b2e0d209ba321c"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2024Q1_facts.txt",
+    "sha256": "be4fd58792a83d2078c3374ededb36c50c09874186b7b19495d94b7b0c894450"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2024Q1_pages.json",
+    "sha256": "5d934ee4cb6b2583557c70f073148e26ca6bf1fe0fb216d1f41a64c4c352e5bb"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2024Q2_facts.txt",
+    "sha256": "17a9f9c6ee9798b6336952f7ef867599234738e16d3511e410fbe187c55821f3"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2024Q2_pages.json",
+    "sha256": "17a097063e187580e95d500bfabeb0d450f27384653db16ba01805e0bbf38eb6"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2024Q3_facts.txt",
+    "sha256": "d573447f3369f67307369d5cdd23dbf0b8f9bc83457dbdc0d9a580529b4e50df"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2024Q3_pages.json",
+    "sha256": "e3f0b4186f849cd0350d5561b090301c6548f85f05da52c9860fca4007ccb564"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2025Q1_facts.txt",
+    "sha256": "cb12aac4468d08fad3e1998a811d7acc7c4b2b1011f813a53288caad961fbe4c"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2025Q1_pages.json",
+    "sha256": "3c18e8c522710ea1c491f6857222e67a9a79e60f3ee0505a87d218673c27b51b"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2025Q2_facts.txt",
+    "sha256": "789d41fac4e704447b85967a0cb342eb91ad0854558efb4cec04142541b9606b"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2025Q2_pages.json",
+    "sha256": "1427498b81ea6d1b5683616a9a9690927dacc76f0a163120bd588a17dd6f6a9c"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2025Q3_facts.txt",
+    "sha256": "97a9aedca5c9266612e1544a80410d6bb7325b852ce90868160243fe6c161a88"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2025Q3_pages.json",
+    "sha256": "879f080726ecfee56b367d99eab304bf2a1ea1aeaeaaa907991368af17909dab"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2026Q1_facts.txt",
+    "sha256": "814c4110574ac63d49e5ad96df641a9d047a414ca8b6b02dac097c510d64d8cd"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2026Q1_pages.json",
+    "sha256": "939ae6ea616306da83c56670554b987c92d98d2755ac379414411ab7681f307f"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2026Q2_facts.txt",
+    "sha256": "39df611beee848a8b7f60207afcf2c2f3b21baf9f678f0a0edc81f153573f7c4"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2026Q2_pages.json",
+    "sha256": "c8b10ed3ed049c92b1e957ec2cd651502b79c2c6ac81631ed06e887dc9299dcf"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2026Q3_facts.txt",
+    "sha256": "bc7e5b4590992ba38f9d5d337bbf08d4b918f814a332e8a2c445a32ef2577d8b"
+  },
+  {
+    "path": "data/eu_interim/sources/industry/ENR2026Q3_pages.json",
+    "sha256": "8933a5a8ffbf3935ff759bf4c3fb9751979470ddd0dd0427f1ec42b377836265"
+  },
+  {
+    "path": "data/eu_interim/sources/safran/download_sources.py",
+    "sha256": "542d462a3363576710002bcf95d61bbe21eff42e5285bc6ae30987e703ab5034"
+  },
+  {
+    "path": "data/eu_interim/sources/safran/verified_facts.json",
+    "sha256": "93e9a1e8dfd279daaad5d8d3ebab6f9bf563cd3d3cbe70635a7774a266f4d87f"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2021Q2_financial_excerpt.txt",
+    "sha256": "f82ab11693e3237bd5bb72c6da67bcf6d4dc0288b08cc5f7d843d23194118ea8"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2021Q2_publication_evidence.txt",
+    "sha256": "abbd438eb657179526ed8b3123192815d32e27191e3c27fdf8ee87bd00d5721a"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2021Q3_financial_excerpt.txt",
+    "sha256": "bdff9da2730d290c83dfaa0e9ecbe3331926cfea451844b496fe98305e8b6e0f"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2021Q3_publication_evidence.txt",
+    "sha256": "b85b5e905e552d5a68bb92a69a7540ae686b8d8364dc2278f8bb0efe51fd7fb2"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2022Q1_financial_excerpt.txt",
+    "sha256": "95a59b2e749ddb663990bfcb87bb9b7401aeedb59091ed8b0f3151c0414b53ec"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2022Q1_publication_evidence.txt",
+    "sha256": "9681f3c0789a7813f908fdba311ff97ee1a46d334f56e0257ddf45294b509823"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2022Q2_financial_excerpt.txt",
+    "sha256": "296a7e932ba835a00d6147356f6b8cbd4d7a73d8ff7c30c4e14d19bbc167e9c6"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2022Q2_publication_evidence.txt",
+    "sha256": "4b4d75b59bc7f97f04e1e412b1a86a38c1c568c251ad9c608dc0bbf1e4daf837"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2022Q3_financial_excerpt.txt",
+    "sha256": "59a29d976face9353bef14a842a922078a831f2a34f46697f8b43ad3d102d5de"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2022Q3_publication_evidence.txt",
+    "sha256": "421033bd9cdf20d7b3242a8d42cffef89b6d182b812d989e050c1d0e8c7ffe1e"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2023Q1_financial_excerpt.txt",
+    "sha256": "5183192e59f998da06263e40fd5e464d321a33025087a0f2d327be336fd9a634"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2023Q1_publication_evidence.txt",
+    "sha256": "c2655b00edb0a7d7fd1dfd517f042ec7a66b5614f222c14c872caf3d770bdf11"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2023Q2_financial_excerpt.txt",
+    "sha256": "7eb3ba8b804ef8f7d9a5956127a64bb352886712f0a47f69514db026d75af783"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2023Q2_publication_evidence.txt",
+    "sha256": "18c7ebf1a08b8dc179e2c62404001fe01c20aee6e1a809a8ea090b48badec81e"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2023Q3_financial_excerpt.txt",
+    "sha256": "801de3c0543927c16725e59d5ed6247b7d99203f4535894d3cf56d75d397bbc9"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2023Q3_publication_evidence.txt",
+    "sha256": "256aae09ad1942a3188ab8ad1572e59570a1cd0550925e738a8cfa3edb7ef572"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2024Q1_financial_excerpt.txt",
+    "sha256": "8594fe2737c80d97bc9a92e6aee3b5e8ace4a3936b42ca7aa8bf77a1e2420369"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2024Q1_publication_evidence.txt",
+    "sha256": "441c0b1b78a492d55d1f9f3adf0cf0cb3eb13333e846565a9b95c1068d809944"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2024Q2_financial_excerpt.txt",
+    "sha256": "690e26f0c6a56fc328bddaf2fb1ba5e586a3d3cb20986c953491213e00abd051"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2024Q2_publication_evidence.txt",
+    "sha256": "b5f04a9a219fd584601cefc1a113767563504aef0f4f455ec3fc67f49c011a20"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2024Q3_financial_excerpt.txt",
+    "sha256": "eadae10f15f29a04e75ba0553e0fa60da62e256a864b9cd11da5d9e3afb8c276"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2024Q3_publication_evidence.txt",
+    "sha256": "bfc8828fae333127962d960cb899b7132a304fff57319e398551e36255fde195"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2025Q1_financial_excerpt.txt",
+    "sha256": "ade3441f03cd41ac4a1c9f31f8f8a094ee72b1d76e1b3374d998ff26dc17a818"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2025Q1_publication_evidence.txt",
+    "sha256": "964dad72b18725be0d90ead055b2c4ec0b3fd809e4a1b75f3ed4a21702d8b899"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2025Q2_financial_excerpt.txt",
+    "sha256": "dc92ffd08768e77dc808c2520b40f55c31d537c7400f53549f493dc14a162004"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2025Q2_publication_evidence.txt",
+    "sha256": "212f09220533c5000547a69381bf485dd5d4910659dbb9f9fec7c737fa31137d"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2025Q3_financial_excerpt.txt",
+    "sha256": "5cc8a90f6a15a487ddca37512b73d59184e044baf8a903faaaf31ae3ff7f5117"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2025Q3_publication_evidence.txt",
+    "sha256": "cc88939de7d24c66f25803ab0695744f9519770f3452fdaf3f0b1f33539b61a9"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2026Q1_financial_excerpt.txt",
+    "sha256": "075d154a0366668aea54460598261c67653140ca2a8a0dfc607065beb7b6e65e"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2026Q1_publication_evidence.txt",
+    "sha256": "34cad2c702cd88518759130976ad2b3dda0d8c340147d053099422c57c82e285"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2026Q2_financial_excerpt.txt",
+    "sha256": "870f428abae08ca36563c54b6ed2eb33f740bffdd708467e6ad7143582d8023a"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/ORSTED2026Q2_publication_evidence.txt",
+    "sha256": "2a3c3e7c1f1d7a39b379a5c68321d4027ff4edc019618adcd2ab42639bf08d85"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2021Q2_financial_excerpt.txt",
+    "sha256": "4a7244f73d85f89589628e2b0a60b854fef3595e1da7a57171a7ee91f5969793"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2021Q2_publication_evidence.txt",
+    "sha256": "9006d551d73d2b48e8aa5c16c6bdc15c78ea6cb7a1e3e7a951add3948fa0d257"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2021Q3_financial_excerpt.txt",
+    "sha256": "77ed0d87241bff1cfda2a7f9dcf585a07a8a211010341ad1cf3097f19af05353"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2021Q3_publication_evidence.txt",
+    "sha256": "200dc1f7f4438baab5e144020908436b0dbbf1ee9704e9cd9f842f7890411e49"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2022Q1_financial_excerpt.txt",
+    "sha256": "ab5995a95d865110207cda2207e3b05b30aecb82708551267c40d2ba69b9c5e5"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2022Q1_publication_evidence.txt",
+    "sha256": "cdaaa18cd1bba5416f0f63998eb18f2a08bdcbd1f6924985d5a854cf3f7bf998"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2022Q2_financial_excerpt.txt",
+    "sha256": "7922a55e286a74c20ea8f514996c290d4eda78c9fe27a298dff92a8988e7a07d"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2022Q2_publication_evidence.txt",
+    "sha256": "8b4dc512eead262e064ee15d2fcc4bbd373983dbc8b670e600e0d3d1ce285e54"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2022Q3_financial_excerpt.txt",
+    "sha256": "bdcb1633d11a38b20086ee88e8e0ca292bc90044c33850632361395ae33a849b"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2022Q3_publication_evidence.txt",
+    "sha256": "5ef1797649f7e03745137db22ad768cbd5c32b0419f8481081aa6353e907bce1"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2023Q1_financial_excerpt.txt",
+    "sha256": "46e59b5b30a4e8764e3f6be9aa9bb537e5a53c10d4959b76042de9aa2e98ed98"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2023Q1_publication_evidence.txt",
+    "sha256": "9e5c4eea42846ea77678bac06c2cfdc35968c3ace52349f490ddf1ec63838606"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2023Q2_financial_excerpt.txt",
+    "sha256": "9591bbfee041259cab080c793755ab221a724d50318435feababf206813cfa3a"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2023Q2_publication_evidence.txt",
+    "sha256": "938deaf222c572db6e076bf731fb06c8430c08f1d40f810cd5ff3e2f4772bc94"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2023Q3_financial_excerpt.txt",
+    "sha256": "af19d38f5dbf1287a59eea2f7398d3d4c3eaee2b6903215f2fa27e134f724d8f"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2023Q3_publication_evidence.txt",
+    "sha256": "0efd635db7b39447bba30c8efc55a314ae80117159bc5774f19410c37ece7081"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2024Q1_financial_excerpt.txt",
+    "sha256": "56e32026125fda1b4f1b588aa0efd923c8ef633263a00981016e7dcfaef799cb"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2024Q1_publication_evidence.txt",
+    "sha256": "a564cb10ebc8a212a88ab6bde35c601d794fbaa4f28fea068c0cbe6f3f71956e"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2024Q2_financial_excerpt.txt",
+    "sha256": "3eb748836115e807a73cff42530de9827e9031e86abd692166c4c09033ab2a3f"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2024Q2_publication_evidence.txt",
+    "sha256": "4622e958d2ed2dc620a7810eef84fd70f8c517c3a8435a9db8b7432ec4ee05c0"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2024Q3_financial_excerpt.txt",
+    "sha256": "3d6a4ada63b0a3d01c451d88be725d127ff6acd98285f2013c59344c69d244f1"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2024Q3_publication_evidence.txt",
+    "sha256": "2134002c6376723994bb712cb7ddcc7b6e3a18c3be27d8a903031f5875b988b5"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2025Q1_financial_excerpt.txt",
+    "sha256": "46e7f4eebd06d54e4fcea74ffafaa7fff88655e03dc88c7a38cf37ecc9911d1f"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2025Q1_publication_evidence.txt",
+    "sha256": "2c30ad9d6641185365e8c8b0cdf8ba248bf49120f59421dff7e2e28f311208bc"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2025Q2_financial_excerpt.txt",
+    "sha256": "09dae619cc328552fec50c97cc30857cbc9c63e628b0b54c34fe9c0835cadd34"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2025Q2_publication_evidence.txt",
+    "sha256": "4493b58c56a47d9f3612b7b271d23c6aecb85f1720c23ad515ab186c771e6ab5"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2025Q3_financial_excerpt.txt",
+    "sha256": "73b23e8ccf55fe7f3af7dfecf44b23973278a674485b735f0f09b30f30fe09df"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2025Q3_publication_evidence.txt",
+    "sha256": "a36285f0999c5797b8cbaf23c944f7bdc5bb0c8cbe2662785d8b70e6712fab54"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2026Q1_financial_excerpt.txt",
+    "sha256": "ceeea42bea3d534a53841d745174f2a134dad9c2081a0ec7730066b95567f16c"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2026Q1_publication_evidence.txt",
+    "sha256": "34b1d39289fa4f9d48a43d4a82af202800a8036981bc8367b835383cf6ddeca3"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2026Q2_financial_excerpt.txt",
+    "sha256": "e8e8ab41df80201063839a541240df4a07e90419d1e72bb7d772e63252c44438"
+  },
+  {
+    "path": "data/eu_interim/sources/wind/VWS2026Q2_publication_evidence.txt",
+    "sha256": "80fa863b7f830cad2b07cc934f378488bb59f9d972c3af51f2e3ed0abc310495"
+  },
+  {
+    "path": "data/eu_interim/trailing_inputs.json",
+    "sha256": "26bce1ea1bb6dca29733031f71ba597a42b56e7eddd14c77b8df731e9546a25e"
+  },
+  {
+    "path": "run_eu_interim.py",
+    "sha256": "540aedb52c67a505e7878ddb71fd1134e0502534e891cbfcce24f429220df4f3"
+  },
+  {
+    "path": "run_eu_restoration.py",
+    "sha256": "52fdc0fac0d8ff9aec98b7463654dbe7a0e37824e27697e0d642203adf2c6ac9"
+  }
+]

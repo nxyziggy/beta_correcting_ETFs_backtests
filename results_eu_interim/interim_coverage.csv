@@ -1,0 +1,8 @@
+ticker,expected_interims,recovered_interims,usable_ttm,covered_months,ttm_score_months,annual_score_months,latest_interim,earliest_available
+ALFEN.AS,6,6,6,62,32,30,2026-06-30,2021-08-27
+AMS.SW,16,16,16,62,57,5,2026-06-30,2021-07-30
+ENR.DE,16,16,16,62,52,10,2026-06-30,2021-08-04
+NEL.OL,16,16,16,62,53,9,2026-06-30,2021-08-19
+ORSTED.CO,16,16,16,62,48,14,2026-06-30,2021-08-12
+SAF.PA,6,6,6,62,38,24,2026-06-30,2021-08-04
+VWS.CO,16,16,16,62,47,15,2026-06-30,2021-08-11

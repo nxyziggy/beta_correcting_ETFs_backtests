@@ -1,0 +1,265 @@
+[
+  {
+    "ticker": "SAF.PA",
+    "fiscal_year": 2021,
+    "fiscal_quarter": 2,
+    "period_end": "2021-06-30",
+    "publication_date": "2021-08-04",
+    "availability_date": "2021-08-04",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": 156,
+      "net_income": 687,
+      "operating_cash_flow": 1030
+    },
+    "prior_ytd": {
+      "operating_income": 715,
+      "net_income": -325,
+      "operating_cash_flow": 1322
+    },
+    "total_assets": 39983,
+    "current_liabilities": 17758,
+    "income_source": "https://www.safran-group.com/download/media/404856",
+    "balance_source": "https://www.safran-group.com/download/media/404856",
+    "cashflow_source": "https://www.safran-group.com/download/media/404856",
+    "date_source": "https://www.safran-group.com/pressroom/safran-announces-availability-its-2021-interim-financial-report-2021-08-04",
+    "ttm_compatible": true,
+    "evidence": {
+      "pdf_pages_one_based": {
+        "income": 13,
+        "balance": 16,
+        "cashflow": 18
+      },
+      "flow_columns": [
+        "H1 2020",
+        "H1 2021"
+      ],
+      "cashflow_label": "Total I"
+    },
+    "notes": [
+      "Reported consolidated IFRS profit from operations, total group profit and operating cash flow after working-capital changes. No adjusted income or free-cash-flow substitution.",
+      "Prior YTD column matches the preceding original interim statement for all three flow metrics (where prior collected), no unresolved flow restatement identified.",
+      "Conservative evidenced complete interim-report availability date used; earlier preliminary financial releases may have contained the same values. No claim of earliest possible availability."
+    ]
+  },
+  {
+    "ticker": "SAF.PA",
+    "fiscal_year": 2022,
+    "fiscal_quarter": 2,
+    "period_end": "2022-06-30",
+    "publication_date": "2022-08-03",
+    "availability_date": "2022-08-03",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": 876,
+      "net_income": -3747,
+      "operating_cash_flow": 2072
+    },
+    "prior_ytd": {
+      "operating_income": 156,
+      "net_income": 687,
+      "operating_cash_flow": 1030
+    },
+    "total_assets": 45551,
+    "current_liabilities": 26618,
+    "income_source": "https://www.safran-group.com/download/media/419356",
+    "balance_source": "https://www.safran-group.com/download/media/419356",
+    "cashflow_source": "https://www.safran-group.com/download/media/419356",
+    "date_source": "https://www.safran-group.com/pressroom/safran-announces-availability-its-2022-interim-financial-report-2022-08-03",
+    "ttm_compatible": true,
+    "evidence": {
+      "pdf_pages_one_based": {
+        "income": 20,
+        "balance": 22,
+        "cashflow": 24
+      },
+      "flow_columns": [
+        "H1 2021",
+        "H1 2022"
+      ],
+      "cashflow_label": "Total I"
+    },
+    "notes": [
+      "Reported consolidated IFRS profit from operations, total group profit and operating cash flow after working-capital changes. No adjusted income or free-cash-flow substitution.",
+      "Prior YTD column matches the preceding original interim statement for all three flow metrics (where prior collected), no unresolved flow restatement identified.",
+      "Conservative evidenced complete interim-report availability date used; earlier preliminary financial releases may have contained the same values. No claim of earliest possible availability.",
+      "Issuer availability press release has a stale template sentence referring to August4 2021; dated headline and official financial archive both establish August3 2022."
+    ]
+  },
+  {
+    "ticker": "SAF.PA",
+    "fiscal_year": 2023,
+    "fiscal_quarter": 2,
+    "period_end": "2023-06-30",
+    "publication_date": "2023-07-27",
+    "availability_date": "2023-07-27",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": 1349,
+      "net_income": 1905,
+      "operating_cash_flow": 2063
+    },
+    "prior_ytd": {
+      "operating_income": 876,
+      "net_income": -3747,
+      "operating_cash_flow": 2072
+    },
+    "total_assets": 48262,
+    "current_liabilities": 29049,
+    "income_source": "https://www.safran-group.com/download/media/432771",
+    "balance_source": "https://www.safran-group.com/download/media/432771",
+    "cashflow_source": "https://www.safran-group.com/download/media/432771",
+    "date_source": "https://www.safran-group.com/finance/publications-results?items_per_page=All&page=3&years%5B0%5D=3590-2023",
+    "ttm_compatible": true,
+    "evidence": {
+      "pdf_pages_one_based": {
+        "income": 13,
+        "balance": 16,
+        "cashflow": 18
+      },
+      "flow_columns": [
+        "H1 2022",
+        "H1 2023"
+      ],
+      "cashflow_label": "Total I"
+    },
+    "notes": [
+      "Reported consolidated IFRS profit from operations, total group profit and operating cash flow after working-capital changes. No adjusted income or free-cash-flow substitution.",
+      "Prior YTD column matches the preceding original interim statement for all three flow metrics (where prior collected), no unresolved flow restatement identified."
+    ]
+  },
+  {
+    "ticker": "SAF.PA",
+    "fiscal_year": 2024,
+    "fiscal_quarter": 2,
+    "period_end": "2024-06-30",
+    "publication_date": "2024-08-05",
+    "availability_date": "2024-08-05",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": 1944,
+      "net_income": 106,
+      "operating_cash_flow": 2220
+    },
+    "prior_ytd": {
+      "operating_income": 1349,
+      "net_income": 1905,
+      "operating_cash_flow": 2063
+    },
+    "total_assets": 53015,
+    "current_liabilities": 34116,
+    "income_source": "https://www.safran-group.com/download/media/441806",
+    "balance_source": "https://www.safran-group.com/download/media/441806",
+    "cashflow_source": "https://www.safran-group.com/download/media/441806",
+    "date_source": "https://www.safran-group.com/download/press_release/file/2240180",
+    "ttm_compatible": true,
+    "evidence": {
+      "pdf_pages_one_based": {
+        "income": 15,
+        "balance": 18,
+        "cashflow": 19
+      },
+      "flow_columns": [
+        "H1 2023",
+        "H1 2024"
+      ],
+      "cashflow_label": "Total I"
+    },
+    "notes": [
+      "Reported consolidated IFRS profit from operations, total group profit and operating cash flow after working-capital changes. No adjusted income or free-cash-flow substitution.",
+      "Prior YTD column matches the preceding original interim statement for all three flow metrics (where prior collected), no unresolved flow restatement identified.",
+      "Conservative evidenced complete interim-report availability date used; earlier preliminary financial releases may have contained the same values. No claim of earliest possible availability."
+    ]
+  },
+  {
+    "ticker": "SAF.PA",
+    "fiscal_year": 2025,
+    "fiscal_quarter": 2,
+    "period_end": "2025-06-30",
+    "publication_date": "2025-08-05",
+    "availability_date": "2025-08-05",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": 2431,
+      "net_income": 5112,
+      "operating_cash_flow": 2622
+    },
+    "prior_ytd": {
+      "operating_income": 1944,
+      "net_income": 106,
+      "operating_cash_flow": 2220
+    },
+    "total_assets": 56091,
+    "current_liabilities": 37472,
+    "income_source": "https://www.safran-group.com/download/media/448922",
+    "balance_source": "https://www.safran-group.com/download/media/448922",
+    "cashflow_source": "https://www.safran-group.com/download/media/448922",
+    "date_source": "https://www.safran-group.com/finance/regulated-information",
+    "ttm_compatible": true,
+    "evidence": {
+      "pdf_pages_one_based": {
+        "income": 14,
+        "balance": 16,
+        "cashflow": 18
+      },
+      "flow_columns": [
+        "H1 2024",
+        "H1 2025"
+      ],
+      "cashflow_label": "Total I"
+    },
+    "notes": [
+      "Reported consolidated IFRS profit from operations, total group profit and operating cash flow after working-capital changes. No adjusted income or free-cash-flow substitution.",
+      "Prior YTD column matches the preceding original interim statement for all three flow metrics (where prior collected), no unresolved flow restatement identified.",
+      "Conservative evidenced complete interim-report availability date used; earlier preliminary financial releases may have contained the same values. No claim of earliest possible availability."
+    ]
+  },
+  {
+    "ticker": "SAF.PA",
+    "fiscal_year": 2026,
+    "fiscal_quarter": 2,
+    "period_end": "2026-06-30",
+    "publication_date": "2026-07-28",
+    "availability_date": "2026-07-28",
+    "currency": "EUR",
+    "unit": "million",
+    "ytd": {
+      "operating_income": 2459,
+      "net_income": 1800,
+      "operating_cash_flow": 3596
+    },
+    "prior_ytd": {
+      "operating_income": 2431,
+      "net_income": 5112,
+      "operating_cash_flow": 2622
+    },
+    "total_assets": 66393,
+    "current_liabilities": 44808,
+    "income_source": "https://www.safran-group.com/download/media/451695",
+    "balance_source": "https://www.safran-group.com/download/media/451695",
+    "cashflow_source": "https://www.safran-group.com/download/media/451695",
+    "date_source": "https://www.safran-group.com/finance/publications-results?type%5B0%5D=result",
+    "ttm_compatible": true,
+    "evidence": {
+      "pdf_pages_one_based": {
+        "income": 9,
+        "balance": 11,
+        "cashflow": 13
+      },
+      "flow_columns": [
+        "H1 2025",
+        "H1 2026"
+      ],
+      "cashflow_label": "Total I"
+    },
+    "notes": [
+      "Reported consolidated IFRS profit from operations, total group profit and operating cash flow after working-capital changes. No adjusted income or free-cash-flow substitution.",
+      "Prior YTD column matches the preceding original interim statement for all three flow metrics (where prior collected), no unresolved flow restatement identified."
+    ]
+  }
+]
