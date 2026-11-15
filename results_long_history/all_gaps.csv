@@ -1,0 +1,897 @@
+region,window,timing,date,ticker,listed_at_cutoff,reason
+US,timing_repair,source,2022-09-30,GEV,False,not yet regularly listed
+US,timing_repair,source,2022-10-31,GEV,False,not yet regularly listed
+US,timing_repair,source,2022-11-30,GEV,False,not yet regularly listed
+US,timing_repair,source,2022-12-31,GEV,False,not yet regularly listed
+US,timing_repair,source,2023-01-31,GEV,False,not yet regularly listed
+US,timing_repair,source,2023-02-28,GEV,False,not yet regularly listed
+US,timing_repair,source,2023-03-31,GEV,False,not yet regularly listed
+US,timing_repair,source,2023-04-30,GEV,False,not yet regularly listed
+US,timing_repair,source,2023-05-31,GEV,False,not yet regularly listed
+US,timing_repair,source,2023-06-30,GEV,False,not yet regularly listed
+US,timing_repair,source,2023-07-31,GEV,False,not yet regularly listed
+US,timing_repair,source,2023-08-31,GEV,False,not yet regularly listed
+US,timing_repair,source,2023-09-30,GEV,False,not yet regularly listed
+US,timing_repair,source,2023-10-31,GEV,False,not yet regularly listed
+US,timing_repair,source,2023-11-30,GEV,False,not yet regularly listed
+US,timing_repair,source,2023-12-31,GEV,False,not yet regularly listed
+US,timing_repair,source,2024-01-31,GEV,False,not yet regularly listed
+US,timing_repair,source,2024-02-29,GEV,False,not yet regularly listed
+US,timing_repair,source,2024-03-31,GEV,False,not yet regularly listed
+US,timing_repair,delay_legacy,2022-09-30,MCHP,True,no usable dated financial observation
+US,timing_repair,delay_legacy,2022-09-30,GEV,False,not yet regularly listed
+US,timing_repair,delay_legacy,2022-10-31,GEV,False,not yet regularly listed
+US,timing_repair,delay_legacy,2022-11-30,GEV,False,not yet regularly listed
+US,timing_repair,delay_legacy,2022-12-31,LRCX,True,no usable dated financial observation
+US,timing_repair,delay_legacy,2022-12-31,GEV,False,not yet regularly listed
+US,timing_repair,delay_legacy,2023-01-31,GEV,False,not yet regularly listed
+US,timing_repair,delay_legacy,2023-02-28,GEV,False,not yet regularly listed
+US,timing_repair,delay_legacy,2023-03-31,GEV,False,not yet regularly listed
+US,timing_repair,delay_legacy,2023-04-30,GEV,False,not yet regularly listed
+US,timing_repair,delay_legacy,2023-05-31,GEV,False,not yet regularly listed
+US,timing_repair,delay_legacy,2023-06-30,INTC,True,no usable dated financial observation
+US,timing_repair,delay_legacy,2023-06-30,GEV,False,not yet regularly listed
+US,timing_repair,delay_legacy,2023-07-31,GEV,False,not yet regularly listed
+US,timing_repair,delay_legacy,2023-08-31,GEV,False,not yet regularly listed
+US,timing_repair,delay_legacy,2023-09-30,GEV,False,not yet regularly listed
+US,timing_repair,delay_legacy,2023-10-31,GEV,False,not yet regularly listed
+US,timing_repair,delay_legacy,2023-11-30,GEV,False,not yet regularly listed
+US,timing_repair,delay_legacy,2023-12-31,LRCX,True,no usable dated financial observation
+US,timing_repair,delay_legacy,2023-12-31,GEV,False,not yet regularly listed
+US,timing_repair,delay_legacy,2024-01-31,GEV,False,not yet regularly listed
+US,timing_repair,delay_legacy,2024-02-29,GEV,False,not yet regularly listed
+US,timing_repair,delay_legacy,2024-03-31,GEV,False,not yet regularly listed
+US,timing_repair,delay_adjusted,2022-09-30,MCHP,True,no usable dated financial observation
+US,timing_repair,delay_adjusted,2022-09-30,GEV,False,not yet regularly listed
+US,timing_repair,delay_adjusted,2022-10-31,GEV,False,not yet regularly listed
+US,timing_repair,delay_adjusted,2022-11-30,GEV,False,not yet regularly listed
+US,timing_repair,delay_adjusted,2022-12-31,GEV,False,not yet regularly listed
+US,timing_repair,delay_adjusted,2023-01-31,GEV,False,not yet regularly listed
+US,timing_repair,delay_adjusted,2023-02-28,GEV,False,not yet regularly listed
+US,timing_repair,delay_adjusted,2023-03-31,GEV,False,not yet regularly listed
+US,timing_repair,delay_adjusted,2023-04-30,GEV,False,not yet regularly listed
+US,timing_repair,delay_adjusted,2023-05-31,GEV,False,not yet regularly listed
+US,timing_repair,delay_adjusted,2023-06-30,GEV,False,not yet regularly listed
+US,timing_repair,delay_adjusted,2023-07-31,GEV,False,not yet regularly listed
+US,timing_repair,delay_adjusted,2023-08-31,GEV,False,not yet regularly listed
+US,timing_repair,delay_adjusted,2023-09-30,GEV,False,not yet regularly listed
+US,timing_repair,delay_adjusted,2023-10-31,GEV,False,not yet regularly listed
+US,timing_repair,delay_adjusted,2023-11-30,GEV,False,not yet regularly listed
+US,timing_repair,delay_adjusted,2023-12-31,GEV,False,not yet regularly listed
+US,timing_repair,delay_adjusted,2024-01-31,GEV,False,not yet regularly listed
+US,timing_repair,delay_adjusted,2024-02-29,GEV,False,not yet regularly listed
+US,timing_repair,delay_adjusted,2024-03-31,GEV,False,not yet regularly listed
+EU,timing_repair,source,2021-09-30,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,source,2021-10-31,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,source,2021-11-30,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,source,2021-12-31,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,source,2022-01-31,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,source,2022-02-28,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,source,2022-03-31,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,source,2023-06-30,EDF.PA,False,delisted
+EU,timing_repair,source,2023-07-31,EDF.PA,False,delisted
+EU,timing_repair,source,2023-08-31,EDF.PA,False,delisted
+EU,timing_repair,source,2023-09-30,EDF.PA,False,delisted
+EU,timing_repair,source,2023-10-31,EDF.PA,False,delisted
+EU,timing_repair,source,2023-11-30,EDF.PA,False,delisted
+EU,timing_repair,source,2023-12-31,EDF.PA,False,delisted
+EU,timing_repair,source,2024-01-31,EDF.PA,False,delisted
+EU,timing_repair,source,2024-02-29,EDF.PA,False,delisted
+EU,timing_repair,source,2024-03-31,EDF.PA,False,delisted
+EU,timing_repair,source,2024-04-30,EDF.PA,False,delisted
+EU,timing_repair,source,2024-05-31,EDF.PA,False,delisted
+EU,timing_repair,source,2024-06-30,EDF.PA,False,delisted
+EU,timing_repair,source,2024-07-31,EDF.PA,False,delisted
+EU,timing_repair,source,2024-08-31,EDF.PA,False,delisted
+EU,timing_repair,source,2024-09-30,EDF.PA,False,delisted
+EU,timing_repair,source,2024-10-31,EDF.PA,False,delisted
+EU,timing_repair,source,2024-11-30,EDF.PA,False,delisted
+EU,timing_repair,source,2024-12-31,EDF.PA,False,delisted
+EU,timing_repair,source,2025-01-31,EDF.PA,False,delisted
+EU,timing_repair,source,2025-02-28,EDF.PA,False,delisted
+EU,timing_repair,source,2025-03-31,EDF.PA,False,delisted
+EU,timing_repair,source,2025-04-30,EDF.PA,False,delisted
+EU,timing_repair,source,2025-05-31,EDF.PA,False,delisted
+EU,timing_repair,source,2025-06-30,EDF.PA,False,delisted
+EU,timing_repair,source,2025-07-31,EDF.PA,False,delisted
+EU,timing_repair,source,2025-08-31,EDF.PA,False,delisted
+EU,timing_repair,source,2025-09-30,EDF.PA,False,delisted
+EU,timing_repair,source,2025-10-31,EDF.PA,False,delisted
+EU,timing_repair,source,2025-11-30,EDF.PA,False,delisted
+EU,timing_repair,source,2025-12-31,EDF.PA,False,delisted
+EU,timing_repair,source,2026-01-31,EDF.PA,False,delisted
+EU,timing_repair,source,2026-02-28,EDF.PA,False,delisted
+EU,timing_repair,source,2026-03-31,EDF.PA,False,delisted
+EU,timing_repair,source,2026-04-30,EDF.PA,False,delisted
+EU,timing_repair,source,2026-05-31,EDF.PA,False,delisted
+EU,timing_repair,source,2026-06-30,EDF.PA,False,delisted
+EU,timing_repair,source,2026-07-31,EDF.PA,False,delisted
+EU,timing_repair,source,2026-08-31,EDF.PA,False,delisted
+EU,timing_repair,source,2026-09-30,EDF.PA,False,delisted
+EU,timing_repair,source,2026-10-31,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2021-09-30,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,delay_legacy,2021-10-31,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,delay_legacy,2021-11-30,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,delay_legacy,2021-12-31,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,delay_legacy,2022-01-31,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,delay_legacy,2022-02-28,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,delay_legacy,2022-03-31,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,delay_legacy,2022-04-30,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,delay_legacy,2022-05-31,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,delay_legacy,2022-06-30,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,delay_legacy,2023-06-30,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2023-07-31,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2023-08-31,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2023-09-30,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2023-10-31,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2023-11-30,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2023-12-31,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2024-01-31,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2024-02-29,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2024-03-31,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2024-04-30,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2024-05-31,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2024-06-30,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2024-07-31,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2024-08-31,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2024-09-30,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2024-10-31,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2024-11-30,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2024-12-31,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2025-01-31,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2025-02-28,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2025-03-31,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2025-04-30,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2025-05-31,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2025-06-30,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2025-07-31,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2025-08-31,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2025-09-30,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2025-10-31,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2025-11-30,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2025-12-31,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2026-01-31,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2026-02-28,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2026-03-31,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2026-04-30,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2026-05-31,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2026-06-30,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2026-07-31,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2026-08-31,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2026-09-30,EDF.PA,False,delisted
+EU,timing_repair,delay_legacy,2026-10-31,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2021-09-30,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,delay_adjusted,2021-10-31,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,delay_adjusted,2021-11-30,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,delay_adjusted,2021-12-31,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,delay_adjusted,2022-01-31,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,delay_adjusted,2022-02-28,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,delay_adjusted,2022-03-31,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,delay_adjusted,2022-04-30,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,delay_adjusted,2022-05-31,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,delay_adjusted,2022-06-30,VIE.PA,True,no usable dated financial observation
+EU,timing_repair,delay_adjusted,2023-06-30,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2023-07-31,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2023-08-31,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2023-09-30,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2023-10-31,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2023-11-30,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2023-12-31,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2024-01-31,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2024-02-29,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2024-03-31,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2024-04-30,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2024-05-31,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2024-06-30,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2024-07-31,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2024-08-31,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2024-09-30,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2024-10-31,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2024-11-30,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2024-12-31,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2025-01-31,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2025-02-28,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2025-03-31,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2025-04-30,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2025-05-31,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2025-06-30,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2025-07-31,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2025-08-31,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2025-09-30,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2025-10-31,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2025-11-30,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2025-12-31,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2026-01-31,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2026-02-28,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2026-03-31,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2026-04-30,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2026-05-31,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2026-06-30,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2026-07-31,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2026-08-31,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2026-09-30,EDF.PA,False,delisted
+EU,timing_repair,delay_adjusted,2026-10-31,EDF.PA,False,delisted
+US,earliest_complete,source,2019-06-30,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2019-06-30,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2019-07-31,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2019-07-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2019-08-31,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2019-08-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2019-09-30,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2019-09-30,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2019-10-31,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2019-10-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2019-11-30,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2019-11-30,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2019-12-31,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2019-12-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2020-01-31,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2020-01-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2020-02-29,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2020-02-29,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2020-03-31,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2020-03-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2020-04-30,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2020-04-30,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2020-05-31,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2020-05-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2020-06-30,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2020-06-30,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2020-07-31,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2020-07-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2020-08-31,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2020-08-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2020-09-30,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2020-09-30,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2020-10-31,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2020-10-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2020-11-30,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2020-11-30,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2020-12-31,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2020-12-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2021-01-31,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2021-01-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2021-02-28,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2021-02-28,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2021-03-31,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2021-03-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2021-04-30,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2021-04-30,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2021-05-31,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2021-05-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2021-06-30,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2021-06-30,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2021-07-31,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2021-07-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2021-08-31,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2021-08-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2021-09-30,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2021-09-30,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2021-10-31,GFS,False,not listed before information cutoff
+US,earliest_complete,source,2021-10-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2021-11-30,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2021-12-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2022-01-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2022-02-28,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2022-03-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2022-04-30,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2022-05-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2022-06-30,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2022-07-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2022-08-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2022-09-30,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2022-10-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2022-11-30,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2022-12-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2023-01-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2023-02-28,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2023-03-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2023-04-30,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2023-05-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2023-06-30,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2023-07-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2023-08-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2023-09-30,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2023-10-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2023-11-30,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2023-12-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2024-01-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2024-02-29,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2024-03-31,GEV,False,not listed before information cutoff
+US,earliest_complete,source,2024-04-30,GEV,False,not listed before information cutoff
+US,cross_region,source,2019-06-30,GFS,False,not listed before information cutoff
+US,cross_region,source,2019-06-30,GEV,False,not listed before information cutoff
+US,cross_region,source,2019-07-31,GFS,False,not listed before information cutoff
+US,cross_region,source,2019-07-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2019-08-31,GFS,False,not listed before information cutoff
+US,cross_region,source,2019-08-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2019-09-30,GFS,False,not listed before information cutoff
+US,cross_region,source,2019-09-30,GEV,False,not listed before information cutoff
+US,cross_region,source,2019-10-31,GFS,False,not listed before information cutoff
+US,cross_region,source,2019-10-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2019-11-30,GFS,False,not listed before information cutoff
+US,cross_region,source,2019-11-30,GEV,False,not listed before information cutoff
+US,cross_region,source,2019-12-31,GFS,False,not listed before information cutoff
+US,cross_region,source,2019-12-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2020-01-31,GFS,False,not listed before information cutoff
+US,cross_region,source,2020-01-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2020-02-29,GFS,False,not listed before information cutoff
+US,cross_region,source,2020-02-29,GEV,False,not listed before information cutoff
+US,cross_region,source,2020-03-31,GFS,False,not listed before information cutoff
+US,cross_region,source,2020-03-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2020-04-30,GFS,False,not listed before information cutoff
+US,cross_region,source,2020-04-30,GEV,False,not listed before information cutoff
+US,cross_region,source,2020-05-31,GFS,False,not listed before information cutoff
+US,cross_region,source,2020-05-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2020-06-30,GFS,False,not listed before information cutoff
+US,cross_region,source,2020-06-30,GEV,False,not listed before information cutoff
+US,cross_region,source,2020-07-31,GFS,False,not listed before information cutoff
+US,cross_region,source,2020-07-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2020-08-31,GFS,False,not listed before information cutoff
+US,cross_region,source,2020-08-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2020-09-30,GFS,False,not listed before information cutoff
+US,cross_region,source,2020-09-30,GEV,False,not listed before information cutoff
+US,cross_region,source,2020-10-31,GFS,False,not listed before information cutoff
+US,cross_region,source,2020-10-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2020-11-30,GFS,False,not listed before information cutoff
+US,cross_region,source,2020-11-30,GEV,False,not listed before information cutoff
+US,cross_region,source,2020-12-31,GFS,False,not listed before information cutoff
+US,cross_region,source,2020-12-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2021-01-31,GFS,False,not listed before information cutoff
+US,cross_region,source,2021-01-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2021-02-28,GFS,False,not listed before information cutoff
+US,cross_region,source,2021-02-28,GEV,False,not listed before information cutoff
+US,cross_region,source,2021-03-31,GFS,False,not listed before information cutoff
+US,cross_region,source,2021-03-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2021-04-30,GFS,False,not listed before information cutoff
+US,cross_region,source,2021-04-30,GEV,False,not listed before information cutoff
+US,cross_region,source,2021-05-31,GFS,False,not listed before information cutoff
+US,cross_region,source,2021-05-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2021-06-30,GFS,False,not listed before information cutoff
+US,cross_region,source,2021-06-30,GEV,False,not listed before information cutoff
+US,cross_region,source,2021-07-31,GFS,False,not listed before information cutoff
+US,cross_region,source,2021-07-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2021-08-31,GFS,False,not listed before information cutoff
+US,cross_region,source,2021-08-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2021-09-30,GFS,False,not listed before information cutoff
+US,cross_region,source,2021-09-30,GEV,False,not listed before information cutoff
+US,cross_region,source,2021-10-31,GFS,False,not listed before information cutoff
+US,cross_region,source,2021-10-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2021-11-30,GEV,False,not listed before information cutoff
+US,cross_region,source,2021-12-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2022-01-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2022-02-28,GEV,False,not listed before information cutoff
+US,cross_region,source,2022-03-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2022-04-30,GEV,False,not listed before information cutoff
+US,cross_region,source,2022-05-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2022-06-30,GEV,False,not listed before information cutoff
+US,cross_region,source,2022-07-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2022-08-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2022-09-30,GEV,False,not listed before information cutoff
+US,cross_region,source,2022-10-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2022-11-30,GEV,False,not listed before information cutoff
+US,cross_region,source,2022-12-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2023-01-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2023-02-28,GEV,False,not listed before information cutoff
+US,cross_region,source,2023-03-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2023-04-30,GEV,False,not listed before information cutoff
+US,cross_region,source,2023-05-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2023-06-30,GEV,False,not listed before information cutoff
+US,cross_region,source,2023-07-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2023-08-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2023-09-30,GEV,False,not listed before information cutoff
+US,cross_region,source,2023-10-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2023-11-30,GEV,False,not listed before information cutoff
+US,cross_region,source,2023-12-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2024-01-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2024-02-29,GEV,False,not listed before information cutoff
+US,cross_region,source,2024-03-31,GEV,False,not listed before information cutoff
+US,cross_region,source,2024-04-30,GEV,False,not listed before information cutoff
+US,prior_start,source,2022-09-30,GEV,False,not listed before information cutoff
+US,prior_start,source,2022-10-31,GEV,False,not listed before information cutoff
+US,prior_start,source,2022-11-30,GEV,False,not listed before information cutoff
+US,prior_start,source,2022-12-31,GEV,False,not listed before information cutoff
+US,prior_start,source,2023-01-31,GEV,False,not listed before information cutoff
+US,prior_start,source,2023-02-28,GEV,False,not listed before information cutoff
+US,prior_start,source,2023-03-31,GEV,False,not listed before information cutoff
+US,prior_start,source,2023-04-30,GEV,False,not listed before information cutoff
+US,prior_start,source,2023-05-31,GEV,False,not listed before information cutoff
+US,prior_start,source,2023-06-30,GEV,False,not listed before information cutoff
+US,prior_start,source,2023-07-31,GEV,False,not listed before information cutoff
+US,prior_start,source,2023-08-31,GEV,False,not listed before information cutoff
+US,prior_start,source,2023-09-30,GEV,False,not listed before information cutoff
+US,prior_start,source,2023-10-31,GEV,False,not listed before information cutoff
+US,prior_start,source,2023-11-30,GEV,False,not listed before information cutoff
+US,prior_start,source,2023-12-31,GEV,False,not listed before information cutoff
+US,prior_start,source,2024-01-31,GEV,False,not listed before information cutoff
+US,prior_start,source,2024-02-29,GEV,False,not listed before information cutoff
+US,prior_start,source,2024-03-31,GEV,False,not listed before information cutoff
+US,prior_start,source,2024-04-30,GEV,False,not listed before information cutoff
+US,prior_start,delay_adjusted,2022-09-30,GEV,False,not listed before information cutoff
+US,prior_start,delay_adjusted,2022-10-31,GEV,False,not listed before information cutoff
+US,prior_start,delay_adjusted,2022-11-30,GEV,False,not listed before information cutoff
+US,prior_start,delay_adjusted,2022-12-31,GEV,False,not listed before information cutoff
+US,prior_start,delay_adjusted,2023-01-31,GEV,False,not listed before information cutoff
+US,prior_start,delay_adjusted,2023-02-28,GEV,False,not listed before information cutoff
+US,prior_start,delay_adjusted,2023-03-31,GEV,False,not listed before information cutoff
+US,prior_start,delay_adjusted,2023-04-30,GEV,False,not listed before information cutoff
+US,prior_start,delay_adjusted,2023-05-31,GEV,False,not listed before information cutoff
+US,prior_start,delay_adjusted,2023-06-30,GEV,False,not listed before information cutoff
+US,prior_start,delay_adjusted,2023-07-31,GEV,False,not listed before information cutoff
+US,prior_start,delay_adjusted,2023-08-31,GEV,False,not listed before information cutoff
+US,prior_start,delay_adjusted,2023-09-30,GEV,False,not listed before information cutoff
+US,prior_start,delay_adjusted,2023-10-31,GEV,False,not listed before information cutoff
+US,prior_start,delay_adjusted,2023-11-30,GEV,False,not listed before information cutoff
+US,prior_start,delay_adjusted,2023-12-31,GEV,False,not listed before information cutoff
+US,prior_start,delay_adjusted,2024-01-31,GEV,False,not listed before information cutoff
+US,prior_start,delay_adjusted,2024-02-29,GEV,False,not listed before information cutoff
+US,prior_start,delay_adjusted,2024-03-31,GEV,False,not listed before information cutoff
+US,prior_start,delay_adjusted,2024-04-30,GEV,False,not listed before information cutoff
+US,timing_matched,source,2019-09-30,GFS,False,not listed before information cutoff
+US,timing_matched,source,2019-09-30,GEV,False,not listed before information cutoff
+US,timing_matched,source,2019-10-31,GFS,False,not listed before information cutoff
+US,timing_matched,source,2019-10-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2019-11-30,GFS,False,not listed before information cutoff
+US,timing_matched,source,2019-11-30,GEV,False,not listed before information cutoff
+US,timing_matched,source,2019-12-31,GFS,False,not listed before information cutoff
+US,timing_matched,source,2019-12-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2020-01-31,GFS,False,not listed before information cutoff
+US,timing_matched,source,2020-01-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2020-02-29,GFS,False,not listed before information cutoff
+US,timing_matched,source,2020-02-29,GEV,False,not listed before information cutoff
+US,timing_matched,source,2020-03-31,GFS,False,not listed before information cutoff
+US,timing_matched,source,2020-03-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2020-04-30,GFS,False,not listed before information cutoff
+US,timing_matched,source,2020-04-30,GEV,False,not listed before information cutoff
+US,timing_matched,source,2020-05-31,GFS,False,not listed before information cutoff
+US,timing_matched,source,2020-05-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2020-06-30,GFS,False,not listed before information cutoff
+US,timing_matched,source,2020-06-30,GEV,False,not listed before information cutoff
+US,timing_matched,source,2020-07-31,GFS,False,not listed before information cutoff
+US,timing_matched,source,2020-07-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2020-08-31,GFS,False,not listed before information cutoff
+US,timing_matched,source,2020-08-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2020-09-30,GFS,False,not listed before information cutoff
+US,timing_matched,source,2020-09-30,GEV,False,not listed before information cutoff
+US,timing_matched,source,2020-10-31,GFS,False,not listed before information cutoff
+US,timing_matched,source,2020-10-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2020-11-30,GFS,False,not listed before information cutoff
+US,timing_matched,source,2020-11-30,GEV,False,not listed before information cutoff
+US,timing_matched,source,2020-12-31,GFS,False,not listed before information cutoff
+US,timing_matched,source,2020-12-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2021-01-31,GFS,False,not listed before information cutoff
+US,timing_matched,source,2021-01-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2021-02-28,GFS,False,not listed before information cutoff
+US,timing_matched,source,2021-02-28,GEV,False,not listed before information cutoff
+US,timing_matched,source,2021-03-31,GFS,False,not listed before information cutoff
+US,timing_matched,source,2021-03-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2021-04-30,GFS,False,not listed before information cutoff
+US,timing_matched,source,2021-04-30,GEV,False,not listed before information cutoff
+US,timing_matched,source,2021-05-31,GFS,False,not listed before information cutoff
+US,timing_matched,source,2021-05-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2021-06-30,GFS,False,not listed before information cutoff
+US,timing_matched,source,2021-06-30,GEV,False,not listed before information cutoff
+US,timing_matched,source,2021-07-31,GFS,False,not listed before information cutoff
+US,timing_matched,source,2021-07-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2021-08-31,GFS,False,not listed before information cutoff
+US,timing_matched,source,2021-08-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2021-09-30,GFS,False,not listed before information cutoff
+US,timing_matched,source,2021-09-30,GEV,False,not listed before information cutoff
+US,timing_matched,source,2021-10-31,GFS,False,not listed before information cutoff
+US,timing_matched,source,2021-10-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2021-11-30,GEV,False,not listed before information cutoff
+US,timing_matched,source,2021-12-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2022-01-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2022-02-28,GEV,False,not listed before information cutoff
+US,timing_matched,source,2022-03-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2022-04-30,GEV,False,not listed before information cutoff
+US,timing_matched,source,2022-05-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2022-06-30,GEV,False,not listed before information cutoff
+US,timing_matched,source,2022-07-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2022-08-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2022-09-30,GEV,False,not listed before information cutoff
+US,timing_matched,source,2022-10-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2022-11-30,GEV,False,not listed before information cutoff
+US,timing_matched,source,2022-12-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2023-01-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2023-02-28,GEV,False,not listed before information cutoff
+US,timing_matched,source,2023-03-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2023-04-30,GEV,False,not listed before information cutoff
+US,timing_matched,source,2023-05-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2023-06-30,GEV,False,not listed before information cutoff
+US,timing_matched,source,2023-07-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2023-08-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2023-09-30,GEV,False,not listed before information cutoff
+US,timing_matched,source,2023-10-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2023-11-30,GEV,False,not listed before information cutoff
+US,timing_matched,source,2023-12-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2024-01-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2024-02-29,GEV,False,not listed before information cutoff
+US,timing_matched,source,2024-03-31,GEV,False,not listed before information cutoff
+US,timing_matched,source,2024-04-30,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2019-09-30,GFS,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2019-09-30,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2019-10-31,GFS,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2019-10-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2019-11-30,GFS,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2019-11-30,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2019-12-31,GFS,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2019-12-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2020-01-31,GFS,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2020-01-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2020-02-29,GFS,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2020-02-29,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2020-03-31,GFS,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2020-03-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2020-04-30,GFS,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2020-04-30,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2020-05-31,GFS,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2020-05-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2020-06-30,GFS,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2020-06-30,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2020-07-31,GFS,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2020-07-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2020-08-31,GFS,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2020-08-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2020-09-30,GFS,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2020-09-30,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2020-10-31,GFS,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2020-10-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2020-11-30,GFS,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2020-11-30,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2020-12-31,GFS,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2020-12-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2021-01-31,GFS,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2021-01-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2021-02-28,GFS,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2021-02-28,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2021-03-31,GFS,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2021-03-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2021-04-30,GFS,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2021-04-30,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2021-05-31,GFS,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2021-05-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2021-06-30,GFS,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2021-06-30,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2021-07-31,GFS,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2021-07-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2021-08-31,GFS,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2021-08-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2021-09-30,GFS,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2021-09-30,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2021-10-31,GFS,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2021-10-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2021-11-30,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2021-12-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2022-01-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2022-02-28,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2022-03-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2022-04-30,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2022-05-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2022-06-30,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2022-07-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2022-08-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2022-09-30,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2022-10-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2022-11-30,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2022-12-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2023-01-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2023-02-28,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2023-03-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2023-04-30,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2023-05-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2023-06-30,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2023-07-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2023-08-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2023-09-30,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2023-10-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2023-11-30,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2023-12-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2024-01-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2024-02-29,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2024-03-31,GEV,False,not listed before information cutoff
+US,timing_matched,delay_adjusted,2024-04-30,GEV,False,not listed before information cutoff
+EU,earliest_complete,source,2019-06-30,ENR.DE,False,not listed before information cutoff
+EU,earliest_complete,source,2019-07-31,ENR.DE,False,not listed before information cutoff
+EU,earliest_complete,source,2019-08-31,ENR.DE,False,not listed before information cutoff
+EU,earliest_complete,source,2019-09-30,ENR.DE,False,not listed before information cutoff
+EU,earliest_complete,source,2019-10-31,ENR.DE,False,not listed before information cutoff
+EU,earliest_complete,source,2019-11-30,ENR.DE,False,not listed before information cutoff
+EU,earliest_complete,source,2019-12-31,ENR.DE,False,not listed before information cutoff
+EU,earliest_complete,source,2020-01-31,ENR.DE,False,not listed before information cutoff
+EU,earliest_complete,source,2020-02-29,ENR.DE,False,not listed before information cutoff
+EU,earliest_complete,source,2020-03-31,ENR.DE,False,not listed before information cutoff
+EU,earliest_complete,source,2020-04-30,ENR.DE,False,not listed before information cutoff
+EU,earliest_complete,source,2020-05-31,ENR.DE,False,not listed before information cutoff
+EU,earliest_complete,source,2020-06-30,ENR.DE,False,not listed before information cutoff
+EU,earliest_complete,source,2020-07-31,ENR.DE,False,not listed before information cutoff
+EU,earliest_complete,source,2020-08-31,ENR.DE,False,not listed before information cutoff
+EU,earliest_complete,source,2020-09-30,ENR.DE,False,not listed before information cutoff
+EU,earliest_complete,source,2023-06-30,EDF.PA,False,delisted
+EU,earliest_complete,source,2023-07-31,EDF.PA,False,delisted
+EU,earliest_complete,source,2023-08-31,EDF.PA,False,delisted
+EU,earliest_complete,source,2023-09-30,EDF.PA,False,delisted
+EU,earliest_complete,source,2023-10-31,EDF.PA,False,delisted
+EU,earliest_complete,source,2023-11-30,EDF.PA,False,delisted
+EU,earliest_complete,source,2023-12-31,EDF.PA,False,delisted
+EU,earliest_complete,source,2024-01-31,EDF.PA,False,delisted
+EU,earliest_complete,source,2024-02-29,EDF.PA,False,delisted
+EU,earliest_complete,source,2024-03-31,EDF.PA,False,delisted
+EU,earliest_complete,source,2024-04-30,EDF.PA,False,delisted
+EU,earliest_complete,source,2024-05-31,EDF.PA,False,delisted
+EU,earliest_complete,source,2024-06-30,EDF.PA,False,delisted
+EU,earliest_complete,source,2024-07-31,EDF.PA,False,delisted
+EU,earliest_complete,source,2024-08-31,EDF.PA,False,delisted
+EU,earliest_complete,source,2024-09-30,EDF.PA,False,delisted
+EU,earliest_complete,source,2024-10-31,EDF.PA,False,delisted
+EU,earliest_complete,source,2024-11-30,EDF.PA,False,delisted
+EU,earliest_complete,source,2024-12-31,EDF.PA,False,delisted
+EU,earliest_complete,source,2025-01-31,EDF.PA,False,delisted
+EU,earliest_complete,source,2025-02-28,EDF.PA,False,delisted
+EU,earliest_complete,source,2025-03-31,EDF.PA,False,delisted
+EU,earliest_complete,source,2025-04-30,EDF.PA,False,delisted
+EU,earliest_complete,source,2025-05-31,EDF.PA,False,delisted
+EU,earliest_complete,source,2025-06-30,EDF.PA,False,delisted
+EU,earliest_complete,source,2025-07-31,EDF.PA,False,delisted
+EU,earliest_complete,source,2025-08-31,EDF.PA,False,delisted
+EU,earliest_complete,source,2025-09-30,EDF.PA,False,delisted
+EU,earliest_complete,source,2025-10-31,EDF.PA,False,delisted
+EU,earliest_complete,source,2025-11-30,EDF.PA,False,delisted
+EU,earliest_complete,source,2025-12-31,EDF.PA,False,delisted
+EU,earliest_complete,source,2026-01-31,EDF.PA,False,delisted
+EU,earliest_complete,source,2026-02-28,EDF.PA,False,delisted
+EU,earliest_complete,source,2026-03-31,EDF.PA,False,delisted
+EU,earliest_complete,source,2026-04-30,EDF.PA,False,delisted
+EU,earliest_complete,source,2026-05-31,EDF.PA,False,delisted
+EU,earliest_complete,source,2026-06-30,EDF.PA,False,delisted
+EU,earliest_complete,source,2026-07-31,EDF.PA,False,delisted
+EU,earliest_complete,source,2026-08-31,EDF.PA,False,delisted
+EU,earliest_complete,source,2026-09-30,EDF.PA,False,delisted
+EU,earliest_complete,source,2026-10-31,EDF.PA,False,delisted
+EU,cross_region,source,2019-06-30,ENR.DE,False,not listed before information cutoff
+EU,cross_region,source,2019-07-31,ENR.DE,False,not listed before information cutoff
+EU,cross_region,source,2019-08-31,ENR.DE,False,not listed before information cutoff
+EU,cross_region,source,2019-09-30,ENR.DE,False,not listed before information cutoff
+EU,cross_region,source,2019-10-31,ENR.DE,False,not listed before information cutoff
+EU,cross_region,source,2019-11-30,ENR.DE,False,not listed before information cutoff
+EU,cross_region,source,2019-12-31,ENR.DE,False,not listed before information cutoff
+EU,cross_region,source,2020-01-31,ENR.DE,False,not listed before information cutoff
+EU,cross_region,source,2020-02-29,ENR.DE,False,not listed before information cutoff
+EU,cross_region,source,2020-03-31,ENR.DE,False,not listed before information cutoff
+EU,cross_region,source,2020-04-30,ENR.DE,False,not listed before information cutoff
+EU,cross_region,source,2020-05-31,ENR.DE,False,not listed before information cutoff
+EU,cross_region,source,2020-06-30,ENR.DE,False,not listed before information cutoff
+EU,cross_region,source,2020-07-31,ENR.DE,False,not listed before information cutoff
+EU,cross_region,source,2020-08-31,ENR.DE,False,not listed before information cutoff
+EU,cross_region,source,2020-09-30,ENR.DE,False,not listed before information cutoff
+EU,cross_region,source,2023-06-30,EDF.PA,False,delisted
+EU,cross_region,source,2023-07-31,EDF.PA,False,delisted
+EU,cross_region,source,2023-08-31,EDF.PA,False,delisted
+EU,cross_region,source,2023-09-30,EDF.PA,False,delisted
+EU,cross_region,source,2023-10-31,EDF.PA,False,delisted
+EU,cross_region,source,2023-11-30,EDF.PA,False,delisted
+EU,cross_region,source,2023-12-31,EDF.PA,False,delisted
+EU,cross_region,source,2024-01-31,EDF.PA,False,delisted
+EU,cross_region,source,2024-02-29,EDF.PA,False,delisted
+EU,cross_region,source,2024-03-31,EDF.PA,False,delisted
+EU,cross_region,source,2024-04-30,EDF.PA,False,delisted
+EU,cross_region,source,2024-05-31,EDF.PA,False,delisted
+EU,cross_region,source,2024-06-30,EDF.PA,False,delisted
+EU,cross_region,source,2024-07-31,EDF.PA,False,delisted
+EU,cross_region,source,2024-08-31,EDF.PA,False,delisted
+EU,cross_region,source,2024-09-30,EDF.PA,False,delisted
+EU,cross_region,source,2024-10-31,EDF.PA,False,delisted
+EU,cross_region,source,2024-11-30,EDF.PA,False,delisted
+EU,cross_region,source,2024-12-31,EDF.PA,False,delisted
+EU,cross_region,source,2025-01-31,EDF.PA,False,delisted
+EU,cross_region,source,2025-02-28,EDF.PA,False,delisted
+EU,cross_region,source,2025-03-31,EDF.PA,False,delisted
+EU,cross_region,source,2025-04-30,EDF.PA,False,delisted
+EU,cross_region,source,2025-05-31,EDF.PA,False,delisted
+EU,cross_region,source,2025-06-30,EDF.PA,False,delisted
+EU,cross_region,source,2025-07-31,EDF.PA,False,delisted
+EU,cross_region,source,2025-08-31,EDF.PA,False,delisted
+EU,cross_region,source,2025-09-30,EDF.PA,False,delisted
+EU,cross_region,source,2025-10-31,EDF.PA,False,delisted
+EU,cross_region,source,2025-11-30,EDF.PA,False,delisted
+EU,cross_region,source,2025-12-31,EDF.PA,False,delisted
+EU,cross_region,source,2026-01-31,EDF.PA,False,delisted
+EU,cross_region,source,2026-02-28,EDF.PA,False,delisted
+EU,cross_region,source,2026-03-31,EDF.PA,False,delisted
+EU,cross_region,source,2026-04-30,EDF.PA,False,delisted
+EU,cross_region,source,2026-05-31,EDF.PA,False,delisted
+EU,cross_region,source,2026-06-30,EDF.PA,False,delisted
+EU,cross_region,source,2026-07-31,EDF.PA,False,delisted
+EU,cross_region,source,2026-08-31,EDF.PA,False,delisted
+EU,cross_region,source,2026-09-30,EDF.PA,False,delisted
+EU,cross_region,source,2026-10-31,EDF.PA,False,delisted
+EU,prior_start,source,2023-06-30,EDF.PA,False,delisted
+EU,prior_start,source,2023-07-31,EDF.PA,False,delisted
+EU,prior_start,source,2023-08-31,EDF.PA,False,delisted
+EU,prior_start,source,2023-09-30,EDF.PA,False,delisted
+EU,prior_start,source,2023-10-31,EDF.PA,False,delisted
+EU,prior_start,source,2023-11-30,EDF.PA,False,delisted
+EU,prior_start,source,2023-12-31,EDF.PA,False,delisted
+EU,prior_start,source,2024-01-31,EDF.PA,False,delisted
+EU,prior_start,source,2024-02-29,EDF.PA,False,delisted
+EU,prior_start,source,2024-03-31,EDF.PA,False,delisted
+EU,prior_start,source,2024-04-30,EDF.PA,False,delisted
+EU,prior_start,source,2024-05-31,EDF.PA,False,delisted
+EU,prior_start,source,2024-06-30,EDF.PA,False,delisted
+EU,prior_start,source,2024-07-31,EDF.PA,False,delisted
+EU,prior_start,source,2024-08-31,EDF.PA,False,delisted
+EU,prior_start,source,2024-09-30,EDF.PA,False,delisted
+EU,prior_start,source,2024-10-31,EDF.PA,False,delisted
+EU,prior_start,source,2024-11-30,EDF.PA,False,delisted
+EU,prior_start,source,2024-12-31,EDF.PA,False,delisted
+EU,prior_start,source,2025-01-31,EDF.PA,False,delisted
+EU,prior_start,source,2025-02-28,EDF.PA,False,delisted
+EU,prior_start,source,2025-03-31,EDF.PA,False,delisted
+EU,prior_start,source,2025-04-30,EDF.PA,False,delisted
+EU,prior_start,source,2025-05-31,EDF.PA,False,delisted
+EU,prior_start,source,2025-06-30,EDF.PA,False,delisted
+EU,prior_start,source,2025-07-31,EDF.PA,False,delisted
+EU,prior_start,source,2025-08-31,EDF.PA,False,delisted
+EU,prior_start,source,2025-09-30,EDF.PA,False,delisted
+EU,prior_start,source,2025-10-31,EDF.PA,False,delisted
+EU,prior_start,source,2025-11-30,EDF.PA,False,delisted
+EU,prior_start,source,2025-12-31,EDF.PA,False,delisted
+EU,prior_start,source,2026-01-31,EDF.PA,False,delisted
+EU,prior_start,source,2026-02-28,EDF.PA,False,delisted
+EU,prior_start,source,2026-03-31,EDF.PA,False,delisted
+EU,prior_start,source,2026-04-30,EDF.PA,False,delisted
+EU,prior_start,source,2026-05-31,EDF.PA,False,delisted
+EU,prior_start,source,2026-06-30,EDF.PA,False,delisted
+EU,prior_start,source,2026-07-31,EDF.PA,False,delisted
+EU,prior_start,source,2026-08-31,EDF.PA,False,delisted
+EU,prior_start,source,2026-09-30,EDF.PA,False,delisted
+EU,prior_start,source,2026-10-31,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2023-06-30,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2023-07-31,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2023-08-31,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2023-09-30,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2023-10-31,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2023-11-30,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2023-12-31,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2024-01-31,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2024-02-29,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2024-03-31,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2024-04-30,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2024-05-31,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2024-06-30,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2024-07-31,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2024-08-31,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2024-09-30,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2024-10-31,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2024-11-30,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2024-12-31,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2025-01-31,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2025-02-28,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2025-03-31,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2025-04-30,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2025-05-31,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2025-06-30,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2025-07-31,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2025-08-31,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2025-09-30,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2025-10-31,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2025-11-30,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2025-12-31,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2026-01-31,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2026-02-28,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2026-03-31,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2026-04-30,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2026-05-31,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2026-06-30,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2026-07-31,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2026-08-31,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2026-09-30,EDF.PA,False,delisted
+EU,prior_start,delay_adjusted,2026-10-31,EDF.PA,False,delisted
+EU,timing_matched,source,2019-09-30,ENR.DE,False,not listed before information cutoff
+EU,timing_matched,source,2019-10-31,ENR.DE,False,not listed before information cutoff
+EU,timing_matched,source,2019-11-30,ENR.DE,False,not listed before information cutoff
+EU,timing_matched,source,2019-12-31,ENR.DE,False,not listed before information cutoff
+EU,timing_matched,source,2020-01-31,ENR.DE,False,not listed before information cutoff
+EU,timing_matched,source,2020-02-29,ENR.DE,False,not listed before information cutoff
+EU,timing_matched,source,2020-03-31,ENR.DE,False,not listed before information cutoff
+EU,timing_matched,source,2020-04-30,ENR.DE,False,not listed before information cutoff
+EU,timing_matched,source,2020-05-31,ENR.DE,False,not listed before information cutoff
+EU,timing_matched,source,2020-06-30,ENR.DE,False,not listed before information cutoff
+EU,timing_matched,source,2020-07-31,ENR.DE,False,not listed before information cutoff
+EU,timing_matched,source,2020-08-31,ENR.DE,False,not listed before information cutoff
+EU,timing_matched,source,2020-09-30,ENR.DE,False,not listed before information cutoff
+EU,timing_matched,source,2023-06-30,EDF.PA,False,delisted
+EU,timing_matched,source,2023-07-31,EDF.PA,False,delisted
+EU,timing_matched,source,2023-08-31,EDF.PA,False,delisted
+EU,timing_matched,source,2023-09-30,EDF.PA,False,delisted
+EU,timing_matched,source,2023-10-31,EDF.PA,False,delisted
+EU,timing_matched,source,2023-11-30,EDF.PA,False,delisted
+EU,timing_matched,source,2023-12-31,EDF.PA,False,delisted
+EU,timing_matched,source,2024-01-31,EDF.PA,False,delisted
+EU,timing_matched,source,2024-02-29,EDF.PA,False,delisted
+EU,timing_matched,source,2024-03-31,EDF.PA,False,delisted
+EU,timing_matched,source,2024-04-30,EDF.PA,False,delisted
+EU,timing_matched,source,2024-05-31,EDF.PA,False,delisted
+EU,timing_matched,source,2024-06-30,EDF.PA,False,delisted
+EU,timing_matched,source,2024-07-31,EDF.PA,False,delisted
+EU,timing_matched,source,2024-08-31,EDF.PA,False,delisted
+EU,timing_matched,source,2024-09-30,EDF.PA,False,delisted
+EU,timing_matched,source,2024-10-31,EDF.PA,False,delisted
+EU,timing_matched,source,2024-11-30,EDF.PA,False,delisted
+EU,timing_matched,source,2024-12-31,EDF.PA,False,delisted
+EU,timing_matched,source,2025-01-31,EDF.PA,False,delisted
+EU,timing_matched,source,2025-02-28,EDF.PA,False,delisted
+EU,timing_matched,source,2025-03-31,EDF.PA,False,delisted
+EU,timing_matched,source,2025-04-30,EDF.PA,False,delisted
+EU,timing_matched,source,2025-05-31,EDF.PA,False,delisted
+EU,timing_matched,source,2025-06-30,EDF.PA,False,delisted
+EU,timing_matched,source,2025-07-31,EDF.PA,False,delisted
+EU,timing_matched,source,2025-08-31,EDF.PA,False,delisted
+EU,timing_matched,source,2025-09-30,EDF.PA,False,delisted
+EU,timing_matched,source,2025-10-31,EDF.PA,False,delisted
+EU,timing_matched,source,2025-11-30,EDF.PA,False,delisted
+EU,timing_matched,source,2025-12-31,EDF.PA,False,delisted
+EU,timing_matched,source,2026-01-31,EDF.PA,False,delisted
+EU,timing_matched,source,2026-02-28,EDF.PA,False,delisted
+EU,timing_matched,source,2026-03-31,EDF.PA,False,delisted
+EU,timing_matched,source,2026-04-30,EDF.PA,False,delisted
+EU,timing_matched,source,2026-05-31,EDF.PA,False,delisted
+EU,timing_matched,source,2026-06-30,EDF.PA,False,delisted
+EU,timing_matched,source,2026-07-31,EDF.PA,False,delisted
+EU,timing_matched,source,2026-08-31,EDF.PA,False,delisted
+EU,timing_matched,source,2026-09-30,EDF.PA,False,delisted
+EU,timing_matched,source,2026-10-31,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2019-09-30,ENR.DE,False,not listed before information cutoff
+EU,timing_matched,delay_adjusted,2019-10-31,ENR.DE,False,not listed before information cutoff
+EU,timing_matched,delay_adjusted,2019-11-30,ENR.DE,False,not listed before information cutoff
+EU,timing_matched,delay_adjusted,2019-12-31,ENR.DE,False,not listed before information cutoff
+EU,timing_matched,delay_adjusted,2020-01-31,ENR.DE,False,not listed before information cutoff
+EU,timing_matched,delay_adjusted,2020-02-29,ENR.DE,False,not listed before information cutoff
+EU,timing_matched,delay_adjusted,2020-03-31,ENR.DE,False,not listed before information cutoff
+EU,timing_matched,delay_adjusted,2020-04-30,ENR.DE,False,not listed before information cutoff
+EU,timing_matched,delay_adjusted,2020-05-31,ENR.DE,False,not listed before information cutoff
+EU,timing_matched,delay_adjusted,2020-06-30,ENR.DE,False,not listed before information cutoff
+EU,timing_matched,delay_adjusted,2020-07-31,ENR.DE,False,not listed before information cutoff
+EU,timing_matched,delay_adjusted,2020-08-31,ENR.DE,False,not listed before information cutoff
+EU,timing_matched,delay_adjusted,2020-09-30,ENR.DE,False,not listed before information cutoff
+EU,timing_matched,delay_adjusted,2023-06-30,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2023-07-31,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2023-08-31,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2023-09-30,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2023-10-31,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2023-11-30,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2023-12-31,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2024-01-31,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2024-02-29,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2024-03-31,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2024-04-30,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2024-05-31,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2024-06-30,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2024-07-31,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2024-08-31,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2024-09-30,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2024-10-31,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2024-11-30,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2024-12-31,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2025-01-31,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2025-02-28,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2025-03-31,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2025-04-30,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2025-05-31,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2025-06-30,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2025-07-31,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2025-08-31,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2025-09-30,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2025-10-31,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2025-11-30,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2025-12-31,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2026-01-31,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2026-02-28,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2026-03-31,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2026-04-30,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2026-05-31,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2026-06-30,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2026-07-31,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2026-08-31,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2026-09-30,EDF.PA,False,delisted
+EU,timing_matched,delay_adjusted,2026-10-31,EDF.PA,False,delisted

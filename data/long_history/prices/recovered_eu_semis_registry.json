@@ -1,0 +1,358 @@
+{
+  "long_original_asml_2019": {
+    "ticker": "ASML",
+    "period_end": "2019-12-31",
+    "fiscal_year": 2019,
+    "fiscal_quarter": 4,
+    "period_type": "annual",
+    "currency": "EUR",
+    "unit": "million",
+    "publication_date": "2020-01-22",
+    "availability_date": "2020-01-22",
+    "source": "https://www.sec.gov/Archives/edgar/data/937966/000093796620000003/financialstatementsusgaapq.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/937966/000093796620000003/pressreleasequarterlyresul.htm",
+    "operating_income": 2790.8,
+    "net_income": 2592.3,
+    "operating_cash_flow": 3276.4,
+    "total_assets": 22629.6,
+    "current_liabilities": 4694.1,
+    "evidence": {
+      "web_line_numbers": {
+        "operating_income": 47,
+        "net_income": 71,
+        "operating_cash_flow": 272,
+        "total_assets": 195,
+        "current_liabilities": 199
+      },
+      "flow_column": "Full-year 2019, current year, original GAAP release",
+      "balance_column": "December31 2019, current balance sheet",
+      "retrieval": "Web retrieval of original issuer/SEC HTML. Direct download returned HTTP403; no invented source-byte hash."
+    },
+    "notes": [
+      "Consolidated net income includes non-controlling interests; not net income attributable solely to shareholders.",
+      "Use original report current-year figures, not later revised comparatives."
+    ]
+  },
+  "long_original_nxpi_2019": {
+    "ticker": "NXPI",
+    "period_end": "2019-12-31",
+    "fiscal_year": 2019,
+    "fiscal_quarter": 4,
+    "period_type": "annual",
+    "currency": "USD",
+    "unit": "million",
+    "publication_date": "2020-02-03",
+    "availability_date": "2020-02-03",
+    "source": "https://investors.nxp.com/news-releases/news-release-details/nxp-semiconductors-reports-fourth-quarter-and-full-year-2019",
+    "date_source": "https://investors.nxp.com/news-releases/news-release-details/nxp-semiconductors-reports-fourth-quarter-and-full-year-2019",
+    "operating_income": 641,
+    "net_income": 272,
+    "operating_cash_flow": 2373,
+    "total_assets": 20016,
+    "current_liabilities": 1791,
+    "evidence": {
+      "web_line_numbers": {
+        "operating_income": 145,
+        "net_income": 152,
+        "operating_cash_flow": 238,
+        "total_assets": 189,
+        "current_liabilities": 197
+      },
+      "flow_column": "Full-year 2019, current year, original GAAP release",
+      "balance_column": "December31 2019, current balance sheet",
+      "retrieval": "Web retrieval of original issuer/SEC HTML. Direct download returned HTTP403; no invented source-byte hash."
+    },
+    "notes": [
+      "Consolidated net income includes non-controlling interests; not net income attributable solely to shareholders.",
+      "Use original report current-year figures, not later revised comparatives."
+    ]
+  },
+  "long_original_asml_2018": {
+    "ticker": "ASML",
+    "period_end": "2018-12-31",
+    "fiscal_year": 2018,
+    "fiscal_quarter": 4,
+    "period_type": "annual",
+    "currency": "EUR",
+    "unit": "million",
+    "publication_date": "2019-01-23",
+    "availability_date": "2019-01-23",
+    "source": "https://www.sec.gov/Archives/edgar/data/937966/000093796619000003/financialstatementsusgaapq.htm",
+    "date_source": "https://www.asml.com/en/news/press-releases/2019/asml-reports-eur-10dot9-billion-net-sales-and-eur-2dot6-billion-net-income-in-2018",
+    "operating_income": 2965.3,
+    "net_income": 2591.6,
+    "operating_cash_flow": 3072.7,
+    "total_assets": 20136.9,
+    "current_liabilities": 3791.9,
+    "evidence": {
+      "web_line_numbers": {
+        "operating_income": 52,
+        "net_income": 75,
+        "operating_cash_flow": 311,
+        "total_assets": 217,
+        "current_liabilities": 623
+      },
+      "flow_column": "Full-year2018, current-year original GAAP release",
+      "balance_column": "December31 2018, current balance sheet",
+      "retrieval": "Web retrieval of original issuer/SEC HTML. Direct download returned HTTP403; no invented source-byte hash."
+    },
+    "notes": [
+      "Consolidated net income includes non-controlling interests; not net income attributable solely to shareholders.",
+      "Use original report current-year figures, not later revised comparatives."
+    ]
+  },
+  "long_original_nxpi_2018": {
+    "ticker": "NXPI",
+    "period_end": "2018-12-31",
+    "fiscal_year": 2018,
+    "fiscal_quarter": 4,
+    "period_type": "annual",
+    "currency": "USD",
+    "unit": "million",
+    "publication_date": "2019-02-07",
+    "availability_date": "2019-02-07",
+    "source": "https://investors.nxp.com/news-releases/news-release-details/nxp-semiconductors-reports-fourth-quarter-and-full-year-2018",
+    "date_source": "https://investors.nxp.com/static-files/2dd30a96-2831-4267-8961-acadc59529b1",
+    "operating_income": 2710,
+    "net_income": 2258,
+    "operating_cash_flow": 4369,
+    "total_assets": 21530,
+    "current_liabilities": 3385,
+    "evidence": {
+      "web_line_numbers": {
+        "operating_income": 131,
+        "net_income": 138,
+        "operating_cash_flow": 207,
+        "total_assets": 167,
+        "current_liabilities": 174
+      },
+      "flow_column": "Full-year2018, current-year original GAAP release",
+      "balance_column": "December31 2018, current balance sheet",
+      "retrieval": "Web retrieval of original issuer/SEC HTML. Direct download returned HTTP403; no invented source-byte hash."
+    },
+    "notes": [
+      "Consolidated net income includes non-controlling interests; not net income attributable solely to shareholders.",
+      "Use original report current-year figures, not later revised comparatives.",
+      "Issuer HTML timestamp Feb6 2019 20:00EST equals Feb7 UTC; dated PDF is Feb7. Use conservative Feb7 date."
+    ]
+  },
+  "long_original_stmpa_pa_2018": {
+    "ticker": "STMPA.PA",
+    "period_end": "2018-12-31",
+    "fiscal_year": 2018,
+    "fiscal_quarter": 4,
+    "period_type": "annual",
+    "currency": "USD",
+    "unit": "million",
+    "publication_date": "2019-01-24",
+    "availability_date": "2019-01-24",
+    "source": "https://investors.st.com/static-files/00e90fab-7c7c-4e23-ada5-2aa73a683a4b",
+    "date_source": "https://investors.st.com/static-files/00e90fab-7c7c-4e23-ada5-2aa73a683a4b",
+    "operating_income": 1400,
+    "net_income": 1293,
+    "operating_cash_flow": 1845,
+    "total_assets": 10867,
+    "current_liabilities": 2120,
+    "evidence": {
+      "web_line_numbers": {
+        "operating_income": 311,
+        "net_income": 318,
+        "operating_cash_flow": 168,
+        "total_assets": 353,
+        "current_liabilities": 362
+      },
+      "flow_column": "Current full-year 2018 column of original report",
+      "balance_column": "Current 2018 year-end column of original report",
+      "retrieval": "Web retrieval of original issuer financial document"
+    },
+    "notes": [
+      "Original full-year US GAAP earnings release. Consolidated net income 1293 includes noncontrolling interest of6; headline attributable amount1287 is not used.",
+      "Use original current-year figures, not later revised comparatives."
+    ],
+    "sha256": "8d693b228383db46c15ff2d6f396d80dfb2d7a40edebc4d43cc6e3b3249f2175",
+    "download_filename": "stm_2018.pdf",
+    "download_storage": "Original PDF retained in the working download cache; compact numerical evidence and source hash retained here."
+  },
+  "long_original_air_pa_2018": {
+    "ticker": "AIR.PA",
+    "period_end": "2018-12-31",
+    "fiscal_year": 2018,
+    "fiscal_quarter": 4,
+    "period_type": "annual",
+    "currency": "EUR",
+    "unit": "million",
+    "publication_date": "2019-02-14",
+    "availability_date": "2019-02-14",
+    "source": "https://www.airbus.com/sites/g/files/jlcbta136/files/2021-07/Airbus-SE-Financial-Statements-2018.pdf",
+    "date_source": "https://www.airbus.com/en/investors/financial-results",
+    "operating_income": 5048,
+    "net_income": 3011,
+    "operating_cash_flow": 2318,
+    "total_assets": 115198,
+    "current_liabilities": 60354,
+    "evidence": {
+      "web_line_numbers": {
+        "operating_income": 102,
+        "net_income": 122,
+        "operating_cash_flow": 550,
+        "total_assets": 472,
+        "current_liabilities": 459
+      },
+      "flow_column": "Current full-year 2018 column of original report",
+      "balance_column": "Current 2018 year-end column of original report",
+      "retrieval": "Web retrieval of original issuer financial document"
+    },
+    "notes": [
+      "Original full-year IFRS financial statements listed under Full-Year2018,14February2019 in issuer results archive. Profit for period3011 includes NCI; attributable headline3054 is not used.",
+      "Use original current-year figures, not later revised comparatives."
+    ],
+    "sha256": "f689ecdcaaf9e091628cc3591d81b903306a455be814bfacd75a9e41519819ed",
+    "download_filename": "air_2018.pdf",
+    "download_storage": "Original PDF retained in the working download cache; compact numerical evidence and source hash retained here."
+  },
+  "long_original_ifx_de_2018": {
+    "ticker": "IFX.DE",
+    "period_end": "2018-09-30",
+    "fiscal_year": 2018,
+    "fiscal_quarter": 4,
+    "period_type": "annual",
+    "currency": "EUR",
+    "unit": "million",
+    "publication_date": "2018-11-23",
+    "availability_date": "2018-11-23",
+    "source": "https://www.infineon.com/assets/row/public/documents/corporate/investors/annual-reports/2018/infineon-annual-report-report-v08-00-en.pdf",
+    "date_source": "https://financialfilings.com/filings/infineon-technologies-ag/annual-report/2018/1053204/",
+    "operating_income": 1469,
+    "net_income": 1075,
+    "operating_cash_flow": 1575,
+    "total_assets": 10879,
+    "current_liabilities": 2182,
+    "evidence": {
+      "web_line_numbers": {
+        "operating_income": 167,
+        "net_income": 170,
+        "operating_cash_flow": 5607,
+        "total_assets": 5556,
+        "current_liabilities": 5563
+      },
+      "flow_column": "Current full-year 2018 column of original report",
+      "balance_column": "Current 2018 year-end column of original report",
+      "retrieval": "Web retrieval of original issuer financial document"
+    },
+    "notes": [
+      "Original consolidated IFRS financial statements, annual report publication23November2018 from filing archive. Earlier12November earnings announcement located but complete original quarterly statement not verified; no backdating annual report. Assets10879 are consolidated;11789 on page89 are parent-only HGB. CFO1575 includes4 from discontinued operations.",
+      "Use original current-year figures, not later revised comparatives."
+    ],
+    "sha256": "ff6ef07f9a857a39b778494b2056308337168400022654e2214fbfc1744dd004",
+    "download_filename": "ifx_2018.pdf",
+    "download_storage": "Original PDF retained in the working download cache; compact numerical evidence and source hash retained here."
+  },
+  "long_original_enel_mi_2018": {
+    "ticker": "ENEL.MI",
+    "period_end": "2018-12-31",
+    "fiscal_year": 2018,
+    "fiscal_quarter": 4,
+    "period_type": "annual",
+    "currency": "EUR",
+    "unit": "million",
+    "publication_date": "2019-03-21",
+    "availability_date": "2019-03-21",
+    "source": "https://www.enel.com/content/dam/enel-common/press/en/2019-March/Enel%202018%20full%20year%20ENG.pdf",
+    "date_source": "https://www.enel.com/content/dam/enel-common/press/en/2019-March/Enel%202018%20full%20year%20ENG.pdf",
+    "operating_income": 9900,
+    "net_income": 6350,
+    "operating_cash_flow": 11075,
+    "total_assets": 165424,
+    "current_liabilities": 40348,
+    "evidence": {
+      "web_line_numbers": {
+        "operating_income": 745,
+        "net_income": 756,
+        "operating_cash_flow": 906,
+        "total_assets": 823,
+        "current_liabilities": 873
+      },
+      "flow_column": "Current full-year2018 original report column",
+      "balance_column": "Current December31 2018 original report column",
+      "retrieval": "Web retrieval of original issuer financial PDF"
+    },
+    "notes": [
+      "All five figures present in original dated March21 2019 release; full consolidated income6350 includes NCI, not headline group-share4789.",
+      "Consolidated net income includes non-controlling interests; operating cashflow includes discontinued operations where reported.",
+      "Use original current-year figures, not later revised comparatives."
+    ],
+    "sha256": "845a21d857297633210929d6e8d911ba89060e9be7f10c68f832dc32cefcfd14",
+    "download_filename": "enel_2018.pdf",
+    "download_storage": "Original PDF retained in the working download cache; compact numerical evidence and source hash retained here."
+  },
+  "long_original_edf_pa_2018": {
+    "ticker": "EDF.PA",
+    "period_end": "2018-12-31",
+    "fiscal_year": 2018,
+    "fiscal_quarter": 4,
+    "period_type": "annual",
+    "currency": "EUR",
+    "unit": "million",
+    "publication_date": "2019-02-15",
+    "availability_date": "2019-02-15",
+    "source": "https://www.edf.fr/sites/default/files/contrib/groupe-edf/espaces-dedies/espace-finance-en/financial-information/publications/financial-results/2018-annual-results/pdf/fy-results-2018-consolidated-financial-statements-20190215.pdf",
+    "date_source": "https://www.edf.fr/en/the-edf-group/dedicated-sections/journalists/all-press-releases/2018-group-annual-results",
+    "operating_income": 5282,
+    "net_income": 1191,
+    "operating_cash_flow": 13364,
+    "total_assets": 283169,
+    "current_liabilities": 52815,
+    "evidence": {
+      "web_line_numbers": {
+        "operating_income": 21,
+        "net_income": 29,
+        "operating_cash_flow": 166,
+        "total_assets": 122,
+        "current_liabilities": 149
+      },
+      "flow_column": "Current full-year2018 original report column",
+      "balance_column": "Current December31 2018 original report column",
+      "retrieval": "Web retrieval of original issuer financial PDF"
+    },
+    "notes": [
+      "Original full-year release financial statements. Original E&P classification preserved; no use of 2019 restated comparatives.",
+      "Consolidated net income includes non-controlling interests; operating cashflow includes discontinued operations where reported.",
+      "Use original current-year figures, not later revised comparatives."
+    ]
+  },
+  "long_original_vie_pa_2018": {
+    "ticker": "VIE.PA",
+    "period_end": "2018-12-31",
+    "fiscal_year": 2018,
+    "fiscal_quarter": 4,
+    "period_type": "annual",
+    "currency": "EUR",
+    "unit": "million",
+    "publication_date": "2019-02-22",
+    "availability_date": "2019-02-22",
+    "source": "https://www.veolia.com/sites/g/files/dvc4206/files/document/2019/02/Finance_VUK-Annexesv22022019-under-audit.pdf",
+    "date_source": "https://www.veolia.com/en/veolia-group/finance/financial-publications?page=19",
+    "operating_income": 1303.7,
+    "net_income": 607.1,
+    "operating_cash_flow": 2391,
+    "total_assets": 37592.8,
+    "current_liabilities": 16553.8,
+    "evidence": {
+      "web_line_numbers": {
+        "operating_income": 101,
+        "net_income": 116,
+        "operating_cash_flow": 219,
+        "total_assets": 46,
+        "current_liabilities": 80
+      },
+      "flow_column": "Current full-year2018 original report column",
+      "balance_column": "Current December31 2018 original report column",
+      "retrieval": "Web retrieval of original issuer financial PDF; direct download returned HTTP403, no byte hash claimed."
+    },
+    "notes": [
+      "Original financial statements under review, publicationFebruary22 2019 explicitly dated in issuer archive. Rightmost2018 column. Operating income before equity-accounted entities, matching existing model. Cash flow includes discontinued operations.",
+      "Consolidated net income includes non-controlling interests; operating cashflow includes discontinued operations where reported.",
+      "Use original current-year figures, not later revised comparatives."
+    ]
+  }
+}

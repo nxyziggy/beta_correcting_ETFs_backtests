@@ -1,0 +1,44 @@
+[
+  {
+    "ticker": "LIN",
+    "listing_start": "2018-10-31",
+    "source": "https://www.linde.com/news-and-media/2018/business-combination-between-praxair-and-linde-ag-successfully-completed",
+    "basis": "Issuer announces merger completion and NYSE trading starting today. Pre-2018 vendor LIN series represents predecessor Praxair and is not used as current Linde plc history."
+  },
+  {
+    "ticker": "GFS",
+    "listing_start": "2021-10-28",
+    "source": "https://investors.gf.com/news-releases/news-release-details/globalfoundries-announces-pricing-initial-public-offering",
+    "basis": "Issuer IPO announcement; first Nasdaq trading date."
+  },
+  {
+    "ticker": "BE",
+    "listing_start": "2018-07-25",
+    "source": "https://www.bloomenergy.com/news/bloom-energy-corporation-announces-pricing-of-initial-public-offering/",
+    "basis": "Issuer IPO announcement; first NYSE trading date."
+  },
+  {
+    "ticker": "ENR.DE",
+    "listing_start": "2020-09-28",
+    "source": "https://assets.siemens-energy.com/dam/f7f92157-3d19-453e-82b8-b0290183d945/2020-08-28-Siemens-Energys-debut-on-the-stock-market2-pdf_Original%20file.pdf",
+    "basis": "Issuer press release dated September28 2020 states trading began that day. URL filename date differs; use release body date."
+  },
+  {
+    "ticker": "ALFEN.AS",
+    "listing_start": "2018-03-22",
+    "source": "https://alfen.com/sites/default/files/media/documents/Alfen%20Semi-Annual%20Report%202023_0.pdf",
+    "basis": "Issuer financial report states listing on Amsterdam Stock Exchange on March22 2018."
+  },
+  {
+    "ticker": "ORSTED.CO",
+    "listing_start": "2016-06-09",
+    "source": "https://orsted.com/en/company-announcement-list/2016/06/1466274",
+    "basis": "DONG Energy IPO announcement, first Nasdaq Copenhagen listing date; same issuer later renamed Orsted."
+  },
+  {
+    "ticker": "GEV",
+    "listing_start": "2024-04-02",
+    "source": "data/universe.json",
+    "basis": "Retain documented regular-way listing restriction from frozen backtest; do not use March2024 when-issued monthly vendor quote."
+  }
+]

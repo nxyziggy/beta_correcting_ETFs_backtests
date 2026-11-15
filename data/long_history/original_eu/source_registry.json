@@ -1,0 +1,163 @@
+{
+  "long_source_ENEL2019": {
+    "ticker": "ENEL.MI",
+    "period_end": "2019-12-31",
+    "period_type": "annual",
+    "fiscal_quarter": 4,
+    "publication_date": "2020-03-19",
+    "availability_date": "2020-03-19",
+    "currency": "EUR",
+    "unit": "million",
+    "source": "https://www.enel.com/content/dam/enel-common/press/en/2020-March/Enel%20FY%202019%20ENG.pdf",
+    "date_source": "https://www.enel.com/media/explore/search-press-releases/press/2020/03/enel-net-ordinary-income-up-174-",
+    "operating_income": 6878,
+    "net_income": 3476,
+    "operating_cash_flow": 11251,
+    "total_assets": 171426,
+    "current_liabilities": 40488,
+    "evidence": {
+      "pdf_pages_one_based": [
+        22,
+        24,
+        25,
+        26
+      ]
+    },
+    "notes": [
+      "Current-year original consolidated figures; no later revised comparative used.",
+      "Net income and operating cashflow include discontinued operations and non-controlling interests where reported."
+    ],
+    "download_sha256": "191d1783976f8a19865545a6fc8c1a70fe6df9136b0148f7cd33ab2d893c7934"
+  },
+  "long_source_IFX2019": {
+    "ticker": "IFX.DE",
+    "period_end": "2019-09-30",
+    "period_type": "annual",
+    "fiscal_quarter": 4,
+    "publication_date": "2019-11-25",
+    "availability_date": "2019-11-25",
+    "currency": "EUR",
+    "unit": "million",
+    "source": "https://www.infineon.com/assets/row/public/documents/corporate/investors/annual-reports/2019/infineon-annual-report-report-v09-00-en.pdf",
+    "date_source": "https://www.infineon.com/about/investor/reports-presentations/annual-reports",
+    "operating_income": 1161,
+    "net_income": 870,
+    "operating_cash_flow": 1601,
+    "total_assets": 13412,
+    "current_liabilities": 2044,
+    "evidence": {
+      "pdf_pages_one_based": [
+        124,
+        126,
+        127
+      ]
+    },
+    "notes": [
+      "Current-year original consolidated figures; no later revised comparative used.",
+      "Net income and operating cashflow include discontinued operations and non-controlling interests where reported."
+    ],
+    "download_sha256": "962607b16f4e96bf26fd27f0d5dbe1dd9cefb0047c7304be9d6ca0e17d715e3a"
+  },
+  "long_source_VIE2019": {
+    "ticker": "VIE.PA",
+    "period_end": "2019-12-31",
+    "period_type": "annual",
+    "fiscal_quarter": 4,
+    "publication_date": "2020-02-28",
+    "availability_date": "2020-02-28",
+    "currency": "EUR",
+    "unit": "million",
+    "source": "https://www.veolia.com/sites/g/files/dvc4206/files/document/2020/02/PR-veolia-2019-annual-results-28FEV2020-EN.pdf",
+    "date_source": "https://www.veolia.com/en/newsroom/press-releases/2019-annual-results-and-2020-2023-prospects",
+    "operating_income": 1335,
+    "net_income": 760.6,
+    "operating_cash_flow": 3087.8,
+    "total_assets": 41019,
+    "current_liabilities": 18848.7,
+    "evidence": {
+      "pdf_pages_one_based": [
+        35,
+        36,
+        37,
+        38
+      ]
+    },
+    "notes": [
+      "Current-year original consolidated figures; no later revised comparative used.",
+      "Net income and operating cashflow include discontinued operations and non-controlling interests where reported.",
+      "Operating income is before share of equity-accounted entities, matching existing Veolia inputs.",
+      "Current-year rightmost income column has a 2018 header typo in the 2019 release; its 2019 values are corroborated by the FY2019 original consolidated statements and FY2020 comparatives."
+    ],
+    "download_sha256": "d4b483165ff971012d3405c47feeaff3d1b68f6f256ac05533e724fe594d039f"
+  },
+  "long_source_VIE2020": {
+    "ticker": "VIE.PA",
+    "period_end": "2020-12-31",
+    "period_type": "annual",
+    "fiscal_quarter": 4,
+    "publication_date": "2021-03-17",
+    "availability_date": "2021-03-17",
+    "currency": "EUR",
+    "unit": "million",
+    "source": "https://www.veolia.com/sites/g/files/dvc4206/files/document/2021/03/Finance_URD_2020_Veolia_en.pdf",
+    "date_source": "https://www.veolia.com/sites/g/files/dvc4206/files/document/2021/03/Finance_URD_2020_Veolia_en.pdf",
+    "operating_income": 809,
+    "net_income": 208.5,
+    "operating_cash_flow": 2725,
+    "total_assets": 45363.9,
+    "current_liabilities": 20449.6,
+    "evidence": {
+      "pdf_pages_one_based": [
+        330,
+        331,
+        332,
+        334
+      ]
+    },
+    "notes": [
+      "Current-year original consolidated figures; no later revised comparative used.",
+      "Net income and operating cashflow include discontinued operations and non-controlling interests where reported.",
+      "Operating income is before share of equity-accounted entities, matching existing Veolia inputs."
+    ],
+    "download_sha256": "c89e19f291812a0fd4118396996d06f341bf3f8e5562378d60685d7f69d6ac47"
+  },
+  "long_source_EDF2019": {
+    "ticker": "EDF.PA",
+    "period_end": "2019-12-31",
+    "period_type": "annual",
+    "fiscal_quarter": 4,
+    "publication_date": "2020-02-14",
+    "availability_date": "2020-02-14",
+    "currency": "EUR",
+    "unit": "million",
+    "source": "https://www.edf.fr/sites/default/files/contrib/groupe-edf/espaces-dedies/espace-finance-en/financial-information/publications/financial-results/2019-annual-results/pdf/fy-results-2019-consolidated-financial-statements-20200214.pdf",
+    "date_source": "https://www.edftrading.com/press-releases/edf-group-2019-annual-results",
+    "operating_income": 6760,
+    "net_income": 5182,
+    "operating_cash_flow": 14022,
+    "total_assets": 303284,
+    "current_liabilities": 54001,
+    "evidence": {
+      "pdf_pages_one_based": [
+        2,
+        4,
+        5
+      ],
+      "web_line_numbers": {
+        "operating_income": 22,
+        "net_income": 31,
+        "operating_cash_flow": 178,
+        "total_assets": 129,
+        "current_liabilities": 154
+      },
+      "flow_column": "Original current-year 2019 column",
+      "balance_column": "Original December31 2019 column"
+    },
+    "notes": [
+      "Current-year original consolidated figures; no later revised comparative used.",
+      "Net income and operating cashflow include discontinued operations and non-controlling interests where reported.",
+      "All five metrics verified in original February14 2020 financial-results PDF; use results date rather than March13 URD filing date.",
+      "Source read through web PDF extraction; no local byte hash claimed."
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "scope": "Earlier original annual observations for the seven restored EU candidates. Original eight-name coverage is supplied separately.",
+  "recovered_rows": 13,
+  "original_years": [
+    2018,
+    2019
+  ],
+  "source_date_boundary": {
+    "ALFEN.AS": "2019-02-20",
+    "AMS.SW": "2019-04-30",
+    "NEL.OL": "2019-04-24",
+    "ORSTED.CO": "2019-01-31",
+    "SAF.PA": "2019-04-01",
+    "VWS.CO": "2019-02-07",
+    "ENR.DE": "2020-09-07"
+  },
+  "eligibility_note": "Siemens Energy first listed September 28 2020. Its prospectus was available September 7. Under a strict first-of-month information cutoff it first enters October 2020; no artificial pre-listing score is required.",
+  "earliest_full_restored_subset_quarter_end": "2019-06-30",
+  "boundary_qualification": "Earliest recovered complete annual observations, not proof that earlier original filings cannot be recovered. Alfen FY2017 IPO prospectus and original FY2017 accounts for the other then-listed candidates would be needed to test earlier starts.",
+  "method_notes": [
+    "All five financial fields are in millions of each reporting currency; no currency conversion is needed for the dimensionless score ratios.",
+    "No later comparative financial values are backdated. Nel FY2018 original CFO and current liabilities differ from its FY2019 comparative figures and use the original 2018 report.",
+    "Orsted uses IFRS EBIT/net profit, not its business-performance adjustment columns.",
+    "Safran uses statutory consolidated accounts, not adjusted results. Earlier 2018/2019 results-day attachments were not recovered; exact annual-document publication dates are used conservatively and recorded explicitly.",
+    "Pre-2020 observations are annual. Additional original interim statements could improve signal granularity, but no quarterly figures are invented.",
+    "No predecessor Siemens price or financial history is used for pre-listing Siemens Energy."
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "fx_rows_added": 2064,
+  "equal_overlap_observations": 310,
+  "month_end_failures": [],
+  "no_original_market_files_modified": true,
+  "limitation": "Older monthly prices retain the released Digrin adjusted-price source; independent dated daily validation starts July2026. No new claim of exchange-grade total-return validation is made."
+}

@@ -155,6 +155,10 @@ class Inputs:
             date=dt.date.fromisoformat(record['period_end'])+dt.timedelta(days=annual_lag)
         return date
 
+    def freshness_days(self, record):
+        """Maximum report age; timing experiments may offset an artificial delay."""
+        return 550 if record['period_type']=='annual' else 275
+
     def signals(self,region,date,panel,gate=False,annual_lag=180):
         execution=dt.date.fromisoformat(date); cutoff=execution.replace(day=1)
         rows=self.annual[:]
@@ -174,7 +178,7 @@ class Inputs:
             for r in rows:
                 if r['ticker']!=t or self.available(r,annual_lag)>=cutoff: continue
                 age=(execution-dt.date.fromisoformat(r['period_end'])).days
-                if age>(550 if r['period_type']=='annual' else 275): continue
+                if age>self.freshness_days(r): continue
                 eligible.append(r)
             if not eligible: reasons[t]='no usable dated financial observation';continue
             r=max(eligible,key=lambda a:(a['period_end'],a['period_type']=='trailing',a['panel'].startswith('primary')))
@@ -230,7 +234,8 @@ def run(inputs,region,panel,rule,cost_bps,gate=False,annual_lag=180,start=None,m
     assert 1<=minimum_holdings<=maximum_holdings
     key=f'{region}_{panel}_{"policy_" if gate else ""}{rule}_{cost_bps:g}bp_lag{annual_lag}'+(f'_from{start}' if start else '')+('_digrin_only' if inputs.price_policy=='monthly_vendor_only' else '')
     dates=sorted(set.intersection(*(set(inputs.prices[t]) for t in benchmark(region))))
-    dates=[d for d in dates if '2020-01-01'<=d<=inputs.extension_config['complete_month_end'] and (start is None or d>=start)]
+    history_floor=min('2020-01-01',start) if start else '2020-01-01'
+    dates=[d for d in dates if history_floor<=d<=inputs.extension_config['complete_month_end'] and (start is None or d>=start)]
     values={};cash=100.;bvalues={};bcash=100.;ever_held=set()
     monthly=[];scores=[];trades=[];events=[];holdings=[];coverage=[];selection_audit=[];previous=None;started=False
     for date in dates:

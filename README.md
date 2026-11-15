@@ -10,6 +10,20 @@ The implemented test measures a specific part of that idea: two accounting signa
 
 ## Quick start
 
+**Longer histories and timing repair:** [extended results](results_long_history/REPORT.md)
+recover older original annual statements across both full candidate pools.
+These are retrospective accounting-score tests. Neither the June 2019 main
+start nor the September 2019 matched timing start is justified by a government
+programme; the historical Pillar 2 participation gate is not applied.
+Run `python3 run_long_history.py`; tests: `python3 -m unittest test_long_history.py test_research_corrections.py`.
+The main start dates require complete price, FX and financial coverage for every
+then-listed eligible company. The timing sensitivity now extends freshness with
+the artificial delay, fixes the source-date control, and lists every coverage
+gap. A separate matched timing window also verifies that both equal-weight
+controls have identical monthly NAVs. The preceding correction report below
+is preserved as a snapshot; its unextended-freshness timing comparison is
+superseded by this repair.
+
 **Coverage, timing and concentration corrections:** use the
 [corrected comparison](results_research_corrected/REPORT.md) for the follow-up
 to the EU/US restorations below. Run `python3 run_research_corrections.py`.
