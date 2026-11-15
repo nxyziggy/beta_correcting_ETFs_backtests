@@ -1,0 +1,21 @@
+{
+  "checks": [
+    {
+      "source": "https://www.sec.gov/Archives/edgar/data/1093691/000155837022002620/plug-20211231x10k.htm",
+      "finding": "FY2021 consolidated income statement reports net loss attributable to company of USD459.965m and no separate NCI allocation; this equals the FY2022 group comparative."
+    },
+    {
+      "source": "https://www.sec.gov/Archives/edgar/data/1093691/000110465926093454/plug-20260630x10q.htm",
+      "finding": "H1 2026 group net loss USD436.139m includes NCI loss USD2.628m; parent-only loss USD433.511m is not used."
+    },
+    {
+      "source": "https://www.sec.gov/Archives/edgar/data/1274494/000127449422000009/fslr-20211231.htm",
+      "finding": "Original consolidated statement reviewed; no separate noncontrolling-interest allocation."
+    },
+    {
+      "source": "https://www.sec.gov/Archives/edgar/data/1274494/000127449426000170/fslr-20260630.htm",
+      "finding": "H1 2026 consolidated net income USD769.188m equals tagged NetIncomeLoss; cashflow statement begins with that same group figure."
+    }
+  ],
+  "structural_qa": "36 unique rows; accession-specific values, units, source chronology, 78 TTM calculations and same-period balances checked using Decimal."
+}

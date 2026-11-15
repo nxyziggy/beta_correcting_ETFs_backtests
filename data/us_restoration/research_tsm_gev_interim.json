@@ -1,0 +1,855 @@
+[
+  {
+    "ticker": "GEV",
+    "period_end": "2024-03-31",
+    "publication_date": "2024-04-30",
+    "availability_date": "2024-04-30",
+    "currency": "USD",
+    "unit": "million",
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681024000008/gev-20240331.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681024000008/gev-20240331.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681024000008/gev-20240331.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681024000008/gev-20240331.htm",
+    "notes": [
+      "SEC original filing accession selected; USD facts divided by 1,000,000. ProfitLoss is group net income including noncontrolling interests, not parent-only NetIncomeLoss.",
+      "Contemporaneous YTD comparative flows reconcile with previously reported originals; prior annual flows are compatible."
+    ],
+    "total_assets": 47872.0,
+    "current_liabilities": 29516.0,
+    "fiscal_year": 2024,
+    "fiscal_quarter": 1,
+    "ytd": {
+      "operating_income": -289.0,
+      "net_income": -106.0,
+      "operating_cash_flow": -444.0
+    },
+    "prior_ytd": {
+      "operating_income": -469.0,
+      "net_income": -346.0,
+      "operating_cash_flow": -690.0
+    },
+    "prior_annual": {
+      "operating_income": -923,
+      "net_income": -474,
+      "operating_cash_flow": 1186,
+      "period_end": "2023-12-31",
+      "publication_date": "2024-03-05",
+      "availability_date": "2024-03-05",
+      "source": "https://www.sec.gov/Archives/edgar/data/1996810/000119312524059354/d542465dex991.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "GEV",
+    "period_end": "2024-06-30",
+    "publication_date": "2024-07-24",
+    "availability_date": "2024-07-24",
+    "currency": "USD",
+    "unit": "million",
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681024000067/gev-20240630.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681024000067/gev-20240630.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681024000067/gev-20240630.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681024000067/gev-20240630.htm",
+    "notes": [
+      "SEC original filing accession selected; USD facts divided by 1,000,000. ProfitLoss is group net income including noncontrolling interests, not parent-only NetIncomeLoss.",
+      "Contemporaneous YTD comparative flows reconcile with previously reported originals; prior annual flows are compatible."
+    ],
+    "total_assets": 48052.0,
+    "current_liabilities": 29065.0,
+    "fiscal_year": 2024,
+    "fiscal_quarter": 2,
+    "ytd": {
+      "operating_income": 238.0,
+      "net_income": 1174.0,
+      "operating_cash_flow": 535.0
+    },
+    "prior_ytd": {
+      "operating_income": -811.0,
+      "net_income": -495.0,
+      "operating_cash_flow": -978.0
+    },
+    "prior_annual": {
+      "operating_income": -923,
+      "net_income": -474,
+      "operating_cash_flow": 1186,
+      "period_end": "2023-12-31",
+      "publication_date": "2024-03-05",
+      "availability_date": "2024-03-05",
+      "source": "https://www.sec.gov/Archives/edgar/data/1996810/000119312524059354/d542465dex991.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "GEV",
+    "period_end": "2024-09-30",
+    "publication_date": "2024-10-23",
+    "availability_date": "2024-10-23",
+    "currency": "USD",
+    "unit": "million",
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681024000083/gev-20240930.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681024000083/gev-20240930.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681024000083/gev-20240930.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681024000083/gev-20240930.htm",
+    "notes": [
+      "SEC original filing accession selected; USD facts divided by 1,000,000. ProfitLoss is group net income including noncontrolling interests, not parent-only NetIncomeLoss.",
+      "Contemporaneous YTD comparative flows reconcile with previously reported originals; prior annual flows are compatible."
+    ],
+    "total_assets": 50853.0,
+    "current_liabilities": 31233.0,
+    "fiscal_year": 2024,
+    "fiscal_quarter": 3,
+    "ytd": {
+      "operating_income": -122.0,
+      "net_income": 1075.0,
+      "operating_cash_flow": 1662.0
+    },
+    "prior_ytd": {
+      "operating_income": -1118.0,
+      "net_income": -680.0,
+      "operating_cash_flow": -745.0
+    },
+    "prior_annual": {
+      "operating_income": -923,
+      "net_income": -474,
+      "operating_cash_flow": 1186,
+      "period_end": "2023-12-31",
+      "publication_date": "2024-03-05",
+      "availability_date": "2024-03-05",
+      "source": "https://www.sec.gov/Archives/edgar/data/1996810/000119312524059354/d542465dex991.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "GEV",
+    "period_end": "2025-03-31",
+    "publication_date": "2025-04-23",
+    "availability_date": "2025-04-23",
+    "currency": "USD",
+    "unit": "million",
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000073/gev-20250331.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000073/gev-20250331.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000073/gev-20250331.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000073/gev-20250331.htm",
+    "notes": [
+      "SEC original filing accession selected; USD facts divided by 1,000,000. ProfitLoss is group net income including noncontrolling interests, not parent-only NetIncomeLoss.",
+      "Contemporaneous YTD comparative flows reconcile with previously reported originals; prior annual flows are compatible."
+    ],
+    "total_assets": 51559.0,
+    "current_liabilities": 32677.0,
+    "fiscal_year": 2025,
+    "fiscal_quarter": 1,
+    "ytd": {
+      "operating_income": 43.0,
+      "net_income": 264.0,
+      "operating_cash_flow": 1161.0
+    },
+    "prior_ytd": {
+      "operating_income": -289.0,
+      "net_income": -106.0,
+      "operating_cash_flow": -444.0
+    },
+    "prior_annual": {
+      "operating_income": 471.0,
+      "net_income": 1559.0,
+      "operating_cash_flow": 2583.0,
+      "period_end": "2024-12-31",
+      "publication_date": "2025-02-06",
+      "availability_date": "2025-02-06",
+      "source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000011/gev-20241231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "GEV",
+    "period_end": "2025-06-30",
+    "publication_date": "2025-07-23",
+    "availability_date": "2025-07-23",
+    "currency": "USD",
+    "unit": "million",
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000133/gev-20250630.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000133/gev-20250630.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000133/gev-20250630.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000133/gev-20250630.htm",
+    "notes": [
+      "SEC original filing accession selected; USD facts divided by 1,000,000. ProfitLoss is group net income including noncontrolling interests, not parent-only NetIncomeLoss.",
+      "Contemporaneous YTD comparative flows reconcile with previously reported originals; prior annual flows are compatible."
+    ],
+    "total_assets": 53078.0,
+    "current_liabilities": 33761.0,
+    "fiscal_year": 2025,
+    "fiscal_quarter": 2,
+    "ytd": {
+      "operating_income": 421.0,
+      "net_income": 756.0,
+      "operating_cash_flow": 1528.0
+    },
+    "prior_ytd": {
+      "operating_income": 238.0,
+      "net_income": 1174.0,
+      "operating_cash_flow": 535.0
+    },
+    "prior_annual": {
+      "operating_income": 471.0,
+      "net_income": 1559.0,
+      "operating_cash_flow": 2583.0,
+      "period_end": "2024-12-31",
+      "publication_date": "2025-02-06",
+      "availability_date": "2025-02-06",
+      "source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000011/gev-20241231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "GEV",
+    "period_end": "2025-09-30",
+    "publication_date": "2025-10-22",
+    "availability_date": "2025-10-22",
+    "currency": "USD",
+    "unit": "million",
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000160/gev-20250930.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000160/gev-20250930.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000160/gev-20250930.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000160/gev-20250930.htm",
+    "notes": [
+      "SEC original filing accession selected; USD facts divided by 1,000,000. ProfitLoss is group net income including noncontrolling interests, not parent-only NetIncomeLoss.",
+      "Contemporaneous YTD comparative flows reconcile with previously reported originals; prior annual flows are compatible."
+    ],
+    "total_assets": 54398.0,
+    "current_liabilities": 35272.0,
+    "fiscal_year": 2025,
+    "fiscal_quarter": 3,
+    "ytd": {
+      "operating_income": 787.0,
+      "net_income": 1209.0,
+      "operating_cash_flow": 2508.0
+    },
+    "prior_ytd": {
+      "operating_income": -122.0,
+      "net_income": 1075.0,
+      "operating_cash_flow": 1662.0
+    },
+    "prior_annual": {
+      "operating_income": 471.0,
+      "net_income": 1559.0,
+      "operating_cash_flow": 2583.0,
+      "period_end": "2024-12-31",
+      "publication_date": "2025-02-06",
+      "availability_date": "2025-02-06",
+      "source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000011/gev-20241231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "GEV",
+    "period_end": "2026-03-31",
+    "publication_date": "2026-04-22",
+    "availability_date": "2026-04-22",
+    "currency": "USD",
+    "unit": "million",
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000064/gev-20260331.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000064/gev-20260331.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000064/gev-20260331.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000064/gev-20260331.htm",
+    "notes": [
+      "SEC original filing accession selected; USD facts divided by 1,000,000. ProfitLoss is group net income including noncontrolling interests, not parent-only NetIncomeLoss.",
+      "Contemporaneous YTD comparative flows reconcile with previously reported originals; prior annual flows are compatible."
+    ],
+    "total_assets": 75612.0,
+    "current_liabilities": 48094.0,
+    "fiscal_year": 2026,
+    "fiscal_quarter": 1,
+    "ytd": {
+      "operating_income": 179.0,
+      "net_income": 4750.0,
+      "operating_cash_flow": 5188.0
+    },
+    "prior_ytd": {
+      "operating_income": 43.0,
+      "net_income": 264.0,
+      "operating_cash_flow": 1161.0
+    },
+    "prior_annual": {
+      "operating_income": 1388.0,
+      "net_income": 4879.0,
+      "operating_cash_flow": 4987.0,
+      "period_end": "2025-12-31",
+      "publication_date": "2026-01-29",
+      "availability_date": "2026-01-29",
+      "source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000015/gev-20251231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "GEV",
+    "period_end": "2026-06-30",
+    "publication_date": "2026-07-22",
+    "availability_date": "2026-07-22",
+    "currency": "USD",
+    "unit": "million",
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000148/gev-20260630.htm",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000148/gev-20260630.htm",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000148/gev-20260630.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000148/gev-20260630.htm",
+    "notes": [
+      "SEC original filing accession selected; USD facts divided by 1,000,000. ProfitLoss is group net income including noncontrolling interests, not parent-only NetIncomeLoss.",
+      "Contemporaneous YTD comparative flows reconcile with previously reported originals; prior annual flows are compatible."
+    ],
+    "total_assets": 80800.0,
+    "current_liabilities": 55830.0,
+    "fiscal_year": 2026,
+    "fiscal_quarter": 2,
+    "ytd": {
+      "operating_income": 833.0,
+      "net_income": 5398.0,
+      "operating_cash_flow": 10680.0
+    },
+    "prior_ytd": {
+      "operating_income": 421.0,
+      "net_income": 756.0,
+      "operating_cash_flow": 1528.0
+    },
+    "prior_annual": {
+      "operating_income": 1388.0,
+      "net_income": 4879.0,
+      "operating_cash_flow": 4987.0,
+      "period_end": "2025-12-31",
+      "publication_date": "2026-01-29",
+      "availability_date": "2026-01-29",
+      "source": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000015/gev-20251231.htm"
+    },
+    "ttm_compatible": true
+  },
+  {
+    "ticker": "TSM",
+    "period_end": "2022-06-30",
+    "publication_date": "2022-08-12",
+    "availability_date": "2022-08-12",
+    "currency": "TWD",
+    "unit": "million",
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1046179/000156459022029201/0001564590-22-029201.txt",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1046179/000156459022029201/0001564590-22-029201.txt",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1046179/000156459022029201/0001564590-22-029201.txt",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1046179/000156459022029201/0001564590-22-029201.txt",
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ],
+    "total_assets": 4345941.335,
+    "current_liabilities": 845240.981,
+    "fiscal_year": 2022,
+    "fiscal_quarter": 2,
+    "ytd": {
+      "operating_income": 485913.867,
+      "net_income": 440053.626,
+      "operating_cash_flow": 711019.117
+    },
+    "prior_ytd": {
+      "operating_income": 296205.395,
+      "net_income": 274220.465,
+      "operating_cash_flow": 415255.198
+    },
+    "ttm_compatible": true,
+    "prior_annual": {
+      "operating_income": 649980.897,
+      "net_income": 597073.134,
+      "operating_cash_flow": 1112160.722,
+      "period_end": "2021-12-31",
+      "publication_date": "2022-02-25",
+      "availability_date": "2022-02-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1046179/000156459022006898/0001564590-22-006898.txt"
+    }
+  },
+  {
+    "ticker": "TSM",
+    "period_end": "2022-09-30",
+    "publication_date": "2022-11-14",
+    "availability_date": "2022-11-14",
+    "currency": "TWD",
+    "unit": "million",
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1046179/000156459022037471/0001564590-22-037471.txt",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1046179/000156459022037471/0001564590-22-037471.txt",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1046179/000156459022037471/0001564590-22-037471.txt",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1046179/000156459022037471/0001564590-22-037471.txt",
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ],
+    "total_assets": 4643301.766,
+    "current_liabilities": 807431.287,
+    "fiscal_year": 2022,
+    "fiscal_quarter": 3,
+    "ytd": {
+      "operating_income": 796238.081,
+      "net_income": 721022.033,
+      "operating_cash_flow": 1123717.284
+    },
+    "prior_ytd": {
+      "operating_income": 467208.943,
+      "net_income": 430699.619,
+      "operating_cash_flow": 733961.405
+    },
+    "ttm_compatible": true,
+    "prior_annual": {
+      "operating_income": 649980.897,
+      "net_income": 597073.134,
+      "operating_cash_flow": 1112160.722,
+      "period_end": "2021-12-31",
+      "publication_date": "2022-02-25",
+      "availability_date": "2022-02-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1046179/000156459022006898/0001564590-22-006898.txt"
+    }
+  },
+  {
+    "ticker": "TSM",
+    "period_end": "2023-03-31",
+    "publication_date": "2023-05-12",
+    "availability_date": "2023-05-12",
+    "currency": "TWD",
+    "unit": "million",
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1046179/000162828023017752/0001628280-23-017752.txt",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1046179/000162828023017752/0001628280-23-017752.txt",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1046179/000162828023017752/0001628280-23-017752.txt",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1046179/000162828023017752/0001628280-23-017752.txt",
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ],
+    "total_assets": 5045844.348,
+    "current_liabilities": 873089.921,
+    "fiscal_year": 2023,
+    "fiscal_quarter": 1,
+    "ytd": {
+      "operating_income": 231238.157,
+      "net_income": 206949.036,
+      "operating_cash_flow": 385244.745
+    },
+    "prior_ytd": {
+      "operating_income": 223790.118,
+      "net_income": 202873.374,
+      "operating_cash_flow": 372169.688
+    },
+    "ttm_compatible": true,
+    "prior_annual": {
+      "operating_income": 1121278.851,
+      "net_income": 1016900.515,
+      "operating_cash_flow": 1610599.188,
+      "period_end": "2022-12-31",
+      "publication_date": "2023-02-24",
+      "availability_date": "2023-02-24",
+      "source": "https://www.sec.gov/Archives/edgar/data/1046179/000156459023002381/0001564590-23-002381.txt"
+    }
+  },
+  {
+    "ticker": "TSM",
+    "period_end": "2023-06-30",
+    "publication_date": "2023-08-14",
+    "availability_date": "2023-08-14",
+    "currency": "TWD",
+    "unit": "million",
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1046179/000162828023029161/0001628280-23-029161.txt",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1046179/000162828023029161/0001628280-23-029161.txt",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1046179/000162828023029161/0001628280-23-029161.txt",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1046179/000162828023029161/0001628280-23-029161.txt",
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ],
+    "total_assets": 5149465.045,
+    "current_liabilities": 810829.007,
+    "fiscal_year": 2023,
+    "fiscal_quarter": 2,
+    "ytd": {
+      "operating_income": 433196.2,
+      "net_income": 388666.042,
+      "operating_cash_flow": 552492.724
+    },
+    "prior_ytd": {
+      "operating_income": 485913.867,
+      "net_income": 440053.626,
+      "operating_cash_flow": 711019.117
+    },
+    "ttm_compatible": true,
+    "prior_annual": {
+      "operating_income": 1121278.851,
+      "net_income": 1016900.515,
+      "operating_cash_flow": 1610599.188,
+      "period_end": "2022-12-31",
+      "publication_date": "2023-02-24",
+      "availability_date": "2023-02-24",
+      "source": "https://www.sec.gov/Archives/edgar/data/1046179/000156459023002381/0001564590-23-002381.txt"
+    }
+  },
+  {
+    "ticker": "TSM",
+    "period_end": "2023-09-30",
+    "publication_date": "2023-11-14",
+    "availability_date": "2023-11-14",
+    "currency": "TWD",
+    "unit": "million",
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617923000023/0001046179-23-000023.txt",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617923000023/0001046179-23-000023.txt",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617923000023/0001046179-23-000023.txt",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617923000023/0001046179-23-000023.txt",
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ],
+    "total_assets": 5484556.381,
+    "current_liabilities": 970034.816,
+    "fiscal_year": 2023,
+    "fiscal_quarter": 3,
+    "ytd": {
+      "operating_income": 661261.103,
+      "net_income": 599461.316,
+      "operating_cash_flow": 847138.0
+    },
+    "prior_ytd": {
+      "operating_income": 796238.081,
+      "net_income": 721022.033,
+      "operating_cash_flow": 1123717.284
+    },
+    "ttm_compatible": true,
+    "prior_annual": {
+      "operating_income": 1121278.851,
+      "net_income": 1016900.515,
+      "operating_cash_flow": 1610599.188,
+      "period_end": "2022-12-31",
+      "publication_date": "2023-02-24",
+      "availability_date": "2023-02-24",
+      "source": "https://www.sec.gov/Archives/edgar/data/1046179/000156459023002381/0001564590-23-002381.txt"
+    }
+  },
+  {
+    "ticker": "TSM",
+    "period_end": "2024-03-31",
+    "publication_date": "2024-05-15",
+    "availability_date": "2024-05-15",
+    "currency": "TWD",
+    "unit": "million",
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617924000061/0001046179-24-000061.txt",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617924000061/0001046179-24-000061.txt",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617924000061/0001046179-24-000061.txt",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617924000061/0001046179-24-000061.txt",
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ],
+    "total_assets": 5787891.082,
+    "current_liabilities": 1026180.079,
+    "fiscal_year": 2024,
+    "fiscal_quarter": 1,
+    "ytd": {
+      "operating_income": 249018.306,
+      "net_income": 225221.263,
+      "operating_cash_flow": 436311.108
+    },
+    "prior_ytd": {
+      "operating_income": 231238.157,
+      "net_income": 206949.036,
+      "operating_cash_flow": 385244.745
+    },
+    "ttm_compatible": true,
+    "prior_annual": {
+      "operating_income": 921465.606,
+      "net_income": 837767.517,
+      "operating_cash_flow": 1241967.347,
+      "period_end": "2023-12-31",
+      "publication_date": "2024-02-29",
+      "availability_date": "2024-02-29",
+      "source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617924000020/0001046179-24-000020.txt"
+    }
+  },
+  {
+    "ticker": "TSM",
+    "period_end": "2024-06-30",
+    "publication_date": "2024-08-14",
+    "availability_date": "2024-08-14",
+    "currency": "TWD",
+    "unit": "million",
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617924000094/0001046179-24-000094.txt",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617924000094/0001046179-24-000094.txt",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617924000094/0001046179-24-000094.txt",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617924000094/0001046179-24-000094.txt",
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ],
+    "total_assets": 5982364.014,
+    "current_liabilities": 1048915.68,
+    "fiscal_year": 2024,
+    "fiscal_quarter": 2,
+    "ytd": {
+      "operating_income": 535573.848,
+      "net_income": 472882.701,
+      "operating_cash_flow": 813979.318
+    },
+    "prior_ytd": {
+      "operating_income": 433196.2,
+      "net_income": 388666.042,
+      "operating_cash_flow": 552492.724
+    },
+    "ttm_compatible": true,
+    "prior_annual": {
+      "operating_income": 921465.606,
+      "net_income": 837767.517,
+      "operating_cash_flow": 1241967.347,
+      "period_end": "2023-12-31",
+      "publication_date": "2024-02-29",
+      "availability_date": "2024-02-29",
+      "source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617924000020/0001046179-24-000020.txt"
+    }
+  },
+  {
+    "ticker": "TSM",
+    "period_end": "2024-09-30",
+    "publication_date": "2024-11-14",
+    "availability_date": "2024-11-14",
+    "currency": "TWD",
+    "unit": "million",
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617924000126/0001046179-24-000126.txt",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617924000126/0001046179-24-000126.txt",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617924000126/0001046179-24-000126.txt",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617924000126/0001046179-24-000126.txt",
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ],
+    "total_assets": 6165658.176,
+    "current_liabilities": 1080399.099,
+    "fiscal_year": 2024,
+    "fiscal_quarter": 3,
+    "ytd": {
+      "operating_income": 896340.137,
+      "net_income": 797962.871,
+      "operating_cash_flow": 1205971.785
+    },
+    "prior_ytd": {
+      "operating_income": 661261.103,
+      "net_income": 599461.316,
+      "operating_cash_flow": 847138.0
+    },
+    "ttm_compatible": true,
+    "prior_annual": {
+      "operating_income": 921465.606,
+      "net_income": 837767.517,
+      "operating_cash_flow": 1241967.347,
+      "period_end": "2023-12-31",
+      "publication_date": "2024-02-29",
+      "availability_date": "2024-02-29",
+      "source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617924000020/0001046179-24-000020.txt"
+    }
+  },
+  {
+    "ticker": "TSM",
+    "period_end": "2025-03-31",
+    "publication_date": "2025-05-15",
+    "availability_date": "2025-05-15",
+    "currency": "TWD",
+    "unit": "million",
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617925000059/0001046179-25-000059.txt",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617925000059/0001046179-25-000059.txt",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617925000059/0001046179-25-000059.txt",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617925000059/0001046179-25-000059.txt",
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ],
+    "total_assets": 7133287.42,
+    "current_liabilities": 1399802.998,
+    "fiscal_year": 2025,
+    "fiscal_quarter": 1,
+    "ytd": {
+      "operating_income": 407080.808,
+      "net_income": 360732.661,
+      "operating_cash_flow": 625573.672
+    },
+    "prior_ytd": {
+      "operating_income": 249018.306,
+      "net_income": 225221.263,
+      "operating_cash_flow": 436311.108
+    },
+    "ttm_compatible": true,
+    "prior_annual": {
+      "operating_income": 1322053.05,
+      "net_income": 1172431.759,
+      "operating_cash_flow": 1826177.068,
+      "period_end": "2024-12-31",
+      "publication_date": "2025-02-27",
+      "availability_date": "2025-02-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617925000019/0001046179-25-000019.txt"
+    }
+  },
+  {
+    "ticker": "TSM",
+    "period_end": "2025-06-30",
+    "publication_date": "2025-08-14",
+    "availability_date": "2025-08-14",
+    "currency": "TWD",
+    "unit": "million",
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617925000097/0001046179-25-000097.txt",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617925000097/0001046179-25-000097.txt",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617925000097/0001046179-25-000097.txt",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617925000097/0001046179-25-000097.txt",
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ],
+    "total_assets": 7006349.549,
+    "current_liabilities": 1377314.334,
+    "fiscal_year": 2025,
+    "fiscal_quarter": 2,
+    "ytd": {
+      "operating_income": 870504.446,
+      "net_income": 758226.085,
+      "operating_cash_flow": 1122637.757
+    },
+    "prior_ytd": {
+      "operating_income": 535573.848,
+      "net_income": 472882.701,
+      "operating_cash_flow": 813979.318
+    },
+    "ttm_compatible": true,
+    "prior_annual": {
+      "operating_income": 1322053.05,
+      "net_income": 1172431.759,
+      "operating_cash_flow": 1826177.068,
+      "period_end": "2024-12-31",
+      "publication_date": "2025-02-27",
+      "availability_date": "2025-02-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617925000019/0001046179-25-000019.txt"
+    }
+  },
+  {
+    "ticker": "TSM",
+    "period_end": "2025-09-30",
+    "publication_date": "2025-11-14",
+    "availability_date": "2025-11-14",
+    "currency": "TWD",
+    "unit": "million",
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617925000128/0001046179-25-000128.txt",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617925000128/0001046179-25-000128.txt",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617925000128/0001046179-25-000128.txt",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617925000128/0001046179-25-000128.txt",
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ],
+    "total_assets": 7354107.076,
+    "current_liabilities": 1275906.624,
+    "fiscal_year": 2025,
+    "fiscal_quarter": 3,
+    "ytd": {
+      "operating_income": 1371189.264,
+      "net_income": 1209981.447,
+      "operating_cash_flow": 1549466.838
+    },
+    "prior_ytd": {
+      "operating_income": 896340.137,
+      "net_income": 797962.871,
+      "operating_cash_flow": 1205971.785
+    },
+    "ttm_compatible": true,
+    "prior_annual": {
+      "operating_income": 1322053.05,
+      "net_income": 1172431.759,
+      "operating_cash_flow": 1826177.068,
+      "period_end": "2024-12-31",
+      "publication_date": "2025-02-27",
+      "availability_date": "2025-02-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617925000019/0001046179-25-000019.txt"
+    }
+  },
+  {
+    "ticker": "TSM",
+    "period_end": "2026-03-31",
+    "publication_date": "2026-05-15",
+    "availability_date": "2026-05-15",
+    "currency": "TWD",
+    "unit": "million",
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000278/0001046179-26-000278.txt",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000278/0001046179-26-000278.txt",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000278/0001046179-26-000278.txt",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000278/0001046179-26-000278.txt",
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ],
+    "total_assets": 8660949.685,
+    "current_liabilities": 1714253.448,
+    "fiscal_year": 2026,
+    "fiscal_quarter": 1,
+    "ytd": {
+      "operating_income": 658966.142,
+      "net_income": 572801.304,
+      "operating_cash_flow": 698976.265
+    },
+    "prior_ytd": {
+      "operating_income": 407080.808,
+      "net_income": 360732.661,
+      "operating_cash_flow": 625573.672
+    },
+    "ttm_compatible": true,
+    "prior_annual": {
+      "operating_income": 1936091.677,
+      "net_income": 1715396.78,
+      "operating_cash_flow": 2274975.625,
+      "period_end": "2025-12-31",
+      "publication_date": "2026-02-26",
+      "availability_date": "2026-02-26",
+      "source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000024/0001046179-26-000024.txt"
+    }
+  },
+  {
+    "ticker": "TSM",
+    "period_end": "2026-06-30",
+    "publication_date": "2026-08-14",
+    "availability_date": "2026-08-14",
+    "currency": "TWD",
+    "unit": "million",
+    "income_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000541/0001046179-26-000541.txt",
+    "balance_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000541/0001046179-26-000541.txt",
+    "cashflow_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000541/0001046179-26-000541.txt",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000541/0001046179-26-000541.txt",
+    "notes": [
+      "Exact original statement values in TWD thousands divided by 1,000. Net income includes noncontrolling interests. Availability uses complete financial statement 6-K filing date, conservatively later than earnings announcement.",
+      "Annual and interim comparisons reconciled to originals; no selected flow-basis restatements identified.",
+      "All TSM inputs use Taiwan-IFRSs (IFRS endorsed by Taiwan FSC), consistently across annual and interim 6-K statements. IASB-IFRS 20-F figures differ and are not mixed into this panel; see accounting_basis_evidence.json."
+    ],
+    "total_assets": 9375654.727,
+    "current_liabilities": 1857761.825,
+    "fiscal_year": 2026,
+    "fiscal_quarter": 2,
+    "ytd": {
+      "operating_income": 1425568.793,
+      "net_income": 1279582.227,
+      "operating_cash_flow": 1482341.242
+    },
+    "prior_ytd": {
+      "operating_income": 870504.446,
+      "net_income": 758226.085,
+      "operating_cash_flow": 1122637.757
+    },
+    "ttm_compatible": true,
+    "prior_annual": {
+      "operating_income": 1936091.677,
+      "net_income": 1715396.78,
+      "operating_cash_flow": 2274975.625,
+      "period_end": "2025-12-31",
+      "publication_date": "2026-02-26",
+      "availability_date": "2026-02-26",
+      "source": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000024/0001046179-26-000024.txt"
+    }
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "companies": [
+    "FSLR",
+    "PLUG"
+  ],
+  "observations_checked": 36,
+  "tagged_source_facts_checked": 414,
+  "method": "Independent recursive comparison with original SEC companyfacts snapshots; checked accession/date/period/value and exact USD-to-million scaling."
+}

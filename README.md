@@ -23,6 +23,13 @@ Run `python3 run_eu_interim.py` to compare the restored pool with and without
 these interim updates. The [method](EU_INTERIM_METHOD.md), dated source records,
 twelve-month calculations and validation accompany the results.
 
+**US coverage extension:** [US restoration results](results_us_restored/REPORT.md)
+restore TSM, FSLR, PLUG, BE, ETN and GEV using annual and quarterly histories.
+Run `python3 run_us_restoration.py` to reproduce the original ten-company
+control and compare it with the restored pool. The
+[method](US_RESTORATION_METHOD.md) preserves the original trading rules and
+GE Vernova's listing date, and documents Eaton's derived operating subtotal.
+
 Clone this repository or extract `Actual_Dates_Backtest_Replication.zip`. Open a terminal in the directory containing `run_all.py`, `backtest.py` and `data/`. The ZIP names that directory `Actual_Dates_Backtest`.
 
 Check Python:

@@ -1,0 +1,32 @@
+{
+  "status": "complete_independently_verified",
+  "companies": [
+    "BE",
+    "ETN"
+  ],
+  "annual_observations": 10,
+  "interim_observations": 26,
+  "expected_annual": 10,
+  "expected_interim": 26,
+  "gaps": [],
+  "source_policy": "Original accession-specific SEC 10-K/10-Q facts and filing dates; consolidated group earnings; no vendor fallback or later-restatement substitution.",
+  "availability_policy": "Actual SEC filing dates used conservatively; releases earlier than filings are not assumed.",
+  "units": "USD million; SEC dollar facts divided by 1,000,000.",
+  "eaton_operating_income": "Derived operating subtotal = net sales \u2212 cost of products sold \u2212 selling and administrative expense \u2212 research and development expense. Not an issuer-reported consolidated EBIT line. Separate net interest, business-sale gains and other income/expense excluded. Other income/expense includes mixed operating and nonoperating items; this is a disclosed comparability limitation. Alternative pretax+net-interest EBIT is included in facts.json for audit only, not used in scoring.",
+  "comparative_policy": "Use current-filing prior-YTD comparatives and prior audited annual original values. All 26 interim comparatives compared with original prior-year interims. Only difference: BE nine months 2021 CFO -107.956 million in 2022 Q3 vs -107.907 million in originally filed 2021 Q3. Original FY2021 CFO -60.681 million was filed after original Q3 and remains unchanged in subsequent annuals. Current filing prior-period reclassification statement recorded in raw notes.",
+  "validation": {
+    "checked": 446,
+    "filings": 42,
+    "errors": [],
+    "method": "Independently parse original SEC inline-XBRL context dates, dimensions, numeric scales and signs; compare every SEC companyfacts source fact to the same accession HTML.",
+    "independent_review": "Solar/fuel recovery agent: all 446 tagged facts, 68 derivations, 336 raw field/component mappings and 36 dates matched; statement excerpts manually checked; no corrections."
+  },
+  "files": {
+    "annual": "research_power_annual.json",
+    "interim": "research_power_interim.json",
+    "evidence": "sources/power/facts.json",
+    "dates": "sources/power/filing_dates.json",
+    "comparative_checks": "sources/power/comparative_checks.json",
+    "sources": "sources/power/document_hashes.json"
+  }
+}

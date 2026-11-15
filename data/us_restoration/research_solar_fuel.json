@@ -1,0 +1,18 @@
+{
+  "status": "complete_source_qa_passed",
+  "annual_rows": 10,
+  "interim_rows": 26,
+  "tickers": [
+    "FSLR",
+    "PLUG"
+  ],
+  "gaps": [],
+  "method": "Original accession-specific SEC companyfacts, conservative filing dates from SEC submissions; USD scaled to millions.",
+  "source_timing": "Current retrieval retains filing accession and filed date; no latest comparative value replaces an original observation retroactively.",
+  "comparative_check_fields": 102,
+  "notes": [
+    "PLUG historical restatements preceding FY2021 do not alter the selected FY2021 onward flow values. All targeted interim comparative triples reconcile to their original filings.",
+    "First Solar uses reported operating income, including disposal gains/charges where GAAP operating income includes them. No adjusted earnings substitution.",
+    "Full SEC snapshots retained outside repository in sibling us_source_reports/solar_fuel; compact selected tagged facts and source hashes are committed."
+  ]
+}

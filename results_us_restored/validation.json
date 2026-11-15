@@ -1,0 +1,78 @@
+{
+  "runs": [
+    {
+      "run": "US_reference_expanded_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 493
+    },
+    {
+      "run": "US_reference_expanded_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 493
+    },
+    {
+      "run": "US_reference_expanded_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 493
+    },
+    {
+      "run": "US_restored_annual_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 774
+    },
+    {
+      "run": "US_restored_annual_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 774
+    },
+    {
+      "run": "US_restored_annual_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 774
+    },
+    {
+      "run": "US_restored_interim_q75_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 774
+    },
+    {
+      "run": "US_restored_interim_q50_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 774
+    },
+    {
+      "run": "US_restored_interim_equal_10bp_lag0_from2022-09-30",
+      "result": "PASS",
+      "months": 50,
+      "scores": 774
+    }
+  ],
+  "published_reference_runs_reproduced": 3,
+  "preserved_files": 2088,
+  "expected_annual": 29,
+  "recovered_annual": 29,
+  "expected_interims": 73,
+  "usable_ttm": 73,
+  "arithmetic_fields_checked": 219,
+  "excluded": 0,
+  "annual_interim_equal_control_unchanged": true,
+  "inherited_coverage_gaps": {
+    "LRCX": [
+      "2025-01-31",
+      "2025-02-28",
+      "2025-03-31",
+      "2025-04-30",
+      "2025-05-31",
+      "2025-06-30",
+      "2025-07-31"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "ticker": "FSLR",
+    "filename": "FSLR_companyfacts.json",
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001274494.json",
+    "sha256": "f06c3b11399700b05057db8a105b3417c4503c2a4db88d2f67e115f7f20d5244"
+  },
+  {
+    "ticker": "FSLR",
+    "filename": "FSLR_submissions.json",
+    "url": "https://data.sec.gov/submissions/CIK0001274494.json",
+    "sha256": "228d4a1519c7f460b9ca0b7a8d48209bc2071171941cec51f97b98f808d68b79"
+  },
+  {
+    "ticker": "PLUG",
+    "filename": "PLUG_companyfacts.json",
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001093691.json",
+    "sha256": "508b8aa9d00cb2eaab78604364dea6e17489f522f4934e79b2c8b693404626e6"
+  },
+  {
+    "ticker": "PLUG",
+    "filename": "PLUG_submissions.json",
+    "url": "https://data.sec.gov/submissions/CIK0001093691.json",
+    "sha256": "1303aa07f3baf40660d70b342cbd7f76c88179ce7fc0234a5a3d821627a5f266"
+  }
+]

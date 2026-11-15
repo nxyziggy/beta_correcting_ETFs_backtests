@@ -1,0 +1,262 @@
+[
+  {
+    "ticker": "FSLR",
+    "period_end": "2022-06-30",
+    "prior_ytd_original_reconciled": true,
+    "flow_fields_checked": 3
+  },
+  {
+    "ticker": "FSLR",
+    "period_end": "2022-09-30",
+    "prior_ytd_original_reconciled": true,
+    "flow_fields_checked": 3
+  },
+  {
+    "ticker": "FSLR",
+    "period_end": "2023-03-31",
+    "prior_ytd_original_reconciled": true,
+    "flow_fields_checked": 3
+  },
+  {
+    "ticker": "FSLR",
+    "period_end": "2023-06-30",
+    "prior_ytd_original_reconciled": true,
+    "flow_fields_checked": 3
+  },
+  {
+    "ticker": "FSLR",
+    "period_end": "2023-09-30",
+    "prior_ytd_original_reconciled": true,
+    "flow_fields_checked": 3
+  },
+  {
+    "ticker": "FSLR",
+    "period_end": "2024-03-31",
+    "prior_ytd_original_reconciled": true,
+    "flow_fields_checked": 3
+  },
+  {
+    "ticker": "FSLR",
+    "period_end": "2024-06-30",
+    "prior_ytd_original_reconciled": true,
+    "flow_fields_checked": 3
+  },
+  {
+    "ticker": "FSLR",
+    "period_end": "2024-09-30",
+    "prior_ytd_original_reconciled": true,
+    "flow_fields_checked": 3
+  },
+  {
+    "ticker": "FSLR",
+    "period_end": "2025-03-31",
+    "prior_ytd_original_reconciled": true,
+    "flow_fields_checked": 3
+  },
+  {
+    "ticker": "FSLR",
+    "period_end": "2025-06-30",
+    "prior_ytd_original_reconciled": true,
+    "flow_fields_checked": 3
+  },
+  {
+    "ticker": "FSLR",
+    "period_end": "2025-09-30",
+    "prior_ytd_original_reconciled": true,
+    "flow_fields_checked": 3
+  },
+  {
+    "ticker": "FSLR",
+    "period_end": "2026-03-31",
+    "prior_ytd_original_reconciled": true,
+    "flow_fields_checked": 3
+  },
+  {
+    "ticker": "FSLR",
+    "period_end": "2026-06-30",
+    "prior_ytd_original_reconciled": true,
+    "flow_fields_checked": 3
+  },
+  {
+    "ticker": "FSLR",
+    "period_end": "2021-12-31",
+    "later_annual_comparative_matches_original": true,
+    "flow_fields_checked": 3,
+    "validation_only_source": {
+      "form": "10-K",
+      "reportDate": "2022-12-31",
+      "filingDate": "2023-02-28",
+      "accessionNumber": "0001274494-23-000002",
+      "primaryDocument": "fslr-20221231.htm"
+    }
+  },
+  {
+    "ticker": "FSLR",
+    "period_end": "2022-12-31",
+    "later_annual_comparative_matches_original": true,
+    "flow_fields_checked": 3,
+    "validation_only_source": {
+      "form": "10-K",
+      "reportDate": "2023-12-31",
+      "filingDate": "2024-02-27",
+      "accessionNumber": "0001274494-24-000004",
+      "primaryDocument": "fslr-20231231.htm"
+    }
+  },
+  {
+    "ticker": "FSLR",
+    "period_end": "2023-12-31",
+    "later_annual_comparative_matches_original": true,
+    "flow_fields_checked": 3,
+    "validation_only_source": {
+      "form": "10-K",
+      "reportDate": "2024-12-31",
+      "filingDate": "2025-02-25",
+      "accessionNumber": "0001274494-25-000010",
+      "primaryDocument": "fslr-20241231.htm"
+    }
+  },
+  {
+    "ticker": "FSLR",
+    "period_end": "2024-12-31",
+    "later_annual_comparative_matches_original": true,
+    "flow_fields_checked": 3,
+    "validation_only_source": {
+      "form": "10-K",
+      "reportDate": "2025-12-31",
+      "filingDate": "2026-02-24",
+      "accessionNumber": "0001274494-26-000021",
+      "primaryDocument": "fslr-20251231.htm"
+    }
+  },
+  {
+    "ticker": "PLUG",
+    "period_end": "2022-06-30",
+    "prior_ytd_original_reconciled": true,
+    "flow_fields_checked": 3
+  },
+  {
+    "ticker": "PLUG",
+    "period_end": "2022-09-30",
+    "prior_ytd_original_reconciled": true,
+    "flow_fields_checked": 3
+  },
+  {
+    "ticker": "PLUG",
+    "period_end": "2023-03-31",
+    "prior_ytd_original_reconciled": true,
+    "flow_fields_checked": 3
+  },
+  {
+    "ticker": "PLUG",
+    "period_end": "2023-06-30",
+    "prior_ytd_original_reconciled": true,
+    "flow_fields_checked": 3
+  },
+  {
+    "ticker": "PLUG",
+    "period_end": "2023-09-30",
+    "prior_ytd_original_reconciled": true,
+    "flow_fields_checked": 3
+  },
+  {
+    "ticker": "PLUG",
+    "period_end": "2024-03-31",
+    "prior_ytd_original_reconciled": true,
+    "flow_fields_checked": 3
+  },
+  {
+    "ticker": "PLUG",
+    "period_end": "2024-06-30",
+    "prior_ytd_original_reconciled": true,
+    "flow_fields_checked": 3
+  },
+  {
+    "ticker": "PLUG",
+    "period_end": "2024-09-30",
+    "prior_ytd_original_reconciled": true,
+    "flow_fields_checked": 3
+  },
+  {
+    "ticker": "PLUG",
+    "period_end": "2025-03-31",
+    "prior_ytd_original_reconciled": true,
+    "flow_fields_checked": 3
+  },
+  {
+    "ticker": "PLUG",
+    "period_end": "2025-06-30",
+    "prior_ytd_original_reconciled": true,
+    "flow_fields_checked": 3
+  },
+  {
+    "ticker": "PLUG",
+    "period_end": "2025-09-30",
+    "prior_ytd_original_reconciled": true,
+    "flow_fields_checked": 3
+  },
+  {
+    "ticker": "PLUG",
+    "period_end": "2026-03-31",
+    "prior_ytd_original_reconciled": true,
+    "flow_fields_checked": 3
+  },
+  {
+    "ticker": "PLUG",
+    "period_end": "2026-06-30",
+    "prior_ytd_original_reconciled": true,
+    "flow_fields_checked": 3
+  },
+  {
+    "ticker": "PLUG",
+    "period_end": "2021-12-31",
+    "later_annual_comparative_matches_original": true,
+    "flow_fields_checked": 3,
+    "validation_only_source": {
+      "form": "10-K",
+      "reportDate": "2022-12-31",
+      "filingDate": "2023-03-01",
+      "accessionNumber": "0001558370-23-002599",
+      "primaryDocument": "plug-20221231x10k.htm"
+    }
+  },
+  {
+    "ticker": "PLUG",
+    "period_end": "2022-12-31",
+    "later_annual_comparative_matches_original": true,
+    "flow_fields_checked": 3,
+    "validation_only_source": {
+      "form": "10-K",
+      "reportDate": "2023-12-31",
+      "filingDate": "2024-02-29",
+      "accessionNumber": "0001558370-24-002178",
+      "primaryDocument": "plug-20231231x10k.htm"
+    }
+  },
+  {
+    "ticker": "PLUG",
+    "period_end": "2023-12-31",
+    "later_annual_comparative_matches_original": true,
+    "flow_fields_checked": 3,
+    "validation_only_source": {
+      "form": "10-K",
+      "reportDate": "2024-12-31",
+      "filingDate": "2025-03-03",
+      "accessionNumber": "0001558370-25-002049",
+      "primaryDocument": "plug-20241231x10k.htm"
+    }
+  },
+  {
+    "ticker": "PLUG",
+    "period_end": "2024-12-31",
+    "later_annual_comparative_matches_original": true,
+    "flow_fields_checked": 3,
+    "validation_only_source": {
+      "form": "10-K",
+      "reportDate": "2025-12-31",
+      "filingDate": "2026-03-02",
+      "accessionNumber": "0001104659-26-022286",
+      "primaryDocument": "plug-20251231x10k.htm"
+    }
+  }
+]

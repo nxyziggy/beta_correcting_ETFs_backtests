@@ -1,0 +1,298 @@
+[
+  {
+    "path": "US_RESTORATION_METHOD.md",
+    "sha256": "3fc483a05d4b161d49101fa793160b0b43b298e875d8470afbf97290073cb6d2"
+  },
+  {
+    "path": "backtest.py",
+    "sha256": "2af12310d739b7b352c4a8e634fa10d3e70fe3df0365697aea8107e397506b6e"
+  },
+  {
+    "path": "data/us_restoration/arithmetic_audit.json",
+    "sha256": "947d45570550a62e475cb7a8df24d56bfc04eef2f5200f565f669c1729639d27"
+  },
+  {
+    "path": "data/us_restoration/exclusions.json",
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+  },
+  {
+    "path": "data/us_restoration/financials_annual.csv",
+    "sha256": "3973b97288312902d3899417ea19157a9a47907b57b8952d37f08db41da59367"
+  },
+  {
+    "path": "data/us_restoration/financials_interim.csv",
+    "sha256": "f09e9802e356ab2e43074dd7a1c9404c8c6795d287ac62aeeefa30fa2289cc36"
+  },
+  {
+    "path": "data/us_restoration/independent_solar_fuel_qa.json",
+    "sha256": "2e16514ab6d416e314ceb85e4961b656472dae4ede1ad04fb75c243dc0731cec"
+  },
+  {
+    "path": "data/us_restoration/independent_tsm_gev_qa.json",
+    "sha256": "548ff8eb60f3cc6eff23e3ff268a0f6ad0b174be074978df13b9e31adf35ab02"
+  },
+  {
+    "path": "data/us_restoration/normalized_inputs.json",
+    "sha256": "18ba9d3bc42e5e1fb62ec923d3769139b828b1798da3cda812b08723fa0aba93"
+  },
+  {
+    "path": "data/us_restoration/research_power.json",
+    "sha256": "04e3f8bb4a12ff6e22957dc1e86bc575192ab0dea413cc14b32c979b5ad32a6e"
+  },
+  {
+    "path": "data/us_restoration/research_power_annual.json",
+    "sha256": "4690464fcb9435d6b90ca0f109b76463e17423dc4afe85a2ffb09c733b00a37c"
+  },
+  {
+    "path": "data/us_restoration/research_power_interim.json",
+    "sha256": "6046d282a5ae61cc6648ad368e9a7b85c40b7f32d4f28f7898f3fa85d0ee0f58"
+  },
+  {
+    "path": "data/us_restoration/research_solar_fuel.json",
+    "sha256": "a92b28e0bfdfcf7fbbcc57d06acbbfb7846f0b73745f9438467d119f688e34ec"
+  },
+  {
+    "path": "data/us_restoration/research_solar_fuel_annual.json",
+    "sha256": "203436b574c1852b6f41f5beecc1463b73c1dd0e916f3f48a1e86b5e094f6ce8"
+  },
+  {
+    "path": "data/us_restoration/research_solar_fuel_interim.json",
+    "sha256": "64e4a4fe222d0b232550a3735ad51cfe52437cfcc6554f5afdfa814eabbb08da"
+  },
+  {
+    "path": "data/us_restoration/research_tsm_gev.json",
+    "sha256": "350b3a021fb024bc91e94b6c1d622c009c7deff4ed3502db43adeaed0ebccae1"
+  },
+  {
+    "path": "data/us_restoration/research_tsm_gev_annual.json",
+    "sha256": "68139bc45545af0e512a4dbf55981c7164d50790c0f886f065fdf6927cdb9599"
+  },
+  {
+    "path": "data/us_restoration/research_tsm_gev_interim.json",
+    "sha256": "d9af3b00a3aee463bd86537d3d6308c2662894209916b26016362e2d63947509"
+  },
+  {
+    "path": "data/us_restoration/source_registry.json",
+    "sha256": "83ac7034c327d3da4985ca1d5de30e5fe44a321fb61d286f5b6ba599e80fab07"
+  },
+  {
+    "path": "data/us_restoration/sources/power/BE_2021-12-31_statement_excerpt.txt",
+    "sha256": "fae17ea8ba515dc184530c0073e803edc93c4a7b49937eacb015705ec80c5f2d"
+  },
+  {
+    "path": "data/us_restoration/sources/power/BE_2022-06-30_statement_excerpt.txt",
+    "sha256": "b8503675ecad9f7aa7b436778037b775379b00499dc7caea6f0657f6b0fe9503"
+  },
+  {
+    "path": "data/us_restoration/sources/power/BE_2022-09-30_statement_excerpt.txt",
+    "sha256": "28efcb7a9b8796d478a124d2fe9dccf3968e2ad35b080a7530cd6b954d668227"
+  },
+  {
+    "path": "data/us_restoration/sources/power/BE_2022-12-31_statement_excerpt.txt",
+    "sha256": "b757e3bd1fb10002001df0ad077048e3d4e7accdc13ef55e67b5c37749fd0f99"
+  },
+  {
+    "path": "data/us_restoration/sources/power/BE_2023-03-31_statement_excerpt.txt",
+    "sha256": "166064a1759094dece642e7ac340c8f575c69caddbb8b7e062c3e22e0370d7f8"
+  },
+  {
+    "path": "data/us_restoration/sources/power/BE_2023-06-30_statement_excerpt.txt",
+    "sha256": "071dbb9d9da6536bdde085e94ae06c054e4a13b78ff6d864a1521aa957529232"
+  },
+  {
+    "path": "data/us_restoration/sources/power/BE_2023-09-30_statement_excerpt.txt",
+    "sha256": "01f6fc3fd42920c0d69db23e18d7c9bfd20dab61b462acc742c0acb1b4c6c391"
+  },
+  {
+    "path": "data/us_restoration/sources/power/BE_2023-12-31_statement_excerpt.txt",
+    "sha256": "9323da505fa296eef01b21c0a3cdd00834d8d6fdf6f2bf4a32012a255132927d"
+  },
+  {
+    "path": "data/us_restoration/sources/power/BE_2024-03-31_statement_excerpt.txt",
+    "sha256": "6f4aa2bef37ad40ab42f61390c578d72dfc1ea5cba497edb634cf4a648e468cc"
+  },
+  {
+    "path": "data/us_restoration/sources/power/BE_2024-06-30_statement_excerpt.txt",
+    "sha256": "1b245b38bdffeb62fca11f23f4d7324485492b59ac436af69d9ed5e7a8313f51"
+  },
+  {
+    "path": "data/us_restoration/sources/power/BE_2024-09-30_statement_excerpt.txt",
+    "sha256": "82d43e0801053e524ae771c1039f2383d5c3e837c79ccb6c01708fd17a35e80c"
+  },
+  {
+    "path": "data/us_restoration/sources/power/BE_2024-12-31_statement_excerpt.txt",
+    "sha256": "5e4036d1397aa7e15618c5e0a020c17b680ab24ca34c65a02ffe3482df9c8a82"
+  },
+  {
+    "path": "data/us_restoration/sources/power/BE_2025-03-31_statement_excerpt.txt",
+    "sha256": "22917dd1ae35f007598a6f2d9b9840c79f8e916ef4a79fbbf4385b8a73973d73"
+  },
+  {
+    "path": "data/us_restoration/sources/power/BE_2025-06-30_statement_excerpt.txt",
+    "sha256": "a8b9b3b7ab5f80b42e89ef2364f8470fd7c46362d38a0187c3c14a01b00d3ae3"
+  },
+  {
+    "path": "data/us_restoration/sources/power/BE_2025-09-30_statement_excerpt.txt",
+    "sha256": "85a66b9903b56df550b17274be7831757bf9fe1e94484c9ed7910af3ce456ca2"
+  },
+  {
+    "path": "data/us_restoration/sources/power/BE_2025-12-31_statement_excerpt.txt",
+    "sha256": "3682be41fc0c2d83560cd3332a649768929966b1ee501beb911063a65321a44c"
+  },
+  {
+    "path": "data/us_restoration/sources/power/BE_2026-03-31_statement_excerpt.txt",
+    "sha256": "c7c136a5af3710038a905c897b89a456a2c8f6fce4aff9df8966b8de5e7a458d"
+  },
+  {
+    "path": "data/us_restoration/sources/power/BE_2026-06-30_statement_excerpt.txt",
+    "sha256": "890525386667acf245a5a6a1ede0f5d156620c42d0ccb0cde1b67b1ac9ac2d6b"
+  },
+  {
+    "path": "data/us_restoration/sources/power/ETN_2021-12-31_statement_excerpt.txt",
+    "sha256": "147e62592a5c6845f2450aa628080327dd77cfdbeb615adf6d27d45496365b58"
+  },
+  {
+    "path": "data/us_restoration/sources/power/ETN_2022-06-30_statement_excerpt.txt",
+    "sha256": "1fdd75afbeb8d71a3c45c95f8e220742c28bfbe4e4126c91ae0b9b0f806bbc20"
+  },
+  {
+    "path": "data/us_restoration/sources/power/ETN_2022-09-30_statement_excerpt.txt",
+    "sha256": "174deb7a29298a790c4cdb200fefffc1f80b8dee22496d3c427213a7e72fb76b"
+  },
+  {
+    "path": "data/us_restoration/sources/power/ETN_2022-12-31_statement_excerpt.txt",
+    "sha256": "89894fff47b9f4ba7749fb0c6030bc93f79ca118bfad0363d24c654b8298fe8d"
+  },
+  {
+    "path": "data/us_restoration/sources/power/ETN_2023-03-31_statement_excerpt.txt",
+    "sha256": "35e548c06bd4c25d25b906a1b6adf40c8ab6c17285d0fd9d4ccd3764c3df3564"
+  },
+  {
+    "path": "data/us_restoration/sources/power/ETN_2023-06-30_statement_excerpt.txt",
+    "sha256": "537f96985ef5309eae1be4e9ad23589c9cc9087fdffbe3308c84f306b1c0b31d"
+  },
+  {
+    "path": "data/us_restoration/sources/power/ETN_2023-09-30_statement_excerpt.txt",
+    "sha256": "e1e3f8c04985a759d74404723f4ae8599544c0fa4929656828ffda2c1216cd18"
+  },
+  {
+    "path": "data/us_restoration/sources/power/ETN_2023-12-31_statement_excerpt.txt",
+    "sha256": "e34cc05408b8de999cb6c62f032d4cade88d3e95459d0cbdad820b46076b2287"
+  },
+  {
+    "path": "data/us_restoration/sources/power/ETN_2024-03-31_statement_excerpt.txt",
+    "sha256": "d96bdaead32ee37a00feba29f7a67bf8be3003c1b55b479106d9fb0d10af49fa"
+  },
+  {
+    "path": "data/us_restoration/sources/power/ETN_2024-06-30_statement_excerpt.txt",
+    "sha256": "c232711775807492e2355ad2418389cb5f4c2cfaf8345e3f809653c0c1ab2681"
+  },
+  {
+    "path": "data/us_restoration/sources/power/ETN_2024-09-30_statement_excerpt.txt",
+    "sha256": "0822a047018f53dec36a7e36d7ad6557ec2395f59a3c9973476d81af1e454a49"
+  },
+  {
+    "path": "data/us_restoration/sources/power/ETN_2024-12-31_statement_excerpt.txt",
+    "sha256": "83fd6da931e83a35d2cb2df549d917ae2d6adbc56eec5f6cdb0b452aac794428"
+  },
+  {
+    "path": "data/us_restoration/sources/power/ETN_2025-03-31_statement_excerpt.txt",
+    "sha256": "6a156aad7dbc6c2ec6fc61b2d3df5d781cbb06eb8340790c4329c04c19438642"
+  },
+  {
+    "path": "data/us_restoration/sources/power/ETN_2025-06-30_statement_excerpt.txt",
+    "sha256": "77656322b0f556394061e41cc5b684a16b4159d6bfa43568b620dc07e444e3ca"
+  },
+  {
+    "path": "data/us_restoration/sources/power/ETN_2025-09-30_statement_excerpt.txt",
+    "sha256": "06372331abd3fd1286179d3241c9087e0b297deb897065957a78da9e48bef8d6"
+  },
+  {
+    "path": "data/us_restoration/sources/power/ETN_2025-12-31_statement_excerpt.txt",
+    "sha256": "45e7a97fa8897522a8949159490128a7f0628f8b35bf2a76cac18618cf8c9172"
+  },
+  {
+    "path": "data/us_restoration/sources/power/ETN_2026-03-31_statement_excerpt.txt",
+    "sha256": "5df56c909439215ba53463d107abb1096fde0d8c87b7fae942cea243b3fb9820"
+  },
+  {
+    "path": "data/us_restoration/sources/power/ETN_2026-06-30_statement_excerpt.txt",
+    "sha256": "12f63d928d4430d91453db0b1ff5450f7047d590cefe3ce9c816e5c38b2dc6e9"
+  },
+  {
+    "path": "data/us_restoration/sources/power/build_rows.py",
+    "sha256": "94cfd83feda88dc454370eed4e4cc7c09c4954a5b4290098751aa37eb9ce2b11"
+  },
+  {
+    "path": "data/us_restoration/sources/power/check_inline_facts.py",
+    "sha256": "6549ee2f271679c042f368b79452ac6bccc24b4d87552ad3065f57ab577f9c2e"
+  },
+  {
+    "path": "data/us_restoration/sources/power/comparative_checks.json",
+    "sha256": "fe9fdc9e911afdab0141b5cf219a8ca36603f12fd0f68805e82ea4d7110938b0"
+  },
+  {
+    "path": "data/us_restoration/sources/power/document_hashes.json",
+    "sha256": "808858ff32d97a57b9b873a8d1a980a32f182207868773a35a8b750951a6eef0"
+  },
+  {
+    "path": "data/us_restoration/sources/power/facts.json",
+    "sha256": "87da1fcc8d95afbceddeec7f5db17f5604d19e64964c5154f83c58d09fe60232"
+  },
+  {
+    "path": "data/us_restoration/sources/power/filing_dates.json",
+    "sha256": "db1948319b3dcc7e65ede9853f7e59409592f9c69196c179d7b5192847fc4ba4"
+  },
+  {
+    "path": "data/us_restoration/sources/power/sec_snapshot_manifest.json",
+    "sha256": "7d1a6caff4498b9e9d3228df37843cafb61290dd2a27facedb565a17ac70b03c"
+  },
+  {
+    "path": "data/us_restoration/sources/power/validation.json",
+    "sha256": "8658917f49252a36d7766c631ed635565b8ab7b0a1ebcb96c27c4a10d8e55a17"
+  },
+  {
+    "path": "data/us_restoration/sources/solar_fuel/build_records.py",
+    "sha256": "4f50ba9fc43c617966fe555fc0befc75acac3871eba632b967eda8db9c6aa2ae"
+  },
+  {
+    "path": "data/us_restoration/sources/solar_fuel/comparative_checks.json",
+    "sha256": "a789756d30d9f98e507a2afe8ad2640b6df3a7a40c1541e893f81b3d9f82768f"
+  },
+  {
+    "path": "data/us_restoration/sources/solar_fuel/manual_qa.json",
+    "sha256": "2e27296d4310e523a0ea524f3a8f567267ef8a22430e773ac6d3c9eedb385207"
+  },
+  {
+    "path": "data/us_restoration/sources/solar_fuel/selected_sec_facts.json",
+    "sha256": "9b347a1ac35cb291e150ca3bc524215464fa2c70f972619aaa61a36a4e81255c"
+  },
+  {
+    "path": "data/us_restoration/sources/solar_fuel/source_manifest.json",
+    "sha256": "064d8f06bfbe9f5234d149ec7cd0dc589466a95ca51694026d179bbc0a10f32f"
+  },
+  {
+    "path": "data/us_restoration/sources/tsm_gev/accounting_basis_evidence.json",
+    "sha256": "781524e32ee6d988f6aa913a2c05f8e466de23e7f649db9bf8b12e3ee2ab2085"
+  },
+  {
+    "path": "data/us_restoration/sources/tsm_gev/build_rows.py",
+    "sha256": "f9804bb6b6574bec43b672300f9619d07f1aad0fa77283fb6c456b843d989bf1"
+  },
+  {
+    "path": "data/us_restoration/sources/tsm_gev/download.py",
+    "sha256": "db8c5fd03f6c69f06d8f87e4d282e70cffce32b5725484cf1148d89a7a0dae99"
+  },
+  {
+    "path": "data/us_restoration/sources/tsm_gev/source_manifest.json",
+    "sha256": "139a0ea467b449d1f1008170f9c03512c0b7b74e7452f10de38b0c14be4e09c6"
+  },
+  {
+    "path": "data/us_restoration/sources/tsm_gev/verified_facts.json",
+    "sha256": "176f07d22ef2ba95367c46d92cd2786f3bbf75e1a0ccf137d9cdd19798a3c72a"
+  },
+  {
+    "path": "run_us_restoration.py",
+    "sha256": "2a8b73cf94bb60abeb2479507f21c6b0cbab72d05d63b98952cdf2b720fb83a2"
+  }
+]
