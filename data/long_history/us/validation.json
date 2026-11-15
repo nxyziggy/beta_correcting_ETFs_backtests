@@ -1,0 +1,22 @@
+{
+  "observations": 73,
+  "source_records": 73,
+  "annual_observations": 72,
+  "interim_ttm_observations": 1,
+  "direct_cashflow_statement_checks": 6,
+  "errors": [],
+  "limits": [
+    "Recovered full current-company Linde financials first become available on 2019-03-18; pre-merger Praxair records are excluded. Bloom FY2018 filing is dated 2019-03-22. With the existing first-of-month cutoff and quarterly review calendar, the earliest fully supported US review is expected to be 2019-06-30, subject to integrated coverage audit.",
+    "Earlier archival observations are retained for reproducibility; the supported panel starts in 2019, rather than implying all names were investable in 2015.",
+    "Original annual accessions use actual SEC filing dates. The earliest earnings release may precede these conservative dates.",
+    "TSM FY2017-2020 standalone annual IASB-IFRS 20-Fs use TWD millions; the later restored 6-K series uses Taiwan IFRS. No TTM combines the two bases.",
+    "GFS FY2020 and H1-2021 TTM are from the original October 4, 2021 IPO prospectus, preceding its first eligible November 2021 cutoff.",
+    "Original companyfacts facts are preserved as then filed; later amended/restated comparative numbers are not assigned earlier dates."
+  ],
+  "output_sha256": {
+    "normalized_inputs.json": "ef4b22af02308a1cd8cd4c1861d105189d2d1d4d0159c52e36e600d14bd0b2b1",
+    "source_registry.json": "9741d37041cb067dcb2334c7768c329a58355d0dfc6734c8d4df8ed169972187",
+    "cashflow_mapping_qa.json": "b6269d31754b1c76f30d4e3cf576d0adaca47880185954bb3e828d43dc9b25c5",
+    "source_manifest.json": "6915e4fdf5014dd42e963474ae56223ef109fab26c4ff2c5f458c50b76e49854"
+  }
+}

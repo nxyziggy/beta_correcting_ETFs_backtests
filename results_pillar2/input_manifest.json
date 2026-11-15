@@ -1,0 +1,50 @@
+[
+  {
+    "path": "PILLAR2_METHOD.md",
+    "sha256": "b9d140eb399e6feac839d9630934d3d063820781127ed88f9be97ee561acd6c4"
+  },
+  {
+    "path": "backtest.py",
+    "sha256": "7f259511b5f6f32a436c4ae109f2cba0b3dabff7b4d35309a0681590af6d7cfe"
+  },
+  {
+    "path": "data/pillar2/listing_additions.json",
+    "sha256": "ce4934771708ab870b4aef1b19b35b73139ea982b7bd025aef9fe4c72930d70d"
+  },
+  {
+    "path": "data/pillar2/research_eu_industry.json",
+    "sha256": "353a18b095290be8a54d5bbcdbe7b8f7cb1ee3bdcc489f9dd4dd9c159362894f"
+  },
+  {
+    "path": "data/pillar2/research_semiconductors.json",
+    "sha256": "b7d1043ebd12f4a654c4b1eb6b339522f543e875d987a002d34c6c09319b739c"
+  },
+  {
+    "path": "data/pillar2/research_us_energy.json",
+    "sha256": "ad7ceb8649c44609b631dc648a575e164db73fae974e0fb84f4b5b51df957389"
+  },
+  {
+    "path": "data/pillar2/support_screen_audit.json",
+    "sha256": "e2a93eb5daed93cac44482007efbb598cbbead7406d81fd12af8872926195ed9"
+  },
+  {
+    "path": "run_long_history.py",
+    "sha256": "bc155d4ae56b03dda3c0c371b1c5ccba417f317a6043008191b91efe2bb11fcc"
+  },
+  {
+    "path": "run_pillar2.py",
+    "sha256": "c951b4e2d78b99922f95f2d3e6e34cdea1c256cf9879c23f7e02d0d022aac664"
+  },
+  {
+    "path": "run_research_corrections.py",
+    "sha256": "788e02e966df94e679ddf0db8a4a8fd1b37edebcce59368352b4337520fd4872"
+  },
+  {
+    "path": "test_pillar2.py",
+    "sha256": "2ba78f170838d558a6cfd75420948705f02e18ae99ca03f909216521eff80c05"
+  },
+  {
+    "path": "test_support_screen_audit.py",
+    "sha256": "b2999ef0925d0bac8f4eb1ad16de5eee2e5e4859849cfaf9b102861ef67d93af"
+  }
+]

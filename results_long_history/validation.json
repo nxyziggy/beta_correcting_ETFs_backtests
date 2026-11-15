@@ -1,0 +1,412 @@
+{
+  "starts": {
+    "US": "2019-06-30",
+    "EU": "2019-06-30"
+  },
+  "cross_region_start": "2019-06-30",
+  "timing_matched_start": "2019-09-30",
+  "timing_matched_control_NAV_identical": true,
+  "runs": 54,
+  "added_observations": 101,
+  "baseline_reproductions": [
+    {
+      "region": "US",
+      "case": "source",
+      "rule": "q50",
+      "result": "PASS"
+    },
+    {
+      "region": "US",
+      "case": "source",
+      "rule": "q75",
+      "result": "PASS"
+    },
+    {
+      "region": "US",
+      "case": "source",
+      "rule": "equal",
+      "result": "PASS"
+    },
+    {
+      "region": "US",
+      "case": "delay_legacy",
+      "rule": "q50",
+      "result": "PASS"
+    },
+    {
+      "region": "US",
+      "case": "delay_legacy",
+      "rule": "q75",
+      "result": "PASS"
+    },
+    {
+      "region": "US",
+      "case": "delay_legacy",
+      "rule": "equal",
+      "result": "PASS"
+    },
+    {
+      "region": "EU",
+      "case": "source",
+      "rule": "q50",
+      "result": "PASS"
+    },
+    {
+      "region": "EU",
+      "case": "source",
+      "rule": "q75",
+      "result": "PASS"
+    },
+    {
+      "region": "EU",
+      "case": "source",
+      "rule": "equal",
+      "result": "PASS"
+    },
+    {
+      "region": "EU",
+      "case": "delay_legacy",
+      "rule": "q50",
+      "result": "PASS"
+    },
+    {
+      "region": "EU",
+      "case": "delay_legacy",
+      "rule": "q75",
+      "result": "PASS"
+    },
+    {
+      "region": "EU",
+      "case": "delay_legacy",
+      "rule": "equal",
+      "result": "PASS"
+    }
+  ],
+  "checks": [
+    {
+      "run": "US_prior_source_q50_10bp_lag0_from2022-09-30_timing_repair",
+      "status": "PASS",
+      "months": 50,
+      "scores": 781
+    },
+    {
+      "run": "US_prior_source_q75_10bp_lag0_from2022-09-30_timing_repair",
+      "status": "PASS",
+      "months": 50,
+      "scores": 781
+    },
+    {
+      "run": "US_prior_source_equal_10bp_lag0_from2022-09-30_timing_repair",
+      "status": "PASS",
+      "months": 50,
+      "scores": 781
+    },
+    {
+      "run": "US_prior_delay_legacy_q50_10bp_lag0_from2022-09-30_timing_repair",
+      "status": "PASS",
+      "months": 50,
+      "scores": 777
+    },
+    {
+      "run": "US_prior_delay_legacy_q75_10bp_lag0_from2022-09-30_timing_repair",
+      "status": "PASS",
+      "months": 50,
+      "scores": 777
+    },
+    {
+      "run": "US_prior_delay_legacy_equal_10bp_lag0_from2022-09-30_timing_repair",
+      "status": "PASS",
+      "months": 50,
+      "scores": 777
+    },
+    {
+      "run": "US_prior_delay_adjusted_q50_10bp_lag0_from2022-09-30_timing_repair",
+      "status": "PASS",
+      "months": 50,
+      "scores": 780
+    },
+    {
+      "run": "US_prior_delay_adjusted_q75_10bp_lag0_from2022-09-30_timing_repair",
+      "status": "PASS",
+      "months": 50,
+      "scores": 780
+    },
+    {
+      "run": "US_prior_delay_adjusted_equal_10bp_lag0_from2022-09-30_timing_repair",
+      "status": "PASS",
+      "months": 50,
+      "scores": 780
+    },
+    {
+      "run": "EU_prior_source_q50_15bp_lag0_from2021-09-30_timing_repair",
+      "status": "PASS",
+      "months": 62,
+      "scores": 882
+    },
+    {
+      "run": "EU_prior_source_q75_15bp_lag0_from2021-09-30_timing_repair",
+      "status": "PASS",
+      "months": 62,
+      "scores": 882
+    },
+    {
+      "run": "EU_prior_source_equal_15bp_lag0_from2021-09-30_timing_repair",
+      "status": "PASS",
+      "months": 62,
+      "scores": 882
+    },
+    {
+      "run": "EU_prior_delay_legacy_q50_15bp_lag0_from2021-09-30_timing_repair",
+      "status": "PASS",
+      "months": 62,
+      "scores": 879
+    },
+    {
+      "run": "EU_prior_delay_legacy_q75_15bp_lag0_from2021-09-30_timing_repair",
+      "status": "PASS",
+      "months": 62,
+      "scores": 879
+    },
+    {
+      "run": "EU_prior_delay_legacy_equal_15bp_lag0_from2021-09-30_timing_repair",
+      "status": "PASS",
+      "months": 62,
+      "scores": 879
+    },
+    {
+      "run": "EU_prior_delay_adjusted_q50_15bp_lag0_from2021-09-30_timing_repair",
+      "status": "PASS",
+      "months": 62,
+      "scores": 879
+    },
+    {
+      "run": "EU_prior_delay_adjusted_q75_15bp_lag0_from2021-09-30_timing_repair",
+      "status": "PASS",
+      "months": 62,
+      "scores": 879
+    },
+    {
+      "run": "EU_prior_delay_adjusted_equal_15bp_lag0_from2021-09-30_timing_repair",
+      "status": "PASS",
+      "months": 62,
+      "scores": 879
+    },
+    {
+      "run": "US_long_source_q50_10bp_lag0_from2019-06-30_earliest_complete",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1336
+    },
+    {
+      "run": "US_long_source_q75_10bp_lag0_from2019-06-30_earliest_complete",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1336
+    },
+    {
+      "run": "US_long_source_equal_10bp_lag0_from2019-06-30_earliest_complete",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1336
+    },
+    {
+      "run": "US_long_source_q50_10bp_lag0_from2019-06-30_cross_region",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1336
+    },
+    {
+      "run": "US_long_source_q75_10bp_lag0_from2019-06-30_cross_region",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1336
+    },
+    {
+      "run": "US_long_source_equal_10bp_lag0_from2019-06-30_cross_region",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1336
+    },
+    {
+      "run": "US_long_source_q50_10bp_lag0_from2022-09-30_prior_start",
+      "status": "PASS",
+      "months": 50,
+      "scores": 780
+    },
+    {
+      "run": "US_long_source_q75_10bp_lag0_from2022-09-30_prior_start",
+      "status": "PASS",
+      "months": 50,
+      "scores": 780
+    },
+    {
+      "run": "US_long_source_equal_10bp_lag0_from2022-09-30_prior_start",
+      "status": "PASS",
+      "months": 50,
+      "scores": 780
+    },
+    {
+      "run": "US_long_delay_adjusted_q50_10bp_lag0_from2022-09-30_prior_start",
+      "status": "PASS",
+      "months": 50,
+      "scores": 780
+    },
+    {
+      "run": "US_long_delay_adjusted_q75_10bp_lag0_from2022-09-30_prior_start",
+      "status": "PASS",
+      "months": 50,
+      "scores": 780
+    },
+    {
+      "run": "US_long_delay_adjusted_equal_10bp_lag0_from2022-09-30_prior_start",
+      "status": "PASS",
+      "months": 50,
+      "scores": 780
+    },
+    {
+      "run": "US_long_source_q50_10bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1294
+    },
+    {
+      "run": "US_long_source_q75_10bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1294
+    },
+    {
+      "run": "US_long_source_equal_10bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1294
+    },
+    {
+      "run": "US_long_delay_adjusted_q50_10bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1294
+    },
+    {
+      "run": "US_long_delay_adjusted_q75_10bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1294
+    },
+    {
+      "run": "US_long_delay_adjusted_equal_10bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1294
+    },
+    {
+      "run": "EU_long_source_q50_15bp_lag0_from2019-06-30_earliest_complete",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278
+    },
+    {
+      "run": "EU_long_source_q75_15bp_lag0_from2019-06-30_earliest_complete",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278
+    },
+    {
+      "run": "EU_long_source_equal_15bp_lag0_from2019-06-30_earliest_complete",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278
+    },
+    {
+      "run": "EU_long_source_q50_15bp_lag0_from2019-06-30_cross_region",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278
+    },
+    {
+      "run": "EU_long_source_q75_15bp_lag0_from2019-06-30_cross_region",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278
+    },
+    {
+      "run": "EU_long_source_equal_15bp_lag0_from2019-06-30_cross_region",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278
+    },
+    {
+      "run": "EU_long_source_q50_15bp_lag0_from2021-09-30_prior_start",
+      "status": "PASS",
+      "months": 62,
+      "scores": 889
+    },
+    {
+      "run": "EU_long_source_q75_15bp_lag0_from2021-09-30_prior_start",
+      "status": "PASS",
+      "months": 62,
+      "scores": 889
+    },
+    {
+      "run": "EU_long_source_equal_15bp_lag0_from2021-09-30_prior_start",
+      "status": "PASS",
+      "months": 62,
+      "scores": 889
+    },
+    {
+      "run": "EU_long_delay_adjusted_q50_15bp_lag0_from2021-09-30_prior_start",
+      "status": "PASS",
+      "months": 62,
+      "scores": 889
+    },
+    {
+      "run": "EU_long_delay_adjusted_q75_15bp_lag0_from2021-09-30_prior_start",
+      "status": "PASS",
+      "months": 62,
+      "scores": 889
+    },
+    {
+      "run": "EU_long_delay_adjusted_equal_15bp_lag0_from2021-09-30_prior_start",
+      "status": "PASS",
+      "months": 62,
+      "scores": 889
+    },
+    {
+      "run": "EU_long_source_q50_15bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1236
+    },
+    {
+      "run": "EU_long_source_q75_15bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1236
+    },
+    {
+      "run": "EU_long_source_equal_15bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1236
+    },
+    {
+      "run": "EU_long_delay_adjusted_q50_15bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1236
+    },
+    {
+      "run": "EU_long_delay_adjusted_q75_15bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1236
+    },
+    {
+      "run": "EU_long_delay_adjusted_equal_15bp_lag0_from2019-09-30_timing_matched",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1236
+    }
+  ],
+  "preserved_files": 2512
+}

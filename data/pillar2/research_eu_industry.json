@@ -1,0 +1,761 @@
+{
+  "scope": "Ten EU/EEA industrial and energy candidates; historical confirmed named support relationships, with indirect exposure isolated",
+  "researched_on": "2026-11-15",
+  "date_policy": "Use captured dated public confirmation. When the exact award day is unknown, event_date is conservatively the confirmation day and limitations disclose that choice. Completed funding periods do not erase historical recipient status. end_date is an ownership/eligibility endpoint, not a project-completion date.",
+  "events": [
+    {
+      "event_id": "AIR_UK_GRANTS_DISCLOSED_2013",
+      "ticker": "AIR.PA",
+      "region": "EU",
+      "programme": "UK aerospace R&D and skills grants disclosed to Parliament",
+      "jurisdiction": "UK (EU member at award)",
+      "beneficiary": "EADS and its subsidiaries, including Airbus",
+      "relationship": "direct",
+      "support_type": "industrial_research_grant",
+      "status": "receipt_confirmed_in_parliament",
+      "event_date": "2013-11-05",
+      "public_date": "2013-11-05",
+      "eligible_from": "2013-11-05",
+      "end_date": null,
+      "qualifies": false,
+      "sources": [
+        {
+          "url": "https://publications.parliament.uk/pa/cm201314/cmhansrd/cm131105/text/131105w0002.htm",
+          "title": "House of Commons written answer: EADS public funding",
+          "publication_date": "2013-11-05",
+          "evidence": "The minister confirmed that EADS received UK grants for R&D and skills activities in FY2012/13, separately mentioning defence procurement and repayable loans."
+        }
+      ],
+      "rationale": "Ancillary confirmation of grants to the Airbus predecessor; excluded from main admission because neither an individual programme nor project is identified.",
+      "limitations": "The parliamentary answer aggregates R&D and skills grants, loans and procurement without naming the grant programme. The separate 2014 ATI project supplies the main qualifying evidence.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
+    },
+    {
+      "event_id": "AIR_ATI_BROUGHTON_2014",
+      "ticker": "AIR.PA",
+      "region": "EU",
+      "programme": "Aerospace Technology Institute: Broughton wing manufacturing R&D",
+      "jurisdiction": "UK (EU member at award)",
+      "beneficiary": "Airbus UK operations",
+      "relationship": "subsidiary",
+      "support_type": "industrial_research_grant",
+      "status": "joint_funding_announced",
+      "event_date": "2014-11-21",
+      "public_date": "2014-11-21",
+      "eligible_from": "2014-11-21",
+      "end_date": null,
+      "qualifies": true,
+      "sources": [
+        {
+          "url": "https://www.gov.uk/government/news/prime-minister-hails-1800-jobs-in-britain-at-uk-investment-summit",
+          "title": "Prime Minister hails 1,800 jobs in Britain at UK Investment Summit",
+          "publication_date": "2014-11-21",
+          "evidence": "UK and Welsh governments announced investment with Airbus, including approximately GBP64m of R&D activity through ATI and a GBP48m Broughton wing-manufacturing project."
+        }
+      ],
+      "rationale": "Named government-supported industrial R&D projects at an Airbus subsidiary, providing a specifically identified programme in addition to the 2013 receipt confirmation.",
+      "limitations": "Figures are total joint investment/project budgets, not government grants paid solely to Airbus; no unsupported grant amount is assigned.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "project_total_only",
+      "award_amount_note": "Broughton project budget, not the public contribution or Airbus-only award.",
+      "project_total_amount": 48000000,
+      "project_total_currency": "GBP",
+      "project_total_basis": "total_project_cost",
+      "article_named_stream": null
+    },
+    {
+      "event_id": "SAF_CLEAN_SKY_OPEN_ROTOR_2017",
+      "ticker": "SAF.PA",
+      "region": "EU",
+      "programme": "FP7 Clean Sky: Open Rotor / Sustainable and Green Engines",
+      "jurisdiction": "European Union",
+      "beneficiary": "Safran and its Open Rotor industrial research consortium",
+      "relationship": "direct",
+      "support_type": "industrial_research_grant",
+      "status": "receipt_confirmed",
+      "event_date": "2017-10-03",
+      "public_date": "2017-10-03",
+      "eligible_from": "2017-10-03",
+      "end_date": null,
+      "qualifies": true,
+      "sources": [
+        {
+          "url": "https://www.safran-group.com/pressroom/safran-celebrates-successful-start-open-rotor-demonstrator-tests-new-open-air-test-rig-southern-2017-10-03",
+          "title": "Safran celebrates successful start of Open Rotor demonstrator tests",
+          "publication_date": "2017-10-03",
+          "evidence": "Safran confirmed that it and its partners had received EUR65m of European Commission funding for the Open Rotor project over eight years."
+        }
+      ],
+      "rationale": "An explicitly funded industrial R&D programme, with both Safran's role and past EU funding confirmed in a dated issuer release.",
+      "limitations": "The project began in 2008 but this publication is not backdated to that year. EUR65m is a consortium total. Earlier annual reports establish participation in VITAL, DREAM and Clean Sky but the captured passages do not separately establish a dated grant award or receipt.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "project_total_only",
+      "award_amount_note": "Total European Commission funding to Safran and its partners; Safran share unknown.",
+      "project_total_amount": 65000000,
+      "project_total_currency": "EUR",
+      "project_total_basis": "consortium_public_funding",
+      "article_named_stream": null
+    },
+    {
+      "event_id": "ENEL_GRID4EU_2014",
+      "ticker": "ENEL.MI",
+      "region": "EU",
+      "programme": "FP7 GRID4EU large-scale smart-grid demonstration",
+      "jurisdiction": "European Union / Italy",
+      "beneficiary": "Enel Distribuzione",
+      "relationship": "subsidiary",
+      "support_type": "industrial_research_grant",
+      "status": "funded_project_participation_confirmed",
+      "event_date": "2014-12-16",
+      "public_date": "2014-12-16",
+      "eligible_from": "2014-12-16",
+      "end_date": null,
+      "qualifies": true,
+      "sources": [
+        {
+          "url": "https://www.enel.com/media/explore/search-news/news/2014/12/grid4eu-increasing-power-for-renewables",
+          "title": "GRID4EU Increasing Power for Renewables",
+          "publication_date": "2014-12-16",
+          "evidence": "Enel identifies Enel Distribuzione as a GRID4EU partner with an Italian distribution-grid demonstration; the EUR54m programme includes EUR25m of EU funding."
+        }
+      ],
+      "rationale": "Named controlled operating company participates in a funded industrial smart-grid demonstration, rather than merely selling into a generally subsidised sector.",
+      "limitations": "The programme launched in 2011; the admission date uses this dated confirmation, not its earlier project start. The EU contribution is programme-wide, not Enel's individual grant.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "project_total_only",
+      "award_amount_note": "EU contribution within EUR54m programme; Enel share unknown.",
+      "project_total_amount": 25000000,
+      "project_total_currency": "EUR",
+      "project_total_basis": "consortium_public_funding",
+      "article_named_stream": null
+    },
+    {
+      "event_id": "ORSTED_FIDER_CFD_2014",
+      "ticker": "ORSTED.CO",
+      "region": "EU",
+      "programme": "UK FID Enabling for Renewables: Burbo Bank Extension, Walney Extension and Hornsea 1",
+      "jurisdiction": "UK (EU member at award)",
+      "beneficiary": "DONG Energy Wind Power A/S and project companies",
+      "relationship": "subsidiary",
+      "support_type": "contract_for_difference_support",
+      "status": "signed_contracts_and_state_aid_approved",
+      "event_date": "2014-07-23",
+      "public_date": "2014-11-07",
+      "eligible_from": "2014-11-07",
+      "end_date": null,
+      "qualifies": true,
+      "sources": [
+        {
+          "url": "https://ec.europa.eu/competition/state_aid/cases/253211/253211_1583612_84_2.pdf",
+          "title": "Commission decision C(2014) 5074: five offshore wind farms, public version",
+          "publication_date": "2014-11-07",
+          "evidence": "The decision dated 23 July 2014 raises no objections to the five named offshore-wind aid measures. Paragraph 45 records that contracts were signed in May subject to Commission approval. The approval notice appeared in OJ C393 on 7 November 2014."
+        },
+        {
+          "url": "https://www.gov.uk/government/news/government-unveils-eight-major-new-renewables-projects-supporting-8500-green-jobs",
+          "title": "Government unveils eight major new renewables projects",
+          "publication_date": "2014-04-23",
+          "evidence": "DECC awarded early CfD investment contracts and named DONG Energy Wind Power A/S as developer of Burbo Bank Extension, Hornsea 1 and Walney Extension."
+        },
+        {
+          "url": "https://www.gov.uk/government/publications/final-investment-decision-fid-enabling-for-renewables-investment-contracts",
+          "title": "FID Enabling for Renewables: Investment Contracts",
+          "publication_date": "2014-06-10",
+          "evidence": "DECC subsequently published the signed investment contracts, laid before Parliament on 4 June 2014."
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A52015XC0410%2806%29",
+          "title": "Official Journal C116: Lynemouth state-aid proceeding, footnote 2",
+          "publication_date": "2015-04-10",
+          "evidence": "The official publication identifies the earlier five-wind-farm no-objection decision of 23 July 2014 and its OJ C393/2014 publication. This is bibliographic corroboration only, not an earlier information date."
+        }
+      ],
+      "rationale": "Signed support contracts plus completed required state-aid approval establish the confirmed DONG subsidy relationship. Admission uses the captured Official Journal publication date rather than treating the conditional April award as final.",
+      "limitations": "The decision was adopted on 23 July 2014; original approval-day press content was not readable in this capture, so the documented 7 November 2014 Official Journal publication is used conservatively. Conditional April award and June publication of signed contracts alone do not trigger admission. IPO tradability starts in June 2016.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
+    },
+    {
+      "event_id": "VWS_EUDP_VERTICAL_INSTALLER_2018",
+      "ticker": "VWS.CO",
+      "region": "EU",
+      "programme": "Danish EUDP: Vertical Installer wind-turbine installation technology",
+      "jurisdiction": "Denmark",
+      "beneficiary": "Vestas and Maersk Supply Service research partnership",
+      "relationship": "direct",
+      "support_type": "industrial_research_grant",
+      "status": "grant_awarded",
+      "event_date": "2018-06-28",
+      "public_date": "2018-06-28",
+      "eligible_from": "2018-06-28",
+      "end_date": null,
+      "qualifies": true,
+      "sources": [
+        {
+          "url": "https://www.vestas.com/en/media/company-news/2018/vestas-and-maersk-supply-service-partner-to-lower-logis-c2963370",
+          "title": "Vestas and Maersk Supply Service partner to lower logistics and installation costs within sustainable energy solutions",
+          "publication_date": "2018-06-28",
+          "evidence": "Vestas announced its technology partnership with Maersk Supply Service and confirmed DKK47m of Danish EUDP support for the project over the following three years."
+        }
+      ],
+      "rationale": "Vestas is a named participant in the government-funded industrial development project.",
+      "limitations": "DKK47m is shared project funding, not an asserted Vestas-only receipt. Earlier wind-research partnerships were located but original public grant dates and Vestas's continuing participation were not resolved. No exact completion day is inferred from the three-year duration.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "project_total_only",
+      "award_amount_note": "EUDP project support shared with partners; Vestas share unknown.",
+      "project_total_amount": 47000000,
+      "project_total_currency": "DKK",
+      "project_total_basis": "consortium_public_funding",
+      "article_named_stream": null
+    },
+    {
+      "event_id": "ENR_HYFLEXPOWER_2020",
+      "ticker": "ENR.DE",
+      "region": "EU",
+      "programme": "Horizon 2020 HYFLEXPOWER, grant 884229",
+      "jurisdiction": "European Union / France",
+      "beneficiary": "Siemens Gas and Power business inherited by Siemens Energy",
+      "relationship": "subsidiary",
+      "support_type": "industrial_research_grant",
+      "status": "funded_consortium_at_spin_off",
+      "event_date": "2020-09-28",
+      "public_date": "2020-09-28",
+      "eligible_from": "2020-09-28",
+      "end_date": null,
+      "qualifies": true,
+      "sources": [
+        {
+          "url": "https://press.siemens.com/global/en/pressrelease/hyflexpower-worlds-first-integrated-power-x-power-hydrogen-gas-turbine-demonstrator",
+          "title": "HYFLEXPOWER: The world's first integrated power-to-X-to-power hydrogen gas turbine demonstrator",
+          "publication_date": "2020-05-29",
+          "evidence": "Siemens Gas and Power is a named HYFLEXPOWER partner; Horizon 2020 funds EUR10.5m of the EUR15.2m demonstrator. The release identifies the energy business planned to operate as Siemens Energy."
+        },
+        {
+          "url": "https://assets.siemens-energy.com/dam/f7f92157-3d19-453e-82b8-b0290183d945/2020-08-28-Siemens-Energys-debut-on-the-stock-market2-pdf_Original%20file.pdf",
+          "title": "Siemens Energy's debut on the stock market",
+          "publication_date": "2020-09-28",
+          "evidence": "The issuer confirmed first trading on 28 September 2020 following the successful spin-off of Siemens Gas and Power."
+        }
+      ],
+      "rationale": "The documented funded business was inherited by Siemens Energy, and admission is conservatively dated to public confirmation of the completed separation and listing.",
+      "limitations": "The project began in May 2020. No Siemens AG investment history or share-price history is treated as Siemens Energy's pre-spin-off history. The EU funding is a consortium total; the four-year project horizon does not terminate historical recipient eligibility.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "project_total_only",
+      "award_amount_note": "EU funding within EUR15.2m demonstrator; Siemens Energy share unknown.",
+      "project_total_amount": 10500000,
+      "project_total_currency": "EUR",
+      "project_total_basis": "consortium_public_funding",
+      "article_named_stream": null
+    },
+    {
+      "event_id": "NEL_AKERSHUS_PPP_2015",
+      "ticker": "NEL.OL",
+      "region": "EU",
+      "programme": "Akershus County Council hydrogen station public-private partnership",
+      "jurisdiction": "Norway (EEA)",
+      "beneficiary": "NEL Hydrogen AS",
+      "relationship": "subsidiary",
+      "support_type": "targeted_station_grant_agreement",
+      "status": "agreement_signed",
+      "event_date": "2015-07-02",
+      "public_date": "2015-07-02",
+      "eligible_from": "2015-07-02",
+      "end_date": "2024-06-12",
+      "qualifies": true,
+      "sources": [
+        {
+          "url": "https://nelhydrogen.com/press-release/public-private-partnership-agreement-with-akershus-county-council-2/",
+          "title": "Public-private partnership agreement with Akershus County Council",
+          "publication_date": "2015-07-02",
+          "evidence": "Nel's hydrogen subsidiary entered a county agreement for a hydrogen station; the signed agreement provides for a county grant toward completion."
+        },
+        {
+          "url": "https://www.euronext.com/en/about/media/euronext-press-releases/cavendish-hydrogen-lists-euronext-oslo-bors",
+          "title": "Cavendish Hydrogen lists on Euronext Oslo Børs",
+          "publication_date": "2024-06-12",
+          "evidence": "The exchange announced the completed separation and listing of Nel's fueling division as Cavendish Hydrogen."
+        }
+      ],
+      "rationale": "A named, signed government grant relationship at a controlled subsidiary, rather than an unawarded programme or ordinary procurement.",
+      "limitations": "The release says the grant will be awarded under the agreement; it does not confirm payment or amount. The funded business is conservatively no longer attributed to Nel after the 2024 fueling separation; a separate 2016 retained-business R&D event independently supports subsequent eligibility. The exact allocation of this older station agreement between retained and separated entities is not established; the conservative cutoff avoids relying on it after separation.",
+      "ownership_end_date": "2024-06-12",
+      "ownership_end_basis": "Conservative research cutoff at the public completed fueling separation; whether this particular older agreement was transferred is unresolved. The retained electrolyser HYPER programme separately qualifies.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
+    },
+    {
+      "event_id": "NEL_ENOVA_STATION_2016",
+      "ticker": "NEL.OL",
+      "region": "EU",
+      "programme": "Enova hydrogen refuelling station grant",
+      "jurisdiction": "Norway (EEA)",
+      "beneficiary": "NEL Fuel Norway AS",
+      "relationship": "subsidiary",
+      "support_type": "targeted_station_grant",
+      "status": "grant_awarded",
+      "event_date": "2016-01-14",
+      "public_date": "2016-01-14",
+      "eligible_from": "2016-01-14",
+      "end_date": "2016-03-02",
+      "qualifies": true,
+      "sources": [
+        {
+          "url": "https://nelhydrogen.com/press-release/nel-to-receive-grant-from-enova-sf/",
+          "title": "NEL to receive grant from Enova SF",
+          "publication_date": "2016-01-14",
+          "evidence": "Nel identified NEL Fuel Norway AS as its subsidiary and announced an Enova grant exceeding NOK7.5m for an Oslo-area hydrogen station."
+        },
+        {
+          "url": "https://nelhydrogen.com/press-release/nel-asa-nel-enters-into-final-agreement-with-uno-x-for-hydrogen-station-network/",
+          "title": "NEL enters into final agreement with Uno-X for hydrogen station network",
+          "publication_date": "2016-03-02",
+          "evidence": "Nel announced the final joint venture agreement under which Uno-X Hydrogen is owned 51% by Uno-X and 49% by Nel."
+        }
+      ],
+      "rationale": "Explicit targeted grant award to the then-described subsidiary.",
+      "limitations": "The station-network vehicle subsequently became a minority joint venture. This event is conservatively ended when the final 49% agreement was publicly announced, without claiming continued controlled-subsidiary status.",
+      "ownership_end_date": "2016-03-02",
+      "award_amount": 7500000,
+      "award_currency": "NOK",
+      "award_amount_status": "strict_lower_bound",
+      "award_amount_note": "Release says grant exceeds NOK7.5m; this is a lower bound, not an exact amount.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
+    },
+    {
+      "event_id": "NEL_HYPER_ENERGIX_2016",
+      "ticker": "NEL.OL",
+      "region": "EU",
+      "programme": "Research Council of Norway ENERGIX: HYPER hydrogen production study",
+      "jurisdiction": "Norway (EEA)",
+      "beneficiary": "NEL ASA, industrial partner in SINTEF-led HYPER",
+      "relationship": "direct",
+      "support_type": "industrial_research_grant",
+      "status": "funded_project_participation_confirmed",
+      "event_date": "2016-04-13",
+      "public_date": "2016-04-13",
+      "eligible_from": "2016-04-13",
+      "end_date": null,
+      "qualifies": true,
+      "sources": [
+        {
+          "url": "https://nelhydrogen.com/press-release/nel-asa-initiates-feasibility-partner-study-for-large-scale-hydrogen-production-in-norway/",
+          "title": "NEL initiates feasibility partner study for large-scale hydrogen production in Norway",
+          "publication_date": "2016-04-13",
+          "evidence": "Nel announced its participation in HYPER and confirmed that the project received a NOK14m ENERGIX grant toward a NOK20m research programme financed through 2019."
+        }
+      ],
+      "rationale": "Named industrial participation in funded hydrogen-production R&D, linked to Nel's retained electrolyser activity rather than only its later-separated fueling business.",
+      "limitations": "The grant is to the consortium, hosted by SINTEF; no individual Nel cash amount is claimed. The source gives only a financing horizon through 2019, so no exact completion date or eligibility expiry is invented.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "project_total_only",
+      "award_amount_note": "ENERGIX grant within NOK20m project; Nel share unknown.",
+      "project_total_amount": 14000000,
+      "project_total_currency": "NOK",
+      "project_total_basis": "consortium_public_funding",
+      "article_named_stream": null
+    },
+    {
+      "event_id": "ALFEN_UNNAMED_GRANT_2018",
+      "ticker": "ALFEN.AS",
+      "region": "EU",
+      "programme": "Government grant for rural-African off-grid energy system; programme unresolved at that date",
+      "jurisdiction": "Unknown grantor jurisdiction in contemporary prospectus",
+      "beneficiary": "Alfen group",
+      "relationship": "direct",
+      "support_type": "government_grant",
+      "status": "receipt_confirmed_grantor_unresolved",
+      "event_date": "2018-03-12",
+      "public_date": "2018-03-12",
+      "eligible_from": "2018-03-12",
+      "end_date": null,
+      "qualifies": false,
+      "sources": [
+        {
+          "url": "https://live.euronext.com/sites/default/files/amco-9819704-v1-prospectus_alfen_n_v__dated_12_march_2018_including_e-disclaimer.pdf",
+          "title": "Alfen N.V. IPO prospectus, note 9 other income",
+          "publication_date": "2018-03-12",
+          "evidence": "The prospectus records EUR968,000 of government-grant income in 2017 for an off-grid rural-African solar-and-storage development."
+        }
+      ],
+      "rationale": "Retained as an unresolved historical lead rather than assumed eligible EU/EEA support.",
+      "limitations": "The contemporaneous passage does not name the government or programme. Later Dutch DEI evidence is not backdated to infer that the 2018 reader knew the grantor. IPO tradability starts later in March 2018.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Prospectus reports EUR968,000 grant income in 2017, not the total award. Grantor and programme remain unidentified in the captured passage.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
+    },
+    {
+      "event_id": "ALFEN_SDE_CUSTOMERS_2018",
+      "ticker": "ALFEN.AS",
+      "region": "EU",
+      "programme": "Dutch SDE+ awarded solar projects supplied by Alfen",
+      "jurisdiction": "Netherlands",
+      "beneficiary": "Solar-project customers supplied by Alfen",
+      "relationship": "indirect",
+      "support_type": "subsidised_customer_supply",
+      "status": "disclosed_existing_customer_relationship",
+      "event_date": "2018-03-12",
+      "public_date": "2018-03-12",
+      "eligible_from": "2018-03-12",
+      "end_date": null,
+      "qualifies": true,
+      "sources": [
+        {
+          "url": "https://live.euronext.com/sites/default/files/amco-9819704-v1-prospectus_alfen_n_v__dated_12_march_2018_including_e-disclaimer.pdf",
+          "title": "Alfen N.V. IPO prospectus, market and government-policy discussion",
+          "publication_date": "2018-03-12",
+          "evidence": "Alfen disclosed supplying grid connections to Dutch solar farms that had been awarded SDE+ subsidies in 2017."
+        }
+      ],
+      "rationale": "Documented sales to specific classes of already-awarded subsidy recipients; eligible only in the separately labelled indirect-exposure sensitivity.",
+      "limitations": "This is not a subsidy to Alfen. Customer projects are not individually named in the captured passage, and no indirect subsidy value is assigned to Alfen.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
+    },
+    {
+      "event_id": "ALFEN_DEI_ISES_2020",
+      "ticker": "ALFEN.AS",
+      "region": "EU",
+      "programme": "Dutch Demonstratie Energie Innovatie Tender 1: ISES, DEI1400018",
+      "jurisdiction": "Netherlands",
+      "beneficiary": "Alfen B.V.",
+      "relationship": "subsidiary",
+      "support_type": "industrial_demonstration_grant",
+      "status": "grant_and_completion_report_published",
+      "event_date": "2020-04-13",
+      "public_date": "2020-04-13",
+      "eligible_from": "2020-04-13",
+      "end_date": null,
+      "qualifies": true,
+      "sources": [
+        {
+          "url": "https://projecten.topsectorenergie.nl/projecten/integrated-sustainable-energy-station-19011",
+          "title": "Integrated Sustainable Energy Station (ISES), DEI1400018",
+          "publication_date": "2020-04-13",
+          "evidence": "The RVO-derived project record names Alfen B.V. as lead, identifies the Dutch DEI scheme and EUR2,776,119 grant, and dates the final-report publication 13 April 2020."
+        },
+        {
+          "url": "https://projecten.topsectorenergie.nl/storage/app/uploads/public/5e9/478/017/5e947801753f2752490353.pdf",
+          "title": "Eindrapport ISES 2019 (DEI1400018), version 2",
+          "publication_date": "2020-04-13",
+          "evidence": "Alfen's final report identifies the DEI-funded integrated energy demonstrator in Nigeria, with project period 30 September 2016 to 30 September 2019."
+        }
+      ],
+      "rationale": "Named Dutch-government industrial demonstration support to a Dutch controlled company; the Nigerian demonstration location does not change the government grant's jurisdiction.",
+      "limitations": "The report was prepared on 13 February 2020 but the registry supplies a later publication date. Neither the 2016 project start nor the undated current registry alone establishes what was public then. First captured dated grantor identification is used.",
+      "support_end_date": "2019-09-30",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "project_total_only",
+      "award_amount_note": "Registry project grant lists Alfen as lead; company retained share and final cash received are not separately established. Final report says lower costs reduced subsidy.",
+      "project_total_amount": 2776119,
+      "project_total_currency": "EUR",
+      "project_total_basis": "project_grant_registry_amount",
+      "article_named_stream": null
+    },
+    {
+      "event_id": "EDF_HPC_APPROVAL_2014",
+      "ticker": "EDF.PA",
+      "region": "EU",
+      "programme": "Hinkley Point C UK support: European Commission state-aid approval",
+      "jurisdiction": "UK (EU member at approval)",
+      "beneficiary": "EDF / NNB Generation Company",
+      "relationship": "subsidiary",
+      "support_type": "state_aid_approval_before_final_contract",
+      "status": "state_aid_approved_contract_not_yet_executed",
+      "event_date": "2014-10-08",
+      "public_date": "2014-10-08",
+      "eligible_from": "2014-10-08",
+      "end_date": null,
+      "qualifies": false,
+      "sources": [
+        {
+          "url": "https://www.gov.uk/government/news/state-aid-approval-for-hinkley-point-c-nuclear-power-plant",
+          "title": "State aid approval for Hinkley Point C nuclear power plant",
+          "publication_date": "2014-10-08",
+          "evidence": "The UK government announced European Commission approval of the proposed Hinkley Point C support package for EDF's project."
+        }
+      ],
+      "rationale": "An earlier policy milestone retained in the audit, but the main admission uses the later signed support contract.",
+      "limitations": "State-aid approval permits support but does not itself show the final EDF contract was executed; the latter was signed in September 2016.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
+    },
+    {
+      "event_id": "EDF_HPC_CFD_2016",
+      "ticker": "EDF.PA",
+      "region": "EU",
+      "programme": "Hinkley Point C Contract for Difference",
+      "jurisdiction": "UK (EU member at contract)",
+      "beneficiary": "NNB Generation Company (HPC) Ltd, EDF-controlled project company",
+      "relationship": "subsidiary",
+      "support_type": "contract_for_difference_support",
+      "status": "support_contract_executed",
+      "event_date": "2016-09-29",
+      "public_date": "2016-09-29",
+      "eligible_from": "2016-09-29",
+      "end_date": null,
+      "qualifies": true,
+      "sources": [
+        {
+          "url": "https://www.edfenergy.com/energy/nuclear-new-build-projects/hinkley-point-c/news-views/contracts-signed",
+          "title": "Final contracts signed for Hinkley Point C",
+          "publication_date": "2016-09-29",
+          "evidence": "EDF announced that its contracts with the UK government and CGN were signed; the UK minister explicitly identified the Hinkley Point C CfD."
+        },
+        {
+          "url": "https://www.parliament.uk/globalassets/documents/commons-committees/energy-and-climate-change/Correspondence/Hinkley-correspondence-BEIS-to-CHAIR-Sept-2016.pdf",
+          "title": "Secretary of State letter to the Energy and Climate Change Committee on Hinkley Point C",
+          "publication_date": "2016-09-29",
+          "evidence": "The minister confirmed execution of the CfD and associated agreements by the developer, EDF, CGN, LCCC and the government."
+        }
+      ],
+      "rationale": "Executed targeted revenue-support contract for an EDF-controlled nuclear-development company.",
+      "limitations": "Payments depend on future generation; no present grant payment is asserted. Earlier negotiations and the 2014 state-aid permission are not used as if they were this signed contract. EDF delisting must separately constrain investability.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
+    },
+    {
+      "event_id": "VIE_E2DISTRICT_2016",
+      "ticker": "VIE.PA",
+      "region": "EU",
+      "programme": "Horizon 2020 E2District, EE-13-2015 / grant 696009",
+      "jurisdiction": "European Union",
+      "beneficiary": "Veolia industrial research consortium participation",
+      "relationship": "direct",
+      "support_type": "industrial_research_grant",
+      "status": "selection_for_funding_disclosed",
+      "event_date": "2016-03-16",
+      "public_date": "2016-03-16",
+      "eligible_from": "2016-03-16",
+      "end_date": null,
+      "qualifies": false,
+      "sources": [
+        {
+          "url": "https://www.veolia.com/sites/g/files/dvc2491/files/imported-documents/2016/11/2015_Registration_Document_20160405_0.pdf",
+          "title": "Veolia 2015 Registration Document, R&D section",
+          "publication_date": "2016-03-16",
+          "evidence": "The document, filed with the AMF on 16 March 2016, reports that E2District was selected for European Commission funding in late 2015 and describes Veolia's participation and demonstration-site role."
+        }
+      ],
+      "rationale": "Retained as earlier project-selection evidence. Selection for funding alone does not prove execution of the grant, so the main event uses later explicit funding confirmation.",
+      "limitations": "The issuer describes selection in future tense. No admission is inferred from this document alone or backdated from a current grant registry.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
+    },
+    {
+      "event_id": "VIE_E2DISTRICT_FUNDED_2017",
+      "ticker": "VIE.PA",
+      "region": "EU",
+      "programme": "Horizon 2020 E2District, EE-13-2015 / grant 696009",
+      "jurisdiction": "European Union",
+      "beneficiary": "Veolia Environnement Recherche et Innovation (VERI)",
+      "relationship": "subsidiary",
+      "support_type": "industrial_research_grant",
+      "status": "funding_received_and_ongoing_participation_confirmed",
+      "event_date": "2017-11-13",
+      "public_date": "2017-11-13",
+      "eligible_from": "2017-11-13",
+      "end_date": null,
+      "qualifies": true,
+      "sources": [
+        {
+          "url": "https://openaccess.city.ac.uk/id/eprint/21943/1/proceedings-01-01105-v2.pdf",
+          "title": "Costa et al., Development of Future EU District Heating and Cooling Network Solutions, Proceedings 1(7), 1105",
+          "publication_date": "2017-11-13",
+          "evidence": "The published paper, coauthored by E2District coordinator Martin Klepal, describes ongoing work and explicitly acknowledges received H2020 funding under grant 696009. Its title page gives publication on 13 November 2017."
+        },
+        {
+          "url": "https://www.veolia.com/sites/g/files/dvc2491/files/imported-documents/2016/11/2015_Registration_Document_20160405_0.pdf",
+          "title": "Veolia 2015 Registration Document, R&D section",
+          "publication_date": "2016-03-16",
+          "evidence": "The document, filed with the AMF on 16 March 2016, reports that E2District was selected for European Commission funding in late 2015 and describes Veolia's participation and demonstration-site role."
+        },
+        {
+          "url": "https://www.sustainableplaces.eu/wp-content/uploads/2017/01/Final-Programme.pdf",
+          "title": "Sustainable Places 2017 final conference programme",
+          "publication_date": "2017-06-30",
+          "evidence": "The 28-30 June 2017 programme names Veolia as an E2District workshop co-chair alongside the other consortium partners, corroborating continuing industrial participation after the earlier selection."
+        }
+      ],
+      "rationale": "The earlier Veolia filing establishes the named project relationship; the 2017 programme confirms continuing participation, and the project coordinator's dated paper confirms an actually funded and executing H2020 grant.",
+      "limitations": "The current CORDIS record reports grant signature on 19 January 2016, but that current record is not used to claim contemporaneous availability. Admission is the first captured explicit funding confirmation, 13 November 2017. The university mirror was deposited later; the original paper itself prints its 2017 publication date.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
+    }
+  ],
+  "candidates": [
+    {
+      "ticker": "AIR.PA",
+      "searches": [
+        "UK Parliament Airbus/EADS public grants 2013",
+        "UK ATI Airbus Broughton government funding 2014",
+        "FP7 Clean Sky Airbus BLADE publications and recipient registers"
+      ],
+      "coverage_status": "confirmed_direct_historical",
+      "earliest_evidenced_date": "2014-11-21",
+      "unresolved": "The 2013 parliamentary grant disclosure is ancillary because it does not identify a programme or project. Named ATI manufacturing projects establish the main date. Earlier launch aid and FP7 relationships require additional dated programme-specific evidence."
+    },
+    {
+      "ticker": "SAF.PA",
+      "searches": [
+        "Safran 2009 and 2013 registration documents: VITAL DREAM Clean Sky",
+        "Safran Clean Sky Open Rotor funding 2017",
+        "Clean Sky annual activity reports and FP7 recipient records"
+      ],
+      "coverage_status": "confirmed_direct_historical",
+      "earliest_evidenced_date": "2017-10-03",
+      "unresolved": "Earlier funded activity is likely and programme participation is documented; the first captured explicit EU funding receipt is the dated 2017 release. No backdating to 2008."
+    },
+    {
+      "ticker": "ENEL.MI",
+      "searches": [
+        "Enel FP7 GRID4EU grant company release 2014",
+        "Enel ADDRESS FP7 earlier demonstration",
+        "Enel EIB financing and national grant distinctions"
+      ],
+      "coverage_status": "confirmed_subsidiary_historical",
+      "earliest_evidenced_date": "2014-12-16",
+      "unresolved": "Earlier GRID4EU/ADDRESS award notices were not securely dated in this capture. Ordinary EIB financing is not treated automatically as a subsidy."
+    },
+    {
+      "ticker": "ORSTED.CO",
+      "searches": [
+        "DONG Energy UK FID Enabling CfD April 2014 awards",
+        "Signed investment contracts June 2014",
+        "DONG Hornsea/Burbo ownership and subsidy issuer releases 2015"
+      ],
+      "coverage_status": "confirmed_subsidiary_historical",
+      "earliest_evidenced_date": "2014-11-07",
+      "unresolved": "April 2014 award was conditional; signed contracts were publicly confirmed in June, and required EC approval was adopted 23 July. The captured official publication date is 7 November 2014. Original approval-day press text was not recovered, so no earlier public date is assumed."
+    },
+    {
+      "ticker": "VWS.CO",
+      "searches": [
+        "Vestas EUDP Vertical Installer June 2018",
+        "Vestas DTU FastWind and experimental blade projects 2010-2015",
+        "Vestas EUDP programme recipient evidence"
+      ],
+      "coverage_status": "confirmed_direct_historical",
+      "earliest_evidenced_date": "2018-06-28",
+      "unresolved": "Earlier projects included Vestas at some stages, but withdrawal/participation dates and original public grant dates were not resolved; these leads are not used."
+    },
+    {
+      "ticker": "ENR.DE",
+      "searches": [
+        "Siemens Gas and Power HYFLEXPOWER H2020 884229 May 2020",
+        "Siemens Energy September 2020 spin-off and listing",
+        "Inherited business versus unrelated Siemens AG grants"
+      ],
+      "coverage_status": "confirmed_inherited_business_from_listing",
+      "earliest_evidenced_date": "2020-09-28",
+      "unresolved": "No pre-spin-off share history is inferred. Earlier Siemens grants cannot automatically be assigned to Siemens Energy without a funded-business ownership link."
+    },
+    {
+      "ticker": "NEL.OL",
+      "searches": [
+        "Nel issuer press archive 2015-2017 Akershus Enova ENERGIX HYPER",
+        "Nel 2016 annual report and Uno-X 49% joint venture",
+        "Nel 2024 Cavendish fueling separation"
+      ],
+      "coverage_status": "confirmed_subsidiary_and_direct_historical",
+      "earliest_evidenced_date": "2015-07-02",
+      "unresolved": "The signed Akershus agreement commits a future grant but does not prove cash payment. The January 2016 award is explicit; its controlled-entity attribution ends at the public minority-JV agreement. HYPER independently qualifies from April 2016. Earlier pre-Nel corporate identities are not automatically admitted."
+    },
+    {
+      "ticker": "ALFEN.AS",
+      "searches": [
+        "Alfen March 2018 IPO prospectus government grant income and SDE+",
+        "RVO Topsector Energie ISES DEI1400018 final report",
+        "Alfen historical Dutch subsidy grantor and publication dates"
+      ],
+      "coverage_status": "strict_direct_from_2020_earlier_indirect_and_unresolved",
+      "earliest_evidenced_date": "2020-04-13",
+      "unresolved": "2018 grant income lacks a contemporaneously identified grantor/jurisdiction; later DEI identity is not backdated. The separately captured SDE+ supply relationship qualifies only for indirect sensitivity."
+    },
+    {
+      "ticker": "EDF.PA",
+      "searches": [
+        "Hinkley Point C UK state-aid approval October 2014",
+        "EDF government CfD final contracts September 2016",
+        "UK Parliamentary execution confirmation"
+      ],
+      "coverage_status": "confirmed_subsidiary_historical",
+      "earliest_evidenced_date": "2016-09-29",
+      "unresolved": "Earlier French support mechanisms may establish earlier eligibility but were not documented as a named confirmed award here. Government ownership alone and permission to subsidise are not treated as paid grants."
+    },
+    {
+      "ticker": "VIE.PA",
+      "searches": [
+        "Veolia 2015 registration document E2District Horizon 2020",
+        "E2District grant 696009 and Veolia consortium role",
+        "Veolia research grant public filing availability"
+      ],
+      "coverage_status": "confirmed_subsidiary_historical",
+      "earliest_evidenced_date": "2017-11-13",
+      "unresolved": "2016 filing confirms selection, not an executed grant. Main admission uses the coordinator's published 2017 paper confirming grant funding, with contemporaneous Veolia consortium participation. Earlier funded projects remain possible but unconfirmed in this capture."
+    }
+  ]
+}

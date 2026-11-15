@@ -1,0 +1,92 @@
+[
+  {
+    "ticker": "AMAT",
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000006951.json",
+    "sha256": "65ecfedd5bfd3768d30286b52badee080c655cc8d1077524bdb6ca8928380fa7",
+    "capture_file": "AMAT_companyfacts.json"
+  },
+  {
+    "ticker": "BE",
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001664703.json",
+    "sha256": "7680d329aec9de53ab3ee6c1cf50ee373d586c21d9e719244bc1a6c00ccf6bf9",
+    "capture_file": "BE_facts.json"
+  },
+  {
+    "ticker": "ENPH",
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001463101.json",
+    "sha256": "36ff47ed471f1b56691220f9b3e344cc42529058e2736490b7ed2ccdd008d1f4",
+    "capture_file": "ENPH_companyfacts.json"
+  },
+  {
+    "ticker": "ETN",
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001551182.json",
+    "sha256": "c1ef3cbb7cc1226ff23bdd5c364f0923c23121844efb9d82d188fe2a667b2761",
+    "capture_file": "ETN_facts.json"
+  },
+  {
+    "ticker": "FSLR",
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001274494.json",
+    "sha256": "f06c3b11399700b05057db8a105b3417c4503c2a4db88d2f67e115f7f20d5244",
+    "capture_file": "FSLR_companyfacts.json"
+  },
+  {
+    "ticker": "INTC",
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000050863.json",
+    "sha256": "9c568557a91cfbc234c999183d6434f8bbf7b8ebf2f29577f28d761a9becb59d",
+    "capture_file": "INTC_companyfacts.json"
+  },
+  {
+    "ticker": "LIN",
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001707925.json",
+    "sha256": "faeccf860ecf8f18af89c7f059191b0aa900d00645f1a0168b8511b1cbbe1b9f",
+    "capture_file": "LIN_companyfacts.json"
+  },
+  {
+    "ticker": "LRCX",
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000707549.json",
+    "sha256": "46289dd93caeb9cf61ad8a0884f51999549c8179f17ad7b0ef9bdadfe9aff626",
+    "capture_file": "LRCX_companyfacts.json"
+  },
+  {
+    "ticker": "MCHP",
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000827054.json",
+    "sha256": "c6af8d449e954a6864ce1f968885d311f2cb2fd8c30558aa00dd28843e7cbc57",
+    "capture_file": "MCHP_companyfacts.json"
+  },
+  {
+    "ticker": "MU",
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000723125.json",
+    "sha256": "162439f31208eaf4cd1a33939d80fd40479a559735b9488d32ac43d5516ff7bf",
+    "capture_file": "MU_companyfacts.json"
+  },
+  {
+    "ticker": "NEE",
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000753308.json",
+    "sha256": "99e84510f602363147dc6c83321aa76859e185d0807019d1efc9e0da60491954",
+    "capture_file": "NEE_companyfacts.json"
+  },
+  {
+    "ticker": "PLUG",
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001093691.json",
+    "sha256": "508b8aa9d00cb2eaab78604364dea6e17489f522f4934e79b2c8b693404626e6",
+    "capture_file": "PLUG_companyfacts.json"
+  },
+  {
+    "ticker": "TSM",
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001046179.json",
+    "sha256": "d3ebb91e3ad78c9482e238c4db36df60b295a3b49ca137774706f4f5e526044a",
+    "capture_file": "TSM_companyfacts.json"
+  },
+  {
+    "ticker": "TXN",
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000097476.json",
+    "sha256": "5ac0e3044f2368fe3dcce665440317bda9ce766feb27fd382e563593192ee80d",
+    "capture_file": "TXN_companyfacts.json"
+  },
+  {
+    "ticker": "GFS",
+    "url": "https://www.sec.gov/Archives/edgar/data/1709048/000119312521290644/d192411df1.htm",
+    "sha256": "58a06d409b368186547578c4914955e73e241e2c8ceb62448232ec90d6ab54d8",
+    "capture_file": "GFS_IPO.html"
+  }
+]

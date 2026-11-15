@@ -1,0 +1,315 @@
+{
+  "long_us_source_GFS_2020-12-31": {
+    "ticker": "GFS",
+    "period_end": "2020-12-31",
+    "publication_date": "2021-10-04",
+    "availability_date": "2021-10-04",
+    "fiscal_quarter": 4,
+    "period_type": "annual",
+    "currency": "USD",
+    "unit": "million",
+    "source": "https://www.sec.gov/Archives/edgar/data/1709048/000119312521290644/d192411df1.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1709048/000119312521290644/d192411df1.htm",
+    "accession": "0001193125-21-290644",
+    "notes": [
+      "Original IPO Form F-1 as filed October 4 2021; not available at earlier dates. Underlying statements USD thousands scaled to millions. IFRS net loss includes noncontrolling interests."
+    ],
+    "evidence": {
+      "source_table_rows": {
+        "1054": [
+          "",
+          "",
+          "",
+          "",
+          "For the Years Ended December 31,",
+          ""
+        ],
+        "1071": [
+          "Loss from operations",
+          "",
+          "",
+          "",
+          "",
+          "(2,523,290",
+          ")",
+          "",
+          "",
+          "(1,624,796",
+          ")",
+          "",
+          "",
+          "(1,656,021",
+          ")"
+        ],
+        "1085": [
+          "Net loss for the year",
+          "",
+          "",
+          "",
+          "$",
+          "(2,774,046",
+          ")",
+          "",
+          "$",
+          "(1,371,186",
+          ")",
+          "",
+          "$",
+          "(1,350,860",
+          ")"
+        ],
+        "1125": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "As of December 31,",
+          ""
+        ],
+        "1126": [
+          "",
+          "",
+          "Notes",
+          "",
+          "",
+          "2019",
+          "",
+          "",
+          "2020",
+          ""
+        ],
+        "1152": [
+          "Total assets",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "$",
+          "14,497,506",
+          "",
+          "",
+          "$",
+          "12,321,633",
+          ""
+        ],
+        "1189": [
+          "Total current liabilities",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "2,336,067",
+          "",
+          "",
+          "",
+          "1,896,070",
+          ""
+        ],
+        "1224": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Years Ended December 31,",
+          ""
+        ],
+        "1225": [
+          "",
+          "",
+          "Notes",
+          "",
+          "",
+          "2018",
+          "",
+          "",
+          "2019",
+          "",
+          "",
+          "2020",
+          ""
+        ],
+        "1259": [
+          "Net cash provided by operating activities",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "279,309",
+          "",
+          "",
+          "",
+          "496,819",
+          "",
+          "",
+          "",
+          "1,005,897",
+          ""
+        ]
+      }
+    },
+    "operating_income": -1656.021,
+    "net_income": -1350.86,
+    "operating_cash_flow": 1005.897,
+    "total_assets": 12321.633,
+    "current_liabilities": 1896.07
+  },
+  "long_us_source_GFS_2021-06-30": {
+    "ticker": "GFS",
+    "period_end": "2021-06-30",
+    "publication_date": "2021-10-04",
+    "availability_date": "2021-10-04",
+    "fiscal_quarter": 2,
+    "period_type": "interim",
+    "currency": "USD",
+    "unit": "million",
+    "source": "https://www.sec.gov/Archives/edgar/data/1709048/000119312521290644/d192411df1.htm",
+    "date_source": "https://www.sec.gov/Archives/edgar/data/1709048/000119312521290644/d192411df1.htm",
+    "accession": "0001193125-21-290644",
+    "notes": [
+      "Original IPO Form F-1 as filed October 4 2021; not available at earlier dates. Underlying statements USD thousands scaled to millions. IFRS net loss includes noncontrolling interests."
+    ],
+    "evidence": {
+      "source_table_rows": {
+        "2503": [
+          "",
+          "",
+          "Note",
+          "",
+          "",
+          "Six Months EndedJune 30",
+          ""
+        ],
+        "2504": [
+          "",
+          "",
+          "2020",
+          "",
+          "",
+          "2021",
+          ""
+        ],
+        "2518": [
+          "Loss from operations",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "(815,101",
+          ")",
+          "",
+          "",
+          "(197,932",
+          ")"
+        ],
+        "2527": [
+          "Net loss for the period",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "$",
+          "(533,613",
+          ")",
+          "",
+          "$",
+          "(301,218",
+          ")"
+        ],
+        "2583": [
+          "Total assets",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "$",
+          "12,321,633",
+          "",
+          "",
+          "$",
+          "12,396,511",
+          ""
+        ],
+        "2619": [
+          "Total current liabilities",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1,896,070",
+          "",
+          "",
+          "",
+          "2,146,216",
+          ""
+        ],
+        "2649": [
+          "",
+          "",
+          "2020",
+          "",
+          "",
+          "2021",
+          ""
+        ],
+        "2679": [
+          "Net cash provided by operating activities",
+          "",
+          "",
+          "",
+          "",
+          "539,138",
+          "",
+          "",
+          "",
+          "582,090",
+          ""
+        ]
+      }
+    },
+    "ytd": {
+      "operating_income": -197.932,
+      "net_income": -301.218,
+      "operating_cash_flow": 582.09
+    },
+    "prior_ytd": {
+      "operating_income": -815.101,
+      "net_income": -533.613,
+      "operating_cash_flow": 539.138
+    },
+    "total_assets": 12396.511,
+    "current_liabilities": 2146.216,
+    "ttm_calculation": {
+      "operating_income": {
+        "prior_annual": -1656.021,
+        "current_ytd": -197.932,
+        "prior_ytd": -815.101,
+        "value": -1038.852
+      },
+      "net_income": {
+        "prior_annual": -1350.86,
+        "current_ytd": -301.218,
+        "prior_ytd": -533.613,
+        "value": -1118.465
+      },
+      "operating_cash_flow": {
+        "prior_annual": 1005.897,
+        "current_ytd": 582.09,
+        "prior_ytd": 539.138,
+        "value": 1048.849
+      }
+    }
+  }
+}

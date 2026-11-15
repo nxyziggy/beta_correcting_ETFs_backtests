@@ -9,6 +9,7 @@ from collections import defaultdict
 from backtest import read_csv, run
 from prepare_data import ROOT, DATA, write_csv
 from run_eu_restoration import RestoredInputs, RESTORED, START, END, digest, verify
+from snapshot_integrity import verify_frozen_entries
 
 AREA = DATA / 'eu_interim'
 OUT = ROOT / 'results_eu_interim'
@@ -149,9 +150,7 @@ def main():
     OUT.mkdir(exist_ok=True)
     frozen = {}
     for name in ('INPUT_MANIFEST.json', 'RESULT_MANIFEST.json', 'results_eu_restored/input_manifest.json'):
-        for r in json.loads((ROOT / name).read_text()):
-            assert digest(ROOT / r['path']) == r['sha256'], ('Existing input changed', r['path'])
-            frozen[r['path']] = r['sha256']
+        frozen.update(verify_frozen_entries(ROOT, json.loads((ROOT / name).read_text())))
     for base in ('results_eu_restored', 'data/eu_restoration'):
         for p in (ROOT / base).rglob('*'):
             if p.is_file() and '__pycache__' not in p.parts:
@@ -219,7 +218,8 @@ def main():
     (OUT / 'preserved_file_manifest.json').write_text(json.dumps([dict(path=p, sha256=h) for p, h in sorted(frozen.items())], indent=2) + '\n')
     make_report(summaries, usage, exclusions, validation)
     files = [p for p in AREA.rglob('*') if p.is_file() and '__pycache__' not in p.parts]
-    files += [ROOT / 'run_eu_interim.py', ROOT / 'EU_INTERIM_METHOD.md', ROOT / 'backtest.py', ROOT / 'run_eu_restoration.py']
+    files += [ROOT / 'run_eu_interim.py', ROOT / 'EU_INTERIM_METHOD.md', ROOT / 'backtest.py',
+              ROOT / 'run_eu_restoration.py', ROOT / 'snapshot_integrity.py']
     (OUT / 'input_manifest.json').write_text(json.dumps([dict(path=str(p.relative_to(ROOT)), sha256=digest(p)) for p in sorted(files)], indent=2) + '\n')
     print(json.dumps(dict(validation={k:v for k,v in validation.items() if k != 'runs'},
                          returns=[dict(panel=s['panel'], rule=s['rule'], total_return=s['total_return']) for s in summaries]), indent=2))

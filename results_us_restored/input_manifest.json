@@ -5,7 +5,7 @@
   },
   {
     "path": "backtest.py",
-    "sha256": "2af12310d739b7b352c4a8e634fa10d3e70fe3df0365697aea8107e397506b6e"
+    "sha256": "7f259511b5f6f32a436c4ae109f2cba0b3dabff7b4d35309a0681590af6d7cfe"
   },
   {
     "path": "data/us_restoration/arithmetic_audit.json",
@@ -293,6 +293,10 @@
   },
   {
     "path": "run_us_restoration.py",
-    "sha256": "2a8b73cf94bb60abeb2479507f21c6b0cbab72d05d63b98952cdf2b720fb83a2"
+    "sha256": "3451711b991ad976ef53f934ab8b0d341e2407264027001f726a1444c21bf945"
+  },
+  {
+    "path": "snapshot_integrity.py",
+    "sha256": "55a6490958ed0cdb6036bea6f237760f81375a31fd852dab5f8cd65e8d57cf19"
   }
 ]

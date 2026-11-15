@@ -1,0 +1,54 @@
+{
+  "audit_date": "2026-11-15",
+  "status": "PASS",
+  "procedure": "Ledger replay, source arithmetic and in-memory information-isolation checks; no portfolio variants rerun.",
+  "variants": 9,
+  "runs": 152,
+  "controls": 8,
+  "exact_baseline_control_monthly_reproductions": 24,
+  "feature_rows": 10065,
+  "feature_and_eligibility_sets_identical": true,
+  "timing_control_pairs_identical": 2,
+  "selection_threshold_recalculations": 12600,
+  "event_score_recalculations": 4964,
+  "covered_holdings_checked": 104945,
+  "source_component_cutoff_checks": 29618,
+  "raw_fundamental_change_recalculations": 9394,
+  "investor_currency_endpoint_pair_checks": 9903,
+  "feature_rank_groups": 700,
+  "region_timing_future_isolation_cases": 4,
+  "implementation_findings": "No blocking leakage or implementation defect found in the tested scoring, coverage and information-cutoff paths.",
+  "limitations": [
+    "The replay imports the production input classes and is not an independent implementation.",
+    "The replay validates computations against frozen inputs; it does not independently certify vendor-adjusted price vintages.",
+    "The candidate pool and already-observed evaluation periods remain retrospective.",
+    "Fundamental trend has greater initial missing coverage in Europe; baseline fallback keeps coverage fixed but changes feature activation.",
+    "Large historical gains from informed alternatives do not establish an untouched out-of-sample advantage."
+  ],
+  "hashes": [
+    {
+      "path": "audit_recovery_experiments.py",
+      "sha256": "ec5fe0bbf51440da00ced03f4f7e00f94ad8cf3ec257b871a4f81722d2d0527c"
+    },
+    {
+      "path": "recovery_rules.py",
+      "sha256": "6ed079966ba1153b9f2be537cad6f443b3418061ef22b03d57f1a2019a0aa62c"
+    },
+    {
+      "path": "backtest.py",
+      "sha256": "7f259511b5f6f32a436c4ae109f2cba0b3dabff7b4d35309a0681590af6d7cfe"
+    },
+    {
+      "path": "results_recovery_experiments/summary.csv",
+      "sha256": "44f511232f8ceabdbc34b4eeddbdd445b04cd3b815ca342acfd66569c7cd6759"
+    },
+    {
+      "path": "results_recovery_experiments/signal_features.csv",
+      "sha256": "b487e68f891ce1df3a3370bc049055fbed83b265924a192a329b973630251c30"
+    },
+    {
+      "path": "results_recovery_experiments/eligibility.csv",
+      "sha256": "789b59129ede0b57fbd5eafab34c5e5eb28a80ea4b990a1a0f7172fd5d3c8f04"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "status": "PASS",
+  "sensitivity_runs": 330,
+  "main_monthly_reproductions": 20,
+  "main_case": "direct_main",
+  "existing_variants": [
+    "trend",
+    "momentum",
+    "trend_confirm",
+    "momentum_confirm"
+  ],
+  "omitted_candidates": 31,
+  "ranks_recomputed_after_omission": true,
+  "other_coverage_unchanged": true,
+  "baseline_comparisons_in_main_family": 32,
+  "realized": {
+    "specified_alternatives": 8,
+    "distinct_portfolio_alternatives": 7,
+    "duplicate_of": {
+      "recovery_grace": "baseline"
+    },
+    "comparison_groups": 16
+  },
+  "Bloom_price_interval": {
+    "ticker": "BE",
+    "start": "2024-06-30",
+    "end": "2026-06-30",
+    "price_multiple": 24.730392156862745
+  },
+  "limitations": [
+    "Omission changes relative ranks, selections and weights; it is not additive attribution.",
+    "Omitted companies remain in the main portfolios and controls.",
+    "Dates and omissions were inspected after returns were observed; no holdout or parameter fitting.",
+    "We reuse the portfolio engine and input classes; these diagnostics are not an independent implementation."
+  ],
+  "hashes": [
+    {
+      "path": "analyze_recovery_robustness.py",
+      "sha256": "b0434c2e4c3ad4d0e14c54c235cb8ccb74ee74ac81e4cc2a9dfbfedbbe4f44d7"
+    },
+    {
+      "path": "recovery_rules.py",
+      "sha256": "6ed079966ba1153b9f2be537cad6f443b3418061ef22b03d57f1a2019a0aa62c"
+    },
+    {
+      "path": "results_recovery_experiments/summary.csv",
+      "sha256": "44f511232f8ceabdbc34b4eeddbdd445b04cd3b815ca342acfd66569c7cd6759"
+    },
+    {
+      "path": "results_recovery_experiments/active_statistics.csv",
+      "sha256": "e09580e66539097aa3abe1ba48c76ca5be42514da189752982c626be70f6dd09"
+    },
+    {
+      "path": "results_recovery_experiments/input_manifest.json",
+      "sha256": "cd920984a0ba71f01d8dc09c798410c91d0be9be1109c9f3b7474b027958ed10"
+    }
+  ]
+}

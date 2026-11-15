@@ -1,0 +1,82 @@
+[
+  {
+    "path": "backtest.py",
+    "sha256": "7f259511b5f6f32a436c4ae109f2cba0b3dabff7b4d35309a0681590af6d7cfe"
+  },
+  {
+    "path": "prepare_data.py",
+    "sha256": "9bdf09fa671daf49ed9d70d8e64181144261590cc4a080642289e2612fbec441"
+  },
+  {
+    "path": "run_research_corrections.py",
+    "sha256": "788e02e966df94e679ddf0db8a4a8fd1b37edebcce59368352b4337520fd4872"
+  },
+  {
+    "path": "test_research_corrections.py",
+    "sha256": "1d5e5b3111393491daf8fb9876bfbac597d6d2e7585ca3cef2df5a9ab5e51372"
+  },
+  {
+    "path": "snapshot_integrity.py",
+    "sha256": "55a6490958ed0cdb6036bea6f237760f81375a31fd852dab5f8cd65e8d57cf19"
+  },
+  {
+    "path": "RESEARCH_CORRECTIONS_METHOD.md",
+    "sha256": "41605b01071ad7926d092ccfebd70e7c3a0fbde8e3067d7252679122bcc03867"
+  },
+  {
+    "path": "data/research_corrections/EU_annual_common_inputs.json",
+    "sha256": "c6d48b956f4facade2a301e78ad11b8a28ed00f0c23efc39922280c49849fa12"
+  },
+  {
+    "path": "data/research_corrections/EU_annual_evidenced_inputs.json",
+    "sha256": "ce8bc74c21b9352751a087d9cd4812bc279c11fa531875f56ae697b6aebe915e"
+  },
+  {
+    "path": "data/research_corrections/EU_interim_common_inputs.json",
+    "sha256": "83742d7c3bf93d8bdfca288149b3a1250aaa67d75a6cd5673c03cfd49674e99c"
+  },
+  {
+    "path": "data/research_corrections/EU_interim_evidenced_inputs.json",
+    "sha256": "37c6656e6005c88346f68214586ef938c6d2767eac4650e2e3327cec688fb0b0"
+  },
+  {
+    "path": "data/research_corrections/US_annual_common_inputs.json",
+    "sha256": "cf723dadca149a8405adbbeb6f6ca4a2f47cf345ef6c665e2a8c981b63f61a00"
+  },
+  {
+    "path": "data/research_corrections/US_annual_lam_inputs.json",
+    "sha256": "a000661532f47ce53bd863ed23ec58c00591e8331ecf0250612846edba41244d"
+  },
+  {
+    "path": "data/research_corrections/US_interim_common_inputs.json",
+    "sha256": "d9e72f328d54068d7f8dfa16a5c634a50f83ccf78f2cac206193473557ef5756"
+  },
+  {
+    "path": "data/research_corrections/US_interim_lam_inputs.json",
+    "sha256": "35e2fae29cf1b3da9ca1fa79563bb34367a4bf447d7cb9f482e927a99efaa03f"
+  },
+  {
+    "path": "data/research_corrections/US_reference_common_inputs.json",
+    "sha256": "5fbd62d62d43423bfbd5ba5d40a5d1d3e94453b13f30adc87e0e91b66e04fef5"
+  },
+  {
+    "path": "data/research_corrections/US_reference_lam_inputs.json",
+    "sha256": "53b5a1445c45f72d6938579d1cb677079b157e111966966e5ede6106abd976ec"
+  },
+  {
+    "path": "data/research_corrections/lam_arithmetic.json",
+    "sha256": "e21fb7d66faa308f3255c904c5cd1eec041d570743b7af8bddfb7ce33eff9c08"
+  },
+  {
+    "path": "data/research_corrections/lam_inputs.json",
+    "sha256": "d4bf2ca3b1590b8e8bbb825b62ee7fe7578ecac4c798d4a1ea223b2e531849ca"
+  },
+  {
+    "path": "data/research_corrections/lam_sources.json",
+    "sha256": "11ab10aa2a853c65c7bb49ce7b2c0e1e2228f8cd062e29bdd59cc82e70c3b7d7"
+  },
+  {
+    "path": "data/research_corrections/safran_date_corrections.json",
+    "sha256": "a2bc9524081bdf27a45dc786c2bbd7c07605599d1674ef3575709f73042e6853"
+  }
+]

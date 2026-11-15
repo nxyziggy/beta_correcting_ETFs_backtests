@@ -1,0 +1,627 @@
+{
+  "eu_history_source_ALFEN.AS_2018-12-31": {
+    "availability_date": "2019-02-20",
+    "currency": "EUR",
+    "current_liabilities": 40.505,
+    "date_source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/bltc1e24233aa06ff50/Trading%20update%20-%20Press%20Release%202018%20FY",
+    "download_sha256": "642b84715c8ec9d6e4d11ed9dbab1cf03a2aa7ff08ea5aeae6551f390788cac3",
+    "evidence": {
+      "current_year_reported_values": {
+        "current_liabilities": 40505.0,
+        "net_income": -263.0,
+        "operating_cash_flow": -1503.0,
+        "operating_income": -81.0,
+        "total_assets": 56225.0
+      },
+      "normalization_divisor": 1000,
+      "pdf_pages_one_based": {
+        "balance": 65,
+        "cashflow": 67,
+        "income": 64
+      },
+      "reported_unit": "thousand",
+      "statement_scope": "consolidated original current-year statements",
+      "verified_fact_sha256": "6daf0b99ddf3a4944bac5a988d9d7e6b6d941dfffa28eae1e59e363e382b859f",
+      "verified_values": {
+        "current_liabilities": 40.505,
+        "net_income": -0.263,
+        "operating_cash_flow": -1.503,
+        "operating_income": -0.081,
+        "total_assets": 56.225
+      }
+    },
+    "fiscal_quarter": 4,
+    "fiscal_year": 2018,
+    "net_income": -0.263,
+    "notes": [
+      "Original 2018 annual current-year statements, thousands EUR converted to millions.",
+      "Issuer release dated 20 February 2019 explicitly says the annual report is available."
+    ],
+    "operating_cash_flow": -1.503,
+    "operating_income": -0.081,
+    "period_end": "2018-12-31",
+    "period_type": "annual",
+    "publication_date": "2019-02-20",
+    "source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/bltcd678b58be3f9aaf/678a66c4a0c9601b0b8f23d4/Alfen_2018_Annual_Report.pdf",
+    "ticker": "ALFEN.AS",
+    "total_assets": 56.225,
+    "unit": "million"
+  },
+  "eu_history_source_ALFEN.AS_2019-12-31": {
+    "availability_date": "2020-02-19",
+    "currency": "EUR",
+    "current_liabilities": 48.938,
+    "date_source": "https://alfen.com/en/investor-relations/investor-relations-news/alfen-reports-41-revenue-growth-and-strong-profitability-increase-in-2019",
+    "download_sha256": "dc859a0444e981768c76ea96dea5dd52088a4cb8a741513b1441a92cdaef4e8f",
+    "evidence": {
+      "current_year_reported_values": {
+        "current_liabilities": 48938.0,
+        "net_income": 5625.0,
+        "operating_cash_flow": 14095.0,
+        "operating_income": 8645.0,
+        "total_assets": 76628.0
+      },
+      "normalization_divisor": 1000,
+      "pdf_pages_one_based": {
+        "balance": 40,
+        "cashflow": 41,
+        "income": 40
+      },
+      "reported_unit": "thousand",
+      "statement_scope": "consolidated original current-year statements",
+      "verified_fact_sha256": "786b8ed1037d3ced72da493c843eb06b36802d928fab0d6e8628a35863ae0339",
+      "verified_values": {
+        "current_liabilities": 48.938,
+        "net_income": 5.625,
+        "operating_cash_flow": 14.095,
+        "operating_income": 8.645,
+        "total_assets": 76.628
+      }
+    },
+    "fiscal_quarter": 4,
+    "fiscal_year": 2019,
+    "net_income": 5.625,
+    "notes": [
+      "Original 2019 report recovered from current issuer content host; figures match cached former issuer URL. Amounts thousands EUR converted to millions.",
+      "Issuer dated release explicitly says the annual report is available."
+    ],
+    "operating_cash_flow": 14.095,
+    "operating_income": 8.645,
+    "original_source_url": "https://alfen.com/sites/default/files/media/documents/Annex%202.a.%20Alfen%20Annual%20Report%202019%20-%20AGM%202020.pdf",
+    "period_end": "2019-12-31",
+    "period_type": "annual",
+    "publication_date": "2020-02-19",
+    "source": "https://eu-assets.contentstack.com/v3/assets/blt08d332658a89f766/bltfd806748527db6e2/AGM%20Annex%202.a.%20Alfen%20Annual%20Report%202019%202020",
+    "ticker": "ALFEN.AS",
+    "total_assets": 76.628,
+    "unit": "million"
+  },
+  "eu_history_source_AMS.SW_2018-12-31": {
+    "availability_date": "2019-04-30",
+    "currency": "EUR",
+    "current_liabilities": 548.589,
+    "date_source": "https://ams-osram.com/ko/news/press-releases/04-30-2019-q1-2019-results",
+    "download_sha256": "58ce83d2f63f1b0ce9c6c1daf2c415db9e30bb55e7bde3cb5e7f7549f2b90ade",
+    "evidence": {
+      "current_year_reported_values": {
+        "current_liabilities": 548589.0,
+        "net_income": 93416.0,
+        "operating_cash_flow": 315409.0,
+        "operating_income": 12885.0,
+        "total_assets": 3584534.0
+      },
+      "normalization_divisor": 1000,
+      "pdf_pages_one_based": {
+        "balance": 70,
+        "cashflow": 71,
+        "income": 68
+      },
+      "reported_unit": "thousand",
+      "statement_scope": "consolidated original current-year statements",
+      "verified_fact_sha256": "4fefa7a81d10e5b7fd7abe53430a7cb0cd78d3174d57da14917c97b00bfde1ff",
+      "verified_values": {
+        "current_liabilities": 548.589,
+        "net_income": 93.416,
+        "operating_cash_flow": 315.409,
+        "operating_income": 12.885,
+        "total_assets": 3584.534
+      }
+    },
+    "fiscal_quarter": 4,
+    "fiscal_year": 2018,
+    "net_income": 93.416,
+    "notes": [
+      "Original 2018 IFRS consolidated report, thousands EUR converted to millions; not the USD management earnings release.",
+      "Issuer Q1 2019 release explicitly says Annual Report 2018 is concurrently published."
+    ],
+    "operating_cash_flow": 315.409,
+    "operating_income": 12.885,
+    "period_end": "2018-12-31",
+    "period_type": "annual",
+    "publication_date": "2019-04-30",
+    "source": "https://ams-osram.com/documents/20143/83504/ams%20Annual%20Report%202018%20complete.pdf",
+    "ticker": "AMS.SW",
+    "total_assets": 3584.534,
+    "unit": "million"
+  },
+  "eu_history_source_AMS.SW_2019-12-31": {
+    "availability_date": "2020-04-29",
+    "currency": "EUR",
+    "current_liabilities": 1204.147,
+    "date_source": "https://ams-osram.com/news/press-releases/q1-2020-results",
+    "download_sha256": "66387ac08c827898e7b36478f25d910b275d6d9f456cfca5dbd89e3af2d945f4",
+    "evidence": {
+      "current_year_reported_values": {
+        "current_liabilities": 1204147.0,
+        "net_income": 299816.0,
+        "operating_cash_flow": 645667.0,
+        "operating_income": 328716.0,
+        "total_assets": 4433412.0
+      },
+      "normalization_divisor": 1000,
+      "pdf_pages_one_based": {
+        "balance": 37,
+        "cashflow": 37,
+        "income": 36
+      },
+      "reported_unit": "thousand",
+      "statement_scope": "consolidated original current-year statements",
+      "verified_fact_sha256": "1f4c30c5611dca274fbcf14c5ae4aed15d5a5b87167ec8fe03d1785ad0a0709a",
+      "verified_values": {
+        "current_liabilities": 1204.147,
+        "net_income": 299.816,
+        "operating_cash_flow": 645.667,
+        "operating_income": 328.716,
+        "total_assets": 4433.412
+      }
+    },
+    "fiscal_quarter": 4,
+    "fiscal_year": 2019,
+    "net_income": 299.816,
+    "notes": [
+      "Original German annual report in EUR thousands; current 2019 column, converted to millions.",
+      "Concurrently published with Q1 2020 results. No OSRAM consolidation before July 2020."
+    ],
+    "operating_cash_flow": 645.667,
+    "operating_income": 328.716,
+    "period_end": "2019-12-31",
+    "period_type": "annual",
+    "publication_date": "2020-04-29",
+    "source": "https://ams-osram.com/documents/20143/2234347/ams%2BAG%2BGesch%C3%A4ftsbericht%2B2019.pdf",
+    "ticker": "AMS.SW",
+    "total_assets": 4433.412,
+    "unit": "million"
+  },
+  "eu_history_source_ENR.DE_2019-09-30": {
+    "availability_date": "2020-09-07",
+    "currency": "EUR",
+    "current_liabilities": 23487,
+    "date_source": "https://assets.siemens-energy.com/dam/53671b7b-79ec-4df1-9bee-b03d0127f963/SiemensEnergy-Prospectus-pdf_Original%20file.pdf",
+    "download_sha256": "276c8ddc98eb3eab3a7a74d62142d5d679430bc99a456f46dd893b3b8ca69723",
+    "evidence": {
+      "current_year_reported_values": {
+        "current_liabilities": 23487,
+        "net_income": 282,
+        "operating_cash_flow": 1694,
+        "operating_income": 597,
+        "total_assets": 45041
+      },
+      "normalization_divisor": 1,
+      "pdf_pages_one_based": {
+        "balance": 561,
+        "cashflow": 562,
+        "income": 559
+      },
+      "reported_unit": "million",
+      "statement_scope": "audited combined carve-out financial statements in pre-listing prospectus",
+      "verified_fact_sha256": "1f24bd067fdd3f1bc039ff46cecce5985022dc36ac812fabbfcd32867d792674",
+      "verified_values": {
+        "current_liabilities": 23487,
+        "net_income": 282,
+        "operating_cash_flow": 1694,
+        "operating_income": 597,
+        "total_assets": 45041
+      }
+    },
+    "fiscal_quarter": 4,
+    "fiscal_year": 2019,
+    "net_income": 282,
+    "notes": [
+      "Original audited carve-out combined statements for the business listed as Siemens Energy. Not Siemens AG consolidated results.",
+      "Operating income derived from pretax317 minus interest income107 plus interest expense355 minus other financial expense(-32) =597. Includes equity-method income111, matching the operating subtotal definition in FY2020 annual report.",
+      "Prospectus September7 precedes September28 listing, but misses the September1 information cutoff; eligible from October2020, entry waits for a scheduled review."
+    ],
+    "operating_cash_flow": 1694,
+    "operating_income": 597,
+    "period_end": "2019-09-30",
+    "period_type": "annual",
+    "publication_date": "2020-09-07",
+    "source": "https://assets.siemens-energy.com/dam/53671b7b-79ec-4df1-9bee-b03d0127f963/SiemensEnergy-Prospectus-pdf_Original%20file.pdf",
+    "ticker": "ENR.DE",
+    "total_assets": 45041,
+    "unit": "million"
+  },
+  "eu_history_source_NEL.OL_2018-12-31": {
+    "availability_date": "2019-04-24",
+    "currency": "NOK",
+    "current_liabilities": 189.481,
+    "date_source": "https://nelhydrogen.com/press-releases/annual-reports/",
+    "download_sha256": "f5ca3f04f5c5708749427d5e93e43f205f07f0c77d7a2a3269e7d2b2e3fdf33d",
+    "evidence": {
+      "current_year_reported_values": {
+        "current_liabilities": 189481.0,
+        "net_income": -188827.0,
+        "operating_cash_flow": -142568.0,
+        "operating_income": -196061.0,
+        "total_assets": 1944401.0
+      },
+      "normalization_divisor": 1000,
+      "pdf_pages_one_based": {
+        "balance": 33,
+        "cashflow": 36,
+        "income": 32
+      },
+      "reported_unit": "thousand",
+      "statement_scope": "consolidated original current-year statements",
+      "verified_fact_sha256": "3d2cf0c9aab0979b3e21f5826ee092637c5223d17c68afaa0940542f7c1a515c",
+      "verified_values": {
+        "current_liabilities": 189.481,
+        "net_income": -188.827,
+        "operating_cash_flow": -142.568,
+        "operating_income": -196.061,
+        "total_assets": 1944.401
+      }
+    },
+    "fiscal_quarter": 4,
+    "fiscal_year": 2018,
+    "net_income": -188.827,
+    "notes": [
+      "Original FY2018 publication, not the restated 2018 comparative in FY2019. Current liabilities page34; CFO -142.568 and current liabilities189.481 differ from later reclassified comparatives."
+    ],
+    "operating_cash_flow": -142.568,
+    "operating_income": -196.061,
+    "period_end": "2018-12-31",
+    "period_type": "annual",
+    "publication_date": "2019-04-24",
+    "source": "https://mb.cision.com/Public/115/2795258/82e32828c5df24d0.pdf",
+    "ticker": "NEL.OL",
+    "total_assets": 1944.401,
+    "unit": "million"
+  },
+  "eu_history_source_NEL.OL_2019-12-31": {
+    "availability_date": "2020-04-22",
+    "currency": "NOK",
+    "current_liabilities": 340.409,
+    "date_source": "https://nelhydrogen.com/press-releases/annual-reports/",
+    "download_sha256": "8d2490579dd3f471c17b4c7822b6d1fafc33bdea88ded97dc3c44c95f7ec7e61",
+    "evidence": {
+      "current_year_reported_values": {
+        "current_liabilities": 340409.0,
+        "net_income": -269710.0,
+        "operating_cash_flow": -209228.0,
+        "operating_income": -253595.0,
+        "total_assets": 2430673.0
+      },
+      "normalization_divisor": 1000,
+      "pdf_pages_one_based": {
+        "balance": 33,
+        "cashflow": 36,
+        "income": 32
+      },
+      "reported_unit": "thousand",
+      "statement_scope": "consolidated original current-year statements",
+      "verified_fact_sha256": "2203f9efc4fe78483d0f60b00f7fa6a0c005ac5a0204329fc7f26608a185f975",
+      "verified_values": {
+        "current_liabilities": 340.409,
+        "net_income": -269.71,
+        "operating_cash_flow": -209.228,
+        "operating_income": -253.595,
+        "total_assets": 2430.673
+      }
+    },
+    "fiscal_quarter": 4,
+    "fiscal_year": 2019,
+    "net_income": -269.71,
+    "notes": [
+      "Original current-year column in NOK thousands, converted to millions. Current liabilities on PDF page34. Net loss is attributable to shareholders; no separate noncontrolling income reported."
+    ],
+    "operating_cash_flow": -209.228,
+    "operating_income": -253.595,
+    "period_end": "2019-12-31",
+    "period_type": "annual",
+    "publication_date": "2020-04-22",
+    "source": "https://mb.cision.com/Main/115/3093846/1233504.pdf",
+    "ticker": "NEL.OL",
+    "total_assets": 2430.673,
+    "unit": "million"
+  },
+  "eu_history_source_ORSTED.CO_2018-12-31": {
+    "availability_date": "2019-01-31",
+    "currency": "DKK",
+    "current_liabilities": 34936,
+    "date_source": "https://orsted.com/en/company-announcement-list/2019/01/1708059",
+    "download_sha256": "705fb54abddf93e5c160e1014a34a2797bcf986c0ff158970981f45cda1537f9",
+    "evidence": {
+      "current_year_reported_values": {
+        "current_liabilities": 34936,
+        "net_income": 18276,
+        "operating_cash_flow": 10343,
+        "operating_income": 23116,
+        "total_assets": 174575
+      },
+      "normalization_divisor": 1,
+      "pdf_pages_one_based": {
+        "balance": 75,
+        "cashflow": 77,
+        "income": 73
+      },
+      "reported_unit": "million",
+      "statement_scope": "consolidated original current-year statements",
+      "verified_fact_sha256": "9f59b0918dd6eb98577567728bb4061db980396a4b7315a1ab9d3dc4c2d906ff",
+      "verified_values": {
+        "current_liabilities": 34936,
+        "net_income": 18276,
+        "operating_cash_flow": 10343,
+        "operating_income": 23116,
+        "total_assets": 174575
+      }
+    },
+    "fiscal_quarter": 4,
+    "fiscal_year": 2018,
+    "net_income": 18276,
+    "notes": [
+      "Use current-year IFRS column, not business performance adjusted EBIT or net income. Income columns visually verified.",
+      "Net income includes total consolidated profit including discontinued operations. Current liabilities are the stated subtotal, excluding separately presented liabilities relating to assets held for sale."
+    ],
+    "operating_cash_flow": 10343,
+    "operating_income": 23116,
+    "period_end": "2018-12-31",
+    "period_type": "annual",
+    "publication_date": "2019-01-31",
+    "source": "https://cdn.orsted.com/-/media/www/docs/corp/com/investor/financial-reports/2018/annual_2018/orsted_annual_report_2018.pdf?hash=996A7CAE6A2AD6CA873090E4EFA9F23D&rev=cec43e106d9a4ca58e0e3cffc8c3841c",
+    "ticker": "ORSTED.CO",
+    "total_assets": 174575,
+    "unit": "million"
+  },
+  "eu_history_source_ORSTED.CO_2019-12-31": {
+    "availability_date": "2020-01-30",
+    "currency": "DKK",
+    "current_liabilities": 29471,
+    "date_source": "https://view.news.eu.nasdaq.com/view?id=bf9fbde3a73f9e845f2dbb9b621379482&lang=da",
+    "download_sha256": "c63c35d2c0cb5a20aed29061bbe5e8d1f5d737b51ce889f182295ad75ef4db6d",
+    "evidence": {
+      "current_year_reported_values": {
+        "current_liabilities": 29471,
+        "net_income": 7235,
+        "operating_cash_flow": 13079,
+        "operating_income": 11588,
+        "total_assets": 192860
+      },
+      "normalization_divisor": 1,
+      "pdf_pages_one_based": {
+        "balance": 69,
+        "cashflow": 71,
+        "income": 67
+      },
+      "reported_unit": "million",
+      "statement_scope": "consolidated original current-year statements",
+      "verified_fact_sha256": "926fd7ac66ace0f37b55de4e9870ad59965b387da313fc5f47c83610bdfc9a3b",
+      "verified_values": {
+        "current_liabilities": 29471,
+        "net_income": 7235,
+        "operating_cash_flow": 13079,
+        "operating_income": 11588,
+        "total_assets": 192860
+      }
+    },
+    "fiscal_quarter": 4,
+    "fiscal_year": 2019,
+    "net_income": 7235,
+    "notes": [
+      "Use IFRS column, not business performance: EBIT11588, net profit7235. Net profit includes discontinued operations and all attributable interests.",
+      "Current liabilities uses the reported subtotal, excluding separately presented liabilities associated with assets held for sale, consistent with later restored rows."
+    ],
+    "operating_cash_flow": 13079,
+    "operating_income": 11588,
+    "period_end": "2019-12-31",
+    "period_type": "annual",
+    "publication_date": "2020-01-30",
+    "source": "https://cdn.orsted.com/-/media/www/docs/corp/com/investor/financial-reports/2019/annual2019/annual-report-2019.pdf?hash=06AF10394209E48AC0E53A80A045FBD0&rev=334895b2e83e4266afb7e97cfa9024f2",
+    "ticker": "ORSTED.CO",
+    "total_assets": 192860,
+    "unit": "million"
+  },
+  "eu_history_source_SAF.PA_2018-12-31": {
+    "availability_date": "2019-04-01",
+    "currency": "EUR",
+    "current_liabilities": 21091,
+    "date_source": "https://www.safran-group.com/pressroom/safran-announces-availability-its-2018-registration-document-including-annual-financial-report-2019-04-01",
+    "download_sha256": "65c96bd29e3614d243d7d4e10ee237a0d8bda079641d0742dd54fb88c519091a",
+    "evidence": {
+      "current_year_reported_values": {
+        "current_liabilities": 21091,
+        "net_income": 1341,
+        "operating_cash_flow": 3071,
+        "operating_income": 2165,
+        "total_assets": 40620
+      },
+      "normalization_divisor": 1,
+      "pdf_pages_one_based": {
+        "balance": 87,
+        "cashflow": 89,
+        "income": 85
+      },
+      "reported_unit": "million",
+      "statement_scope": "consolidated original current-year statements",
+      "verified_fact_sha256": "85afbe45b042334069b773b63764607527f6ca0e52a6e1afd5c30c62a0549630",
+      "verified_values": {
+        "current_liabilities": 21091,
+        "net_income": 1341,
+        "operating_cash_flow": 3071,
+        "operating_income": 2165,
+        "total_assets": 40620
+      }
+    },
+    "fiscal_quarter": 4,
+    "fiscal_year": 2018,
+    "net_income": 1341,
+    "notes": [
+      "Original consolidated statutory financial statements, not adjusted or parent-company accounts.",
+      "Conservative exact-document publication date; report says board adopted statements February 26, but an earlier complete original attachment was not verified."
+    ],
+    "operating_cash_flow": 3071,
+    "operating_income": 2165,
+    "original_source_url": "https://www.safran-group.com/download/media/396241",
+    "period_end": "2018-12-31",
+    "period_type": "annual",
+    "publication_date": "2019-04-01",
+    "source": "https://www.safran-group.com/sites/default/files/2021-07/safr_ddr_2018_uk_mel_3-040419_100dpi.pdf",
+    "ticker": "SAF.PA",
+    "total_assets": 40620,
+    "unit": "million"
+  },
+  "eu_history_source_SAF.PA_2019-12-31": {
+    "availability_date": "2020-04-01",
+    "currency": "EUR",
+    "current_liabilities": 22876,
+    "date_source": "https://www.safran-group.com/pressroom/safran-announces-availability-its-2019-universal-registration-document-including-annual-financial-2020-04-01",
+    "evidence": {
+      "current_year_reported_values": {
+        "current_liabilities": 22876,
+        "net_income": 2512,
+        "operating_cash_flow": 3145,
+        "operating_income": 3837,
+        "total_assets": 42808
+      },
+      "normalization_divisor": 1,
+      "pdf_pages_one_based": {
+        "balance": 120,
+        "cashflow": 122,
+        "income": 118
+      },
+      "reported_unit": "million",
+      "retrieval": "Issuer original PDF text retrieved by web tool. Direct PDF download returned HTTP 403, so no file-content checksum is claimed; verified_fact_sha256 fingerprints normalized facts only.",
+      "statement_scope": "consolidated original current-year statements",
+      "verified_fact_sha256": "b97fa64be37835533c8df2a2e74c3a6c3d2e9cf8ce96dc5afb9dca0d08988d02",
+      "verified_values": {
+        "current_liabilities": 22876,
+        "net_income": 2512,
+        "operating_cash_flow": 3145,
+        "operating_income": 3837,
+        "total_assets": 42808
+      }
+    },
+    "fiscal_quarter": 4,
+    "fiscal_year": 2019,
+    "net_income": 2512,
+    "notes": [
+      "Original URD retrieved via issuer web PDF parser; local download unavailable. Full annual report availability explicitly announced April1.",
+      "February27 results release mentions earlier complete statements, but the separate attachment has not been verified. April1 is the conservative evidenced date for this exact original document, not claimed earliest availability.",
+      "Consolidated IFRS values, not adjusted management figures. Net income includes noncontrolling interests."
+    ],
+    "operating_cash_flow": 3145,
+    "operating_income": 3837,
+    "period_end": "2019-12-31",
+    "period_type": "annual",
+    "publication_date": "2020-04-01",
+    "source": "https://www.safran-group.com/download/media/396007",
+    "ticker": "SAF.PA",
+    "total_assets": 42808,
+    "unit": "million"
+  },
+  "eu_history_source_VWS.CO_2018-12-31": {
+    "availability_date": "2019-02-07",
+    "currency": "EUR",
+    "current_liabilities": 7405,
+    "date_source": "https://www.vestas.com/en/media/company-news/2019/vestas-annual-report-2018-c2963235",
+    "download_sha256": "42d9071742ea95390bb654e9bde4155af14060e6703c067188e1a7cb19abd272",
+    "evidence": {
+      "current_year_reported_values": {
+        "current_liabilities": 7405,
+        "net_income": 683,
+        "operating_cash_flow": 1021,
+        "operating_income": 921,
+        "total_assets": 11899
+      },
+      "normalization_divisor": 1,
+      "pdf_pages_one_based": {
+        "balance": 50,
+        "cashflow": 52,
+        "income": 49
+      },
+      "reported_unit": "million",
+      "statement_scope": "consolidated original current-year statements",
+      "verified_fact_sha256": "e6cba5c4bd5f26e786eabbc77ecae098d8581fb4aac4a106aac872b310a261cb",
+      "verified_values": {
+        "current_liabilities": 7405,
+        "net_income": 683,
+        "operating_cash_flow": 1021,
+        "operating_income": 921,
+        "total_assets": 11899
+      }
+    },
+    "fiscal_quarter": 4,
+    "fiscal_year": 2018,
+    "net_income": 683,
+    "notes": [
+      "Use reported EBIT after special items and total consolidated profit for the year.",
+      "Original report uses IFRS 15 for 2018; no later comparative or alternative accounting policy column used."
+    ],
+    "operating_cash_flow": 1021,
+    "operating_income": 921,
+    "period_end": "2018-12-31",
+    "period_type": "annual",
+    "publication_date": "2019-02-07",
+    "source": "https://mb.cision.com/Public/18886/2963235/99f41969908c9ceb.pdf",
+    "ticker": "VWS.CO",
+    "total_assets": 11899,
+    "unit": "million"
+  },
+  "eu_history_source_VWS.CO_2019-12-31": {
+    "availability_date": "2020-02-05",
+    "currency": "EUR",
+    "current_liabilities": 9347,
+    "date_source": "https://www.vestas.com/en/media/company-news/2020/annual-report-2019---delivered-best-in-class-results-an-c3027571",
+    "download_sha256": "e6a8e4a37172e6242dce484301de53171496a6233d40684d5181f1a00ef65434",
+    "evidence": {
+      "current_year_reported_values": {
+        "current_liabilities": 9347,
+        "net_income": 700,
+        "operating_cash_flow": 823,
+        "operating_income": 1004,
+        "total_assets": 14331
+      },
+      "normalization_divisor": 1,
+      "pdf_pages_one_based": {
+        "balance": 58,
+        "cashflow": 60,
+        "income": 57
+      },
+      "reported_unit": "million",
+      "statement_scope": "consolidated original current-year statements",
+      "verified_fact_sha256": "73972b7d61b045d363f7937fdaa2c32d8c2cbc76a45104b558f1bf44d93c2d44",
+      "verified_values": {
+        "current_liabilities": 9347,
+        "net_income": 700,
+        "operating_cash_flow": 823,
+        "operating_income": 1004,
+        "total_assets": 14331
+      }
+    },
+    "fiscal_quarter": 4,
+    "fiscal_year": 2019,
+    "net_income": 700,
+    "notes": [
+      "Original consolidated current-year statements in EUR million. EBIT after special items."
+    ],
+    "operating_cash_flow": 823,
+    "operating_income": 1004,
+    "period_end": "2019-12-31",
+    "period_type": "annual",
+    "publication_date": "2020-02-05",
+    "source": "https://mb.cision.com/Public/18886/3027571/95dbe9cab9a8a9ab.pdf",
+    "ticker": "VWS.CO",
+    "total_assets": 14331,
+    "unit": "million"
+  }
+}

@@ -155,6 +155,10 @@ class Inputs:
             date=dt.date.fromisoformat(record['period_end'])+dt.timedelta(days=annual_lag)
         return date
 
+    def freshness_days(self, record):
+        """Maximum report age; timing experiments may offset an artificial delay."""
+        return 550 if record['period_type']=='annual' else 275
+
     def signals(self,region,date,panel,gate=False,annual_lag=180):
         execution=dt.date.fromisoformat(date); cutoff=execution.replace(day=1)
         rows=self.annual[:]
@@ -174,7 +178,7 @@ class Inputs:
             for r in rows:
                 if r['ticker']!=t or self.available(r,annual_lag)>=cutoff: continue
                 age=(execution-dt.date.fromisoformat(r['period_end'])).days
-                if age>(550 if r['period_type']=='annual' else 275): continue
+                if age>self.freshness_days(r): continue
                 eligible.append(r)
             if not eligible: reasons[t]='no usable dated financial observation';continue
             r=max(eligible,key=lambda a:(a['period_end'],a['period_type']=='trailing',a['panel'].startswith('primary')))
@@ -225,12 +229,21 @@ def constrained_selection(sc,active,rule,quarter_end,minimum,maximum):
         'below_entry_gate_held':sum(sc[t]['score']<=threshold for t in selected),
         'minimum_holdings':minimum,'maximum_holdings':maximum,'quarter_end':quarter_end}
 
-def run(inputs,region,panel,rule,cost_bps,gate=False,annual_lag=180,start=None,minimum_holdings=1,maximum_holdings=9):
+def run(inputs,region,panel,rule,cost_bps,gate=False,annual_lag=180,start=None,minimum_holdings=1,maximum_holdings=9,selection_policy=None):
+    """Run the fixed accounting engine, optionally delegating stock selection.
+
+    A custom policy's select(sc, active, rule, quarter_end, minimum, maximum,
+    date) returns the constrained_selection tuple. Give each run a fresh policy
+    instance when it tracks history. Coverage and capacity exit labels remain
+    engine-owned; other exits may use exit_reason(ticker) and exit_streak(ticker).
+    With no policy the historical selection, event schema and results are unchanged.
+    """
     assert rule in ('q75','q50','equal')
     assert 1<=minimum_holdings<=maximum_holdings
     key=f'{region}_{panel}_{"policy_" if gate else ""}{rule}_{cost_bps:g}bp_lag{annual_lag}'+(f'_from{start}' if start else '')+('_digrin_only' if inputs.price_policy=='monthly_vendor_only' else '')
     dates=sorted(set.intersection(*(set(inputs.prices[t]) for t in benchmark(region))))
-    dates=[d for d in dates if '2020-01-01'<=d<=inputs.extension_config['complete_month_end'] and (start is None or d>=start)]
+    history_floor=min('2020-01-01',start) if start else '2020-01-01'
+    dates=[d for d in dates if history_floor<=d<=inputs.extension_config['complete_month_end'] and (start is None or d>=start)]
     values={};cash=100.;bvalues={};bcash=100.;ever_held=set()
     monthly=[];scores=[];trades=[];events=[];holdings=[];coverage=[];selection_audit=[];previous=None;started=False
     for date in dates:
@@ -257,12 +270,32 @@ def run(inputs,region,panel,rule,cost_bps,gate=False,annual_lag=180,start=None,m
             if rule=='equal': retained=set(sc) if decision else set(values)&set(sc)
             else:
                 active=set(values)
-                retained,floor,cap_removed,threshold,audit=constrained_selection(sc,active,rule,quarter_end,minimum_holdings,maximum_holdings)
+                if selection_policy is None:
+                    retained,floor,cap_removed,threshold,audit=constrained_selection(sc,active,rule,quarter_end,minimum_holdings,maximum_holdings)
+                else:
+                    retained,floor,cap_removed,threshold,audit=selection_policy.select(
+                        sc=sc,active=set(active),rule=rule,quarter_end=quarter_end,
+                        minimum=minimum_holdings,maximum=maximum_holdings,date=date)
+                    retained,floor,cap_removed=set(retained),set(floor),set(cap_removed)
+                    assert retained<=set(sc),'Selection policy retained an uncovered/ineligible stock'
+                    assert floor<=retained and cap_removed<=set(sc) and not retained&cap_removed
+                    assert minimum_holdings<=len(retained)<=maximum_holdings
                 selection_audit.append({'date':date,**audit,'entry_threshold':threshold,'exit_threshold':q25})
                 for t in sorted(active-retained):
-                    event='EXIT_COVERAGE_OR_ELIGIBILITY' if t not in sc else 'EXIT_CAPACITY' if t in cap_removed else 'EXIT_BOTTOM_QUARTILE'
-                    events.append({'date':date,'ticker':t,'event':event,'score':sc[t]['score'] if t in sc else '',
-                        'threshold':q25 if event=='EXIT_BOTTOM_QUARTILE' else '', 'recovery_streak':0})
+                    if t not in sc:event='EXIT_COVERAGE_OR_ELIGIBILITY'
+                    elif t in cap_removed:event='EXIT_CAPACITY'
+                    elif selection_policy is None:event='EXIT_BOTTOM_QUARTILE'
+                    else:
+                        reason=getattr(selection_policy,'exit_reason',None)
+                        event=reason(t) if callable(reason) else 'EXIT_SCORE_RULE'
+                        assert isinstance(event,str) and event.startswith('EXIT_')
+                        assert event not in ('EXIT_COVERAGE_OR_ELIGIBILITY','EXIT_CAPACITY'), 'Reserved engine exit label'
+                    record={'date':date,'ticker':t,'event':event,'score':sc[t]['score'] if t in sc else '',
+                        'threshold':q25 if 'BOTTOM_QUARTILE' in event else '', 'recovery_streak':0}
+                    streak=getattr(selection_policy,'exit_streak',None)
+                    if callable(streak):
+                        record['score_exit_streak']=0 if event in ('EXIT_COVERAGE_OR_ELIGIBILITY','EXIT_CAPACITY') else streak(t)
+                    events.append(record)
                 for t in sorted(retained-active):
                     event='ENTER_FLOOR' if t in floor else 'REENTER' if t in ever_held else 'ENTER_INITIAL' if initial else 'ENTER_THRESHOLD'
                     events.append({'date':date,'ticker':t,'event':event,'score':sc[t]['score'],'threshold':threshold,
@@ -339,6 +372,11 @@ def run(inputs,region,panel,rule,cost_bps,gate=False,annual_lag=180,start=None,m
         off_quarter_floor_admissions=sum(r['event']=='ENTER_FLOOR' and int(r['date'][5:7]) not in (3,6,9,12) for r in events),
         capacity_exits=sum(r['event']=='EXIT_CAPACITY' for r in events),
         max_monthly_stock_weight=max((r['weight'] for r in holdings if r['ticker']!='CASH'),default=0))
+    if selection_policy is not None and rule!='equal':
+        if hasattr(selection_policy,'score_exit_qualifying_quarters'):
+            summary['score_exit_qualifying_quarters']=selection_policy.score_exit_qualifying_quarters
+        if callable(getattr(selection_policy,'exit_streak',None)):
+            for event in events:event.setdefault('score_exit_streak',0)
     summary['Paper_CAGR_div_vol']=summary['CAGR']/vol if vol else ''
     quarterly=[]
     ends={}

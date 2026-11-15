@@ -1,0 +1,256 @@
+{
+  "date": "2026-11-15",
+  "purpose": "Presentation and metadata audit; no portfolio reruns or admission/score changes.",
+  "binding_definition": "One source-timing observation per listed candidate per complete month from each definition cross-region start; no duplicates by portfolio rule or timing; exclude terminal partial return.",
+  "binding_rates": [
+    {
+      "definition": "direct",
+      "region": "US",
+      "start": "2019-06-30",
+      "end": "2026-10-31",
+      "listed_company_months": 1336,
+      "excluded_company_months": 68,
+      "binding_rate": 0.05089820359281437
+    },
+    {
+      "definition": "direct",
+      "region": "EU",
+      "start": "2019-06-30",
+      "end": "2026-10-31",
+      "listed_company_months": 1278,
+      "excluded_company_months": 11,
+      "binding_rate": 0.008607198748043818
+    },
+    {
+      "definition": "direct",
+      "region": "US+EU",
+      "start": "2019-06-30",
+      "end": "2026-10-31",
+      "listed_company_months": 2614,
+      "excluded_company_months": 79,
+      "binding_rate": 0.030221882172915073
+    },
+    {
+      "definition": "with_indirect",
+      "region": "US",
+      "start": "2019-06-30",
+      "end": "2026-10-31",
+      "listed_company_months": 1336,
+      "excluded_company_months": 2,
+      "binding_rate": 0.0014970059880239522
+    },
+    {
+      "definition": "with_indirect",
+      "region": "EU",
+      "start": "2019-06-30",
+      "end": "2026-10-31",
+      "listed_company_months": 1278,
+      "excluded_company_months": 0,
+      "binding_rate": 0.0
+    },
+    {
+      "definition": "with_indirect",
+      "region": "US+EU",
+      "start": "2019-06-30",
+      "end": "2026-10-31",
+      "listed_company_months": 2614,
+      "excluded_company_months": 2,
+      "binding_rate": 0.0007651109410864575
+    }
+  ],
+  "excluded_companies": [
+    {
+      "definition": "direct",
+      "ticker": "ALFEN.AS",
+      "months": 11,
+      "first": "2019-06-30",
+      "last": "2020-04-30"
+    },
+    {
+      "definition": "direct",
+      "ticker": "MU",
+      "months": 2,
+      "first": "2019-06-30",
+      "last": "2019-07-31"
+    },
+    {
+      "definition": "direct",
+      "ticker": "TSM",
+      "months": 66,
+      "first": "2019-06-30",
+      "last": "2024-11-30"
+    },
+    {
+      "definition": "with_indirect",
+      "ticker": "MU",
+      "months": 2,
+      "first": "2019-06-30",
+      "last": "2019-07-31"
+    }
+  ],
+  "events": 54,
+  "company_amount_records": 14,
+  "project_total_only_records": 15,
+  "unknown_company_amount_records": 25,
+  "first_direct_admissions": 31,
+  "first_direct_admissions_article_named_streams": [
+    {
+      "ticker": "GEV",
+      "region": "US",
+      "event_id": "US_GEV_45X_WIND_2023",
+      "eligible_from": "2024-04-02",
+      "programme": "Inflation Reduction Act advanced manufacturing production credits for the Wind business",
+      "article_named_stream": "Inflation Reduction Act"
+    },
+    {
+      "ticker": "TSM",
+      "region": "US",
+      "event_id": "TSM_CHIPS_FINAL_2024",
+      "eligible_from": "2024-11-15",
+      "programme": "CHIPS Incentives Program, TSMC Arizona leading-edge fabs",
+      "article_named_stream": "CHIPS Act"
+    }
+  ],
+  "admission_fields_unchanged_from_review_baseline": true,
+  "admission_projection_sha256": "f1e3c085e48295d8aef5ebd2f561fdde71c3d7a651607522166b234ea6e95e56",
+  "admission_projection_fields": [
+    "event_id",
+    "ticker",
+    "region",
+    "programme",
+    "qualifies",
+    "relationship",
+    "event_date",
+    "public_date",
+    "eligible_from",
+    "end_date",
+    "ownership_date",
+    "ownership_end_public_date",
+    "cancellation_public_date",
+    "end_public_date"
+  ],
+  "alfen_resolution": "Unresolved: 2018 EUR968,000 grant income and later ISES project plausibly match, but the 2018 passage does not identify the grantor/programme. Existing 2020 direct cutoff retained. Registry EUR2,776,119 is not assumed final cash: final report notes lower project costs reduced subsidy.",
+  "sources_rechecked": [
+    {
+      "url": "https://www.labor.ca.gov/wp-content/uploads/sites/338/2019/07/ETPPressRelease-January2016.pdf",
+      "status": "Primary text opened successfully",
+      "finding": "January 22 2016 release; Lam USD48,816 on PDF page 5."
+    },
+    {
+      "url": "https://gov.texas.gov/news/post/governor-abbott-announces-texas-instruments-new-300mm-facility-in-richardson",
+      "status": "Primary text opened successfully",
+      "finding": "April 18 2019 conditional TI commitment USD5,124,000."
+    },
+    {
+      "url": "https://via.ritzau.dk/pressemeddelelse/3293310/ecsel?publisherId=90456",
+      "status": "Primary text opened successfully",
+      "finding": "December 1 2014 ECSEL issuer release mirrored by Business Wire/Ritzau; EUR41.3m total project cost, 27 partners; company amounts absent."
+    },
+    {
+      "url": "https://live.euronext.com/sites/default/files/amco-9819704-v1-prospectus_alfen_n_v__dated_12_march_2018_including_e-disclaimer.pdf",
+      "status": "Primary text opened successfully",
+      "finding": "March 12 2018 prospectus note 9, PDF page 232: EUR968,000 2017 grant income, African solar/storage project, no grantor/programme in the passage."
+    },
+    {
+      "url": "https://projecten.topsectorenergie.nl/projecten/integrated-sustainable-energy-station-19011",
+      "status": "Primary text opened successfully",
+      "finding": "Current RVO-derived record: EUR2,776,119 project grant; Alfen lead; final-report publication 2020-04-13."
+    },
+    {
+      "url": "https://projecten.topsectorenergie.nl/storage/app/uploads/public/5e9/478/017/5e947801753f2752490353.pdf",
+      "status": "Primary text opened successfully",
+      "finding": "Report prepared February 13 2020, project September 2016\u2013September 2019, Dutch ministry/RVO funding, costs/subsidy reduced."
+    }
+  ],
+  "original_ledger_diagnostic": {
+    "source": "data/policy_eligibility.csv",
+    "financial_inputs": "HistoryInputs(source), hybrid",
+    "engine_start_requirement": "At least four scored names at a quarter-end; default minimum_holdings=1 does not lower that startup threshold.",
+    "coverage_requirement": "Every then-listed eligible company has usable financial and investor-currency price data; complete suffix checked through the last full month.",
+    "limitation": "The original sparse ledger is not exhaustive and includes EU programme approvals/participation with national grants pending. This diagnostic does not certify a confirmed-article-stream reconstruction.",
+    "results": [
+      {
+        "region": "US",
+        "first_investable_quarter": {
+          "date": "2025-03-31",
+          "eligible": [
+            "GFS",
+            "INTC",
+            "MU",
+            "TSM",
+            "TXN"
+          ],
+          "covered": 5,
+          "missing": []
+        },
+        "first_complete_remaining_window": {
+          "date": "2025-03-31",
+          "eligible": [
+            "GFS",
+            "INTC",
+            "MU",
+            "TSM",
+            "TXN"
+          ],
+          "covered": 5,
+          "missing": []
+        },
+        "first_five_name_quarter": {
+          "date": "2025-03-31",
+          "eligible": [
+            "GFS",
+            "INTC",
+            "MU",
+            "TSM",
+            "TXN"
+          ],
+          "covered": 5,
+          "missing": []
+        }
+      },
+      {
+        "region": "EU",
+        "first_investable_quarter": {
+          "date": "2023-12-31",
+          "eligible": [
+            "AMS.SW",
+            "ENEL.MI",
+            "IFX.DE",
+            "NXPI"
+          ],
+          "covered": 4,
+          "missing": []
+        },
+        "first_complete_remaining_window": {
+          "date": "2023-12-31",
+          "eligible": [
+            "AMS.SW",
+            "ENEL.MI",
+            "IFX.DE",
+            "NXPI"
+          ],
+          "covered": 4,
+          "missing": []
+        },
+        "first_five_name_quarter": {
+          "date": "2024-12-31",
+          "eligible": [
+            "AMS.SW",
+            "ENEL.MI",
+            "IFX.DE",
+            "NEL.OL",
+            "NXPI"
+          ],
+          "covered": 5,
+          "missing": []
+        }
+      }
+    ]
+  },
+  "limits": [
+    "Unknown amounts are not zero; consortium total costs are not public grant totals or company awards.",
+    "Amounts and article-stream labels are descriptive and do not feed eligibility/scoring.",
+    "The broad screen does not replicate the article specified streams, baskets or event dates.",
+    "No earlier undiscovered grant or withdrawal is assumed."
+  ]
+}

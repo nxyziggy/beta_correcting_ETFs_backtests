@@ -1,0 +1,115 @@
+{
+  "status": "PASS",
+  "portfolio_return_reconciliations": 6,
+  "relative_gap_reconciliations": 4,
+  "inputs": [
+    {
+      "path": "analyze_pillar2.py",
+      "sha256": "0948d7fec015cfef6bfce2a897966dc0d66f80d4f09fa1766e73c22b81bc5bea"
+    },
+    {
+      "path": "results_pillar2/summary.csv",
+      "sha256": "754ee1f10abddafc16700ae778446cf7e722830f32ed107783e890ae18107df2"
+    },
+    {
+      "path": "results_pillar2/input_manifest.json",
+      "sha256": "d712269e495ddec5ac0d5fa2aa611d78290d721c941b86a1e9a7216873c1a9b6"
+    },
+    {
+      "path": "results_pillar2/preserved_manifest.json",
+      "sha256": "8c6b9ee3e071b822bc91a0f1339d16e0237a0ce8c003e390ea0820e13b13e504"
+    },
+    {
+      "path": "results_pillar2/US_pillar2_direct_source_policy_q50_10bp_lag0_from2019-06-30_earliest_complete/holdings.csv",
+      "sha256": "5e364bcedc0bbde24c804723bbb4524dbcfc7d3d126c8c995f076b08cc8ae6ce"
+    },
+    {
+      "path": "results_pillar2/US_pillar2_direct_source_policy_q50_10bp_lag0_from2019-06-30_earliest_complete/trades.csv",
+      "sha256": "54f9a83c24db5d7172ee9e314631f61e127d0880493328722b1395b9f176412c"
+    },
+    {
+      "path": "results_pillar2/US_pillar2_direct_source_policy_q50_10bp_lag0_from2019-06-30_earliest_complete/events.csv",
+      "sha256": "cad53c536ca1b68263cb230a96f8c5824007f92ebb9be76709863345425813bf"
+    },
+    {
+      "path": "results_pillar2/US_pillar2_direct_source_policy_q50_10bp_lag0_from2019-06-30_earliest_complete/monthly.csv",
+      "sha256": "3cfbd7a20f4428b807f27081b32ecb5f511f90318b88aef0fec48a7a5f7a4eb2"
+    },
+    {
+      "path": "results_pillar2/US_pillar2_direct_source_policy_q75_10bp_lag0_from2019-06-30_earliest_complete/holdings.csv",
+      "sha256": "29fd679132dcb3388fc089e1dfb6774f3c407123d8c0f26a1fcdea3f60053908"
+    },
+    {
+      "path": "results_pillar2/US_pillar2_direct_source_policy_q75_10bp_lag0_from2019-06-30_earliest_complete/trades.csv",
+      "sha256": "0e015bc6ac4c3909ccdb5165701982f13a778b2c884a5da8019978c6e30b0ca1"
+    },
+    {
+      "path": "results_pillar2/US_pillar2_direct_source_policy_q75_10bp_lag0_from2019-06-30_earliest_complete/events.csv",
+      "sha256": "0394a45e10ed5ed1878764e0d75e5304406b7e9a590803eb9656607f57852745"
+    },
+    {
+      "path": "results_pillar2/US_pillar2_direct_source_policy_q75_10bp_lag0_from2019-06-30_earliest_complete/monthly.csv",
+      "sha256": "9704bbfa1c147064e851331a4dab7ea892ce25f40768a857476ff40a6e3b0246"
+    },
+    {
+      "path": "results_pillar2/US_pillar2_direct_source_policy_equal_10bp_lag0_from2019-06-30_earliest_complete/holdings.csv",
+      "sha256": "2ead1eb40cebfd27cfd89e83310f7917216a64d46332e4584cb06f4f4d72a413"
+    },
+    {
+      "path": "results_pillar2/US_pillar2_direct_source_policy_equal_10bp_lag0_from2019-06-30_earliest_complete/trades.csv",
+      "sha256": "6595286c43a58e591aa1d8ee5dbfd7d3498d8b08de0209d7674a3808e41e8c5f"
+    },
+    {
+      "path": "results_pillar2/US_pillar2_direct_source_policy_equal_10bp_lag0_from2019-06-30_earliest_complete/monthly.csv",
+      "sha256": "2eb8a41797368ac1b03671a42b4aa119977b9f3e54d5b864dfdeeac4ffd6d97b"
+    },
+    {
+      "path": "results_pillar2/EU_pillar2_direct_source_policy_q50_15bp_lag0_from2019-06-30_earliest_complete/holdings.csv",
+      "sha256": "5d8cf07a425441d53e1aa938ef295b4358d7c154595b69bc8130edc55f0500cf"
+    },
+    {
+      "path": "results_pillar2/EU_pillar2_direct_source_policy_q50_15bp_lag0_from2019-06-30_earliest_complete/trades.csv",
+      "sha256": "4b7639b3102cd491ff71bfb069a4146e53d645c4e8ee79bea380bb7c04c2edf4"
+    },
+    {
+      "path": "results_pillar2/EU_pillar2_direct_source_policy_q50_15bp_lag0_from2019-06-30_earliest_complete/events.csv",
+      "sha256": "449eaa6b24f925f9c9474d801b9c62952e4d7e1b1227b5d488a85dfc42bc28c5"
+    },
+    {
+      "path": "results_pillar2/EU_pillar2_direct_source_policy_q50_15bp_lag0_from2019-06-30_earliest_complete/monthly.csv",
+      "sha256": "f40d5f0fae0c5a19230782a83f967fc6f8df6be0e8a32583875b8ce1c6f5f121"
+    },
+    {
+      "path": "results_pillar2/EU_pillar2_direct_source_policy_q75_15bp_lag0_from2019-06-30_earliest_complete/holdings.csv",
+      "sha256": "2468f3c92062a8a3e536b76cc82b4089f46a7b00668972fa61ab446ccaf677e2"
+    },
+    {
+      "path": "results_pillar2/EU_pillar2_direct_source_policy_q75_15bp_lag0_from2019-06-30_earliest_complete/trades.csv",
+      "sha256": "a3886829940954f45f24687c6b04629a501821f1c3865581c20117c96a0156b3"
+    },
+    {
+      "path": "results_pillar2/EU_pillar2_direct_source_policy_q75_15bp_lag0_from2019-06-30_earliest_complete/events.csv",
+      "sha256": "2c3cb798dbf92bfbeecffc275a3cc26d55792b5272b41a4e90beb884068b5093"
+    },
+    {
+      "path": "results_pillar2/EU_pillar2_direct_source_policy_q75_15bp_lag0_from2019-06-30_earliest_complete/monthly.csv",
+      "sha256": "2213fe195a8cb363cb5164499a088687ea0966a04a5494c58acd346cf2558a84"
+    },
+    {
+      "path": "results_pillar2/EU_pillar2_direct_source_policy_equal_15bp_lag0_from2019-06-30_earliest_complete/holdings.csv",
+      "sha256": "6a8f33d7270f56ce6227365a14970517b67ed700c38983640882de4920329148"
+    },
+    {
+      "path": "results_pillar2/EU_pillar2_direct_source_policy_equal_15bp_lag0_from2019-06-30_earliest_complete/trades.csv",
+      "sha256": "8667a75e5594c9a259bc14f2cd560012096aaf3635414babd8bda3bdab992bf9"
+    },
+    {
+      "path": "results_pillar2/EU_pillar2_direct_source_policy_equal_15bp_lag0_from2019-06-30_earliest_complete/events.csv",
+      "sha256": "b2b9b930968d970ca3225bb37cbb112bf69ca52ac473ba145c2c9bf0f9229a68"
+    },
+    {
+      "path": "results_pillar2/EU_pillar2_direct_source_policy_equal_15bp_lag0_from2019-06-30_earliest_complete/monthly.csv",
+      "sha256": "960ada64a364abe0d77cd463294370595efd702248e8162c918ea2b769bef192"
+    }
+  ]
+}

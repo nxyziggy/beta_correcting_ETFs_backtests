@@ -49,4 +49,4 @@ Run `python3 run_us_restoration.py` from the repository root; the calculation is
 - [Summary](summary.csv) and [coverage](restored_company_coverage.csv)
 - [Validation](validation.json), [input hashes](input_manifest.json) and [preserved-file hashes](preserved_file_manifest.json)
 
-Validated 219 TTM flow calculations and all nine runs, including reproduction of all three published US reference runs. Source timing, latest-period selection, freshness, listing eligibility, holdings, NAV and costs passed. 2088 prior files remain unchanged.
+Validated 219 TTM flow calculations and all nine runs, including reproduction of all three published US reference runs. Source timing, latest-period selection, freshness, listing eligibility, holdings, NAV and costs passed. 2085 prior files remain unchanged.

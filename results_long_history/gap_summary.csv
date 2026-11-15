@@ -1,0 +1,8 @@
+region,window,timing,ticker,missing_months,dates
+EU,timing_repair,delay_adjusted,VIE.PA,10,2021-09-30|2021-10-31|2021-11-30|2021-12-31|2022-01-31|2022-02-28|2022-03-31|2022-04-30|2022-05-31|2022-06-30
+EU,timing_repair,delay_legacy,VIE.PA,10,2021-09-30|2021-10-31|2021-11-30|2021-12-31|2022-01-31|2022-02-28|2022-03-31|2022-04-30|2022-05-31|2022-06-30
+EU,timing_repair,source,VIE.PA,7,2021-09-30|2021-10-31|2021-11-30|2021-12-31|2022-01-31|2022-02-28|2022-03-31
+US,timing_repair,delay_adjusted,MCHP,1,2022-09-30
+US,timing_repair,delay_legacy,INTC,1,2023-06-30
+US,timing_repair,delay_legacy,LRCX,2,2022-12-31|2023-12-31
+US,timing_repair,delay_legacy,MCHP,1,2022-09-30

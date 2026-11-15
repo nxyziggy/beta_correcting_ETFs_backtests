@@ -1,0 +1,163 @@
+[
+  {
+    "ticker": "SAF.PA",
+    "period_end": "2020-12-31",
+    "observation_id": "eu_restore_d6182e067af4ab19f6db",
+    "old_availability_date": "2021-04-01",
+    "publication_date": "2021-02-25",
+    "availability_date": "2021-02-25",
+    "source": "https://www.safran-group.com/download/media/395842",
+    "date_source": "https://www.safran-group.com/pressroom/safran-2020-results-demonstrate-groups-quality-businesses-and-strong-cost-execution-2021-02-25",
+    "verified_values": {
+      "operating_income": 927.0,
+      "net_income": 386.0,
+      "operating_cash_flow": 1866.0,
+      "total_assets": 39531.0,
+      "current_liabilities": 19026.0
+    },
+    "evidence": {
+      "statement_basis": "Original consolidated IFRS statements, current-year column; net income includes non-controlling interests.",
+      "sections": [
+        "Consolidated income statement",
+        "Consolidated balance sheet / statement of financial position",
+        "Consolidated statement of cash flows"
+      ],
+      "pdf_pages_one_based": {
+        "income": 13,
+        "balance": 16,
+        "cashflow": 18
+      },
+      "retrieval": "Issuer PDF parsed by web retrieval; direct local downloads returned HTTP403. FY2024 searchable PDF text used because download exceeds web open size limit.",
+      "date_basis": "Dated issuer results archive links the complete consolidated statements; FY2020/21 press releases also state that the financial statements are available with the results.",
+      "numeric_check": "All five values match the existing original-year annual-report extraction; no revised comparatives substituted."
+    }
+  },
+  {
+    "ticker": "SAF.PA",
+    "period_end": "2021-12-31",
+    "observation_id": "eu_restore_7624fdefde72949724ad",
+    "old_availability_date": "2022-04-01",
+    "publication_date": "2022-02-24",
+    "availability_date": "2022-02-24",
+    "source": "https://www.safran-group.com/download/media/411484",
+    "date_source": "https://www.safran-group.com/pressroom/safran-reports-full-year-2021-results-2022-02-24",
+    "verified_values": {
+      "operating_income": 864.0,
+      "net_income": 68.0,
+      "operating_cash_flow": 2436.0,
+      "total_assets": 41716.0,
+      "current_liabilities": 19828.0
+    },
+    "evidence": {
+      "statement_basis": "Original consolidated IFRS statements, current-year column; net income includes non-controlling interests.",
+      "sections": [
+        "Consolidated income statement",
+        "Consolidated balance sheet / statement of financial position",
+        "Consolidated statement of cash flows"
+      ],
+      "pdf_pages_one_based": {
+        "income": 13,
+        "balance": 16,
+        "cashflow": 18
+      },
+      "retrieval": "Issuer PDF parsed by web retrieval; direct local downloads returned HTTP403. FY2024 searchable PDF text used because download exceeds web open size limit.",
+      "date_basis": "Dated issuer results archive links the complete consolidated statements; FY2020/21 press releases also state that the financial statements are available with the results.",
+      "numeric_check": "All five values match the existing original-year annual-report extraction; no revised comparatives substituted."
+    }
+  },
+  {
+    "ticker": "SAF.PA",
+    "period_end": "2022-12-31",
+    "observation_id": "eu_restore_f36ea71b9b6232ac0eb5",
+    "old_availability_date": "2023-04-03",
+    "publication_date": "2023-02-17",
+    "availability_date": "2023-02-17",
+    "source": "https://www.safran-group.com/download/media/426296",
+    "date_source": "https://www.safran-group.com/pressroom/safran-reports-full-year-2022-results-2023-02-17",
+    "verified_values": {
+      "operating_income": 2043.0,
+      "net_income": -2426.0,
+      "operating_cash_flow": 3545.0,
+      "total_assets": 46828.0,
+      "current_liabilities": 27427.0
+    },
+    "evidence": {
+      "statement_basis": "Original consolidated IFRS statements, current-year column; net income includes non-controlling interests.",
+      "sections": [
+        "Consolidated income statement",
+        "Consolidated balance sheet / statement of financial position",
+        "Consolidated statement of cash flows"
+      ],
+      "pdf_pages_one_based": {
+        "income": 13,
+        "balance": 16,
+        "cashflow": 18
+      },
+      "retrieval": "Issuer PDF parsed by web retrieval; direct local downloads returned HTTP403. FY2024 searchable PDF text used because download exceeds web open size limit.",
+      "date_basis": "Dated issuer results archive links the complete consolidated statements; FY2020/21 press releases also state that the financial statements are available with the results.",
+      "numeric_check": "All five values match the existing original-year annual-report extraction; no revised comparatives substituted."
+    }
+  },
+  {
+    "ticker": "SAF.PA",
+    "period_end": "2023-12-31",
+    "observation_id": "eu_restore_27db10d637fb020090d0",
+    "old_availability_date": "2024-03-29",
+    "publication_date": "2024-02-15",
+    "availability_date": "2024-02-15",
+    "source": "https://www.safran-group.com/download/media/437417",
+    "date_source": "https://www.safran-group.com/finance/publications-results?page=3&type%5B0%5D=result",
+    "verified_values": {
+      "operating_income": 2798.0,
+      "net_income": 3520.0,
+      "operating_cash_flow": 4270.0,
+      "total_assets": 50468.0,
+      "current_liabilities": 30787.0
+    },
+    "evidence": {
+      "statement_basis": "Original consolidated IFRS statements, current-year column; net income includes non-controlling interests.",
+      "sections": [
+        "Consolidated income statement",
+        "Consolidated balance sheet / statement of financial position",
+        "Consolidated statement of cash flows"
+      ],
+      "pdf_pages_one_based": {
+        "income": 13,
+        "balance": 17,
+        "cashflow": 18
+      },
+      "retrieval": "Issuer PDF parsed by web retrieval; direct local downloads returned HTTP403. FY2024 searchable PDF text used because download exceeds web open size limit.",
+      "date_basis": "Dated issuer results archive links the complete consolidated statements; FY2020/21 press releases also state that the financial statements are available with the results.",
+      "numeric_check": "All five values match the existing original-year annual-report extraction; no revised comparatives substituted."
+    }
+  },
+  {
+    "ticker": "SAF.PA",
+    "period_end": "2024-12-31",
+    "observation_id": "eu_restore_937d1f1f8c5db07c0ee1",
+    "old_availability_date": "2025-03-31",
+    "publication_date": "2025-02-14",
+    "availability_date": "2025-02-14",
+    "source": "https://www.safran-group.com/download/media/447472",
+    "date_source": "https://www.safran-group.com/finance/publications-results?page=1&type%5B0%5D=result",
+    "verified_values": {
+      "operating_income": 4192.0,
+      "net_income": -575.0,
+      "operating_cash_flow": 4733.0,
+      "total_assets": 55012.0,
+      "current_liabilities": 37440.0
+    },
+    "evidence": {
+      "statement_basis": "Original consolidated IFRS statements, current-year column; net income includes non-controlling interests.",
+      "sections": [
+        "Consolidated income statement",
+        "Consolidated balance sheet / statement of financial position",
+        "Consolidated statement of cash flows"
+      ],
+      "pdf_pages_one_based": {},
+      "retrieval": "Issuer PDF parsed by web retrieval; direct local downloads returned HTTP403. FY2024 searchable PDF text used because download exceeds web open size limit.",
+      "date_basis": "Dated issuer results archive links the complete consolidated statements; FY2020/21 press releases also state that the financial statements are available with the results.",
+      "numeric_check": "All five values match the existing original-year annual-report extraction; no revised comparatives substituted."
+    }
+  }
+]

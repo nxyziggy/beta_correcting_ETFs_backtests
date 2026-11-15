@@ -1,0 +1,93 @@
+{
+  "scope": "All continuing-operations-tag fallbacks with period end in 2018 or later, the periods that can feed the supported 2019-onward US extension. Earlier archival observations are not required for the supported start and retain accession-tagged subtotals.",
+  "checks": [
+    {
+      "ticker": "INTC",
+      "period_end": "2018-12-29",
+      "source": "https://www.sec.gov/Archives/edgar/data/50863/000005086319000007/a12292018q4-10kdocument.htm",
+      "location": "Consolidated Statements of Cash Flows, fiscal 2018 column",
+      "statement_unit": "USD million",
+      "reported_subtotal": 29432,
+      "normalized_group_cfo": 29432,
+      "method": "direct_subtotal",
+      "note": "Original statement reports consolidated operating cash flow 29432; retain the tagged subtotal."
+    },
+    {
+      "ticker": "LIN",
+      "period_end": "2018-12-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/1707925/000162828019003050/R6.htm",
+      "location": "Consolidated Statements of Cash Flows, FY2018 column, Operations subtotal and separate Discontinued Operations section",
+      "statement_unit": "USD million",
+      "reported_subtotal": 3654,
+      "discontinued_cfo_separately_outside_subtotal": 48,
+      "normalized_group_cfo": 3702,
+      "method": "validated_separate_discontinued_sum",
+      "note": "Operating section starts from continuing income. After investing and financing, a distinct discontinued section reports operating cash flow 48. Group CFO is 3654 + 48 = 3702. This matches consolidated group net income, including discontinued activities.",
+      "statement_rows": [
+        [
+          "Net cash provided by operating activities",
+          3654
+        ],
+        [
+          "Discontinued Operations / Cash provided by operating activities",
+          48
+        ]
+      ]
+    },
+    {
+      "ticker": "LIN",
+      "period_end": "2019-12-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/1707925/000170792520000015/lin201910-k.htm",
+      "location": "Consolidated Statements of Cash Flows, FY2019 column, Operations subtotal and separate Discontinued Operations section",
+      "statement_unit": "USD million",
+      "reported_subtotal": 6119,
+      "discontinued_cfo_separately_outside_subtotal": 69,
+      "normalized_group_cfo": 6188,
+      "method": "validated_separate_discontinued_sum",
+      "note": "Operating section starts from continuing income. After investing and financing, a distinct discontinued section reports operating cash flow 69. Group CFO is 6119 + 69 = 6188. This matches consolidated group net income, including discontinued activities.",
+      "statement_rows": [
+        [
+          "Net cash provided by operating activities",
+          6119
+        ],
+        [
+          "Discontinued Operations / Cash provided by operating activities",
+          69
+        ]
+      ]
+    },
+    {
+      "ticker": "LRCX",
+      "period_end": "2018-06-24",
+      "source": "https://www.sec.gov/Archives/edgar/data/707549/000070754918000115/lrcx_10kx2018xdocument.htm",
+      "location": "Consolidated Statements of Cash Flows, page 55, year ended June 24 2018 column",
+      "statement_unit": "USD thousand",
+      "reported_subtotal": 2655747,
+      "normalized_group_cfo": 2655.747,
+      "method": "direct_subtotal",
+      "note": "Original statement reports consolidated operating cash flow 2655747 thousand before the investing section; retain the tagged subtotal after dividing by 1000."
+    },
+    {
+      "ticker": "MCHP",
+      "period_end": "2018-03-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/827054/000162828018006982/R8.htm",
+      "location": "Consolidated Statements of Cash Flows, FY2018 column",
+      "statement_unit": "USD million",
+      "reported_subtotal": 1419.6,
+      "normalized_group_cfo": 1419.6,
+      "method": "direct_subtotal",
+      "note": "Discontinued operating cash flow is an adjustment within the operating section, above its final subtotal. The FY2018 adjustment is zero. Adding a separately tagged discontinued amount would double count it."
+    },
+    {
+      "ticker": "MCHP",
+      "period_end": "2019-03-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/827054/000082705419000143/a2019-03x3110k.htm",
+      "location": "Consolidated Statements of Cash Flows, page F-7, FY2019 column",
+      "statement_unit": "USD million",
+      "reported_subtotal": 1674.8,
+      "normalized_group_cfo": 1674.8,
+      "method": "direct_subtotal",
+      "note": "Discontinued operating cash flow is an adjustment within the operating section, above its final subtotal. The FY2019 adjustment is zero. Retain the consolidated subtotal."
+    }
+  ]
+}

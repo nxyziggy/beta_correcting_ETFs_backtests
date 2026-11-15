@@ -1,0 +1,43 @@
+{
+  "prior_numeric_csv_files_unchanged": 3577,
+  "manifest_entries_including_capture": 17741,
+  "changed_file_privacy_hits": 0,
+  "status": "PASS",
+  "date": "2026-11-15",
+  "reference_commit": "d0cd81286075b8604fcdbee4a12d420e19a11159",
+  "unit_tests_per_version": 73,
+  "python_versions": [
+    "3.12",
+    "3.13",
+    "3.14"
+  ],
+  "recomputed_portfolios_per_version": 152,
+  "ledger_comparisons_per_version": 912,
+  "numeric_relative_tolerance": 1e-12,
+  "numeric_absolute_tolerance": 1e-10,
+  "concentration_runs": 330,
+  "existing_main_results_reproduced": 20,
+  "production_scoring_and_exit_rules_changed": false,
+  "hashes": [
+    {
+      "path": "analyze_recovery_robustness.py",
+      "sha256": "b0434c2e4c3ad4d0e14c54c235cb8ccb74ee74ac81e4cc2a9dfbfedbbe4f44d7"
+    },
+    {
+      "path": "check_research_reproduction.py",
+      "sha256": "d748dea73710e73704e7ff512201ec41454ca6090f84e225b8df28ac7de32995"
+    },
+    {
+      "path": "test_recovery_robustness.py",
+      "sha256": "d082b9c04482875af3e8835d62b007fc4cbdf13604280d91604a965e77267691"
+    },
+    {
+      "path": "results_recovery_experiments/score_omissions.csv",
+      "sha256": "44824ff6216a95a6fd7ba499fda289a801827659029548a28808872b1ee24393"
+    },
+    {
+      "path": "results_recovery_experiments/REPORT.md",
+      "sha256": "b20904c2bf7917ccd6c684db094779afc727b9db5e89ec6ff180c259393fc782"
+    }
+  ]
+}

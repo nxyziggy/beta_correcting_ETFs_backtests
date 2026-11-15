@@ -1,0 +1,130 @@
+[
+  {
+    "path": "LONG_HISTORY_METHOD.md",
+    "sha256": "2bfabf2f69642eb2536aa2af2e9b0349aceb28e84acc7214b4287da388d53d0d"
+  },
+  {
+    "path": "audit_long_history_evidence.py",
+    "sha256": "bfd50ec4eec8fd558c5683fd07a3f9f36a22605999a365d0a4f5945cd3e39853"
+  },
+  {
+    "path": "backtest.py",
+    "sha256": "7f259511b5f6f32a436c4ae109f2cba0b3dabff7b4d35309a0681590af6d7cfe"
+  },
+  {
+    "path": "collect_long_history_prices.py",
+    "sha256": "c278fb5568e8734b2b5d111013ddd092fc0ea492a441621ecdb40eb94bc1226e"
+  },
+  {
+    "path": "collect_long_history_us.py",
+    "sha256": "b5f27f456aeccb217a6dc9d1afd24205e8d2af87f3aed55d6aa9091ea7daacfb"
+  },
+  {
+    "path": "data/long_history/eu/coverage_notes.json",
+    "sha256": "c89714053c5d8e07cb3639f37d16a5ccc240ce8272731e0567f10be0c7ae3a5e"
+  },
+  {
+    "path": "data/long_history/eu/normalized_inputs.json",
+    "sha256": "e58dc0d848221834f7500f3ebd4d18c93fa6fb2c553cf841a4282e01816439f6"
+  },
+  {
+    "path": "data/long_history/eu/source_registry.json",
+    "sha256": "88bc0a18fe026651aff24d8609e3c4abf7d0bd98f04d262b19d09a921c82dc5e"
+  },
+  {
+    "path": "data/long_history/original_eu/normalized_inputs.json",
+    "sha256": "f8a0ab3fab03e8d67132f7d363d5fe5985f43ee5f0d1c4f3107ccba9c6768dd1"
+  },
+  {
+    "path": "data/long_history/original_eu/source_registry.json",
+    "sha256": "3421f187c634aa03ed138205a802bd71684934544fb2ab3ad0d5c08d0485836f"
+  },
+  {
+    "path": "data/long_history/prices/fx_additions.csv",
+    "sha256": "1ac64982a85943d673493bf9b12d4c6a842a7e19aa77f727ef7263df45d6f1cc"
+  },
+  {
+    "path": "data/long_history/prices/fx_download_manifest.json",
+    "sha256": "fb05de2acbd7da96f3b073afa8d050f70dbd096d7a862acb100b02dc811bbed3"
+  },
+  {
+    "path": "data/long_history/prices/fx_month_end_audit.csv",
+    "sha256": "cbf6fc2454f8fcfa50b61c889bace03cf0af3484d22ce9a719b5daa858662cee"
+  },
+  {
+    "path": "data/long_history/prices/fx_web_capture.json",
+    "sha256": "1412ac3907ebf48eaa4a382b86155f567b6688a1b07cb65bbe6ca100fe0672c3"
+  },
+  {
+    "path": "data/long_history/prices/listing_overrides.json",
+    "sha256": "88aa6bb290e32385fe7acaac838dddd49787e575c760bae54263efa02516eebf"
+  },
+  {
+    "path": "data/long_history/prices/price_depth_audit.csv",
+    "sha256": "e0e2da5c76d4ad4e20c5b9f8da9fbfa22f11df90b831c5edc451d2fbd3fe336b"
+  },
+  {
+    "path": "data/long_history/prices/recovered_eu_semis_inputs.json",
+    "sha256": "5ef00c46eacf22dbf91ac2f330069096995c1af082b821a2c604ed02cc082d8e"
+  },
+  {
+    "path": "data/long_history/prices/recovered_eu_semis_registry.json",
+    "sha256": "6f2d72c0eb530d163313edc8f300b7a8c7e9680e9ccf1378ff7eeeb8154a597b"
+  },
+  {
+    "path": "data/long_history/prices/validation.json",
+    "sha256": "cb1c62878b881823c8a1a0f91577cc572177224fc634f668ae7c1930b8c5cbd1"
+  },
+  {
+    "path": "data/long_history/us/cashflow_mapping_qa.json",
+    "sha256": "b6269d31754b1c76f30d4e3cf576d0adaca47880185954bb3e828d43dc9b25c5"
+  },
+  {
+    "path": "data/long_history/us/exclusions.json",
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+  },
+  {
+    "path": "data/long_history/us/manual_inputs.json",
+    "sha256": "18bf00cfd334cb00c7d82db67efe54f2f100ed01dd632de3f6ccc3e67806a291"
+  },
+  {
+    "path": "data/long_history/us/manual_source_manifest.json",
+    "sha256": "01b3fd7d04af5bcc6b1e60f47f45b3b5eb2bd643ff5cf00580c72da6c9964635"
+  },
+  {
+    "path": "data/long_history/us/manual_source_registry.json",
+    "sha256": "44e5f968a83c4c49e31297927f1f7094b68a25a82ee039254623b228d6f75871"
+  },
+  {
+    "path": "data/long_history/us/normalized_inputs.json",
+    "sha256": "ef4b22af02308a1cd8cd4c1861d105189d2d1d4d0159c52e36e600d14bd0b2b1"
+  },
+  {
+    "path": "data/long_history/us/source_manifest.json",
+    "sha256": "6915e4fdf5014dd42e963474ae56223ef109fab26c4ff2c5f458c50b76e49854"
+  },
+  {
+    "path": "data/long_history/us/source_registry.json",
+    "sha256": "9741d37041cb067dcb2334c7768c329a58355d0dfc6734c8d4df8ed169972187"
+  },
+  {
+    "path": "data/long_history/us/validation.json",
+    "sha256": "ce01dea35846debdadf37b27421570fa11578e64ce1d539741dfbaced34ec72b"
+  },
+  {
+    "path": "run_long_history.py",
+    "sha256": "bc155d4ae56b03dda3c0c371b1c5ccba417f317a6043008191b91efe2bb11fcc"
+  },
+  {
+    "path": "run_research_corrections.py",
+    "sha256": "788e02e966df94e679ddf0db8a4a8fd1b37edebcce59368352b4337520fd4872"
+  },
+  {
+    "path": "test_collect_long_history_us.py",
+    "sha256": "04311bc8957951da0926ce7197cf0b89efcd1eeff38e1ee451c6ab0318551ac7"
+  },
+  {
+    "path": "test_long_history.py",
+    "sha256": "6ed029b7dd5e3655dc517c385ca445249f93d552bb4af64aded203d5e3fab375"
+  }
+]

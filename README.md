@@ -10,6 +10,95 @@ The implemented test measures a specific part of that idea: two accounting signa
 
 ## Quick start
 
+**Scoring and exit experiments:** [results and tradeoffs](results_recovery_experiments/REPORT.md)
+test eight alternatives against the existing strategy in both regions. The
+fundamental-improvement and price-momentum scores bring several US entries
+forward, but no alternative improves both US full-window returns without
+reducing at least one EU return. The fundamental-improvement gain is highly
+dependent on Bloom: without it, US Q50/Q75 gains versus baseline fall from
++511.91pp/+205.69pp to −15.91pp/+19.60pp. Momentum survives every US omission,
+but loses in 14/15 EU Q50 omissions and 15/15 EU Q75 omissions. The largest US
+t-statistic against equal weight is 1.17, unadjusted for multiple comparisons.
+Recovery grace never activates: eight specified alternatives produce seven
+distinct alternative paths. The existing strategy remains the default. Reproduce with
+`python3 run_recovery_experiments.py` and audit with
+`python3 audit_recovery_experiments.py`; definitions and limitations are in
+[the experiment method](RECOVERY_EXPERIMENT_METHOD.md).
+The [review response](REVIEW_RESPONSE.md) records the support-screen scope,
+runner compatibility repairs and remaining evidence limitations. Automated
+checks cover Python 3.12, 3.13 and 3.14, including legacy runner reproduction,
+ledger replay, and numerical comparison of all 152 recomputed experiment
+portfolios with their saved ledgers. Numeric comparisons permit only roundoff
+(relative tolerance 1e-12, absolute 1e-10); dates, membership and discrete
+decisions must match. Run all unit tests with
+`python3 -m unittest discover -p 'test_*.py'`.
+
+**Current baseline comparison, 30 June 2019–2 November 2026:** all 31
+retrospective candidates are researched. The direct screen requires dated
+public-support evidence as well as listing and financial coverage; the ungated
+accounting panel requires listing and financial coverage. Returns include
+modeled costs, in USD for the US and EUR for Europe.
+
+| Rule | US direct screen | US ungated | EU direct screen | EU ungated |
+|---|---:|---:|---:|---:|
+| Existing Q50 | 378.08% | 400.06% | 286.95% | 295.22% |
+| Existing Q75 | 389.82% | 539.17% | 338.92% | 376.92% |
+| Equal weight | 699.43% | 745.21% | 132.27% | 153.83% |
+
+The direct screen excludes **TSMC until December 2024**. It also delays Alfen
+and briefly Micron; these choices change ranks and weights. The direct and
+ungated columns therefore compare different membership histories. Sources:
+[direct screen](results_pillar2/REPORT.md), [ungated accounting panel](results_long_history/REPORT.md).
+
+The US strategies trail their candidate-pool control; the EU strategies lead.
+These results supersede the original limited-coverage headline comparison for
+this broader, longer research question. The original release below remains an
+explicit historical snapshot, with its own dates and inputs.
+
+**Any prior public support screen:** [dated eligibility and results](results_pillar2/REPORT.md)
+audit all 31 candidates against dated government support, including programmes
+before CHIPS/IRA and the EU Chips Act. Run `python3 run_pillar2.py`; tests:
+`python3 -m unittest test_pillar2.py test_long_history.py test_research_corrections.py`.
+This broad historical extension is not a replication of the article's specified
+Pillar 2 streams, basket weights or event-driven entry dates. The direct screen
+excludes **79 of 2,614 listed company-months (3.0%)**; including indirect support
+excludes only **2 (0.08%)**. A small or long-completed award can qualify: no
+minimum award amount or ongoing-support requirement is imposed.
+The main panel requires named direct/subsidiary support; evidenced indirect
+beneficiaries are a separate sensitivity. Dates combine public policy evidence,
+actual listing/ownership and complete financial coverage. Historical admission
+does not imply that an earlier grant remains active or unspent. See the
+[eligibility definition](PILLAR2_METHOD.md) and every company's source ledger.
+[US/EU performance attribution](results_pillar2/ATTRIBUTION.md) reconciles the
+stock contributions behind the regional difference; regenerate it with
+`python3 analyze_pillar2.py` after the policy run.
+
+**Longer histories and timing repair:** [extended results](results_long_history/REPORT.md)
+recover older original annual statements across both full candidate pools.
+These are retrospective accounting-score tests. Neither the June 2019 main
+start nor the September 2019 matched timing start is justified by a government
+programme; the historical public-support screen is not applied.
+Run `python3 run_long_history.py`; tests: `python3 -m unittest test_long_history.py test_research_corrections.py`.
+The main start dates require complete price, FX and financial coverage for every
+then-listed eligible company. The timing sensitivity now extends freshness with
+the artificial delay, fixes the source-date control, and lists every coverage
+gap. A separate matched timing window also verifies that both equal-weight
+controls have identical monthly NAVs. The preceding correction report below
+is preserved as a snapshot; its unextended-freshness timing comparison is
+superseded by this repair.
+
+**Coverage, timing and concentration corrections:** use the
+[corrected comparison](results_research_corrected/REPORT.md) for the follow-up
+to the EU/US restorations below. Run `python3 run_research_corrections.py`.
+It fills Lam Research's four missing reports, corrects Safran's annual
+publication dates, applies a common information-delay sensitivity to all
+companies, and reports Bloom attribution, every US leave-one-out test and
+monthly active-return uncertainty. Bloom remains in the main universe.
+Earlier tables below are preserved research snapshots; their data gaps and
+timing conventions are documented in the correction report. Other unverified
+earlier earnings-release dates remain conservative filing dates, so compare
+both the evidenced-date and common-delay results.
+
 **Additional EU coverage experiment:** [EU restoration results](results_eu_restored/REPORT.md)
 restore all seven previously uncovered European candidates using 42 original
 annual reports/statements for FY2020–FY2025. Run `python3 run_eu_restoration.py`
@@ -62,7 +151,7 @@ python3 -c 'import hashlib,json,sys; from pathlib import Path; rows=[r for name 
 
 The release contains **489 input-manifest entries and 1,138 result-manifest entries**. [REPLICATION_VERIFICATION.json](REPLICATION_VERIFICATION.json) records an exact match of all 1,138 generated result/table files after a clean extraction and rerun. These manifests check the listed data and output bytes; they do not cover every source-code or documentation file. Preserve the Git commit when citing or extending a run.
 
-## Results reproduced here
+## Original release results: preserved historical snapshot
 
 The headline specification is `panel=actual_expanded`, `window=matched`, `rule=q75` or `q50`, with trading costs of 10 basis points in the US and 15 in Europe. "Expanded" is the code's name for the panel admitting all complete annual and interim/TTM observations supplied in this snapshot.
 
@@ -114,7 +203,7 @@ The article supplies the economic motivation. This table connects its named conc
 | [Inattention and performative beta traps][article-problem] | Motivates examining a transparent allocation rule. The code does not estimate investors' attention, corporate hype or an economy-wide change in beta. |
 | [Competition through portfolio admission and removal][article-solution] | `constrained_selection()` in [backtest.py](backtest.py) applies observable score thresholds at scheduled reviews. Event and selection ledgers make the decisions inspectable. |
 | [Pillar 1: KPI scoring][article-kpi] | `Inputs.signals()` computes a reduced score from operating returns on capital employed and cash earnings quality. It does not implement all six proposed KPI dimensions. |
-| [Pillar 2: Industrial policy][article-policy] | [universe.json](data/universe.json) supplies 31 retrospective candidates. Listing status, observed prices and usable financial inputs determine eligibility. A dated subsidy-event gate is not applied to the headline portfolios. |
+| [Pillar 2: Industrial policy][article-policy] | [The any prior public support screen](results_pillar2/REPORT.md) is a broader historical extension, not a replication of the article's specified streams, baskets or entry examples. It excludes 3.0% of listed company-months under direct support, or 0.08% including indirect support. It does not measure award materiality, ongoing support or subsidy utilization, and the 31 candidates are not an exhaustive historical universe. |
 | [Pillar 3: Competition and collaboration][article-network] | Network centrality, patent spillovers and geographic-cluster effects are unmeasured. They contribute no fabricated score or weight. |
 | [Interaction of the three pillars][article-interaction] | The implemented composite combines two accounting ranks. Position weights are equal weights with a small financial-score tilt; they do not measure a collaboration premium or time-varying pillar interactions. |
 | [Reproducible backtests][article-replication] | [run_all.py](run_all.py), frozen inputs, source records, validation and file manifests provide a computational audit trail. |

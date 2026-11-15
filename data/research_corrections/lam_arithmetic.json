@@ -1,0 +1,74 @@
+[
+  {
+    "period_end": "2024-09-29",
+    "field": "operating_income",
+    "prior_annual": 4263.913,
+    "current_ytd": 1264.197,
+    "prior_ytd": 1023.029,
+    "ttm": 4505.081
+  },
+  {
+    "period_end": "2024-09-29",
+    "field": "net_income",
+    "prior_annual": 3827.772,
+    "current_ytd": 1116.444,
+    "prior_ytd": 887.398,
+    "ttm": 4056.818
+  },
+  {
+    "period_end": "2024-09-29",
+    "field": "operating_cash_flow",
+    "prior_annual": 4652.269,
+    "current_ytd": 1568.471,
+    "prior_ytd": 951.163,
+    "ttm": 5269.577
+  },
+  {
+    "period_end": "2024-12-29",
+    "field": "operating_income",
+    "prior_annual": 4263.913,
+    "current_ytd": 2598.081,
+    "prior_ytd": 2080.241,
+    "ttm": 4781.753
+  },
+  {
+    "period_end": "2024-12-29",
+    "field": "net_income",
+    "prior_annual": 3827.772,
+    "current_ytd": 2307.462,
+    "prior_ytd": 1841.664,
+    "ttm": 4293.57
+  },
+  {
+    "period_end": "2024-12-29",
+    "field": "operating_cash_flow",
+    "prior_annual": 4652.269,
+    "current_ytd": 2310.413,
+    "prior_ytd": 2405.003,
+    "ttm": 4557.679
+  },
+  {
+    "period_end": "2025-03-30",
+    "field": "operating_income",
+    "prior_annual": 4263.913,
+    "current_ytd": 4159.84,
+    "prior_ytd": 3137.353,
+    "ttm": 5286.4
+  },
+  {
+    "period_end": "2025-03-30",
+    "field": "net_income",
+    "prior_annual": 3827.772,
+    "current_ytd": 3638.129,
+    "prior_ytd": 2807.49,
+    "ttm": 4658.411
+  },
+  {
+    "period_end": "2025-03-30",
+    "field": "operating_cash_flow",
+    "prior_annual": 4652.269,
+    "current_ytd": 3619.076,
+    "prior_ytd": 3789.839,
+    "ttm": 4481.506
+  }
+]

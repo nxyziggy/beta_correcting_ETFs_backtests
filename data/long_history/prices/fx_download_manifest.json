@@ -1,0 +1,18 @@
+[
+  {
+    "series": "DEXNOUS",
+    "error": "The read operation timed out"
+  },
+  {
+    "series": "DEXSZUS",
+    "error": "The read operation timed out"
+  },
+  {
+    "series": "DEXDNUS",
+    "error": "The read operation timed out"
+  },
+  {
+    "series": "DEXUSEU",
+    "error": "The read operation timed out"
+  }
+]

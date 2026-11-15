@@ -1,0 +1,9 @@
+case,region,company_months,trend_missing,momentum_missing
+direct_main,US,1268,44,31
+direct_main,EU,1267,130,12
+direct_timing_source,US,1231,38,26
+direct_timing_source,EU,1228,91,12
+direct_timing_delayed,US,1231,44,26
+direct_timing_delayed,EU,1228,141,12
+indirect_main,US,1334,44,31
+indirect_main,EU,1278,139,12

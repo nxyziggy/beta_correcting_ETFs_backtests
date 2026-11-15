@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "date": "2026-11-15",
+  "base_numeric_reference_commit": "6e765ae",
+  "prior_numeric_csv_files_unchanged": 2660,
+  "manifest_entries_verified": 17270,
+  "manifest_mismatches": 0,
+  "unit_tests_per_python_version": 69,
+  "python_versions_tested": [
+    "3.12",
+    "3.14"
+  ],
+  "legacy_runners_reproduced_on_both": [
+    "run_eu_interim.py",
+    "run_us_restoration.py",
+    "run_research_corrections.py"
+  ],
+  "scoring_experiment_runs": 152,
+  "baseline_control_monthly_reproductions": 24,
+  "changed_file_privacy_hits": 0,
+  "merged": false
+}

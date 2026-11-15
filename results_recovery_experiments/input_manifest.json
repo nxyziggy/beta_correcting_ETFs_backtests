@@ -1,0 +1,70 @@
+[
+  {
+    "path": "RECOVERY_EXPERIMENT_METHOD.md",
+    "sha256": "31f43b2502e8be5044031b34896478e6eb548e8dc4084c31aa449a2012ce2d63"
+  },
+  {
+    "path": "analyze_recovery_robustness.py",
+    "sha256": "b0434c2e4c3ad4d0e14c54c235cb8ccb74ee74ac81e4cc2a9dfbfedbbe4f44d7"
+  },
+  {
+    "path": "audit_recovery_experiments.py",
+    "sha256": "ec5fe0bbf51440da00ced03f4f7e00f94ad8cf3ec257b871a4f81722d2d0527c"
+  },
+  {
+    "path": "backtest.py",
+    "sha256": "7f259511b5f6f32a436c4ae109f2cba0b3dabff7b4d35309a0681590af6d7cfe"
+  },
+  {
+    "path": "check_research_reproduction.py",
+    "sha256": "d748dea73710e73704e7ff512201ec41454ca6090f84e225b8df28ac7de32995"
+  },
+  {
+    "path": "data/recovery_experiments/feature_design_audit.json",
+    "sha256": "9542da8674fe2f2a0239829b5503f9f13f09f2aaa99332056bb3a5b30dc6fd2d"
+  },
+  {
+    "path": "recovery_diagnostics.py",
+    "sha256": "d1f8abe12bb11c38781c36dffa7ac34e5c5c263ded45f77a0752de91ccf30186"
+  },
+  {
+    "path": "recovery_rules.py",
+    "sha256": "6ed079966ba1153b9f2be537cad6f443b3418061ef22b03d57f1a2019a0aa62c"
+  },
+  {
+    "path": "run_long_history.py",
+    "sha256": "bc155d4ae56b03dda3c0c371b1c5ccba417f317a6043008191b91efe2bb11fcc"
+  },
+  {
+    "path": "run_pillar2.py",
+    "sha256": "c951b4e2d78b99922f95f2d3e6e34cdea1c256cf9879c23f7e02d0d022aac664"
+  },
+  {
+    "path": "run_recovery_experiments.py",
+    "sha256": "9a7ca2ecd8f8480c12962c47ee32ce29f67440feddb6efaa5bda66d224426246"
+  },
+  {
+    "path": "run_research_corrections.py",
+    "sha256": "788e02e966df94e679ddf0db8a4a8fd1b37edebcce59368352b4337520fd4872"
+  },
+  {
+    "path": "test_recovery_diagnostics.py",
+    "sha256": "9e1ff143b9d9a147b0567eedd49ce2c39eb8440bca8e14a75bee50dcef661f8e"
+  },
+  {
+    "path": "test_recovery_exit_policy.py",
+    "sha256": "8de11bc43d22c7562998232f8831612daeb6ffeae4b6ecb01f9801e33fd25461"
+  },
+  {
+    "path": "test_recovery_robustness.py",
+    "sha256": "d082b9c04482875af3e8835d62b007fc4cbdf13604280d91604a965e77267691"
+  },
+  {
+    "path": "test_recovery_rules.py",
+    "sha256": "debeeb6a2b87ba7b6edcba64294d5fa9682a41471bcbd3662c15525ed6fef25f"
+  },
+  {
+    "path": "test_selection_hook.py",
+    "sha256": "b1f4f1cf3c08fb0bb37aa97dfdbd8cdb4224eccb14c953e2be29cc1824bb5370"
+  }
+]

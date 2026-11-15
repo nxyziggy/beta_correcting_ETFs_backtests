@@ -9,6 +9,7 @@ from decimal import Decimal
 
 from backtest import Inputs, read_csv, run
 from prepare_data import ROOT, DATA, write_csv
+from snapshot_integrity import verify_frozen_entries
 
 AREA = DATA / 'us_restoration'
 OUT = ROOT / 'results_us_restored'
@@ -187,9 +188,7 @@ def frozen_files():
     frozen = {}
     for name in ('INPUT_MANIFEST.json', 'RESULT_MANIFEST.json', 'results_eu_restored/input_manifest.json',
                  'results_eu_interim/input_manifest.json', 'results_eu_interim/preserved_file_manifest.json'):
-        for r in json.loads((ROOT / name).read_text()):
-            assert digest(ROOT / r['path']) == r['sha256'], ('Existing file changed', r['path'])
-            frozen[r['path']] = r['sha256']
+        frozen.update(verify_frozen_entries(ROOT, json.loads((ROOT / name).read_text())))
     for directory in ('data/eu_restoration', 'data/eu_interim', 'results_eu_restored', 'results_eu_interim'):
         for p in (ROOT / directory).rglob('*'):
             if p.is_file() and '__pycache__' not in p.parts:
@@ -266,7 +265,8 @@ def main():
     (OUT / 'preserved_file_manifest.json').write_text(json.dumps([dict(path=p, sha256=h) for p,h in sorted(frozen.items())], indent=2) + '\n')
     make_report(summaries, coverage, validation)
     files = [p for p in AREA.rglob('*') if p.is_file() and '__pycache__' not in p.parts]
-    files += [ROOT / 'run_us_restoration.py', ROOT / 'US_RESTORATION_METHOD.md', ROOT / 'backtest.py']
+    files += [ROOT / 'run_us_restoration.py', ROOT / 'US_RESTORATION_METHOD.md', ROOT / 'backtest.py',
+              ROOT / 'snapshot_integrity.py']
     (OUT / 'input_manifest.json').write_text(json.dumps([dict(path=str(p.relative_to(ROOT)), sha256=digest(p)) for p in sorted(files)], indent=2) + '\n')
     print(json.dumps(dict(validation={k:v for k,v in validation.items() if k != 'runs'},
                          returns=[{k:s[k] for k in ('panel', 'rule', 'total_return')} for s in summaries]), indent=2))
