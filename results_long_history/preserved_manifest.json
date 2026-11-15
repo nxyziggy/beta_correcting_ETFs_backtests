@@ -7881,11 +7881,11 @@
   },
   {
     "path": "results_eu_interim/REPORT.md",
-    "sha256": "c57043fff1c5d93346b31b6d134dd0bf8a447fe4c046230bfbfc87d149b03e6a"
+    "sha256": "0a28bb4b8e505eb0fefa7a7902259b839a31f9f7e02b47aadd58a13c1a405c26"
   },
   {
     "path": "results_eu_interim/input_manifest.json",
-    "sha256": "5eb32e14e2eced4e112e71577a4bcb1fcc05ac3baa9315cea1ac637b25c02733"
+    "sha256": "86c38754639fa32e497c756198cc1f6fe8877e74e2c98522de4c2cb5d3833dc1"
   },
   {
     "path": "results_eu_interim/interim_coverage.csv",
@@ -7893,7 +7893,7 @@
   },
   {
     "path": "results_eu_interim/preserved_file_manifest.json",
-    "sha256": "edae5851666a7d8094b89f3d10c3a64a487e00b4236d0c016a6a5a73216be885"
+    "sha256": "cbdbdf9d7e47b629b47da391aa863dc2755d8c09b8a19e876761c7e2ab41ac8e"
   },
   {
     "path": "results_eu_interim/summary.csv",
@@ -7901,7 +7901,7 @@
   },
   {
     "path": "results_eu_interim/validation.json",
-    "sha256": "d94fd963407e6e58bcc27b06b47ee6aad9efaf8c01bc618f728b24f41fa035d5"
+    "sha256": "5b8e6842eeb87ad3a2f2d0e1aadb1692beb6d25a23455ab98a4e72ee17b546eb"
   },
   {
     "path": "results_eu_restored/EU_reference_annual_equal_15bp_lag0_from2021-09-30/coverage.csv",
@@ -8489,7 +8489,7 @@
   },
   {
     "path": "results_eu_restored/input_manifest.json",
-    "sha256": "61d375b1d2cdd6d3e4f002ed0af7bb4c56efed461cb4f7624b5ae32427591b20"
+    "sha256": "c565ece783d9b634150153fb38d585ba953b906d4a8dffbd7c8fada6e033cf59"
   },
   {
     "path": "results_eu_restored/restored_company_coverage.csv",
@@ -9653,7 +9653,7 @@
   },
   {
     "path": "results_research_corrected/input_manifest.json",
-    "sha256": "cce85c77cccf6e3d60263c71d67c978a43c8b6812d5059d124e3caf949b5b97e"
+    "sha256": "fca77ec6e4252556537a53aa65c75167123d87577434359b378a48cf16b63804"
   },
   {
     "path": "results_research_corrected/lam_monthly_coverage_and_holdings.csv",
@@ -9661,7 +9661,7 @@
   },
   {
     "path": "results_research_corrected/preserved_file_manifest.json",
-    "sha256": "814bf2d3aaa709edf22da25e3b3bcd317babc8c6d66ea7d520c592c0b9a52685"
+    "sha256": "adb1e9c44ca0629496632aa33b0b0888188625ad922851b271e4b684d3b9c46f"
   },
   {
     "path": "results_research_corrected/summary.csv",
@@ -9689,7 +9689,7 @@
   },
   {
     "path": "results_us_restored/REPORT.md",
-    "sha256": "05a31c921f88f03038aa24a9445aab4419601ea8785e89f74dd374913dd5f1be"
+    "sha256": "91ed08ba0e8b5d23931d4f60bc94cc4d5ad0637902ad20ed8bd28b9f040f9d22"
   },
   {
     "path": "results_us_restored/US_reference_expanded_equal_10bp_lag0_from2022-09-30/coverage.csv",
@@ -10029,11 +10029,11 @@
   },
   {
     "path": "results_us_restored/input_manifest.json",
-    "sha256": "72483977d78e53ec3454621ca02e8ca0608b5f3c54b7c5033a36bda5acfea3ae"
+    "sha256": "5121074e37512d653b1bd85ff238cc714710fc755218e950c58167a94015a6e7"
   },
   {
     "path": "results_us_restored/preserved_file_manifest.json",
-    "sha256": "c195bf5193b8dcbe827626317a383a7f07e3dada1166984f3c584f4222d7f0d7"
+    "sha256": "887d7869073f51ee9c950f1c531814827529e89a2bdc72f2a6936f62c6edfa9c"
   },
   {
     "path": "results_us_restored/restored_company_coverage.csv",
@@ -10045,6 +10045,6 @@
   },
   {
     "path": "results_us_restored/validation.json",
-    "sha256": "a69f5a211c69662040a504c4d51d334a9e9d5bdf8b9a5935add0f1c5aafc06a7"
+    "sha256": "d2993f7a08d1f1143ccea0239aa0ddd3a889abfb39088a4863eddffde42f15e9"
   }
 ]

@@ -1,0 +1,1079 @@
+{
+  "status": "PASS",
+  "python_version": "3.14.7",
+  "runs": 152,
+  "variants": [
+    "baseline",
+    "balanced",
+    "trend",
+    "momentum",
+    "confirm_exit",
+    "recovery_grace",
+    "no_score_exit",
+    "trend_confirm",
+    "momentum_confirm"
+  ],
+  "checks": [
+    {
+      "run": "US_recovery_direct_main_equal_policy_equal_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1268
+    },
+    {
+      "run": "US_recovery_direct_main_baseline_policy_q50_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1268
+    },
+    {
+      "run": "US_recovery_direct_main_baseline_policy_q75_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1268
+    },
+    {
+      "run": "US_recovery_direct_main_balanced_policy_q50_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1268
+    },
+    {
+      "run": "US_recovery_direct_main_balanced_policy_q75_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1268
+    },
+    {
+      "run": "US_recovery_direct_main_trend_policy_q50_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1268
+    },
+    {
+      "run": "US_recovery_direct_main_trend_policy_q75_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1268
+    },
+    {
+      "run": "US_recovery_direct_main_momentum_policy_q50_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1268
+    },
+    {
+      "run": "US_recovery_direct_main_momentum_policy_q75_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1268
+    },
+    {
+      "run": "US_recovery_direct_main_confirm_exit_policy_q50_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1268
+    },
+    {
+      "run": "US_recovery_direct_main_confirm_exit_policy_q75_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1268
+    },
+    {
+      "run": "US_recovery_direct_main_recovery_grace_policy_q50_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1268
+    },
+    {
+      "run": "US_recovery_direct_main_recovery_grace_policy_q75_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1268
+    },
+    {
+      "run": "US_recovery_direct_main_no_score_exit_policy_q50_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1268
+    },
+    {
+      "run": "US_recovery_direct_main_no_score_exit_policy_q75_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1268
+    },
+    {
+      "run": "US_recovery_direct_main_trend_confirm_policy_q50_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1268
+    },
+    {
+      "run": "US_recovery_direct_main_trend_confirm_policy_q75_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1268
+    },
+    {
+      "run": "US_recovery_direct_main_momentum_confirm_policy_q50_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1268
+    },
+    {
+      "run": "US_recovery_direct_main_momentum_confirm_policy_q75_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1268
+    },
+    {
+      "run": "EU_recovery_direct_main_equal_policy_equal_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1267
+    },
+    {
+      "run": "EU_recovery_direct_main_baseline_policy_q50_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1267
+    },
+    {
+      "run": "EU_recovery_direct_main_baseline_policy_q75_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1267
+    },
+    {
+      "run": "EU_recovery_direct_main_balanced_policy_q50_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1267
+    },
+    {
+      "run": "EU_recovery_direct_main_balanced_policy_q75_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1267
+    },
+    {
+      "run": "EU_recovery_direct_main_trend_policy_q50_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1267
+    },
+    {
+      "run": "EU_recovery_direct_main_trend_policy_q75_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1267
+    },
+    {
+      "run": "EU_recovery_direct_main_momentum_policy_q50_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1267
+    },
+    {
+      "run": "EU_recovery_direct_main_momentum_policy_q75_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1267
+    },
+    {
+      "run": "EU_recovery_direct_main_confirm_exit_policy_q50_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1267
+    },
+    {
+      "run": "EU_recovery_direct_main_confirm_exit_policy_q75_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1267
+    },
+    {
+      "run": "EU_recovery_direct_main_recovery_grace_policy_q50_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1267
+    },
+    {
+      "run": "EU_recovery_direct_main_recovery_grace_policy_q75_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1267
+    },
+    {
+      "run": "EU_recovery_direct_main_no_score_exit_policy_q50_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1267
+    },
+    {
+      "run": "EU_recovery_direct_main_no_score_exit_policy_q75_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1267
+    },
+    {
+      "run": "EU_recovery_direct_main_trend_confirm_policy_q50_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1267
+    },
+    {
+      "run": "EU_recovery_direct_main_trend_confirm_policy_q75_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1267
+    },
+    {
+      "run": "EU_recovery_direct_main_momentum_confirm_policy_q50_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1267
+    },
+    {
+      "run": "EU_recovery_direct_main_momentum_confirm_policy_q75_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1267
+    },
+    {
+      "run": "US_recovery_direct_timing_source_equal_policy_equal_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_source_baseline_policy_q50_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_source_baseline_policy_q75_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_source_balanced_policy_q50_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_source_balanced_policy_q75_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_source_trend_policy_q50_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_source_trend_policy_q75_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_source_momentum_policy_q50_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_source_momentum_policy_q75_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_source_confirm_exit_policy_q50_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_source_confirm_exit_policy_q75_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_source_recovery_grace_policy_q50_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_source_recovery_grace_policy_q75_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_source_no_score_exit_policy_q50_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_source_no_score_exit_policy_q75_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_source_trend_confirm_policy_q50_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_source_trend_confirm_policy_q75_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_source_momentum_confirm_policy_q50_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_source_momentum_confirm_policy_q75_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "EU_recovery_direct_timing_source_equal_policy_equal_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_source_baseline_policy_q50_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_source_baseline_policy_q75_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_source_balanced_policy_q50_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_source_balanced_policy_q75_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_source_trend_policy_q50_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_source_trend_policy_q75_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_source_momentum_policy_q50_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_source_momentum_policy_q75_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_source_confirm_exit_policy_q50_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_source_confirm_exit_policy_q75_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_source_recovery_grace_policy_q50_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_source_recovery_grace_policy_q75_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_source_no_score_exit_policy_q50_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_source_no_score_exit_policy_q75_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_source_trend_confirm_policy_q50_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_source_trend_confirm_policy_q75_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_source_momentum_confirm_policy_q50_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_source_momentum_confirm_policy_q75_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "US_recovery_direct_timing_delayed_equal_policy_equal_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_delayed_baseline_policy_q50_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_delayed_baseline_policy_q75_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_delayed_balanced_policy_q50_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_delayed_balanced_policy_q75_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_delayed_trend_policy_q50_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_delayed_trend_policy_q75_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_delayed_momentum_policy_q50_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_delayed_momentum_policy_q75_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_delayed_confirm_exit_policy_q50_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_delayed_confirm_exit_policy_q75_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_delayed_recovery_grace_policy_q50_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_delayed_recovery_grace_policy_q75_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_delayed_no_score_exit_policy_q50_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_delayed_no_score_exit_policy_q75_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_delayed_trend_confirm_policy_q50_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_delayed_trend_confirm_policy_q75_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_delayed_momentum_confirm_policy_q50_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "US_recovery_direct_timing_delayed_momentum_confirm_policy_q75_10bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1231
+    },
+    {
+      "run": "EU_recovery_direct_timing_delayed_equal_policy_equal_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_delayed_baseline_policy_q50_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_delayed_baseline_policy_q75_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_delayed_balanced_policy_q50_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_delayed_balanced_policy_q75_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_delayed_trend_policy_q50_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_delayed_trend_policy_q75_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_delayed_momentum_policy_q50_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_delayed_momentum_policy_q75_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_delayed_confirm_exit_policy_q50_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_delayed_confirm_exit_policy_q75_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_delayed_recovery_grace_policy_q50_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_delayed_recovery_grace_policy_q75_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_delayed_no_score_exit_policy_q50_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_delayed_no_score_exit_policy_q75_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_delayed_trend_confirm_policy_q50_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_delayed_trend_confirm_policy_q75_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_delayed_momentum_confirm_policy_q50_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "EU_recovery_direct_timing_delayed_momentum_confirm_policy_q75_15bp_lag0_from2019-09-30",
+      "status": "PASS",
+      "months": 86,
+      "scores": 1228
+    },
+    {
+      "run": "US_recovery_indirect_main_equal_policy_equal_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1334
+    },
+    {
+      "run": "US_recovery_indirect_main_baseline_policy_q50_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1334
+    },
+    {
+      "run": "US_recovery_indirect_main_baseline_policy_q75_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1334
+    },
+    {
+      "run": "US_recovery_indirect_main_balanced_policy_q50_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1334
+    },
+    {
+      "run": "US_recovery_indirect_main_balanced_policy_q75_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1334
+    },
+    {
+      "run": "US_recovery_indirect_main_trend_policy_q50_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1334
+    },
+    {
+      "run": "US_recovery_indirect_main_trend_policy_q75_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1334
+    },
+    {
+      "run": "US_recovery_indirect_main_momentum_policy_q50_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1334
+    },
+    {
+      "run": "US_recovery_indirect_main_momentum_policy_q75_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1334
+    },
+    {
+      "run": "US_recovery_indirect_main_confirm_exit_policy_q50_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1334
+    },
+    {
+      "run": "US_recovery_indirect_main_confirm_exit_policy_q75_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1334
+    },
+    {
+      "run": "US_recovery_indirect_main_recovery_grace_policy_q50_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1334
+    },
+    {
+      "run": "US_recovery_indirect_main_recovery_grace_policy_q75_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1334
+    },
+    {
+      "run": "US_recovery_indirect_main_no_score_exit_policy_q50_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1334
+    },
+    {
+      "run": "US_recovery_indirect_main_no_score_exit_policy_q75_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1334
+    },
+    {
+      "run": "US_recovery_indirect_main_trend_confirm_policy_q50_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1334
+    },
+    {
+      "run": "US_recovery_indirect_main_trend_confirm_policy_q75_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1334
+    },
+    {
+      "run": "US_recovery_indirect_main_momentum_confirm_policy_q50_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1334
+    },
+    {
+      "run": "US_recovery_indirect_main_momentum_confirm_policy_q75_10bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1334
+    },
+    {
+      "run": "EU_recovery_indirect_main_equal_policy_equal_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278
+    },
+    {
+      "run": "EU_recovery_indirect_main_baseline_policy_q50_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278
+    },
+    {
+      "run": "EU_recovery_indirect_main_baseline_policy_q75_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278
+    },
+    {
+      "run": "EU_recovery_indirect_main_balanced_policy_q50_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278
+    },
+    {
+      "run": "EU_recovery_indirect_main_balanced_policy_q75_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278
+    },
+    {
+      "run": "EU_recovery_indirect_main_trend_policy_q50_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278
+    },
+    {
+      "run": "EU_recovery_indirect_main_trend_policy_q75_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278
+    },
+    {
+      "run": "EU_recovery_indirect_main_momentum_policy_q50_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278
+    },
+    {
+      "run": "EU_recovery_indirect_main_momentum_policy_q75_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278
+    },
+    {
+      "run": "EU_recovery_indirect_main_confirm_exit_policy_q50_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278
+    },
+    {
+      "run": "EU_recovery_indirect_main_confirm_exit_policy_q75_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278
+    },
+    {
+      "run": "EU_recovery_indirect_main_recovery_grace_policy_q50_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278
+    },
+    {
+      "run": "EU_recovery_indirect_main_recovery_grace_policy_q75_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278
+    },
+    {
+      "run": "EU_recovery_indirect_main_no_score_exit_policy_q50_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278
+    },
+    {
+      "run": "EU_recovery_indirect_main_no_score_exit_policy_q75_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278
+    },
+    {
+      "run": "EU_recovery_indirect_main_trend_confirm_policy_q50_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278
+    },
+    {
+      "run": "EU_recovery_indirect_main_trend_confirm_policy_q75_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278
+    },
+    {
+      "run": "EU_recovery_indirect_main_momentum_confirm_policy_q50_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278
+    },
+    {
+      "run": "EU_recovery_indirect_main_momentum_confirm_policy_q75_15bp_lag0_from2019-06-30",
+      "status": "PASS",
+      "months": 89,
+      "scores": 1278
+    }
+  ],
+  "baseline_reproductions": [
+    {
+      "case": "direct_main",
+      "region": "US",
+      "rule": "equal",
+      "status": "PASS"
+    },
+    {
+      "case": "direct_main",
+      "region": "US",
+      "rule": "q50",
+      "status": "PASS"
+    },
+    {
+      "case": "direct_main",
+      "region": "US",
+      "rule": "q75",
+      "status": "PASS"
+    },
+    {
+      "case": "direct_main",
+      "region": "EU",
+      "rule": "equal",
+      "status": "PASS"
+    },
+    {
+      "case": "direct_main",
+      "region": "EU",
+      "rule": "q50",
+      "status": "PASS"
+    },
+    {
+      "case": "direct_main",
+      "region": "EU",
+      "rule": "q75",
+      "status": "PASS"
+    },
+    {
+      "case": "direct_timing_source",
+      "region": "US",
+      "rule": "equal",
+      "status": "PASS"
+    },
+    {
+      "case": "direct_timing_source",
+      "region": "US",
+      "rule": "q50",
+      "status": "PASS"
+    },
+    {
+      "case": "direct_timing_source",
+      "region": "US",
+      "rule": "q75",
+      "status": "PASS"
+    },
+    {
+      "case": "direct_timing_source",
+      "region": "EU",
+      "rule": "equal",
+      "status": "PASS"
+    },
+    {
+      "case": "direct_timing_source",
+      "region": "EU",
+      "rule": "q50",
+      "status": "PASS"
+    },
+    {
+      "case": "direct_timing_source",
+      "region": "EU",
+      "rule": "q75",
+      "status": "PASS"
+    },
+    {
+      "case": "direct_timing_delayed",
+      "region": "US",
+      "rule": "equal",
+      "status": "PASS"
+    },
+    {
+      "case": "direct_timing_delayed",
+      "region": "US",
+      "rule": "q50",
+      "status": "PASS"
+    },
+    {
+      "case": "direct_timing_delayed",
+      "region": "US",
+      "rule": "q75",
+      "status": "PASS"
+    },
+    {
+      "case": "direct_timing_delayed",
+      "region": "EU",
+      "rule": "equal",
+      "status": "PASS"
+    },
+    {
+      "case": "direct_timing_delayed",
+      "region": "EU",
+      "rule": "q50",
+      "status": "PASS"
+    },
+    {
+      "case": "direct_timing_delayed",
+      "region": "EU",
+      "rule": "q75",
+      "status": "PASS"
+    },
+    {
+      "case": "indirect_main",
+      "region": "US",
+      "rule": "equal",
+      "status": "PASS"
+    },
+    {
+      "case": "indirect_main",
+      "region": "US",
+      "rule": "q50",
+      "status": "PASS"
+    },
+    {
+      "case": "indirect_main",
+      "region": "US",
+      "rule": "q75",
+      "status": "PASS"
+    },
+    {
+      "case": "indirect_main",
+      "region": "EU",
+      "rule": "equal",
+      "status": "PASS"
+    },
+    {
+      "case": "indirect_main",
+      "region": "EU",
+      "rule": "q50",
+      "status": "PASS"
+    },
+    {
+      "case": "indirect_main",
+      "region": "EU",
+      "rule": "q75",
+      "status": "PASS"
+    }
+  ],
+  "controls_identical_across_variants": true,
+  "timing_controls_identical": true,
+  "preserved_files": 3551
+}

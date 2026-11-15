@@ -6,8 +6,8 @@
   },
   {
     "path": "backtest.py",
-    "sha256": "2af12310d739b7b352c4a8e634fa10d3e70fe3df0365697aea8107e397506b6e",
-    "bytes": 29626
+    "sha256": "7f259511b5f6f32a436c4ae109f2cba0b3dabff7b4d35309a0681590af6d7cfe",
+    "bytes": 32175
   },
   {
     "path": "data/eu_restoration/mixed_inputs.json",

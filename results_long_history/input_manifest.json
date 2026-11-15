@@ -1,11 +1,15 @@
 [
   {
     "path": "LONG_HISTORY_METHOD.md",
-    "sha256": "95c7d9b1c46e276b8b6cfbe23b668cdc605a613ec12164361d2c2d15bd5434b3"
+    "sha256": "2bfabf2f69642eb2536aa2af2e9b0349aceb28e84acc7214b4287da388d53d0d"
+  },
+  {
+    "path": "audit_long_history_evidence.py",
+    "sha256": "bfd50ec4eec8fd558c5683fd07a3f9f36a22605999a365d0a4f5945cd3e39853"
   },
   {
     "path": "backtest.py",
-    "sha256": "cf6668e367f8554fbb44c897fdb6b8ea6ad35b7ea374a26c32cbd22b54014c70"
+    "sha256": "7f259511b5f6f32a436c4ae109f2cba0b3dabff7b4d35309a0681590af6d7cfe"
   },
   {
     "path": "collect_long_history_prices.py",
@@ -13,7 +17,7 @@
   },
   {
     "path": "collect_long_history_us.py",
-    "sha256": "599b68f232dfa9441a0cb4c62936b211e90f9b26bacd529eeb2ce6800b3ae6ca"
+    "sha256": "b5f27f456aeccb217a6dc9d1afd24205e8d2af87f3aed55d6aa9091ea7daacfb"
   },
   {
     "path": "data/long_history/eu/coverage_notes.json",
@@ -109,11 +113,15 @@
   },
   {
     "path": "run_long_history.py",
-    "sha256": "d0eab32bfbe87a2ffea5f7705164ef129585d485e52e67c3ce7a5937127485b0"
+    "sha256": "0d058430b5d189b2ede3bc71d869516812e80ca85279510cd274ec06790bc624"
   },
   {
     "path": "run_research_corrections.py",
-    "sha256": "a0f98468bce478ec5f03c0c408083e915fd132567d68cba9d7474919f8955ba1"
+    "sha256": "788e02e966df94e679ddf0db8a4a8fd1b37edebcce59368352b4337520fd4872"
+  },
+  {
+    "path": "test_collect_long_history_us.py",
+    "sha256": "04311bc8957951da0926ce7197cf0b89efcd1eeff38e1ee451c6ab0318551ac7"
   },
   {
     "path": "test_long_history.py",

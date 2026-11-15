@@ -185,7 +185,8 @@ def main():
     frozen={str(p.relative_to(ROOT)):digest(p) for folder in ('data','results_actual','results_us_restored',
              'results_eu_restored','results_eu_interim','results_research_corrected')
             for p in (ROOT/folder).rglob('*') if p.is_file() and 'long_history' not in p.parts
-            and 'pillar2' not in p.parts and '__pycache__' not in p.parts}
+            and 'pillar2' not in p.parts and 'recovery_experiments' not in p.parts
+            and '__pycache__' not in p.parts}
     lam,registry=build_lam()
     datasets={}; audit=[]; starts={}; timing_starts={}; checks=[]; results=[]; baseline_checks=[]
     previous=read_csv(ROOT/'results_research_corrected/summary.csv')
@@ -283,6 +284,7 @@ def main():
     inputs=[ROOT/'backtest.py',ROOT/'run_long_history.py',ROOT/'run_research_corrections.py',
             ROOT/'test_long_history.py',ROOT/'LONG_HISTORY_METHOD.md',
             ROOT/'collect_long_history_us.py',ROOT/'collect_long_history_prices.py',
+            ROOT/'audit_long_history_evidence.py',ROOT/'test_collect_long_history_us.py',
             *[p for p in AREA.rglob('*') if p.is_file()]]
     save(OUT/'input_manifest.json',[dict(path=str(p.relative_to(ROOT)),sha256=digest(p)) for p in sorted(inputs)])
     make_report(summaries,gap_summary,starts,common_start,validation,audit)
@@ -290,9 +292,13 @@ def main():
 
 
 def make_report(summary,gaps,starts,common_start,validation,audit):
+    from audit_long_history_evidence import audit as audit_existing_ledgers, markdown_report
+    evidence = audit_existing_ledgers(include_portfolios=True)
+    save(OUT/'evidence_audit.json', evidence)
+    (OUT/'REVIEW_DIAGNOSTICS.md').write_text(markdown_report(evidence))
     lines=['# Longer histories and repaired timing comparison','',
-           'Run `python3 run_long_history.py`. [Method](../LONG_HISTORY_METHOD.md). Builds on the unmerged PR #3 correction inputs; source-date rules and costs remain unchanged.','',
-           '**Scope: retrospective accounting-score tests, not a historical Pillar 2 backtest.** No government programme determines the June 2019 main start or September 2019 matched timing start. The dated industrial-policy participation gate is not applied. The captured [policy ledger](../data/policy_eligibility.csv) contains no event before 2022 and is not an exhaustive historical inventory. A valid Pillar 2 extension requires dated company eligibility under the relevant programmes; accounting-data coverage alone does not establish it.','',
+           'Run `python3 run_long_history.py`. [Method](../LONG_HISTORY_METHOD.md). Builds on the coverage/timing correction inputs; source-date rules and costs remain unchanged. The method and results were committed together; this is not an independently timestamped preregistration.','',
+           '**Scope: retrospective accounting-score tests, not a historical Pillar 2 backtest.** No government programme determines the June 2019 main start or September 2019 matched timing start. The dated industrial-policy participation gate is not applied. The separate [any prior public support experiment](../results_pillar2/REPORT.md) applies a broader historical support screen. Neither accounting-data coverage nor that broad screen establishes a full replication of the article’s programme definitions.','',
            'All 16 US and 15 EU candidates remain in the retrospective pool. Companies enter the information set only after listing; no predecessor price proxy is used. Every listed/eligible company has prices, FX and a usable original financial observation throughout each main source-date window. These are the earliest complete windows supported by the original reports recovered in this release, not a claim that earlier research is impossible.','',
            f"Earliest complete starts: US **{starts['US']}**, EU **{starts['EU']}**. Common cross-region start: **{common_start}**. Endpoint: **2026-11-02**. US returns in USD; EU in EUR; costs 10bp/15bp per traded notional.",'',
            '| Region | Window | Start | Q50 | Q75 | Equal weight |','|---|---|---|---:|---:|---:|']
@@ -317,6 +323,27 @@ def make_report(summary,gaps,starts,common_start,validation,audit):
         for timing in ('source','delay_adjusted'):
             ss={r['rule']:r for r in summary if r['region']==region and r['window']=='timing_matched' and r['timing']==timing}
             lines.append(f"| {region} | {timing} | "+' | '.join(f"{100*ss[k]['total_return']:.2f}%" for k in RULES)+f" | {100*ss['q50']['fixed_source_control_return']:.2f}% |")
+    timing_eu={r['timing']:r for r in evidence['matched_reporting_timing'] if r['region']=='EU' and r['rule']=='q75'}
+    source_eu,delayed_eu=timing_eu['source'],timing_eu['delay_adjusted']
+    lines+=['',f"Reporting timing materially changes the EU result even with the control fixed: Q75's lead falls from {source_eu['excess_control_pp']:.2f}pp to {delayed_eu['excess_control_pp']:.2f}pp, and its monthly iid t-statistic falls from {source_eu['t_iid']:.2f} to {delayed_eu['t_iid']:.2f}. The return ordering survives, but the size and statistical strength of the apparent advantage depend on the information-timing assumption.",'',
+            '## What the longer window shows','',
+            'The [review diagnostics](REVIEW_DIAGNOSTICS.md) and [full evidence audit](evidence_audit.json), reproduced with `python3 audit_long_history_evidence.py --portfolio-sensitivities`, check the saved ledgers and rerun fixed quarterly starts and all-name omissions in memory. They do not change existing portfolio ledgers.','',
+            '| Region | Rule | Monthly active t (iid) | Newey–West t (3 lags) |','|---|---|---:|---:|']
+    for row in evidence['main_returns_and_active_statistics']:
+        if row['rule']!='equal':
+            lines.append(f"| {row['region']} | {row['rule'].upper()} | {row['t_iid']:+.2f} | {row['t_newey_west_3']:+.2f} |")
+    us_2020={r['rule']:r['return_pct'] for r in evidence['calendar_2020_returns'] if r['region']=='US'}
+    us_after={r['rule']:r for r in evidence['post_2020_continuous_slices'] if r['region']=='US'}
+    us_equal=next(r for r in evidence['main_returns_and_active_statistics'] if r['region']=='US' and r['rule']=='equal')
+    stocks={r['ticker']:r['return_pct'] for r in evidence['stock_2020_returns']}
+    lines+=['','These are nominal statistics over the completed monthly returns, with initial deployment and the terminal partial month excluded. Only EU Q75 exceeds 2 on the three-lag Newey–West version; none exceeds 2 on the iid version. They are not adjusted for the many variants examined or hindsight in the candidate list.','',
+            f"Much of the US divergence accumulated in 2020: equal weight returned {us_2020['equal']:.2f}%, versus {us_2020['q50']:.2f}% for Q50 and {us_2020['q75']:.2f}% for Q75. The control included Enphase ({stocks['ENPH']:.2f}%), Plug Power ({stocks['PLUG']:.2f}%) and Bloom Energy ({stocks['BE']:.2f}%) that year. Those are individual adjusted-price returns, not additive portfolio contributions.",'',
+            f"From the December 2020 NAV through the endpoint, retaining the positions and history already established, US Q50 trails equal weight by {abs(us_after['q50']['excess_control_pp']):.2f}pp while Q75 leads by {us_after['q75']['excess_control_pp']:.2f}pp. These continuous-position slices differ from starting new portfolios in December 2020; they must not be substituted for the external review’s restart figures.",'',
+            '| Region | Score window | Annual observations | Median period-end age |','|---|---|---:|---:|']
+    for row in evidence['information_age']:
+        lines.append(f"| {row['region']} | {row['period']} | {row['annual_share_pct']:.2f}% | {row['median_period_end_age_days']:.0f} days |")
+    lines+=['','Each stock-month score is counted once. Age is measured from accounting period end to the portfolio date, not from publication. The early history relies almost entirely on annual figures about nine months old, compared with about four months in the later observations; it is a different information regime, not simply more years of equivalent quarterly data.','',
+            f"The US equal-weight candidate pool returns {us_equal['return_pct']:.2f}% against {us_equal['sector_etf_benchmark_return_pct']:.2f}% for the repository's sector-ETF blend. This gap reinforces the limitation of choosing today's candidate list retrospectively; it does not establish that the candidate list could have been selected prospectively."]
     lines+=['','## Every coverage gap','',
             '[All gaps](all_gaps.csv) lists each company/month, including a flag that separates listed candidates from prelisting/delisted cases. [Gap summary](gap_summary.csv) gives counts and exact dates. [Full pre-start coverage audit](coverage_audit.csv) includes every candidate each month and explains why earlier dates fail. None is silently removed to obtain an earlier main start.','',
             '| Region | Window | Timing | Company | Missing months | Dates |','|---|---|---|---|---:|---|']
@@ -325,11 +352,13 @@ def make_report(summary,gaps,starts,common_start,validation,audit):
             lines.append(f"| {r['region']} | {r['window']} | {r['timing']} | {r['ticker']} | {r['missing_months']} | {r['dates'].replace('|',', ')} |")
     lines+=['','## Data limits and checks','',
             'The universe was selected retrospectively. Longer histories do not remove survivor/selection bias or include companies absent from the research candidate list. Monthly dividend/split-adjusted prices are the same frozen vendor series used in the earlier study; independent dated daily overlap is limited to the recent window. They are not a certified historical investable index. Listing overrides exclude pre-merger Linde/Praxair and pre-spin-off GE Vernova proxies.','',
-            f"Added {validation['added_observations']} financial observations (100 annual and one GFS trailing observation): [observation inventory](added_observations.csv). Older original source facts, publication dates, component IDs, accession evidence and downloaded-source hashes are under [data/long_history](../data/long_history). Additional FX observations come from official FRED tables and preserve every existing rate. Later comparative facts are not backdated to earlier reports.",'',
+            f"Added {validation['added_observations']} financial observations (100 annual and one GFS trailing observation): [observation inventory](added_observations.csv). Older original source facts, publication dates, component IDs, accession evidence and downloaded-source hashes are under [data/long_history](../data/long_history). The saved FX capture attributes its observations to FRED series pages and preserves every existing rate; the original acquisition chain is incomplete, as detailed below. Later comparative facts are not backdated to earlier reports.",'',
             'Older TSM observations are standalone IASB-IFRS annual 20-Fs in TWD at their actual filing dates; later restored observations use the already documented Taiwan-IFRS series. No TTM calculation combines these bases. Linde 2018/2019 group operating cashflow explicitly includes the separately reported discontinued-operation cashflows; the source audit retains both rows and the arithmetic.','',
-            'The engine now honors explicitly requested starts before 2020 and exposes a freshness policy hook. Its original defaults remain unchanged. Historical snapshot code manifests refer to the earlier commit; data/result bytes and the reproduced numerical outputs are preserved.','',
+            'The US financial collector now rebuilds all 73 normalized observations from committed accession-level evidence with `python3 collect_long_history_us.py --check`, without private sibling directories. The two manual GlobalFoundries records remain explicit frozen inputs. This reproduces normalization, not acquisition of the complete SEC companyfacts responses, which are absent from the clone. Original response filenames, URLs and hashes remain in the manifest; re-extraction requires an explicitly supplied `--source sec --sec-cache-dir DIRECTORY`.', '',
+            'The FX capture has 2,374 saved observations: 310 match overlapping frozen rates and 2,064 supplement missing dates. The download manifest contains four timeouts and no successful capture record. No acquisition timestamp or original response body establishes how the saved values were obtained. The overlap check is useful internal consistency evidence, not independent verification of the 2,064 additions or a replacement for that missing provenance.', '',
+            'The engine honors explicitly requested starts before 2020 and exposes a freshness policy hook. Its original defaults remain unchanged. Historical source/code manifests are refreshed for the current checkout; validation distinguishes that metadata refresh from preserved data/result bytes and unchanged portfolio numbers.','',
             f"Validation: {validation['runs']} runs, {len(validation['baseline_reproductions'])} PR #3 reproductions, all selected source/component cutoffs, policy-specific freshness, full source-date coverage, listing restrictions, cost/holdings/NAV reconciliation, and {validation['preserved_files']} prior data/result files preserved byte-for-byte.",'',
-            'Tests: `python3 -m unittest test_long_history.py test_research_corrections.py` (12 regression tests).','',
+            'Tests: `python3 -m unittest test_long_history.py test_research_corrections.py test_collect_long_history_us.py`. The portable collector tests include a replay of every released observation and rejection of mismatched accessions, dates and units.','',
             '[Summary including CAGR, volatility and drawdown](summary.csv) · [Calendar-year returns](year_returns.csv) · [Monthly active statistics](active_statistics.csv) · [Validation](validation.json) · [Input manifest](input_manifest.json).','']
     (OUT/'REPORT.md').write_text('\n'.join(lines))
 

@@ -1,7 +1,7 @@
 [
   {
     "path": "backtest.py",
-    "sha256": "2af12310d739b7b352c4a8e634fa10d3e70fe3df0365697aea8107e397506b6e"
+    "sha256": "7f259511b5f6f32a436c4ae109f2cba0b3dabff7b4d35309a0681590af6d7cfe"
   },
   {
     "path": "prepare_data.py",
@@ -9,15 +9,19 @@
   },
   {
     "path": "run_research_corrections.py",
-    "sha256": "caed4c489035d49bb9b0b34414995039f817d7b3e8d49a2c71c004ba50362bce"
+    "sha256": "788e02e966df94e679ddf0db8a4a8fd1b37edebcce59368352b4337520fd4872"
   },
   {
     "path": "test_research_corrections.py",
     "sha256": "1d5e5b3111393491daf8fb9876bfbac597d6d2e7585ca3cef2df5a9ab5e51372"
   },
   {
+    "path": "snapshot_integrity.py",
+    "sha256": "55a6490958ed0cdb6036bea6f237760f81375a31fd852dab5f8cd65e8d57cf19"
+  },
+  {
     "path": "RESEARCH_CORRECTIONS_METHOD.md",
-    "sha256": "8c71395186c5679dd5266aed04ae3630c6b8ae0d02fac5cd1994ec6a7240b577"
+    "sha256": "41605b01071ad7926d092ccfebd70e7c3a0fbde8e3067d7252679122bcc03867"
   },
   {
     "path": "data/research_corrections/EU_annual_common_inputs.json",

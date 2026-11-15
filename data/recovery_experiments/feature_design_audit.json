@@ -1,0 +1,324 @@
+{
+  "audit_date": "2026-11-15",
+  "scope": "Read-only availability audit of the frozen data; no alternative portfolio returns were evaluated.",
+  "monthly_window": {
+    "first_review": "2019-06-30",
+    "last_review": "2026-10-31",
+    "review_count": 89,
+    "count_unit": "Policy-eligible, financially covered company-month signal observations, including initial deployment; not portfolio holdings."
+  },
+  "feature_definitions": {
+    "fundamental_change": {
+      "name": "12-month change in available accounting fundamentals",
+      "current_snapshot": "Current PolicyInputs signals after current policy/listing/financial eligibility.",
+      "prior_snapshot": "HistoryInputs.signals on the same input object at the calendar month-end 12 months earlier, with gate=False. This keeps the historical listing and financial source/freshness restrictions but does not require the company to have already been policy-eligible.",
+      "raw_changes": [
+        "current ROCE minus prior snapshot ROCE",
+        "current negative cash-accrual ratio minus prior snapshot negative cash-accrual ratio"
+      ],
+      "cutoff_rule": "Each snapshot uses only reports and arithmetic components available strictly before the first day of its own review month.",
+      "ranking_rule": "Compare raw metric changes, not changes in cross-sectional ranks. Peer membership changes must not masquerade as operating improvement.",
+      "interpretation": "This is a change between public-information snapshots, not necessarily a same-fiscal-period year-over-year comparison. Annual/interim mixtures and publication delays can change the fiscal periods represented.",
+      "example": {
+        "review": "2019-06-30",
+        "current_information_cutoff": "2019-06-01",
+        "prior_review": "2018-06-30",
+        "prior_information_cutoff": "2018-06-01"
+      }
+    },
+    "price_momentum": {
+      "name": "12-minus-1-month adjusted-price momentum available at the information cutoff",
+      "formula": "For execution calendar month m: investor-currency adjusted price at month-end m-2 divided by investor-currency adjusted price at month-end m-13, minus one.",
+      "example": {
+        "review": "2019-06-30",
+        "information_cutoff": "2019-06-01",
+        "numerator_date": "2019-04-30",
+        "denominator_date": "2018-05-31",
+        "excluded_latest_return_month": "2019-05"
+      },
+      "currency": "USD for US portfolios; EUR for EU portfolios, using historical endpoint FX under the existing conversion rules.",
+      "listing_guard": "The lookback start must not precede the candidate's actual listing or current-company start. Existing predecessor vendor prices do not make LIN or GEV tradable earlier.",
+      "policy_guard": "Only current policy eligibility is required. A valid observed stock-return history before its policy admission can still be used.",
+      "execution_note": "French's reference convention forms portfolios at the preceding month-end. This repository adds its existing wait to the current month-end execution; it does not claim identical execution timing to the reference portfolios."
+    }
+  },
+  "fallback_policy": {
+    "missing_feature": "Keep the company's existing accounting score and explicitly flag the unavailable feature. Do not drop it from the eligible universe and do not assign a fabricated neutral rank.",
+    "exit_deferral": "Unknown improvement does not qualify for recovery-based exit deferral.",
+    "same_period": "If both public snapshots exist but refer to the same fiscal period, retain and flag the comparison. Calculate the observed raw difference; matching period labels are not automatically missing data.",
+    "control": "Feature availability must not change equal-weight membership or its NAV."
+  },
+  "source_date_availability_counts": [
+    {
+      "definition": "direct",
+      "region": "US",
+      "eligible_company_months": 1268,
+      "missing_fundamental_snapshot": 44,
+      "missing_price_momentum": 31,
+      "initial_eligible_names": 12,
+      "initial_missing_fundamental": [
+        "BE",
+        "LIN"
+      ],
+      "initial_missing_momentum": [
+        "BE",
+        "LIN"
+      ],
+      "fundamental_gaps": [
+        {
+          "ticker": "BE",
+          "months": 10,
+          "first": "2019-06-30",
+          "last": "2020-03-31"
+        },
+        {
+          "ticker": "LIN",
+          "months": 10,
+          "first": "2019-06-30",
+          "last": "2020-03-31"
+        },
+        {
+          "ticker": "GFS",
+          "months": 12,
+          "first": "2021-11-30",
+          "last": "2022-10-31"
+        },
+        {
+          "ticker": "GEV",
+          "months": 12,
+          "first": "2024-05-31",
+          "last": "2025-04-30"
+        }
+      ],
+      "momentum_gaps": [
+        {
+          "ticker": "BE",
+          "months": 2,
+          "first": "2019-06-30",
+          "last": "2019-07-31"
+        },
+        {
+          "ticker": "LIN",
+          "months": 5,
+          "first": "2019-06-30",
+          "last": "2019-10-31"
+        },
+        {
+          "ticker": "GFS",
+          "months": 12,
+          "first": "2021-11-30",
+          "last": "2022-10-31"
+        },
+        {
+          "ticker": "GEV",
+          "months": 12,
+          "first": "2024-05-31",
+          "last": "2025-04-30"
+        }
+      ],
+      "same_period_comparisons": {
+        "PLUG": 2,
+        "FSLR": 1
+      }
+    },
+    {
+      "definition": "direct",
+      "region": "EU",
+      "eligible_company_months": 1267,
+      "missing_fundamental_snapshot": 130,
+      "missing_price_momentum": 12,
+      "initial_eligible_names": 13,
+      "initial_missing_fundamental": [
+        "STMPA.PA",
+        "IFX.DE",
+        "NXPI",
+        "ASML",
+        "AMS.SW",
+        "AIR.PA",
+        "SAF.PA",
+        "ENEL.MI",
+        "ORSTED.CO",
+        "VWS.CO",
+        "NEL.OL",
+        "EDF.PA",
+        "VIE.PA"
+      ],
+      "initial_missing_momentum": [],
+      "fundamental_gaps": [
+        {
+          "ticker": "STMPA.PA",
+          "months": 8,
+          "first": "2019-06-30",
+          "last": "2020-01-31"
+        },
+        {
+          "ticker": "IFX.DE",
+          "months": 6,
+          "first": "2019-06-30",
+          "last": "2019-11-30"
+        },
+        {
+          "ticker": "NXPI",
+          "months": 9,
+          "first": "2019-06-30",
+          "last": "2020-02-29"
+        },
+        {
+          "ticker": "ASML",
+          "months": 8,
+          "first": "2019-06-30",
+          "last": "2020-01-31"
+        },
+        {
+          "ticker": "AMS.SW",
+          "months": 11,
+          "first": "2019-06-30",
+          "last": "2020-04-30"
+        },
+        {
+          "ticker": "AIR.PA",
+          "months": 9,
+          "first": "2019-06-30",
+          "last": "2020-02-29"
+        },
+        {
+          "ticker": "SAF.PA",
+          "months": 11,
+          "first": "2019-06-30",
+          "last": "2020-04-30"
+        },
+        {
+          "ticker": "ENEL.MI",
+          "months": 10,
+          "first": "2019-06-30",
+          "last": "2020-03-31"
+        },
+        {
+          "ticker": "ORSTED.CO",
+          "months": 8,
+          "first": "2019-06-30",
+          "last": "2020-01-31"
+        },
+        {
+          "ticker": "VWS.CO",
+          "months": 9,
+          "first": "2019-06-30",
+          "last": "2020-02-29"
+        },
+        {
+          "ticker": "NEL.OL",
+          "months": 11,
+          "first": "2019-06-30",
+          "last": "2020-04-30"
+        },
+        {
+          "ticker": "EDF.PA",
+          "months": 9,
+          "first": "2019-06-30",
+          "last": "2020-02-29"
+        },
+        {
+          "ticker": "VIE.PA",
+          "months": 9,
+          "first": "2019-06-30",
+          "last": "2020-02-29"
+        },
+        {
+          "ticker": "ENR.DE",
+          "months": 12,
+          "first": "2020-10-31",
+          "last": "2021-09-30"
+        }
+      ],
+      "momentum_gaps": [
+        {
+          "ticker": "ENR.DE",
+          "months": 12,
+          "first": "2020-10-31",
+          "last": "2021-09-30"
+        }
+      ],
+      "same_period_comparisons": {
+        "ORSTED.CO": 1,
+        "VIE.PA": 1
+      }
+    },
+    {
+      "definition": "with_indirect",
+      "region": "US",
+      "eligible_company_months": 1334,
+      "missing_fundamental_snapshot": 44,
+      "missing_price_momentum": 31,
+      "initial_eligible_names": 13,
+      "initial_missing_fundamental": [
+        "BE",
+        "LIN"
+      ],
+      "initial_missing_momentum": [
+        "BE",
+        "LIN"
+      ],
+      "note": "Gap dates and tickers match direct US."
+    },
+    {
+      "definition": "with_indirect",
+      "region": "EU",
+      "eligible_company_months": 1278,
+      "missing_fundamental_snapshot": 139,
+      "missing_price_momentum": 12,
+      "initial_eligible_names": 14,
+      "initial_missing_fundamental": [
+        "STMPA.PA",
+        "IFX.DE",
+        "NXPI",
+        "ASML",
+        "AMS.SW",
+        "AIR.PA",
+        "SAF.PA",
+        "ENEL.MI",
+        "ORSTED.CO",
+        "VWS.CO",
+        "NEL.OL",
+        "ALFEN.AS",
+        "EDF.PA",
+        "VIE.PA"
+      ],
+      "initial_missing_momentum": [],
+      "note": "Adds nine Alfen missing fundamental snapshots, June2019 through February2020, to the direct EU counts."
+    }
+  ],
+  "source_reference": {
+    "title": "Kenneth R. French Data Library: 10 Portfolios Formed Monthly on Momentum",
+    "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/Data_Library/det_10_port_form_pr_12_2.html",
+    "retrieval_status": "Primary-source indexed text verified through web search on2026-11-15. Direct open timed out; corroborating primary pages also returned timeout/502. No full-page retrieval is claimed.",
+    "verified_description": "The indexed construction description uses prior2-12 returns and requires a price at month-end t-13 and a valid return for t-2.",
+    "corroborating_primary_urls": [
+      "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/Data_Library/det_6_port_form_sz_pr_12_2.html",
+      "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library/det_mom_factor.html"
+    ]
+  },
+  "limitations": [
+    "The fundamental-change feature activates earlier in the US than in Europe because older EU financial snapshots were not recovered. Publish fallback counts and a later common-calendar subperiod readout.",
+    "Current annual/interim financial definitions and publication conventions remain as documented in the frozen source ledgers; changing available snapshots need not measure a perfectly comparable fiscal-year change.",
+    "The adjusted-price data are current frozen vendor histories, not a certified archive of contemporaneously available signal vintages. Historical FX is also subject to the existing data-source limitations.",
+    "Calendar subperiod comparisons are retrospective diagnostics; the already-inspected2023-2026 period is not a genuinely unseen holdout."
+  ],
+  "recommended_tests": [
+    "Mutating financial reports published at or after either information cutoff must not change the corresponding earlier snapshot.",
+    "Changing the skipped latest-month price return must not change12-minus-1momentum; changing the permitted endpoint must change it.",
+    "Predecessor vendor prices before LIN/GEV listing must not satisfy the lookback; missing features must preserve base coverage and scores.",
+    "A new policy admission, such as TSM in2024, can use an earlier public financial snapshot even when it was not yet policy-eligible then."
+  ],
+  "implementation_review": {
+    "file": "recovery_rules.py",
+    "sha256_at_review": "f78826af0a947755a3040453e4ef844e9ca962169f75997975b797bd20285d7b",
+    "status": "PASS: read-only review; no portfolio-return simulations performed",
+    "checks": [
+      "All four source-date definition/region feature-availability counts match this independent audit exactly.",
+      "Switching score mode from base to trend and back leaves cached base features and scores unchanged.",
+      "Prior financial snapshots bypass historical policy admission but retain historical publication and listing restrictions.",
+      "Momentum uses the specified lagged endpoints, portfolio currency and actual-listing guard.",
+      "Quarterly confirmation and one-review recovery grace do not consume future observations."
+    ]
+  }
+}

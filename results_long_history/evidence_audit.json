@@ -1,0 +1,1308 @@
+{
+  "scope": "Audit of released ungated long-history ledgers; no existing result files modified",
+  "main_returns_and_active_statistics": [
+    {
+      "region": "US",
+      "rule": "q50",
+      "run": "US_long_source_q50_10bp_lag0_from2019-06-30_cross_region",
+      "start": "2019-06-30",
+      "end": "2026-11-02",
+      "return_pct": 400.05511257109407,
+      "excess_control_pp": -345.1530072809038,
+      "sector_etf_benchmark_return_pct": 329.17633715276236,
+      "months": 88,
+      "mean_monthly_active_pp": -0.7294804703504654,
+      "t_iid": -1.498723878498578,
+      "t_newey_west_3": -1.5721412304259832
+    },
+    {
+      "region": "US",
+      "rule": "q75",
+      "run": "US_long_source_q75_10bp_lag0_from2019-06-30_cross_region",
+      "start": "2019-06-30",
+      "end": "2026-11-02",
+      "return_pct": 539.172474480376,
+      "excess_control_pp": -206.03564537162188,
+      "sector_etf_benchmark_return_pct": 329.17633715276236,
+      "months": 88,
+      "mean_monthly_active_pp": -0.3147460490861292,
+      "t_iid": -0.5962199590044441,
+      "t_newey_west_3": -0.616781004513084
+    },
+    {
+      "region": "US",
+      "rule": "equal",
+      "run": "US_long_source_equal_10bp_lag0_from2019-06-30_cross_region",
+      "start": "2019-06-30",
+      "end": "2026-11-02",
+      "return_pct": 745.2081198519979,
+      "excess_control_pp": 0.0,
+      "sector_etf_benchmark_return_pct": 329.17633715276236
+    },
+    {
+      "region": "EU",
+      "rule": "q50",
+      "run": "EU_long_source_q50_15bp_lag0_from2019-06-30_cross_region",
+      "start": "2019-06-30",
+      "end": "2026-11-02",
+      "return_pct": 295.22207621322053,
+      "excess_control_pp": 141.39150617606853,
+      "sector_etf_benchmark_return_pct": 101.30831663641456,
+      "months": 88,
+      "mean_monthly_active_pp": 0.454746812994169,
+      "t_iid": 1.3905693282449003,
+      "t_newey_west_3": 1.6076098994794914
+    },
+    {
+      "region": "EU",
+      "rule": "q75",
+      "run": "EU_long_source_q75_15bp_lag0_from2019-06-30_cross_region",
+      "start": "2019-06-30",
+      "end": "2026-11-02",
+      "return_pct": 376.92445085556517,
+      "excess_control_pp": 223.09388081841314,
+      "sector_etf_benchmark_return_pct": 101.30831663641456,
+      "months": 88,
+      "mean_monthly_active_pp": 0.7433568942263948,
+      "t_iid": 1.723282184847468,
+      "t_newey_west_3": 2.224493865106141
+    },
+    {
+      "region": "EU",
+      "rule": "equal",
+      "run": "EU_long_source_equal_15bp_lag0_from2019-06-30_cross_region",
+      "start": "2019-06-30",
+      "end": "2026-11-02",
+      "return_pct": 153.83057003715203,
+      "excess_control_pp": 0.0,
+      "sector_etf_benchmark_return_pct": 101.30831663641456
+    }
+  ],
+  "calendar_2020_returns": [
+    {
+      "region": "US",
+      "rule": "q50",
+      "year": "2020",
+      "return_pct": 41.21612763036848
+    },
+    {
+      "region": "US",
+      "rule": "q75",
+      "year": "2020",
+      "return_pct": 47.314333572542026
+    },
+    {
+      "region": "US",
+      "rule": "equal",
+      "year": "2020",
+      "return_pct": 115.26212921547399
+    },
+    {
+      "region": "EU",
+      "rule": "q50",
+      "year": "2020",
+      "return_pct": 45.012544870890814
+    },
+    {
+      "region": "EU",
+      "rule": "q75",
+      "year": "2020",
+      "return_pct": 64.6502814666476
+    },
+    {
+      "region": "EU",
+      "rule": "equal",
+      "year": "2020",
+      "return_pct": 52.87463649698272
+    }
+  ],
+  "stock_2020_returns": [
+    {
+      "ticker": "ENPH",
+      "start": "2019-12-31",
+      "end": "2020-12-31",
+      "return_pct": 571.5269804822044,
+      "source": "Frozen adjusted monthly vendor prices"
+    },
+    {
+      "ticker": "PLUG",
+      "start": "2019-12-31",
+      "end": "2020-12-31",
+      "return_pct": 973.1012658227847,
+      "source": "Frozen adjusted monthly vendor prices"
+    },
+    {
+      "ticker": "BE",
+      "start": "2019-12-31",
+      "end": "2020-12-31",
+      "return_pct": 283.6680053547524,
+      "source": "Frozen adjusted monthly vendor prices"
+    }
+  ],
+  "information_age": [
+    {
+      "region": "US",
+      "period": "2019_2020",
+      "stock_month_score_observations": 266,
+      "annual_share_pct": 97.36842105263158,
+      "median_period_end_age_days": 273.0,
+      "age_definition": "Portfolio date minus accounting period end, not time since publication"
+    },
+    {
+      "region": "US",
+      "period": "2022_onward",
+      "stock_month_score_observations": 900,
+      "annual_share_pct": 31.88888888888889,
+      "median_period_end_age_days": 120.0,
+      "age_definition": "Portfolio date minus accounting period end, not time since publication"
+    },
+    {
+      "region": "EU",
+      "period": "2019_2020",
+      "stock_month_score_observations": 269,
+      "annual_share_pct": 97.02602230483271,
+      "median_period_end_age_days": 273,
+      "age_definition": "Portfolio date minus accounting period end, not time since publication"
+    },
+    {
+      "region": "EU",
+      "period": "2022_onward",
+      "stock_month_score_observations": 829,
+      "annual_share_pct": 42.94330518697225,
+      "median_period_end_age_days": 123,
+      "age_definition": "Portfolio date minus accounting period end, not time since publication"
+    }
+  ],
+  "matched_reporting_timing": [
+    {
+      "region": "US",
+      "rule": "q50",
+      "timing": "source",
+      "start": "2019-09-30",
+      "return_pct": 343.5484736569322,
+      "control_return_pct": 720.6894168701416,
+      "excess_control_pp": -377.14094321320937,
+      "months": 85,
+      "mean_monthly_active_pp": -0.8628991893167225,
+      "t_iid": -1.7351903294755564,
+      "t_newey_west_3": -1.8645973142016454
+    },
+    {
+      "region": "US",
+      "rule": "q75",
+      "timing": "source",
+      "start": "2019-09-30",
+      "return_pct": 430.5447047696235,
+      "control_return_pct": 720.6894168701416,
+      "excess_control_pp": -290.1447121005181,
+      "months": 85,
+      "mean_monthly_active_pp": -0.5283387900831376,
+      "t_iid": -0.9675502619738023,
+      "t_newey_west_3": -1.0532711558312322
+    },
+    {
+      "region": "US",
+      "rule": "q50",
+      "timing": "delay_adjusted",
+      "start": "2019-09-30",
+      "return_pct": 401.8625560656002,
+      "control_return_pct": 720.6894168701416,
+      "excess_control_pp": -318.8268608045414,
+      "months": 85,
+      "mean_monthly_active_pp": -0.7160424434250894,
+      "t_iid": -1.3952445122091537,
+      "t_newey_west_3": -1.4603825820846148
+    },
+    {
+      "region": "US",
+      "rule": "q75",
+      "timing": "delay_adjusted",
+      "start": "2019-09-30",
+      "return_pct": 369.02611746943893,
+      "control_return_pct": 720.6894168701416,
+      "excess_control_pp": -351.66329940070267,
+      "months": 85,
+      "mean_monthly_active_pp": -0.6728551985806137,
+      "t_iid": -1.1170236318903306,
+      "t_newey_west_3": -1.2220406359237816
+    },
+    {
+      "region": "EU",
+      "rule": "q50",
+      "timing": "source",
+      "start": "2019-09-30",
+      "return_pct": 257.5036698700745,
+      "control_return_pct": 127.53317236642827,
+      "excess_control_pp": 129.9704975036462,
+      "months": 85,
+      "mean_monthly_active_pp": 0.48132084397549557,
+      "t_iid": 1.4313272962337946,
+      "t_newey_west_3": 1.6577828982837548
+    },
+    {
+      "region": "EU",
+      "rule": "q75",
+      "timing": "source",
+      "start": "2019-09-30",
+      "return_pct": 343.4470709399726,
+      "control_return_pct": 127.53317236642827,
+      "excess_control_pp": 215.91389857354432,
+      "months": 85,
+      "mean_monthly_active_pp": 0.8122575627241656,
+      "t_iid": 1.8315690055380096,
+      "t_newey_west_3": 2.363349916660327
+    },
+    {
+      "region": "EU",
+      "rule": "q50",
+      "timing": "delay_adjusted",
+      "start": "2019-09-30",
+      "return_pct": 206.50736333175544,
+      "control_return_pct": 127.53317236642827,
+      "excess_control_pp": 78.97419096532717,
+      "months": 85,
+      "mean_monthly_active_pp": 0.3090893249592393,
+      "t_iid": 0.9539156601121951,
+      "t_newey_west_3": 1.1739332123972945
+    },
+    {
+      "region": "EU",
+      "rule": "q75",
+      "timing": "delay_adjusted",
+      "start": "2019-09-30",
+      "return_pct": 203.98680865526103,
+      "control_return_pct": 127.53317236642827,
+      "excess_control_pp": 76.45363628883275,
+      "months": 85,
+      "mean_monthly_active_pp": 0.3537763369338539,
+      "t_iid": 0.7976148829616515,
+      "t_newey_west_3": 1.0858639223362498
+    }
+  ],
+  "post_2020_continuous_slices": [
+    {
+      "region": "US",
+      "rule": "q50",
+      "anchor": "2020-12-31",
+      "end": "2026-11-02",
+      "return_pct": 164.09978423164927,
+      "control_return_pct": 207.0871872365204,
+      "excess_control_pp": -42.98740300487114,
+      "interpretation": "Continuous-position slice; not a fresh portfolio restart"
+    },
+    {
+      "region": "US",
+      "rule": "q75",
+      "anchor": "2020-12-31",
+      "end": "2026-11-02",
+      "return_pct": 217.03249799640844,
+      "control_return_pct": 207.0871872365204,
+      "excess_control_pp": 9.94531075988803,
+      "interpretation": "Continuous-position slice; not a fresh portfolio restart"
+    },
+    {
+      "region": "US",
+      "rule": "equal",
+      "anchor": "2020-12-31",
+      "end": "2026-11-02",
+      "return_pct": 207.0871872365204,
+      "control_return_pct": 207.0871872365204,
+      "excess_control_pp": 0.0,
+      "interpretation": "Continuous-position slice; not a fresh portfolio restart"
+    },
+    {
+      "region": "EU",
+      "rule": "q50",
+      "anchor": "2020-12-31",
+      "end": "2026-11-02",
+      "return_pct": 112.5810588943858,
+      "control_return_pct": 34.3988246220134,
+      "excess_control_pp": 78.1822342723724,
+      "interpretation": "Continuous-position slice; not a fresh portfolio restart"
+    },
+    {
+      "region": "EU",
+      "rule": "q75",
+      "anchor": "2020-12-31",
+      "end": "2026-11-02",
+      "return_pct": 116.44651635689823,
+      "control_return_pct": 34.3988246220134,
+      "excess_control_pp": 82.04769173488484,
+      "interpretation": "Continuous-position slice; not a fresh portfolio restart"
+    },
+    {
+      "region": "EU",
+      "rule": "equal",
+      "anchor": "2020-12-31",
+      "end": "2026-11-02",
+      "return_pct": 34.3988246220134,
+      "control_return_pct": 34.3988246220134,
+      "excess_control_pp": 0.0,
+      "interpretation": "Continuous-position slice; not a fresh portfolio restart"
+    }
+  ],
+  "fx": {
+    "saved_records": 2374,
+    "new_records": 2064,
+    "matching_original_overlap": 310,
+    "first_date": "2018-01-02",
+    "last_date": "2020-05-22",
+    "manifest_entries": 4,
+    "manifest_failed_entries": 4,
+    "saved_capture_sha256": "1412ac3907ebf48eaa4a382b86155f567b6688a1b07cb65bbe6ca100fe0672c3",
+    "limitation": "Saved values and attributed FRED URLs do not establish the undocumented original acquisition chain"
+  },
+  "statistical_limit": "Nominal t statistics; no adjustment for multiple variants or hindsight in candidate selection",
+  "not_verified": [],
+  "portfolio_sensitivities": {
+    "definition": "Ungated source-date inputs; fixed original costs, listing rules and endpoint. Fresh portfolios at each start. Each omission removes the company from both score-ranking universe and equal-weight control.",
+    "fresh_quarterly_starts": [
+      {
+        "region": "US",
+        "rule": "q50",
+        "start": "2019-06-30",
+        "return_pct": 400.05511257109407,
+        "control_return_pct": 745.2081198519979,
+        "excess_control_pp": -345.15300728090386
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "start": "2019-06-30",
+        "return_pct": 539.172474480376,
+        "control_return_pct": 745.2081198519979,
+        "excess_control_pp": -206.03564537162197
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "start": "2019-09-30",
+        "return_pct": 343.5484736569322,
+        "control_return_pct": 720.6894168701416,
+        "excess_control_pp": -377.1409432132094
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "start": "2019-09-30",
+        "return_pct": 430.5447047696235,
+        "control_return_pct": 720.6894168701416,
+        "excess_control_pp": -290.1447121005181
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "start": "2019-12-31",
+        "return_pct": 272.57890946263046,
+        "control_return_pct": 560.3820357574864,
+        "excess_control_pp": -287.80312629485593
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "start": "2019-12-31",
+        "return_pct": 343.760826443613,
+        "control_return_pct": 560.3820357574864,
+        "excess_control_pp": -216.6212093138734
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "start": "2020-03-31",
+        "return_pct": 355.76382822563534,
+        "control_return_pct": 673.3359328234682,
+        "excess_control_pp": -317.57210459783283
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "start": "2020-03-31",
+        "return_pct": 450.02941681568666,
+        "control_return_pct": 673.3359328234682,
+        "excess_control_pp": -223.3065160077815
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "start": "2020-06-30",
+        "return_pct": 268.4428401011618,
+        "control_return_pct": 449.3111320309489,
+        "excess_control_pp": -180.86829192978712
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "start": "2020-06-30",
+        "return_pct": 334.6604532832135,
+        "control_return_pct": 449.3111320309489,
+        "excess_control_pp": -114.65067874773541
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "start": "2020-09-30",
+        "return_pct": 248.2823133706375,
+        "control_return_pct": 347.66942884228615,
+        "excess_control_pp": -99.38711547164866
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "start": "2020-09-30",
+        "return_pct": 252.47495099145297,
+        "control_return_pct": 347.66942884228615,
+        "excess_control_pp": -95.19447785083318
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "start": "2020-12-31",
+        "return_pct": 166.73766648730788,
+        "control_return_pct": 206.78040682969078,
+        "excess_control_pp": -40.0427403423829
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "start": "2020-12-31",
+        "return_pct": 180.44373896268567,
+        "control_return_pct": 206.78040682969078,
+        "excess_control_pp": -26.336667867005104
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "start": "2021-03-31",
+        "return_pct": 132.29958002289655,
+        "control_return_pct": 168.6981145125967,
+        "excess_control_pp": -36.398534489700154
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "start": "2021-03-31",
+        "return_pct": 140.04525005203882,
+        "control_return_pct": 168.6981145125967,
+        "excess_control_pp": -28.65286446055788
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "start": "2021-06-30",
+        "return_pct": 111.4287987109143,
+        "control_return_pct": 163.17253937441376,
+        "excess_control_pp": -51.743740663499466
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "start": "2021-06-30",
+        "return_pct": 119.97932690026376,
+        "control_return_pct": 163.17253937441376,
+        "excess_control_pp": -43.19321247415
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "start": "2021-09-30",
+        "return_pct": 128.3335349491809,
+        "control_return_pct": 184.7358322168515,
+        "excess_control_pp": -56.402297267670605
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "start": "2021-09-30",
+        "return_pct": 136.1813817219599,
+        "control_return_pct": 184.7358322168515,
+        "excess_control_pp": -48.5544504948916
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "start": "2021-12-31",
+        "return_pct": 98.3434822333054,
+        "control_return_pct": 143.232270901834,
+        "excess_control_pp": -44.888788668528605
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "start": "2021-12-31",
+        "return_pct": 117.54454787830291,
+        "control_return_pct": 143.232270901834,
+        "excess_control_pp": -25.687723023531092
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "start": "2022-03-31",
+        "return_pct": 114.24327345057392,
+        "control_return_pct": 157.9033978220804,
+        "excess_control_pp": -43.66012437150647
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "start": "2022-03-31",
+        "return_pct": 150.5381530501483,
+        "control_return_pct": 157.9033978220804,
+        "excess_control_pp": -7.365244771932083
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "start": "2022-06-30",
+        "return_pct": 164.71500845485346,
+        "control_return_pct": 229.40071009067822,
+        "excess_control_pp": -64.68570163582476
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "start": "2022-06-30",
+        "return_pct": 178.01814273845545,
+        "control_return_pct": 229.40071009067822,
+        "excess_control_pp": -51.382567352222765
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "start": "2022-09-30",
+        "return_pct": 164.25287754385857,
+        "control_return_pct": 205.5852964179889,
+        "excess_control_pp": -41.332418874130326
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "start": "2022-09-30",
+        "return_pct": 180.31833434507269,
+        "control_return_pct": 205.5852964179889,
+        "excess_control_pp": -25.266962072916215
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "start": "2019-06-30",
+        "return_pct": 295.22207621322053,
+        "control_return_pct": 153.83057003715203,
+        "excess_control_pp": 141.3915061760685
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "start": "2019-06-30",
+        "return_pct": 376.92445085556517,
+        "control_return_pct": 153.83057003715203,
+        "excess_control_pp": 223.09388081841314
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "start": "2019-09-30",
+        "return_pct": 257.5036698700745,
+        "control_return_pct": 127.53317236642827,
+        "excess_control_pp": 129.9704975036462
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "start": "2019-09-30",
+        "return_pct": 343.4470709399726,
+        "control_return_pct": 127.53317236642827,
+        "excess_control_pp": 215.91389857354432
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "start": "2019-12-31",
+        "return_pct": 205.0833401166567,
+        "control_return_pct": 105.1539836216877,
+        "excess_control_pp": 99.929356494969
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "start": "2019-12-31",
+        "return_pct": 268.296083103788,
+        "control_return_pct": 105.1539836216877,
+        "excess_control_pp": 163.14209948210032
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "start": "2020-03-31",
+        "return_pct": 315.028285006757,
+        "control_return_pct": 163.29812463773834,
+        "excess_control_pp": 151.73016036901868
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "start": "2020-03-31",
+        "return_pct": 369.6481224992073,
+        "control_return_pct": 163.29812463773834,
+        "excess_control_pp": 206.34999786146898
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "start": "2020-06-30",
+        "return_pct": 214.19265739821788,
+        "control_return_pct": 98.40343285107306,
+        "excess_control_pp": 115.78922454714481
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "start": "2020-06-30",
+        "return_pct": 237.29959710910612,
+        "control_return_pct": 98.40343285107306,
+        "excess_control_pp": 138.89616425803305
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "start": "2020-09-30",
+        "return_pct": 162.74093690538484,
+        "control_return_pct": 76.33780767445512,
+        "excess_control_pp": 86.40312923092972
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "start": "2020-09-30",
+        "return_pct": 153.74550787094608,
+        "control_return_pct": 76.33780767445512,
+        "excess_control_pp": 77.40770019649096
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "start": "2020-12-31",
+        "return_pct": 110.13085742854246,
+        "control_return_pct": 34.19752832951912,
+        "excess_control_pp": 75.93332909902333
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "start": "2020-12-31",
+        "return_pct": 112.51716517012929,
+        "control_return_pct": 34.19752832951912,
+        "excess_control_pp": 78.31963684061017
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "start": "2021-03-31",
+        "return_pct": 104.71351825119508,
+        "control_return_pct": 29.987329867287094,
+        "excess_control_pp": 74.72618838390798
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "start": "2021-03-31",
+        "return_pct": 103.79097015894546,
+        "control_return_pct": 29.987329867287094,
+        "excess_control_pp": 73.80364029165835
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "start": "2021-06-30",
+        "return_pct": 108.32143580337869,
+        "control_return_pct": 31.279072701073506,
+        "excess_control_pp": 77.04236310230519
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "start": "2021-06-30",
+        "return_pct": 140.2134939022221,
+        "control_return_pct": 31.279072701073506,
+        "excess_control_pp": 108.9344212011486
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "start": "2021-09-30",
+        "return_pct": 93.36603492744801,
+        "control_return_pct": 32.18006819059429,
+        "excess_control_pp": 61.18596673685372
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "start": "2021-09-30",
+        "return_pct": 115.23233329350235,
+        "control_return_pct": 32.18006819059429,
+        "excess_control_pp": 83.05226510290805
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "start": "2021-12-31",
+        "return_pct": 82.32303427069508,
+        "control_return_pct": 25.781067712115657,
+        "excess_control_pp": 56.54196655857942
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "start": "2021-12-31",
+        "return_pct": 95.01334125846851,
+        "control_return_pct": 25.781067712115657,
+        "excess_control_pp": 69.23227354635286
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "start": "2022-03-31",
+        "return_pct": 99.52932491298398,
+        "control_return_pct": 35.0488623926297,
+        "excess_control_pp": 64.48046252035428
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "start": "2022-03-31",
+        "return_pct": 111.44765788827628,
+        "control_return_pct": 35.0488623926297,
+        "excess_control_pp": 76.39879549564658
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "start": "2022-06-30",
+        "return_pct": 147.51348383747262,
+        "control_return_pct": 67.71439594774658,
+        "excess_control_pp": 79.79908788972604
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "start": "2022-06-30",
+        "return_pct": 171.45627966763342,
+        "control_return_pct": 67.71439594774658,
+        "excess_control_pp": 103.74188371988684
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "start": "2022-09-30",
+        "return_pct": 160.91014957748212,
+        "control_return_pct": 71.99035453353471,
+        "excess_control_pp": 88.9197950439474
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "start": "2022-09-30",
+        "return_pct": 161.07441535907094,
+        "control_return_pct": 71.99035453353471,
+        "excess_control_pp": 89.08406082553623
+      }
+    ],
+    "whole_universe_leave_one_out": [
+      {
+        "region": "US",
+        "rule": "q50",
+        "omitted": "AMAT",
+        "return_pct": 374.0156117414732,
+        "control_return_pct": 720.0977041186917,
+        "excess_control_pp": -346.0820923772185
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "omitted": "AMAT",
+        "return_pct": 528.1513847763265,
+        "control_return_pct": 720.0977041186917,
+        "excess_control_pp": -191.9463193423652
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "omitted": "BE",
+        "return_pct": 530.6373426059201,
+        "control_return_pct": 568.2489274601803,
+        "excess_control_pp": -37.61158485426017
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "omitted": "BE",
+        "return_pct": 528.679581929694,
+        "control_return_pct": 568.2489274601803,
+        "excess_control_pp": -39.569345530486316
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "omitted": "ENPH",
+        "return_pct": 523.3247038504649,
+        "control_return_pct": 742.7495444292222,
+        "excess_control_pp": -219.4248405787573
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "omitted": "ENPH",
+        "return_pct": 693.1209919974971,
+        "control_return_pct": 742.7495444292222,
+        "excess_control_pp": -49.6285524317251
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "omitted": "ETN",
+        "return_pct": 394.32978484111123,
+        "control_return_pct": 759.5319175414604,
+        "excess_control_pp": -365.2021327003492
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "omitted": "ETN",
+        "return_pct": 559.1869989160593,
+        "control_return_pct": 759.5319175414604,
+        "excess_control_pp": -200.34491862540108
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "omitted": "FSLR",
+        "return_pct": 529.088801839911,
+        "control_return_pct": 771.1798243520184,
+        "excess_control_pp": -242.09102251210743
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "omitted": "FSLR",
+        "return_pct": 617.4459447942133,
+        "control_return_pct": 771.1798243520184,
+        "excess_control_pp": -153.73387955780504
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "omitted": "GEV",
+        "return_pct": 416.4827158312229,
+        "control_return_pct": 685.2906301802034,
+        "excess_control_pp": -268.8079143489805
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "omitted": "GEV",
+        "return_pct": 707.8008874692184,
+        "control_return_pct": 685.2906301802034,
+        "excess_control_pp": 22.510257289015044
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "omitted": "GFS",
+        "return_pct": 482.8336504804338,
+        "control_return_pct": 809.404813856838,
+        "excess_control_pp": -326.57116337640423
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "omitted": "GFS",
+        "return_pct": 652.6357597472753,
+        "control_return_pct": 809.404813856838,
+        "excess_control_pp": -156.76905410956272
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "omitted": "INTC",
+        "return_pct": 578.345338155408,
+        "control_return_pct": 813.3509208141473,
+        "excess_control_pp": -235.0055826587394
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "omitted": "INTC",
+        "return_pct": 720.919924009737,
+        "control_return_pct": 813.3509208141473,
+        "excess_control_pp": -92.43099680441037
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "omitted": "LIN",
+        "return_pct": 418.02600182286807,
+        "control_return_pct": 789.4624813593223,
+        "excess_control_pp": -371.4364795364542
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "omitted": "LIN",
+        "return_pct": 566.4001462122424,
+        "control_return_pct": 789.4624813593223,
+        "excess_control_pp": -223.06233514707992
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "omitted": "LRCX",
+        "return_pct": 350.1143831411936,
+        "control_return_pct": 698.8956511722737,
+        "excess_control_pp": -348.78126803108006
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "omitted": "LRCX",
+        "return_pct": 453.89046535007856,
+        "control_return_pct": 698.8956511722737,
+        "excess_control_pp": -245.00518582219513
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "omitted": "MCHP",
+        "return_pct": 477.713151405846,
+        "control_return_pct": 816.3874718869565,
+        "excess_control_pp": -338.6743204811105
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "omitted": "MCHP",
+        "return_pct": 626.2050885117878,
+        "control_return_pct": 816.3874718869565,
+        "excess_control_pp": -190.18238337516868
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "omitted": "MU",
+        "return_pct": 330.2676974709941,
+        "control_return_pct": 664.9478230680804,
+        "excess_control_pp": -334.6801255970863
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "omitted": "MU",
+        "return_pct": 375.7655615203907,
+        "control_return_pct": 664.9478230680804,
+        "excess_control_pp": -289.18226154768973
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "omitted": "NEE",
+        "return_pct": 541.9058453852149,
+        "control_return_pct": 808.1150127841976,
+        "excess_control_pp": -266.2091673989827
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "omitted": "NEE",
+        "return_pct": 561.1348256392314,
+        "control_return_pct": 808.1150127841976,
+        "excess_control_pp": -246.98018714496618
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "omitted": "PLUG",
+        "return_pct": 555.0419945708203,
+        "control_return_pct": 768.3842502681259,
+        "excess_control_pp": -213.34225569730563
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "omitted": "PLUG",
+        "return_pct": 661.6984460727211,
+        "control_return_pct": 768.3842502681259,
+        "excess_control_pp": -106.68580419540478
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "omitted": "TSM",
+        "return_pct": 352.2844018091308,
+        "control_return_pct": 708.126711323766,
+        "excess_control_pp": -355.8423095146352
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "omitted": "TSM",
+        "return_pct": 385.5287990150071,
+        "control_return_pct": 708.126711323766,
+        "excess_control_pp": -322.5979123087589
+      },
+      {
+        "region": "US",
+        "rule": "q50",
+        "omitted": "TXN",
+        "return_pct": 476.70696126522694,
+        "control_return_pct": 791.5280468273601,
+        "excess_control_pp": -314.82108556213313
+      },
+      {
+        "region": "US",
+        "rule": "q75",
+        "omitted": "TXN",
+        "return_pct": 442.5619126763645,
+        "control_return_pct": 791.5280468273601,
+        "excess_control_pp": -348.9661341509956
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "omitted": "AIR.PA",
+        "return_pct": 327.584756520115,
+        "control_return_pct": 156.01950998241767,
+        "excess_control_pp": 171.5652465376973
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "omitted": "AIR.PA",
+        "return_pct": 453.36909492358035,
+        "control_return_pct": 156.01950998241767,
+        "excess_control_pp": 297.3495849411627
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "omitted": "ALFEN.AS",
+        "return_pct": 269.8437427834132,
+        "control_return_pct": 152.65401569593524,
+        "excess_control_pp": 117.18972708747793
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "omitted": "ALFEN.AS",
+        "return_pct": 297.70118611201366,
+        "control_return_pct": 152.65401569593524,
+        "excess_control_pp": 145.04717041607842
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "omitted": "AMS.SW",
+        "return_pct": 351.06880562058006,
+        "control_return_pct": 186.08317231971023,
+        "excess_control_pp": 164.98563330086984
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "omitted": "AMS.SW",
+        "return_pct": 526.661789549659,
+        "control_return_pct": 186.08317231971023,
+        "excess_control_pp": 340.5786172299488
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "omitted": "ASML",
+        "return_pct": 192.86814584548776,
+        "control_return_pct": 127.547139764367,
+        "excess_control_pp": 65.32100608112076
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "omitted": "ASML",
+        "return_pct": 330.6995248971017,
+        "control_return_pct": 127.547139764367,
+        "excess_control_pp": 203.1523851327347
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "omitted": "EDF.PA",
+        "return_pct": 325.4215574144523,
+        "control_return_pct": 158.00096749767306,
+        "excess_control_pp": 167.42058991677925
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "omitted": "EDF.PA",
+        "return_pct": 519.0566691369992,
+        "control_return_pct": 158.00096749767306,
+        "excess_control_pp": 361.0557016393261
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "omitted": "ENEL.MI",
+        "return_pct": 296.92703962385093,
+        "control_return_pct": 151.49697237053448,
+        "excess_control_pp": 145.43006725331645
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "omitted": "ENEL.MI",
+        "return_pct": 356.11087446202464,
+        "control_return_pct": 151.49697237053448,
+        "excess_control_pp": 204.61390209149016
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "omitted": "ENR.DE",
+        "return_pct": 335.4480957082506,
+        "control_return_pct": 122.638031513541,
+        "excess_control_pp": 212.8100641947096
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "omitted": "ENR.DE",
+        "return_pct": 498.3684782741738,
+        "control_return_pct": 122.638031513541,
+        "excess_control_pp": 375.73044676063284
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "omitted": "IFX.DE",
+        "return_pct": 284.4543708587573,
+        "control_return_pct": 143.35686317058202,
+        "excess_control_pp": 141.09750768817526
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "omitted": "IFX.DE",
+        "return_pct": 372.60961578890146,
+        "control_return_pct": 143.35686317058202,
+        "excess_control_pp": 229.25275261831945
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "omitted": "NEL.OL",
+        "return_pct": 354.22123014323466,
+        "control_return_pct": 180.19741978388,
+        "excess_control_pp": 174.02381035935466
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "omitted": "NEL.OL",
+        "return_pct": 454.60910462782243,
+        "control_return_pct": 180.19741978388,
+        "excess_control_pp": 274.41168484394245
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "omitted": "NXPI",
+        "return_pct": 302.43910743585485,
+        "control_return_pct": 146.41103643900394,
+        "excess_control_pp": 156.02807099685091
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "omitted": "NXPI",
+        "return_pct": 411.34610370277255,
+        "control_return_pct": 146.41103643900394,
+        "excess_control_pp": 264.9350672637686
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "omitted": "ORSTED.CO",
+        "return_pct": 325.6052174872667,
+        "control_return_pct": 179.0469977451865,
+        "excess_control_pp": 146.5582197420802
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "omitted": "ORSTED.CO",
+        "return_pct": 377.1352761352192,
+        "control_return_pct": 179.0469977451865,
+        "excess_control_pp": 198.0882783900327
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "omitted": "SAF.PA",
+        "return_pct": 298.037256964853,
+        "control_return_pct": 150.61545705747994,
+        "excess_control_pp": 147.42179990737304
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "omitted": "SAF.PA",
+        "return_pct": 344.96270838348335,
+        "control_return_pct": 150.61545705747994,
+        "excess_control_pp": 194.3472513260034
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "omitted": "STMPA.PA",
+        "return_pct": 312.26695437663,
+        "control_return_pct": 145.47094243448237,
+        "excess_control_pp": 166.79601194214763
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "omitted": "STMPA.PA",
+        "return_pct": 399.0898758953537,
+        "control_return_pct": 145.47094243448237,
+        "excess_control_pp": 253.61893346087135
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "omitted": "VIE.PA",
+        "return_pct": 264.80888407338614,
+        "control_return_pct": 154.75028862378878,
+        "excess_control_pp": 110.05859544959736
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "omitted": "VIE.PA",
+        "return_pct": 346.8677399067519,
+        "control_return_pct": 154.75028862378878,
+        "excess_control_pp": 192.11745128296315
+      },
+      {
+        "region": "EU",
+        "rule": "q50",
+        "omitted": "VWS.CO",
+        "return_pct": 315.8075021701229,
+        "control_return_pct": 152.68731743068557,
+        "excess_control_pp": 163.12018473943735
+      },
+      {
+        "region": "EU",
+        "rule": "q75",
+        "omitted": "VWS.CO",
+        "return_pct": 369.8206047692726,
+        "control_return_pct": 152.68731743068557,
+        "excess_control_pp": 217.13328733858705
+      }
+    ]
+  }
+}

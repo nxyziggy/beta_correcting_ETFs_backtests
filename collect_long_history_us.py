@@ -1,23 +1,90 @@
 #!/usr/bin/env python3
-"""Extract original-accession US annual facts from cached public SEC snapshots.
+"""Rebuild US long-history inputs from committed accession-level evidence.
+
+The default is offline and portable. --source sec --sec-cache-dir DIRECTORY
+repeats the original extraction from user-supplied SEC companyfacts snapshots;
+those complete response bodies are not included in this repository.
 
 Only missing periods are added. All five inputs must exist in one original
 10-K/20-F accession filed within 180 days of that period end. Later restated
 comparatives and amended filings are not substituted into old dates.
 """
-import csv,datetime as dt,hashlib,json
+import argparse,csv,datetime as dt,hashlib,json,math
 from pathlib import Path
 ROOT=Path(__file__).resolve().parent
 OUT=ROOT/'data/long_history/us'
-CACHE=ROOT.parent/'long_history_source_reports/us'
-OLD=ROOT.parent/'us_source_reports'
 FIELDS=('operating_income','net_income','operating_cash_flow','total_assets','current_liabilities')
-SPECIAL={'BE':OLD/'power/BE_facts.json','ETN':OLD/'power/ETN_facts.json',
-'FSLR':OLD/'solar_fuel/FSLR_companyfacts.json','PLUG':OLD/'solar_fuel/PLUG_companyfacts.json',
-'TSM':OLD/'tsm_gev/TSM_companyfacts.json'}
+TICKERS=('AMAT','BE','ENPH','ETN','FSLR','INTC','LIN','LRCX','MCHP','MU','NEE','PLUG','TSM','TXN')
 
-def main():
- OUT.mkdir(parents=True,exist_ok=True)
+
+def sec_snapshot_path(directory, ticker):
+ """Use only an explicitly supplied cache; never probe personal sibling paths."""
+ paths=sorted({p for name in (ticker+'_companyfacts.json',ticker+'_facts.json')
+               for p in directory.rglob(name) if p.is_file()})
+ if len(paths)!=1:
+  raise ValueError(f'{ticker}: expected one SEC snapshot under {directory}, found {len(paths)}')
+ return paths[0]
+
+
+def normalize_annual(source_id, raw, values):
+ t=raw['ticker'];end=raw['period_end'];url=raw['source']
+ return dict(ticker=t,period_end=end,fiscal_label='FY ending '+end,panel='long_history_original_annual',period_type='annual',publication_date=raw['publication_date'],availability_date=raw['availability_date'],availability_basis='Original annual SEC accession; conservative actual filing date',currency=raw['currency'],unit='million',**values,prior_total_assets='',prior_current_liabilities='',income_source=url,balance_source=url,cashflow_source=url,source_class='original_accession_annual',component_ids=source_id,observation_id='long_us_input_'+t+'_'+end,notes=raw['notes'])
+
+
+def evidence_value(evidence, raw, flow):
+ """Replay arithmetic using captured raw SEC facts, checking accession and dates."""
+ if 'val' in evidence:
+  expected_start=raw['period_start'] if flow else None
+  if (evidence['accn']!=raw['accession'] or evidence['end']!=raw['period_end']
+      or evidence.get('start')!=expected_start or evidence['unit']!=raw['currency']
+      or evidence['filed']!=raw['publication_date']):
+   raise ValueError(f"Evidence accession/date/unit mismatch: {raw['ticker']} {raw['period_end']}")
+  value=float(evidence['val'])/1e6
+ elif 'gross_profit' in evidence and 'operating_expenses' in evidence:
+  value=evidence_value(evidence['gross_profit'],raw,True)-evidence_value(evidence['operating_expenses'],raw,True)
+ elif 'continuing_operations' in evidence and 'discontinued_operations' in evidence:
+  value=evidence_value(evidence['continuing_operations'],raw,True)+evidence_value(evidence['discontinued_operations'],raw,True)
+ elif 'components' in evidence:
+  # Eaton's derived subtotal: the normalized component copies are not inputs.
+  parts={key:evidence_value(raw['evidence'][key],raw,True) for key in ('revenue','cost','sga','rd')}
+  value=parts['revenue']-parts['cost']-parts['sga']-parts['rd']
+ else:
+  raise ValueError(f"Unsupported captured SEC arithmetic: {raw['ticker']} {raw['period_end']}")
+ if not math.isfinite(value):
+  raise ValueError('Nonfinite SEC financial value')
+ qa=evidence.get('statement_qa')
+ if qa and abs(value-qa['normalized_group_cfo'])>1e-6:
+  raise ValueError(f"Captured CFO statement QA mismatch: {raw['ticker']} {raw['period_end']}")
+ return value
+
+
+def rebuild_frozen(source_dir=OUT):
+ """Recompute SEC rows; append separately captured manual GFS rows unchanged.
+
+ The registry is a frozen input in this mode. This reproduces normalization,
+ not the acquisition of the uncommitted full SEC companyfacts responses.
+ """
+ registry=json.loads((source_dir/'source_registry.json').read_text())
+ manual_registry=json.loads((source_dir/'manual_source_registry.json').read_text())
+ manual_rows=json.loads((source_dir/'manual_inputs.json').read_text())
+ rows=[]
+ for sid,raw in registry.items():
+  if sid in manual_registry:
+   if raw!=manual_registry[sid]:
+    raise ValueError(f'Manual registry mismatch: {sid}')
+   continue
+  values={field:evidence_value(raw['evidence'][field],raw,field in FIELDS[:3]) for field in FIELDS}
+  for field,value in values.items():
+   if value!=raw[field]:
+    raise ValueError(f'Frozen normalized field differs from captured facts: {sid} {field}')
+  rows.append(normalize_annual(sid,raw,values))
+ if set(manual_registry)-set(registry):
+  raise ValueError('Manual source missing from frozen registry')
+ rows+=manual_rows
+ return rows
+
+
+def extract_sec(sec_cache_dir):
  existing=list(csv.DictReader((ROOT/'data/financials_actual_annual.csv').open()))
  existing+=json.loads((ROOT/'data/us_restoration/normalized_inputs.json').read_text())['annual']
  existing+=json.loads((ROOT/'data/research_corrections/lam_inputs.json').read_text())[:1]
@@ -25,8 +92,8 @@ def main():
  qa_rows=json.loads((OUT/'cashflow_mapping_qa.json').read_text())['checks']
  qa={(r['ticker'],r['period_end']):r for r in qa_rows}
  rows=[];registry={};exclusions=[];manifest=[]
- for t in ('AMAT','BE','ENPH','ETN','FSLR','INTC','LIN','LRCX','MCHP','MU','NEE','PLUG','TSM','TXN'):
-  path=SPECIAL.get(t,CACHE/(t+'_companyfacts.json'));doc=json.loads(path.read_text());cik=doc['cik']
+ for t in TICKERS:
+  path=sec_snapshot_path(sec_cache_dir,t);doc=json.loads(path.read_text());cik=doc['cik']
   namespace='ifrs-full' if t=='TSM' else 'us-gaap';facts=doc['facts'][namespace];unit='TWD' if t=='TSM' else 'USD'
   manifest.append(dict(ticker=t,url=f'https://data.sec.gov/api/xbrl/companyfacts/CIK{cik:010d}.json',sha256=hashlib.sha256(path.read_bytes()).hexdigest(),capture_file=path.name))
   tags=({'operating_income':['ProfitLossFromOperatingActivities'],'net_income':['ProfitLoss'],'operating_cash_flow':['CashFlowsFromUsedInOperatingActivities'],'total_assets':['Assets'],'current_liabilities':['CurrentLiabilities']} if namespace=='ifrs-full' else {'operating_income':['OperatingIncomeLoss'],'net_income':['ProfitLoss','NetIncomeLoss'],'operating_cash_flow':['NetCashProvidedByUsedInOperatingActivities','NetCashProvidedByUsedInOperatingActivitiesContinuingOperations'],'total_assets':['Assets'],'current_liabilities':['LiabilitiesCurrent']})
@@ -94,9 +161,35 @@ def main():
    rows.append(dict(ticker=t,period_end=end,fiscal_label='FY ending '+end,panel='long_history_original_annual',period_type='annual',publication_date=date,availability_date=date,availability_basis='Original annual SEC accession; conservative actual filing date',currency=unit,unit='million',**values,prior_total_assets='',prior_current_liabilities='',income_source=url,balance_source=url,cashflow_source=url,source_class='original_accession_annual',component_ids=sid,observation_id='long_us_input_'+t+'_'+end,notes=notes))
  if (OUT/'manual_inputs.json').exists():
   rows+=json.loads((OUT/'manual_inputs.json').read_text());registry.update(json.loads((OUT/'manual_source_registry.json').read_text()));manifest+=json.loads((OUT/'manual_source_manifest.json').read_text())
- for name,v in [('normalized_inputs',rows),('source_registry',registry),('exclusions',exclusions),('source_manifest',manifest)]:
-  target=OUT/(name+'.json');temp=target.with_suffix('.json.tmp');temp.write_text(json.dumps(v,indent=2)+'\n');temp.replace(target)
- print('Recovered',len(rows),'observations; exclusions',len(exclusions))
- for t in sorted({r['ticker'] for r in rows}):print(t,[(r['period_end'],r['availability_date']) for r in rows if r['ticker']==t])
- print('EXCLUSIONS',exclusions)
+ return dict(normalized_inputs=rows,source_registry=registry,exclusions=exclusions,source_manifest=manifest)
+
+
+def main():
+ parser=argparse.ArgumentParser(description=__doc__)
+ parser.add_argument('--source',choices=('frozen','sec'),default='frozen',help='frozen: replay committed accession evidence; sec: extract supplied full snapshots')
+ parser.add_argument('--sec-cache-dir',type=Path,help='explicit directory containing SEC snapshots (required with --source sec)')
+ parser.add_argument('--output-dir',type=Path,default=OUT,help='output directory; frozen mode writes normalized_inputs.json only')
+ parser.add_argument('--check',action='store_true',help='compare rebuilt records with committed normalized inputs without writing files')
+ args=parser.parse_args()
+ if args.source=='sec' and (args.sec_cache_dir is None or not args.sec_cache_dir.is_dir()):
+  parser.error('--source sec requires an existing --sec-cache-dir')
+ if args.source=='frozen' and args.sec_cache_dir is not None:
+  parser.error('--sec-cache-dir applies only to --source sec')
+ outputs=(dict(normalized_inputs=rebuild_frozen()) if args.source=='frozen' else extract_sec(args.sec_cache_dir))
+ if args.check:
+  for name,value in outputs.items():
+   committed=json.loads((OUT/(name+'.json')).read_text())
+   if value!=committed:
+    raise ValueError(f'Rebuilt {name} differs from committed records')
+  print(f"Verified {len(outputs['normalized_inputs'])} observations from {args.source} inputs; no files written")
+  return
+ args.output_dir.mkdir(parents=True,exist_ok=True)
+ for name,value in outputs.items():
+  target=args.output_dir/(name+'.json');temp=target.with_suffix('.json.tmp')
+  temp.write_text(json.dumps(value,indent=2)+'\n');temp.replace(target)
+ print(f"Rebuilt {len(outputs['normalized_inputs'])} observations from {args.source} inputs")
+ if args.source=='frozen':
+  print('Frozen registry, exclusions and original capture manifest left unchanged; full SEC response acquisition was not replayed')
+
+
 if __name__=='__main__':main()

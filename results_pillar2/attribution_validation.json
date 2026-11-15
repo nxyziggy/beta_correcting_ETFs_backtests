@@ -13,11 +13,11 @@
     },
     {
       "path": "results_pillar2/input_manifest.json",
-      "sha256": "9e02889081f299fd11084e34bd29a2b8452673fc0b28595c26704eb5532abfb1"
+      "sha256": "30415df8bef51c3aeddf07cfdbdc6232dfb43e0fbb25af9c1fa71804ea435140"
     },
     {
       "path": "results_pillar2/preserved_manifest.json",
-      "sha256": "6aeb237cd02729a013d238ce6e71fe3fb3be794168d218b0782a624e298b4370"
+      "sha256": "0b0d9c8694eb57e563f7da9a3cde7aded00c7a019274c3e5e3e37e930f24f8c2"
     },
     {
       "path": "results_pillar2/US_pillar2_direct_source_policy_q50_10bp_lag0_from2019-06-30_earliest_complete/holdings.csv",

@@ -1,55 +1,86 @@
 # Longer histories with complete eligible-company coverage
 
-Specified before evaluating the extended portfolio returns. This extension
-builds on the unmerged coverage/timing corrections in PR #3. Keep both PRs open.
+This document describes the released longer-history accounting-score experiment.
+It is not an independently timestamped preregistration: the method and results
+were committed together, and the earlier results were already known.
 
-Keep all 16 US and 15 EU candidates in the retrospective universe. Respect real
-listing/spin-off dates and EDF's delisting. The candidate list was selected
-retrospectively; extending it backward does not remove survivorship/selection
-bias or reconstruct the investable thematic universe at those earlier dates.
+The retrospective universe contains all 16 US and 15 EU candidates, subject to
+real listing/spin-off dates and EDF's delisting. Extending this fixed candidate
+list backward does not remove survivorship/selection bias or reconstruct the
+investable thematic universe at those earlier dates.
 
-Scope clarification: these are retrospective accounting-score experiments,
-not a historical implementation of Pillar 2 industrial-policy eligibility.
-No government programme determines either the main start or the matched timing
-start. The optional dated participation gate in backtest.py is not enabled.
-The captured policy_eligibility.csv ledger has no event before 2022; it is an
-incomplete evidence inventory, not proof that no earlier programmes existed.
-A Pillar 2 test requires a separately reconstructed, dated company-eligibility
-history. Availability of 2019 accounting data does not establish that history.
+This experiment does not apply a dated government-program eligibility gate.
+Government programs determine neither its main start nor its matched timing
+start. The separate historical public-support experiment is described in
+`PILLAR2_METHOD.md`; its eligibility assumptions do not establish eligibility
+for this accounting-data experiment retrospectively.
 
-Recover missing original financial reports and publication evidence backward,
-prioritizing annual observations; retain available interim observations without
-inventing quarters or backdating revised comparatives. Preserve all frozen
-prices, previous financial observations, strategy rules, position limits,
-transaction costs and the 2 November 2026 endpoint. Add official FX observations
-only where the earlier window lacks them; never overwrite an existing rate.
-Do not use another company or pre-merger predecessor as a price proxy.
+The extension adds missing original financial reports and publication evidence,
+prioritizing annual observations and retaining available interim observations.
+It does not invent quarters, backdate revised comparative figures, or use
+pre-merger predecessors as price proxies. Frozen prices, previous financial
+observations, strategy rules, position limits, transaction costs and the
+2 November 2026 endpoint remain the basis of the comparison. Earlier FX
+observations supplement missing dates without replacing existing rates.
 
-Select starts by data availability, never by returns. Audit every month from
-available market-history bounds. A main history must include every then-listed
-candidate with usable prices, FX and dated financial inputs throughout its
-window. Missing source capture is not a reason to redefine a company out of
-the candidate pool. If a strict all-listed-name history cannot begin earlier,
-report the exact blocking names/periods and distinguish a labeled coverage
-sensitivity from the main result. Reports retain the first-of-month cutoff and
-550-day annual/275-day interim freshness limits. No stale carry-forward.
+Starts follow the recorded data-availability audit, rather than a search over
+returns. A main history includes every then-listed candidate with usable prices,
+FX and dated financial inputs throughout its window. The audit reports blocking
+names and periods; an unrecovered report does not remove a company from the
+candidate pool. This establishes the earliest complete window in the recovered
+dataset, not proof that every earlier archive was exhausted. The source-date
+panel uses the first-of-month cutoff and 550-day annual/275-day interim freshness
+limits, with no indefinite stale carry-forward. Listings after the cutoff enter
+the next information set.
 
-Show Q50, Q75 and equal weight for the earliest complete source-date history,
-a common cross-region start, and the prior matched starts with added historical
-facts, so effects of new data can be separated from the longer holding period.
-Listing eligibility is evaluated at the first-of-month information cutoff;
-a company listing later in that month first enters the next information set.
-Include the common 180/90-day timing policy for all inputs and components as a
-sensitivity. Following the user's additional correction, extend its annual
-freshness limit from 550 to 730 days and interim limit from 275 to 365 days.
-The source-date panel retains 550/275 days. No source is made usable before its
-real publication. Retain the old delayed/unextended panel only as a diagnostic,
-list every company-month gap in both treatments, and compare delayed strategies
-against the fixed source-date equal-weight control as well as their own
-eligible-coverage control. Do not describe a changing-coverage comparison as
-a pure timing test.
-Include annualized return, monthly drawdown/volatility, year returns, holdings,
-coverage, original-data provenance and validation. Document the actual oldest
-usable data recovered, and remaining archive gaps; do not claim that an
-unsearched earlier period is impossible or that the vendor price history is a
-certified point-in-time archive.
+Results compare Q50, Q75 and equal weight from the earliest complete source-date
+history, a common cross-region start, and the prior matched starts with added
+historical facts. These separate new observations from a longer holding period.
+The common timing sensitivity imposes a 180-day annual/90-day interim floor on
+all inputs and their components, never making a source available before its
+actual publication. Its freshness limits increase by the same delays, to
+730/365 days. The old delayed/unextended treatment is retained as a diagnostic.
+Every missing company-month is listed. Delayed strategies are compared with
+both the fixed source-date control and their own eligible-coverage control;
+a changing coverage set is not a pure timing test. In the complete matched
+window the source-date and adjusted-delay control paths are identical.
+
+Reporting includes annualized returns, monthly drawdown and volatility, calendar
+year returns, holdings, coverage, provenance and validation. The oldest usable
+observations recovered and remaining archive gaps are disclosed. Vendor monthly
+prices are not a certified point-in-time total-return archive; independent dated
+daily validation begins in July 2026.
+
+## Portable financial-input rebuild
+
+`python3 collect_long_history_us.py --check` replays the committed SEC
+accession-level evidence in `data/long_history/us/source_registry.json`, including
+the documented operating-income and cash-flow arithmetic, and compares all
+73 observations with the released normalized inputs without writing files.
+The two separately captured GlobalFoundries observations come from the committed
+manual input and source files. The default command without `--check` rebuilds
+only `normalized_inputs.json`; `--output-dir DIRECTORY` writes that file elsewhere.
+It does not overwrite the frozen source evidence or capture manifest.
+
+This reproduces normalization, not the acquisition of the complete SEC responses.
+Those original companyfacts response bodies are absent from the repository;
+their filenames, URLs and hashes are recorded in `source_manifest.json`.
+Re-extraction from independently supplied snapshots requires the explicit command
+`python3 collect_long_history_us.py --source sec --sec-cache-dir DIRECTORY`.
+The collector no longer searches private folders outside the clone. Current
+SEC responses can differ from the original snapshots as filings accumulate.
+
+## FX provenance limitation
+
+`data/long_history/prices/fx_web_capture.json` contains 2,374 saved rate records
+attributed to the FRED series pages, dated 2 January 2018 through 22 May 2020.
+The offline normalization checks that 310 overlapping records equal the frozen
+rates and appends the remaining 2,064 records. This consistency check does not
+independently validate the newly added rates.
+
+The accompanying `fx_download_manifest.json` records four failed requests. It
+contains no successful acquisition record for the saved capture, and the repo
+has no acquisition timestamp or original response body tying that capture to
+those FRED pages. The supplement is computationally reproducible from the saved
+values, but its original acquisition chain is incomplete. No successful download
+or source-capture evidence has been reconstructed or inferred from the URLs.

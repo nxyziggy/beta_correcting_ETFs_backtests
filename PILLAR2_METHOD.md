@@ -1,10 +1,46 @@
-# Historical Pillar 2 admission
+# Any prior public support screen
 
-Specified before calculating the policy-gated returns. This is an extension of
-the accounting-score experiment, using all 16 US and 15 EU research candidates.
-It reconstructs dated support relationships within that retrospective list;
-it does not reconstruct every historical listed recipient outside the list.
-Keep PR #4 open and unmerged.
+This broad historical extension of the accounting-score experiment uses all
+16 US and 15 EU research candidates. It reconstructs dated support relationships
+within that retrospective list, not every historical listed recipient.
+The rules were developed after earlier ungated returns had been observed.
+Methods and results were committed together; no independent preregistration
+or untouched holdout is claimed. Existing `pillar2` filenames and API fields
+are retained for compatibility, not as a claim of full Pillar 2 replication.
+
+The [article](https://mitleadtrades.substack.com/p/performative-beta-trap-correcting)
+discusses confirmed subsidies broadly, but its operational examples name
+CHIPS/IRA and EU Chips/IPCEI/France 2030/Green Deal streams and place Infineon
+and NXP admission in June 2023. This extension also accepts much earlier
+programmes and admits both companies from a 2014 research project. It does
+not replicate the article's specified streams, baskets or event dates.
+Only 2 of the ledger's 31 earliest direct admissions use those modern streams:
+TSMC's CHIPS award and GE Vernova's IRA credits. This is a classification of
+the first captured event, not a claim about every later award to a company.
+
+## How much the screen binds
+
+In the common June 2019–October 2026 monthly window, direct admission excludes
+79 of 2,614 listed company-months (3.02%); including indirect exposure excludes
+2 (0.08%). The denominator counts each listed candidate once per complete
+month, before scoring, without duplicating timing treatments or portfolio
+rules. The terminal November 2 partial return is not another company-month.
+Exclusion means no qualifying event known before the first of that month;
+score rejection and missing financial inputs are separate conditions.
+
+| Definition | Region | Listed company-months | Excluded | Excluded companies |
+|---|---|---:|---:|---|
+| Direct/subsidiary | US | 1,336 | 68 | TSMC 66; Micron 2 |
+| Direct/subsidiary | EU | 1,278 | 11 | Alfen 11 |
+| Including indirect | US | 1,336 | 2 | Micron 2 |
+| Including indirect | EU | 1,278 | 0 | None |
+
+The runner exports `binding_rates.csv` and every excluded observation in
+`binding_exclusions.csv`. TSMC's direct exclusions run June 2019–November
+2024; Alfen's run June 2019–April 2020. Micron is excluded in June and July
+2019, becomes eligible in August, and still waits for the September quarterly
+purchase review. This screen separates few observations within the chosen
+pool and does not establish discrimination across the wider stock market.
 
 ## What qualifies
 
@@ -42,6 +78,34 @@ relationships to supported projects or targeted customer credits. It must
 have a dated company-specific link; generic supply-chain exposure is excluded.
 This distinction avoids treating indirect beneficiaries as grant recipients.
 
+## Amount evidence
+
+Every event has `award_amount`, `award_currency`, `award_amount_status` and an
+explanation. A numeric company amount retains its stated basis: approved
+contract, conditional commitment, ceiling, lower bound or recognized tax
+credit. Unknown amounts are null, never zero. `project_total_amount`, currency
+and basis retain consortium/project figures separately, including the
+distinction between total project cost and public funding. These fields do
+not enter eligibility, scores or weights; no materiality filter is introduced.
+The event ledger and generated `award_amounts.csv` retain source URLs.
+
+Lam's qualifying training contract is USD48,816. TI's TEF commitment is
+USD5,124,000, conditional on investment and staffing. EnLight's EUR41.3m is
+total project cost across 27 partners, partly publicly funded, not an award
+to either Infineon or NXP. Neither individual company amount is established.
+Duplicate consortium totals must not be added across participating companies.
+
+Alfen's 2018 prospectus reports EUR968,000 in 2017 government-grant income
+for an African solar/storage system without naming the grantor or programme.
+The later Dutch DEI ISES record names Alfen and a EUR2,776,119 project grant;
+the final-report publication is dated April 13, 2020. The project descriptions
+plausibly match, but earlier public identification of the Dutch grantor and
+programme remains unresolved. The existing direct boundary is retained, with
+the separately documented SDE+ customer link admitted in the indirect panel.
+This is an evidence/classification choice, not proof that Alfen had no earlier
+support. The final report also says lower project costs reduced the subsidy;
+the registry amount is not treated as final cash received or retained earnings.
+
 ## Dates and persistence
 
 An event becomes usable only after the latest of the formal event, its captured
@@ -50,9 +114,9 @@ describing an older grant is not backdated. Undated current database entries
 do not establish historical public availability. Store source URLs, document
 dates, factual paraphrases and search/coverage notes for every candidate.
 
-The gate implements **historical confirmed-recipient admission**, consistent
-with the article's "has received" rule. A completed project does not erase
-past receipt. This is not a balance of continuing subsidy entitlement, a
+The screen implements **historical confirmed-recipient admission** under the
+broad extension defined here. A completed project does not erase past receipt.
+This is not a balance of continuing subsidy entitlement, a
 claim that money remains available, or a test of subsidy utilization. Preserve
 known project end dates separately. When a qualifying commitment is withdrawn
 or the relationship ends, apply an evidenced eligibility end no earlier than

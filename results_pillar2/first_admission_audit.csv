@@ -1,0 +1,32 @@
+ticker,region,event_id,eligible_from,programme,article_named_stream
+AIR.PA,EU,AIR_ATI_BROUGHTON_2014,2014-11-21,Aerospace Technology Institute: Broughton wing manufacturing R&D,earlier/other programme
+ALFEN.AS,EU,ALFEN_DEI_ISES_2020,2020-04-13,"Dutch Demonstratie Energie Innovatie Tender 1: ISES, DEI1400018",earlier/other programme
+AMAT,US,AMAT_DOE_SSL_2012,2012-02-29,"DOE Building Technologies Program/NETL, US ManufacturingI solid-state lighting",earlier/other programme
+AMS.SW,EU,AMS_SW_ENIAC_CSI_2010,2010-07-30,"ENIAC-JU 2009 CSI, Central Nervous System Imaging",earlier/other programme
+ASML,EU,ASML_ENIAC_E450EDL_2013,2013-11-13,"ENIAC Joint Undertaking E 450 EDL, grant agreement 325613",earlier/other programme
+BE,US,US_BE_DELAWARE_RECEIPT_2018,2018-06-12,Delaware Strategic Fund manufacturing and employment incentive,earlier/other programme
+EDF.PA,EU,EDF_HPC_CFD_2016,2016-09-29,Hinkley Point C Contract for Difference,earlier/other programme
+ENEL.MI,EU,ENEL_GRID4EU_2014,2014-12-16,FP7 GRID4EU large-scale smart-grid demonstration,earlier/other programme
+ENPH,US,US_ENPH_CEC_PIER_2009,2010-03-31,"California Energy Commission Public Interest Energy Research grant to SolarTech, Santa Clara University and Enphase",earlier/other programme
+ENR.DE,EU,ENR_HYFLEXPOWER_2020,2020-09-28,"Horizon 2020 HYFLEXPOWER, grant 884229",earlier/other programme
+ETN,US,US_ETN_DOE_COOLING_2010,2011-03-18,DOE-funded Eaton/HP energy-efficient water-cooled IT rack research,earlier/other programme
+FSLR,US,US_FSLR_48C_2010,2011-02-28,ARRA Section 48C advanced energy manufacturing tax credit: Perrysburg manufacturing expansion,earlier/other programme
+GEV,US,US_GEV_45X_WIND_2023,2024-04-02,Inflation Reduction Act advanced manufacturing production credits for the Wind business,Inflation Reduction Act
+GFS,US,GFS_NY_GRANTS_F1_2021,2021-10-04,Empire State Development semiconductor-fab investment grants,earlier/other programme
+IFX.DE,EU,IFX_DE_ENIAC_ENLIGHT_2014,2014-12-01,"ENIAC EnLight, Energy Efficient and Intelligent Lighting Systems",earlier/other programme
+INTC,US,INTC_OR_PRIOR_SIP_CONFIRMED_2014,2014-08-26,"Oregon Strategic Investment Program, existing 2005 Intel agreement",earlier/other programme
+LIN,US,US_LIN_PRAXAIR_AMO_2016,2018-10-31,DOE Advanced Manufacturing Office: Novomer/Praxair conversion of carbon dioxide to chemicals,earlier/other programme
+LRCX,US,LRCX_CA_ETP_2016,2016-01-22,"California Employment Training Panel, ET 16-0304",earlier/other programme
+MCHP,US,MCHP_GRESHAM_SIP_2017,2017-04-04,Oregon/Gresham Strategic Investment Program and Zone,earlier/other programme
+MU,US,MU_VA_SMG_2019,2019-07-01,Virginia Semiconductor Manufacturing Grant Fund,earlier/other programme
+NEE,US,US_NEE_GENESIS_1705_2011,2011-08-29,DOE Title XVII Section 1705 Financial Institution Partnership Program: Genesis Solar,earlier/other programme
+NEL.OL,EU,NEL_AKERSHUS_PPP_2015,2015-07-02,Akershus County Council hydrogen station public-private partnership,earlier/other programme
+NXPI,EU,NXPI_ENIAC_ENLIGHT_2014,2014-12-01,"ENIAC EnLight, Energy Efficient and Intelligent Lighting Systems",earlier/other programme
+ORSTED.CO,EU,ORSTED_FIDER_CFD_2014,2014-11-07,"UK FID Enabling for Renewables: Burbo Bank Extension, Walney Extension and Hornsea 1",earlier/other programme
+PLUG,US,US_PLUG_ARRA_FUELCELLS_2009,2011-05-09,DOE ARRA fuel-cell market transformation grants: combined heat and power and backup power,earlier/other programme
+SAF.PA,EU,SAF_CLEAN_SKY_OPEN_ROTOR_2017,2017-10-03,FP7 Clean Sky: Open Rotor / Sustainable and Green Engines,earlier/other programme
+STMPA.PA,EU,STMPA_PA_ENIAC_CSI_2010,2010-07-30,"ENIAC-JU 2009 CSI, Central Nervous System Imaging",earlier/other programme
+TSM,US,TSM_CHIPS_FINAL_2024,2024-11-15,"CHIPS Incentives Program, TSMC Arizona leading-edge fabs",CHIPS Act
+TXN,US,TXN_TEF_2019,2019-04-18,"Texas Enterprise Fund, Richardson 300 mm fab",earlier/other programme
+VIE.PA,EU,VIE_E2DISTRICT_FUNDED_2017,2017-11-13,"Horizon 2020 E2District, EE-13-2015 / grant 696009",earlier/other programme
+VWS.CO,EU,VWS_EUDP_VERTICAL_INSTALLER_2018,2018-06-28,Danish EUDP: Vertical Installer wind-turbine installation technology,earlier/other programme

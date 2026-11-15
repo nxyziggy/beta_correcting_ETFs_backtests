@@ -4,10 +4,6 @@
     "sha256": "8140c10b206dcf8c4583fadf59744ae08a8e60120e8ff6b01dbb6f7272511153"
   },
   {
-    "path": "backtest.py",
-    "sha256": "2af12310d739b7b352c4a8e634fa10d3e70fe3df0365697aea8107e397506b6e"
-  },
-  {
     "path": "data/actual_dates/airbus_metadata.json",
     "sha256": "78a46c40460bb39f07464907981ea107c335861a181c099be0972f089e5814a6"
   },
@@ -7089,7 +7085,7 @@
   },
   {
     "path": "results_eu_restored/input_manifest.json",
-    "sha256": "61d375b1d2cdd6d3e4f002ed0af7bb4c56efed461cb4f7624b5ae32427591b20"
+    "sha256": "c565ece783d9b634150153fb38d585ba953b906d4a8dffbd7c8fada6e033cf59"
   },
   {
     "path": "results_eu_restored/restored_company_coverage.csv",
@@ -7102,10 +7098,6 @@
   {
     "path": "results_eu_restored/validation.json",
     "sha256": "06214e00bf2f358a8d5e246b11826dfcd775fb707e89178689383b4d52c96abc"
-  },
-  {
-    "path": "run_eu_restoration.py",
-    "sha256": "52fdc0fac0d8ff9aec98b7463654dbe7a0e37824e27697e0d642203adf2c6ac9"
   },
   {
     "path": "tables_actual/01_Matched_Performance.csv",

@@ -5,7 +5,7 @@
   },
   {
     "path": "backtest.py",
-    "sha256": "2af12310d739b7b352c4a8e634fa10d3e70fe3df0365697aea8107e397506b6e"
+    "sha256": "7f259511b5f6f32a436c4ae109f2cba0b3dabff7b4d35309a0681590af6d7cfe"
   },
   {
     "path": "data/eu_interim/arithmetic_audit.json",
@@ -797,10 +797,14 @@
   },
   {
     "path": "run_eu_interim.py",
-    "sha256": "540aedb52c67a505e7878ddb71fd1134e0502534e891cbfcce24f429220df4f3"
+    "sha256": "64843f9fe20ab1bb30508fb03c3b40637a2ab25efdd9956e1af7acbec7a89f8a"
   },
   {
     "path": "run_eu_restoration.py",
     "sha256": "52fdc0fac0d8ff9aec98b7463654dbe7a0e37824e27697e0d642203adf2c6ac9"
+  },
+  {
+    "path": "snapshot_integrity.py",
+    "sha256": "55a6490958ed0cdb6036bea6f237760f81375a31fd852dab5f8cd65e8d57cf19"
   }
 ]

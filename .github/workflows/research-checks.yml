@@ -1,0 +1,32 @@
+name: Research checks
+
+on:
+  pull_request:
+  push:
+    branches: [main, codex/extend-long-history]
+
+permissions:
+  contents: read
+
+jobs:
+  tests-and-ledger-audit:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['3.12', '3.14']
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Test selection, information timing, coverage and diagnostics
+        run: python -m unittest discover -p 'test_*.py'
+      - name: Replay committed financial evidence without external caches
+        run: python collect_long_history_us.py --check
+      - name: Verify legacy runner compatibility and numeric reproduction
+        run: |
+          python run_eu_interim.py
+          python run_us_restoration.py
+          python run_research_corrections.py
+      - name: Independently audit committed experiment ledgers
+        run: python audit_recovery_experiments.py

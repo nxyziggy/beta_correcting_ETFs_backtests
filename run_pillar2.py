@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Reconstruct dated policy admission and rerun the frozen accounting strategies."""
+"""Audit an any prior public support screen and rerun frozen accounting strategies."""
 import datetime as dt
 import json
 from collections import defaultdict
@@ -27,6 +27,15 @@ def read_research():
     assert len({e['event_id'] for e in events}) == len(events), 'Duplicate event identifier'
     for e in events:
         assert e['ticker'] in universe and e['region'] == universe[e['ticker']]['region']
+        assert e['award_amount_status'] and e['award_amount_note']
+        for prefix in ('award', 'project_total'):
+            amount, currency = e[prefix+'_amount'], e[prefix+'_currency']
+            assert (amount is None) == (currency is None), e['event_id']
+            if amount is not None:
+                assert isinstance(amount, (int, float)) and amount > 0
+                assert currency in ('USD','EUR','GBP','DKK','NOK')
+        if e['award_amount_status'] == 'project_total_only':
+            assert e['award_amount'] is None and e['project_total_amount'] is not None
         assert isinstance(e['qualifies'], bool)
         assert e['relationship'] in ('direct', 'subsidiary', 'indirect')
         for key in ('event_date', 'public_date', 'eligible_from'):
@@ -131,6 +140,85 @@ def start_audit(rows):
     return min(complete_starts),list(reversed(audit))
 
 
+def support_binding_audit(rows, summaries):
+    """Monthly admission exclusions, not unselected holdings or missing financials."""
+    totals, exclusions = [], []
+    for mode in MODES:
+        start = next(s['start'] for s in summaries if s['definition']==mode
+                     and s['window']=='cross_region' and s['timing']=='source')
+        listed = [r for r in rows if r['definition']==mode and r['timing']=='source'
+                  and r['date']>=start and r['listed_at_cutoff'] in (True,'True')]
+        excluded = [r for r in listed if r['policy_eligible'] not in (True,'True')]
+        exclusions += [dict(definition=mode,region=r['region'],ticker=r['ticker'],
+                            date=r['date'],information_cutoff=r['information_cutoff'],
+                            reason=r['reason']) for r in excluded]
+        for region in ('US','EU','US+EU'):
+            rs=[r for r in listed if region=='US+EU' or r['region']==region]
+            no=[r for r in excluded if region=='US+EU' or r['region']==region]
+            totals.append(dict(definition=mode,region=region,start=start,
+                               end=max(r['date'] for r in rs),listed_company_months=len(rs),
+                               excluded_company_months=len(no),binding_rate=len(no)/len(rs)))
+    return totals, exclusions
+
+
+def first_admission_audit(events):
+    """Classify the earliest direct event's scheme, not every later company award."""
+    rows=[]
+    for ticker in sorted({e['ticker'] for e in events}):
+        eligible=sorted((e for e in events if e['ticker']==ticker and accepted(e,'direct')),
+                        key=lambda e:(e['eligible_from'],e['event_id']))
+        if not eligible:continue
+        e=eligible[0]
+        rows.append(dict(ticker=ticker,region=e['region'],event_id=e['event_id'],
+                         eligible_from=e['eligible_from'],programme=e['programme'],
+                         article_named_stream=e.get('article_named_stream') or 'earlier/other programme'))
+    return rows
+
+
+def award_amount_audit(events):
+    fields=('event_id','ticker','region','qualifies','relationship','award_amount',
+            'award_currency','award_amount_status','award_amount_note','project_total_amount',
+            'project_total_currency','project_total_basis','article_named_stream')
+    return [dict(**{k:e.get(k) for k in fields},
+                 sources='|'.join(s['url'] for s in e['sources'])) for e in events]
+
+
+def original_ledger_start_audit(lam, registry):
+    """Coverage diagnostic only; the sparse original ledger is not reclassified."""
+    result=[]
+    for region in ('US','EU'):
+        inp=HistoryInputs(region,'source',lam,registry)
+        dates=sorted(d for d in set.intersection(*(set(inp.prices[t]) for t in benchmark(region)))
+                     if '2019-01-01'<=d<=inp.extension_config['complete_month_end'])
+        rows=[]
+        for date in dates:
+            cutoff=date[:7]+'-01'
+            eligible={e['ticker'] for e in inp.policy if e['region']==region
+                      and e['start_date']<cutoff and (not e.get('end_date') or cutoff<e['end_date'])
+                      and is_listed(inp,e['ticker'],date)}
+            scores,_=inp.signals(region,date,'hybrid',gate=True)
+            missing=eligible-set(scores)
+            for ticker in eligible:
+                try:
+                    inp.price(ticker,date,region)
+                    for b in benchmark(region):inp.price(b,date,region)
+                except ValueError:missing.add(ticker)
+            rows.append(dict(date=date,eligible=sorted(eligible),covered=len(eligible)-len(missing),
+                             missing=sorted(missing)))
+        quarters=[r for r in rows if r['date'][5:7] in ('03','06','09','12')]
+        first=next(r for r in quarters if r['covered']>=4 and not r['missing'])
+        complete=next(r for r in quarters if all(s['covered']>=4 and not s['missing']
+                                               for s in rows if s['date']>=r['date']))
+        five=next((r for r in quarters if r['covered']>=5 and not r['missing']),None)
+        result.append(dict(region=region,first_investable_quarter=first,
+                           first_complete_remaining_window=complete,first_five_name_quarter=five))
+    return dict(source='data/policy_eligibility.csv',financial_inputs='HistoryInputs(source), hybrid',
+                engine_start_requirement='At least four scored names at a quarter-end; default minimum_holdings=1 does not lower that startup threshold.',
+                coverage_requirement='Every then-listed eligible company has usable financial and investor-currency price data; complete suffix checked through the last full month.',
+                limitation='The original sparse ledger is not exhaustive and includes EU programme approvals/participation with national grants pending. This diagnostic does not certify a confirmed-article-stream reconstruction.',
+                results=result)
+
+
 def validate_policy(result, inp):
     check=validate(result,inp)
     assert result['summary']['documented_policy_gate']
@@ -158,7 +246,8 @@ def main():
     folders=('data','results_actual','results_us_restored','results_eu_restored','results_eu_interim',
              'results_research_corrected','results_long_history')
     frozen={str(p.relative_to(ROOT)):digest(p) for folder in folders for p in (ROOT/folder).rglob('*')
-            if p.is_file() and 'pillar2' not in p.parts and '__pycache__' not in p.parts}
+            if p.is_file() and 'pillar2' not in p.parts and 'recovery_experiments' not in p.parts
+            and '__pycache__' not in p.parts}
     research_hashes={p:digest(p) for p in AREA.rglob('*') if p.is_file()}
     events,candidates=read_research()
     save(OUT/'events_normalized.json',events)
@@ -240,6 +329,14 @@ def main():
     write_csv(OUT/'candidate_audit.csv',candidate_rows)
     write_csv(OUT/'summary.csv',summaries);write_csv(OUT/'year_returns.csv',years)
     write_csv(OUT/'active_statistics.csv',statistics);write_csv(OUT/'holdings_policy_links.csv',links)
+    binding,exclusions=support_binding_audit(audit,summaries)
+    admissions=first_admission_audit(events)
+    write_csv(OUT/'binding_rates.csv',binding)
+    write_csv(OUT/'binding_exclusions.csv',exclusions)
+    write_csv(OUT/'first_admission_audit.csv',admissions)
+    write_csv(OUT/'award_amounts.csv',award_amount_audit(events))
+    original_ledger=original_ledger_start_audit(lam,registry)
+    save(OUT/'original_ledger_start_audit.json',original_ledger)
     # Only remove outputs of previously generated runs no longer in this specification.
     import shutil
     for name in previous-{s['run'] for s in summaries}:
@@ -256,20 +353,55 @@ def main():
     save(OUT/'validation.json',validation)
     save(OUT/'preserved_manifest.json',[dict(path=p,sha256=h) for p,h in sorted(frozen.items())])
     inputs=[ROOT/p for p in ('backtest.py','run_research_corrections.py','run_long_history.py',
-                            'run_pillar2.py','test_pillar2.py','PILLAR2_METHOD.md')]
+                            'run_pillar2.py','test_pillar2.py','test_support_screen_audit.py','PILLAR2_METHOD.md')]
     inputs += [p for p in AREA.rglob('*') if p.is_file()]
     save(OUT/'input_manifest.json',[dict(path=str(p.relative_to(ROOT)),sha256=digest(p)) for p in sorted(inputs)])
-    make_report(summaries,candidate_rows,events,validation,start_rows)
+    make_report(summaries,candidate_rows,events,validation,start_rows,binding,exclusions,admissions,original_ledger)
     print(json.dumps(validation['starts'],indent=2))
     print('PASS: policy gates, every candidate, complete coverage, unchanged timing controls and ungated returns')
 
 
-def make_report(summary,candidates,events,validation,start_rows):
-    lines=['# Historical Pillar 2 eligibility and portfolio results','',
+def make_report(summary,candidates,events,validation,start_rows,binding,exclusions,admissions,original_ledger):
+    lines=['# Any prior public support screen and portfolio results','',
            'Run `python3 run_pillar2.py`. [Admission rule and limitations](../PILLAR2_METHOD.md).',
-           'The main panel requires published, named direct/subsidiary support under an industrial, technology or energy programme. Earlier programmes qualify; broad sector exposure alone does not. Every US/EU research candidate is audited. Missing evidence remains an exclusion rather than an assumed award.','',
-           'Membership means **historical confirmed-recipient admission**, not a claim that an old grant remains active or unspent. Completed projects do not erase past receipt. Recorded withdrawals can end an event; other valid events can still qualify the company. The candidate list is still retrospective, and this is not a reconstruction of every listed subsidy recipient outside the 31 candidates.','',
-           '## Main results: direct and subsidiary recipients','',
+           'This broad historical extension admits a listed candidate after captured public evidence of any qualifying named direct/subsidiary public support, however small, under an earlier industrial, technology or energy programme. No minimum size or recency is required. Completed projects remain evidence of past support; a recorded withdrawal or ownership boundary can end an event. Missing evidence is not an assumed award.','',
+           'It is **not a replication of the article\'s specified policy streams, baskets or event dates**. The article discusses confirmed subsidies broadly, but operationally names CHIPS/IRA and EU Chips/IPCEI/France 2030/Green Deal support and illustrates June 2023 admission for Infineon and NXP. This screen instead admits both from a 2014 EnLight research project. The 31-company candidate list is retrospective and is not an exhaustive historical recipient universe. [Article](https://mitleadtrades.substack.com/p/performative-beta-trap-correcting).','',
+           '## How often the screen excludes a listed company','',
+           'The denominator is one observation per listed candidate per complete month from each definition\'s common cross-region start. An exclusion means no usable qualifying support event before the first day of that month. It does not mean that the score rejected the company or that its financial data were missing. The terminal 2 November 2026 partial return is not another company-month.','',
+           '| Definition | Region | First month | Last month | Listed company-months | Excluded | Binding rate |',
+           '|---|---|---|---|---:|---:|---:|']
+    for r in binding:
+        lines.append(f"| {r['definition']} | {r['region']} | {r['start']} | {r['end']} | "
+                     f"{r['listed_company_months']:,} | {r['excluded_company_months']} | {100*r['binding_rate']:.2f}% |")
+    lines+=['','| Definition | Excluded company | Months | First excluded month | Last excluded month |',
+            '|---|---|---:|---|---|']
+    for mode in MODES:
+        for ticker in sorted({r['ticker'] for r in exclusions if r['definition']==mode}):
+            dates=sorted(r['date'] for r in exclusions if r['definition']==mode and r['ticker']==ticker)
+            lines.append(f"| {mode} | {ticker} | {len(dates)} | {dates[0]} | {dates[-1]} |")
+    article_first=[r for r in admissions if r['article_named_stream']!='earlier/other programme']
+    tsm_months=sum(r['definition']=='direct' and r['ticker']=='TSM' for r in exclusions)
+    alfen_months=sum(r['definition']=='direct' and r['ticker']=='ALFEN.AS' for r in exclusions)
+    lines+=['',f"Only {len(article_first)} of {len(admissions)} earliest direct admissions in this ledger use the article's named modern streams: "+
+            '; '.join(f"{r['ticker']} ({r['article_named_stream']})" for r in article_first)+'. '+
+            'This counts first admissions only; a company can receive another programme later. '
+            'Micron is excluded in June and July 2019; its July 1 event becomes usable in August, while new purchases wait for a quarterly review.','',
+            '[Binding counts](binding_rates.csv) · [Every excluded company-month](binding_exclusions.csv) · '
+            '[First-admission classification](first_admission_audit.csv).','',
+            f'The screen excludes very few observations. The TSMC direct-versus-indirect classification accounts for {tsm_months} US company-months; '
+            f'Alfen accounts for all {alfen_months} direct EU exclusions. The indirect EU coverage matches the ungated pool. '
+            'The result measures accounting selection within this candidate list, not broad discrimination between firms with and without meaningful public support.','',
+            'The sparse original policy ledger produces the following coverage-only start diagnostic under the engine\'s minimum of four scored names at a quarter-end:','',
+            '| Region | First investable quarter | Covered eligible companies | First five-name quarter |',
+            '|---|---|---:|---|']
+    for r in original_ledger['results']:
+        first=r['first_investable_quarter'];five=r['first_five_name_quarter']
+        lines.append(f"| {r['region']} | {first['date']} | {first['covered']} | {five['date'] if five else 'None'} |")
+    lines+=['','All then-eligible companies are covered at those starts and throughout the remaining monthly window. '
+            'This is a diagnostic of the existing sparse ledger, whose EU records include programme participation with national funding pending; '
+            'it is not a new confirmed-award reconstruction or a return backtest of the article\'s streams. '
+            '[Diagnostic and exact eligible sets](original_ledger_start_audit.json).','',
+            '## Main results: direct and subsidiary recipients','',
            'Cumulative returns include 10bp US / 15bp EU trading costs through **2 November 2026**. US returns are in USD and EU returns in EUR. Different earliest starts are not a common-period regional comparison.','',
            '| Region | Window | Start | Q50 | Q75 | Equal weight |',
            '|---|---|---|---:|---:|---:|']
@@ -311,7 +443,24 @@ def make_report(summary,candidates,events,validation,start_rows):
                 programs.append(f"[{e['programme']}]({url})")
         lines.append(f"| {c['region']} | {c['ticker']} | {c['first_direct_evidence'] or 'Not evidenced'} | "
                      f"{c['first_including_indirect'] or 'Not evidenced'} | {'; '.join(programs).replace('|','/')} |")
-    lines+=['','[All-candidate audit and unresolved questions](candidate_audit.csv) · '
+    lines+=['','## Award amounts and the Alfen boundary','',
+            'Amounts do not affect admission, ranks or weights. Each event records a company amount and currency when established, or an explicit unknown/project-total-only status. '
+            'Ceilings, conditional commitments, recognized credits and lower bounds retain separate labels. Consortium costs, public contributions and third-party awards are not assigned to each company. '
+            'Missing amounts are null, never zero. [All event amounts and evidence](award_amounts.csv).','',
+            '- Lam Research: USD48,816 approved California training contract. '
+            '[State release](https://www.labor.ca.gov/wp-content/uploads/sites/338/2019/07/ETPPressRelease-January2016.pdf).',
+            '- Texas Instruments: USD5,124,000 TEF commitment conditional on investment and staffing; no payment is inferred. '
+            '[Governor release](https://gov.texas.gov/news/post/governor-abbott-announces-texas-instruments-new-300mm-facility-in-richardson).',
+            '- Infineon and NXP: EUR41.3m is the total EnLight cost across 27 partners, only partly publicly funded. Individual company awards and the total public contribution are unknown. '
+            '[ECSEL release](https://via.ritzau.dk/pressemeddelelse/3293310/ecsel?publisherId=90456).','',
+            'Alfen\'s March 2018 prospectus reports EUR968,000 of 2017 government-grant income for an African solar/storage system, but the captured passage does not identify the grantor or programme. '
+            'The later DEI ISES record names Alfen and a EUR2,776,119 project grant; its final-report publication is dated 13 April 2020. '
+            'The descriptions plausibly concern the same project, but that does not establish that the Dutch grantor/programme was publicly identifiable in March 2018. '
+            'The existing 2020 direct-admission boundary is retained as an unresolved evidence/classification choice, not a claim that Alfen received no earlier public support. '
+            'Separately evidenced SDE+ customer exposure admits it in the indirect panel. '
+            '[2018 prospectus, note 9](https://live.euronext.com/sites/default/files/amco-9819704-v1-prospectus_alfen_n_v__dated_12_march_2018_including_e-disclaimer.pdf) · '
+            '[DEI registry](https://projecten.topsectorenergie.nl/projecten/integrated-sustainable-energy-station-19011).','',
+            '[All-candidate audit and unresolved questions](candidate_audit.csv) · '
             '[Source-linked event ledger](events_normalized.json) · '
             '[Policy events supporting every holding](holdings_policy_links.csv).','',
             '## Matched financial-timing comparison','',

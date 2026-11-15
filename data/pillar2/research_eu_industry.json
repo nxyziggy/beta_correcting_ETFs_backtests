@@ -27,7 +27,15 @@
         }
       ],
       "rationale": "Ancillary confirmation of grants to the Airbus predecessor; excluded from main admission because neither an individual programme nor project is identified.",
-      "limitations": "The parliamentary answer aggregates R&D and skills grants, loans and procurement without naming the grant programme. The separate 2014 ATI project supplies the main qualifying evidence."
+      "limitations": "The parliamentary answer aggregates R&D and skills grants, loans and procurement without naming the grant programme. The separate 2014 ATI project supplies the main qualifying evidence.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "AIR_ATI_BROUGHTON_2014",
@@ -53,7 +61,15 @@
         }
       ],
       "rationale": "Named government-supported industrial R&D projects at an Airbus subsidiary, providing a specifically identified programme in addition to the 2013 receipt confirmation.",
-      "limitations": "Figures are total joint investment/project budgets, not government grants paid solely to Airbus; no unsupported grant amount is assigned."
+      "limitations": "Figures are total joint investment/project budgets, not government grants paid solely to Airbus; no unsupported grant amount is assigned.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "project_total_only",
+      "award_amount_note": "Broughton project budget, not the public contribution or Airbus-only award.",
+      "project_total_amount": 48000000,
+      "project_total_currency": "GBP",
+      "project_total_basis": "total_project_cost",
+      "article_named_stream": null
     },
     {
       "event_id": "SAF_CLEAN_SKY_OPEN_ROTOR_2017",
@@ -79,7 +95,15 @@
         }
       ],
       "rationale": "An explicitly funded industrial R&D programme, with both Safran's role and past EU funding confirmed in a dated issuer release.",
-      "limitations": "The project began in 2008 but this publication is not backdated to that year. EUR65m is a consortium total. Earlier annual reports establish participation in VITAL, DREAM and Clean Sky but the captured passages do not separately establish a dated grant award or receipt."
+      "limitations": "The project began in 2008 but this publication is not backdated to that year. EUR65m is a consortium total. Earlier annual reports establish participation in VITAL, DREAM and Clean Sky but the captured passages do not separately establish a dated grant award or receipt.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "project_total_only",
+      "award_amount_note": "Total European Commission funding to Safran and its partners; Safran share unknown.",
+      "project_total_amount": 65000000,
+      "project_total_currency": "EUR",
+      "project_total_basis": "consortium_public_funding",
+      "article_named_stream": null
     },
     {
       "event_id": "ENEL_GRID4EU_2014",
@@ -105,7 +129,15 @@
         }
       ],
       "rationale": "Named controlled operating company participates in a funded industrial smart-grid demonstration, rather than merely selling into a generally subsidised sector.",
-      "limitations": "The programme launched in 2011; the admission date uses this dated confirmation, not its earlier project start. The EU contribution is programme-wide, not Enel's individual grant."
+      "limitations": "The programme launched in 2011; the admission date uses this dated confirmation, not its earlier project start. The EU contribution is programme-wide, not Enel's individual grant.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "project_total_only",
+      "award_amount_note": "EU contribution within EUR54m programme; Enel share unknown.",
+      "project_total_amount": 25000000,
+      "project_total_currency": "EUR",
+      "project_total_basis": "consortium_public_funding",
+      "article_named_stream": null
     },
     {
       "event_id": "ORSTED_FIDER_CFD_2014",
@@ -149,7 +181,15 @@
         }
       ],
       "rationale": "Signed support contracts plus completed required state-aid approval establish the confirmed DONG subsidy relationship. Admission uses the captured Official Journal publication date rather than treating the conditional April award as final.",
-      "limitations": "The decision was adopted on 23 July 2014; original approval-day press content was not readable in this capture, so the documented 7 November 2014 Official Journal publication is used conservatively. Conditional April award and June publication of signed contracts alone do not trigger admission. IPO tradability starts in June 2016."
+      "limitations": "The decision was adopted on 23 July 2014; original approval-day press content was not readable in this capture, so the documented 7 November 2014 Official Journal publication is used conservatively. Conditional April award and June publication of signed contracts alone do not trigger admission. IPO tradability starts in June 2016.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "VWS_EUDP_VERTICAL_INSTALLER_2018",
@@ -175,7 +215,15 @@
         }
       ],
       "rationale": "Vestas is a named participant in the government-funded industrial development project.",
-      "limitations": "DKK47m is shared project funding, not an asserted Vestas-only receipt. Earlier wind-research partnerships were located but original public grant dates and Vestas's continuing participation were not resolved. No exact completion day is inferred from the three-year duration."
+      "limitations": "DKK47m is shared project funding, not an asserted Vestas-only receipt. Earlier wind-research partnerships were located but original public grant dates and Vestas's continuing participation were not resolved. No exact completion day is inferred from the three-year duration.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "project_total_only",
+      "award_amount_note": "EUDP project support shared with partners; Vestas share unknown.",
+      "project_total_amount": 47000000,
+      "project_total_currency": "DKK",
+      "project_total_basis": "consortium_public_funding",
+      "article_named_stream": null
     },
     {
       "event_id": "ENR_HYFLEXPOWER_2020",
@@ -207,7 +255,15 @@
         }
       ],
       "rationale": "The documented funded business was inherited by Siemens Energy, and admission is conservatively dated to public confirmation of the completed separation and listing.",
-      "limitations": "The project began in May 2020. No Siemens AG investment history or share-price history is treated as Siemens Energy's pre-spin-off history. The EU funding is a consortium total; the four-year project horizon does not terminate historical recipient eligibility."
+      "limitations": "The project began in May 2020. No Siemens AG investment history or share-price history is treated as Siemens Energy's pre-spin-off history. The EU funding is a consortium total; the four-year project horizon does not terminate historical recipient eligibility.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "project_total_only",
+      "award_amount_note": "EU funding within EUR15.2m demonstrator; Siemens Energy share unknown.",
+      "project_total_amount": 10500000,
+      "project_total_currency": "EUR",
+      "project_total_basis": "consortium_public_funding",
+      "article_named_stream": null
     },
     {
       "event_id": "NEL_AKERSHUS_PPP_2015",
@@ -233,7 +289,7 @@
         },
         {
           "url": "https://www.euronext.com/en/about/media/euronext-press-releases/cavendish-hydrogen-lists-euronext-oslo-bors",
-          "title": "Cavendish Hydrogen lists on Euronext Oslo B\u00f8rs",
+          "title": "Cavendish Hydrogen lists on Euronext Oslo Børs",
           "publication_date": "2024-06-12",
           "evidence": "The exchange announced the completed separation and listing of Nel's fueling division as Cavendish Hydrogen."
         }
@@ -241,7 +297,15 @@
       "rationale": "A named, signed government grant relationship at a controlled subsidiary, rather than an unawarded programme or ordinary procurement.",
       "limitations": "The release says the grant will be awarded under the agreement; it does not confirm payment or amount. The funded business is conservatively no longer attributed to Nel after the 2024 fueling separation; a separate 2016 retained-business R&D event independently supports subsequent eligibility. The exact allocation of this older station agreement between retained and separated entities is not established; the conservative cutoff avoids relying on it after separation.",
       "ownership_end_date": "2024-06-12",
-      "ownership_end_basis": "Conservative research cutoff at the public completed fueling separation; whether this particular older agreement was transferred is unresolved. The retained electrolyser HYPER programme separately qualifies."
+      "ownership_end_basis": "Conservative research cutoff at the public completed fueling separation; whether this particular older agreement was transferred is unresolved. The retained electrolyser HYPER programme separately qualifies.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "NEL_ENOVA_STATION_2016",
@@ -274,7 +338,15 @@
       ],
       "rationale": "Explicit targeted grant award to the then-described subsidiary.",
       "limitations": "The station-network vehicle subsequently became a minority joint venture. This event is conservatively ended when the final 49% agreement was publicly announced, without claiming continued controlled-subsidiary status.",
-      "ownership_end_date": "2016-03-02"
+      "ownership_end_date": "2016-03-02",
+      "award_amount": 7500000,
+      "award_currency": "NOK",
+      "award_amount_status": "strict_lower_bound",
+      "award_amount_note": "Release says grant exceeds NOK7.5m; this is a lower bound, not an exact amount.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "NEL_HYPER_ENERGIX_2016",
@@ -300,7 +372,15 @@
         }
       ],
       "rationale": "Named industrial participation in funded hydrogen-production R&D, linked to Nel's retained electrolyser activity rather than only its later-separated fueling business.",
-      "limitations": "The grant is to the consortium, hosted by SINTEF; no individual Nel cash amount is claimed. The source gives only a financing horizon through 2019, so no exact completion date or eligibility expiry is invented."
+      "limitations": "The grant is to the consortium, hosted by SINTEF; no individual Nel cash amount is claimed. The source gives only a financing horizon through 2019, so no exact completion date or eligibility expiry is invented.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "project_total_only",
+      "award_amount_note": "ENERGIX grant within NOK20m project; Nel share unknown.",
+      "project_total_amount": 14000000,
+      "project_total_currency": "NOK",
+      "project_total_basis": "consortium_public_funding",
+      "article_named_stream": null
     },
     {
       "event_id": "ALFEN_UNNAMED_GRANT_2018",
@@ -326,7 +406,15 @@
         }
       ],
       "rationale": "Retained as an unresolved historical lead rather than assumed eligible EU/EEA support.",
-      "limitations": "The contemporaneous passage does not name the government or programme. Later Dutch DEI evidence is not backdated to infer that the 2018 reader knew the grantor. IPO tradability starts later in March 2018."
+      "limitations": "The contemporaneous passage does not name the government or programme. Later Dutch DEI evidence is not backdated to infer that the 2018 reader knew the grantor. IPO tradability starts later in March 2018.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Prospectus reports EUR968,000 grant income in 2017, not the total award. Grantor and programme remain unidentified in the captured passage.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "ALFEN_SDE_CUSTOMERS_2018",
@@ -352,7 +440,15 @@
         }
       ],
       "rationale": "Documented sales to specific classes of already-awarded subsidy recipients; eligible only in the separately labelled indirect-exposure sensitivity.",
-      "limitations": "This is not a subsidy to Alfen. Customer projects are not individually named in the captured passage, and no indirect subsidy value is assigned to Alfen."
+      "limitations": "This is not a subsidy to Alfen. Customer projects are not individually named in the captured passage, and no indirect subsidy value is assigned to Alfen.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "ALFEN_DEI_ISES_2020",
@@ -385,7 +481,15 @@
       ],
       "rationale": "Named Dutch-government industrial demonstration support to a Dutch controlled company; the Nigerian demonstration location does not change the government grant's jurisdiction.",
       "limitations": "The report was prepared on 13 February 2020 but the registry supplies a later publication date. Neither the 2016 project start nor the undated current registry alone establishes what was public then. First captured dated grantor identification is used.",
-      "support_end_date": "2019-09-30"
+      "support_end_date": "2019-09-30",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "project_total_only",
+      "award_amount_note": "Registry project grant lists Alfen as lead; company retained share and final cash received are not separately established. Final report says lower costs reduced subsidy.",
+      "project_total_amount": 2776119,
+      "project_total_currency": "EUR",
+      "project_total_basis": "project_grant_registry_amount",
+      "article_named_stream": null
     },
     {
       "event_id": "EDF_HPC_APPROVAL_2014",
@@ -411,7 +515,15 @@
         }
       ],
       "rationale": "An earlier policy milestone retained in the audit, but the main admission uses the later signed support contract.",
-      "limitations": "State-aid approval permits support but does not itself show the final EDF contract was executed; the latter was signed in September 2016."
+      "limitations": "State-aid approval permits support but does not itself show the final EDF contract was executed; the latter was signed in September 2016.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "EDF_HPC_CFD_2016",
@@ -443,7 +555,15 @@
         }
       ],
       "rationale": "Executed targeted revenue-support contract for an EDF-controlled nuclear-development company.",
-      "limitations": "Payments depend on future generation; no present grant payment is asserted. Earlier negotiations and the 2014 state-aid permission are not used as if they were this signed contract. EDF delisting must separately constrain investability."
+      "limitations": "Payments depend on future generation; no present grant payment is asserted. Earlier negotiations and the 2014 state-aid permission are not used as if they were this signed contract. EDF delisting must separately constrain investability.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "VIE_E2DISTRICT_2016",
@@ -469,7 +589,15 @@
         }
       ],
       "rationale": "Retained as earlier project-selection evidence. Selection for funding alone does not prove execution of the grant, so the main event uses later explicit funding confirmation.",
-      "limitations": "The issuer describes selection in future tense. No admission is inferred from this document alone or backdated from a current grant registry."
+      "limitations": "The issuer describes selection in future tense. No admission is inferred from this document alone or backdated from a current grant registry.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "VIE_E2DISTRICT_FUNDED_2017",
@@ -507,7 +635,15 @@
         }
       ],
       "rationale": "The earlier Veolia filing establishes the named project relationship; the 2017 programme confirms continuing participation, and the project coordinator's dated paper confirms an actually funded and executing H2020 grant.",
-      "limitations": "The current CORDIS record reports grant signature on 19 January 2016, but that current record is not used to claim contemporaneous availability. Admission is the first captured explicit funding confirmation, 13 November 2017. The university mirror was deposited later; the original paper itself prints its 2017 publication date."
+      "limitations": "The current CORDIS record reports grant signature on 19 January 2016, but that current record is not used to claim contemporaneous availability. Admission is the first captured explicit funding confirmation, 13 November 2017. The university mirror was deposited later; the original paper itself prints its 2017 publication date.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     }
   ],
   "candidates": [

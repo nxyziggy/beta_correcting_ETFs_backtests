@@ -1,9 +1,44 @@
-# Historical Pillar 2 eligibility and portfolio results
+# Any prior public support screen and portfolio results
 
 Run `python3 run_pillar2.py`. [Admission rule and limitations](../PILLAR2_METHOD.md).
-The main panel requires published, named direct/subsidiary support under an industrial, technology or energy programme. Earlier programmes qualify; broad sector exposure alone does not. Every US/EU research candidate is audited. Missing evidence remains an exclusion rather than an assumed award.
+This broad historical extension admits a listed candidate after captured public evidence of any qualifying named direct/subsidiary public support, however small, under an earlier industrial, technology or energy programme. No minimum size or recency is required. Completed projects remain evidence of past support; a recorded withdrawal or ownership boundary can end an event. Missing evidence is not an assumed award.
 
-Membership means **historical confirmed-recipient admission**, not a claim that an old grant remains active or unspent. Completed projects do not erase past receipt. Recorded withdrawals can end an event; other valid events can still qualify the company. The candidate list is still retrospective, and this is not a reconstruction of every listed subsidy recipient outside the 31 candidates.
+It is **not a replication of the article's specified policy streams, baskets or event dates**. The article discusses confirmed subsidies broadly, but operationally names CHIPS/IRA and EU Chips/IPCEI/France 2030/Green Deal support and illustrates June 2023 admission for Infineon and NXP. This screen instead admits both from a 2014 EnLight research project. The 31-company candidate list is retrospective and is not an exhaustive historical recipient universe. [Article](https://mitleadtrades.substack.com/p/performative-beta-trap-correcting).
+
+## How often the screen excludes a listed company
+
+The denominator is one observation per listed candidate per complete month from each definition's common cross-region start. An exclusion means no usable qualifying support event before the first day of that month. It does not mean that the score rejected the company or that its financial data were missing. The terminal 2 November 2026 partial return is not another company-month.
+
+| Definition | Region | First month | Last month | Listed company-months | Excluded | Binding rate |
+|---|---|---|---|---:|---:|---:|
+| direct | US | 2019-06-30 | 2026-10-31 | 1,336 | 68 | 5.09% |
+| direct | EU | 2019-06-30 | 2026-10-31 | 1,278 | 11 | 0.86% |
+| direct | US+EU | 2019-06-30 | 2026-10-31 | 2,614 | 79 | 3.02% |
+| with_indirect | US | 2019-06-30 | 2026-10-31 | 1,336 | 2 | 0.15% |
+| with_indirect | EU | 2019-06-30 | 2026-10-31 | 1,278 | 0 | 0.00% |
+| with_indirect | US+EU | 2019-06-30 | 2026-10-31 | 2,614 | 2 | 0.08% |
+
+| Definition | Excluded company | Months | First excluded month | Last excluded month |
+|---|---|---:|---|---|
+| direct | ALFEN.AS | 11 | 2019-06-30 | 2020-04-30 |
+| direct | MU | 2 | 2019-06-30 | 2019-07-31 |
+| direct | TSM | 66 | 2019-06-30 | 2024-11-30 |
+| with_indirect | MU | 2 | 2019-06-30 | 2019-07-31 |
+
+Only 2 of 31 earliest direct admissions in this ledger use the article's named modern streams: GEV (Inflation Reduction Act); TSM (CHIPS Act). This counts first admissions only; a company can receive another programme later. Micron is excluded in June and July 2019; its July 1 event becomes usable in August, while new purchases wait for a quarterly review.
+
+[Binding counts](binding_rates.csv) · [Every excluded company-month](binding_exclusions.csv) · [First-admission classification](first_admission_audit.csv).
+
+The screen excludes very few observations. The TSMC direct-versus-indirect classification accounts for 66 US company-months; Alfen accounts for all 11 direct EU exclusions. The indirect EU coverage matches the ungated pool. The result measures accounting selection within this candidate list, not broad discrimination between firms with and without meaningful public support.
+
+The sparse original policy ledger produces the following coverage-only start diagnostic under the engine's minimum of four scored names at a quarter-end:
+
+| Region | First investable quarter | Covered eligible companies | First five-name quarter |
+|---|---|---:|---|
+| US | 2025-03-31 | 5 | 2025-03-31 |
+| EU | 2023-12-31 | 4 | 2024-12-31 |
+
+All then-eligible companies are covered at those starts and throughout the remaining monthly window. This is a diagnostic of the existing sparse ledger, whose EU records include programme participation with national funding pending; it is not a new confirmed-award reconstruction or a return backtest of the article's streams. [Diagnostic and exact eligible sets](original_ledger_start_audit.json).
 
 ## Main results: direct and subsidiary recipients
 
@@ -74,6 +109,16 @@ Dates below are evidence/ownership dates, not automatic purchase dates. The firs
 | US | TSM | 2024-11-15 | 2011-09-27 | [CHIPS Incentives Program, TSMC Arizona leading-edge fabs](https://content.govdelivery.com/accounts/USDOC/bulletins/3c1ec14) |
 | US | TXN | 2019-04-18 | 2004-11-03 | [Texas Enterprise Fund, Richardson 300 mm fab](https://gov.texas.gov/news/post/governor-abbott-announces-texas-instruments-new-300mm-facility-in-richardson) |
 
+## Award amounts and the Alfen boundary
+
+Amounts do not affect admission, ranks or weights. Each event records a company amount and currency when established, or an explicit unknown/project-total-only status. Ceilings, conditional commitments, recognized credits and lower bounds retain separate labels. Consortium costs, public contributions and third-party awards are not assigned to each company. Missing amounts are null, never zero. [All event amounts and evidence](award_amounts.csv).
+
+- Lam Research: USD48,816 approved California training contract. [State release](https://www.labor.ca.gov/wp-content/uploads/sites/338/2019/07/ETPPressRelease-January2016.pdf).
+- Texas Instruments: USD5,124,000 TEF commitment conditional on investment and staffing; no payment is inferred. [Governor release](https://gov.texas.gov/news/post/governor-abbott-announces-texas-instruments-new-300mm-facility-in-richardson).
+- Infineon and NXP: EUR41.3m is the total EnLight cost across 27 partners, only partly publicly funded. Individual company awards and the total public contribution are unknown. [ECSEL release](https://via.ritzau.dk/pressemeddelelse/3293310/ecsel?publisherId=90456).
+
+Alfen's March 2018 prospectus reports EUR968,000 of 2017 government-grant income for an African solar/storage system, but the captured passage does not identify the grantor or programme. The later DEI ISES record names Alfen and a EUR2,776,119 project grant; its final-report publication is dated 13 April 2020. The descriptions plausibly concern the same project, but that does not establish that the Dutch grantor/programme was publicly identifiable in March 2018. The existing 2020 direct-admission boundary is retained as an unresolved evidence/classification choice, not a claim that Alfen received no earlier public support. Separately evidenced SDE+ customer exposure admits it in the indirect panel. [2018 prospectus, note 9](https://live.euronext.com/sites/default/files/amco-9819704-v1-prospectus_alfen_n_v__dated_12_march_2018_including_e-disclaimer.pdf) · [DEI registry](https://projecten.topsectorenergie.nl/projecten/integrated-sustainable-energy-station-19011).
+
 [All-candidate audit and unresolved questions](candidate_audit.csv) · [Source-linked event ledger](events_normalized.json) · [Policy events supporting every holding](holdings_policy_links.csv).
 
 ## Matched financial-timing comparison
@@ -93,7 +138,7 @@ The financial delay uses 180/90-day availability floors and 730/365-day freshnes
 
 ## Validation and remaining limits
 
-48 runs pass policy/source cutoffs, complete eligible coverage, listing and cost/holdings/NAV checks. All 31 candidates have a research record. Six ungated headline results reproduce; 3065 earlier input/result files remain byte-identical.
+48 runs pass policy/source cutoffs, complete eligible coverage, listing and cost/holdings/NAV checks. All 31 candidates have a research record. Six ungated headline results reproduce; 3067 earlier input/result files remain byte-identical.
 
 This adds the dated admission gate to the existing two accounting signals. It does not add subsidy utilization, full six-factor scoring, fixed sector baskets or Pillar 3 network scores. Earlier adjusted prices and the retrospective candidate list retain the limitations documented in the longer-history report. The earliest captured evidence is a conservative research boundary, not a claim that every earlier archive has been exhausted.
 

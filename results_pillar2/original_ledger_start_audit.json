@@ -1,0 +1,85 @@
+{
+  "source": "data/policy_eligibility.csv",
+  "financial_inputs": "HistoryInputs(source), hybrid",
+  "engine_start_requirement": "At least four scored names at a quarter-end; default minimum_holdings=1 does not lower that startup threshold.",
+  "coverage_requirement": "Every then-listed eligible company has usable financial and investor-currency price data; complete suffix checked through the last full month.",
+  "limitation": "The original sparse ledger is not exhaustive and includes EU programme approvals/participation with national grants pending. This diagnostic does not certify a confirmed-article-stream reconstruction.",
+  "results": [
+    {
+      "region": "US",
+      "first_investable_quarter": {
+        "date": "2025-03-31",
+        "eligible": [
+          "GFS",
+          "INTC",
+          "MU",
+          "TSM",
+          "TXN"
+        ],
+        "covered": 5,
+        "missing": []
+      },
+      "first_complete_remaining_window": {
+        "date": "2025-03-31",
+        "eligible": [
+          "GFS",
+          "INTC",
+          "MU",
+          "TSM",
+          "TXN"
+        ],
+        "covered": 5,
+        "missing": []
+      },
+      "first_five_name_quarter": {
+        "date": "2025-03-31",
+        "eligible": [
+          "GFS",
+          "INTC",
+          "MU",
+          "TSM",
+          "TXN"
+        ],
+        "covered": 5,
+        "missing": []
+      }
+    },
+    {
+      "region": "EU",
+      "first_investable_quarter": {
+        "date": "2023-12-31",
+        "eligible": [
+          "AMS.SW",
+          "ENEL.MI",
+          "IFX.DE",
+          "NXPI"
+        ],
+        "covered": 4,
+        "missing": []
+      },
+      "first_complete_remaining_window": {
+        "date": "2023-12-31",
+        "eligible": [
+          "AMS.SW",
+          "ENEL.MI",
+          "IFX.DE",
+          "NXPI"
+        ],
+        "covered": 4,
+        "missing": []
+      },
+      "first_five_name_quarter": {
+        "date": "2024-12-31",
+        "eligible": [
+          "AMS.SW",
+          "ENEL.MI",
+          "IFX.DE",
+          "NEL.OL",
+          "NXPI"
+        ],
+        "covered": 5,
+        "missing": []
+      }
+    }
+  ]
+}

@@ -27,7 +27,15 @@
       ],
       "rationale": "The dated county release confirms the already-existing 2005 Intel SIP agreement. Main admission uses this confirmed previous support, rather than treating the newly proposed 2014 agreement as fully approved.",
       "limitations": "The 2005 event is known only to year precision here; its original public notice was not recovered. No eligibility is backdated before the 2014 confirmation. The proposed 2014 agreement still required state commission consideration on 5 September 2014.",
-      "event_date_precision": "year_upper_bound"
+      "event_date_precision": "year_upper_bound",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "TSM_PHOENIX_DA_2021",
@@ -57,7 +65,15 @@
       "limitations": "The 23 June 2021 public meeting record confirms the signed agreement. This is a public-meeting-date proxy: the final-minutes upload date is not established. The council authorized the agreement on 18 November 2020, but the original dated approval packet was not recovered. Infrastructure is in-kind support rather than cash paid to TSMC. Earlier US WaferTech support is not established here.",
       "public_date_basis": "Public council meeting date; exact date of final-minutes upload is not established.",
       "publication_uncertainty": true,
-      "indirect_eligible": true
+      "indirect_eligible": true,
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "MU_VA_SMG_2019",
@@ -96,7 +112,15 @@
       ],
       "rationale": "Combine named company announcement with later enabling law; admit only from statutory effective date.",
       "limitations": "The 2018 announcement was preliminary. The 2019 law defines rather than names the sole qualifying company; mapping uses the original company release. A later official report discloses cancellation and partial repayment, so this event ends prospectively on its 8 January 2025 publication date. The independent final 2024 CHIPS award preserves admission.",
-      "cancellation_public_date": "2025-01-08"
+      "cancellation_public_date": "2025-01-08",
+      "award_amount": 70000000,
+      "award_currency": "USD",
+      "award_amount_status": "performance_grant",
+      "award_amount_note": "Conditional Virginia grant; later cancellation/repayment remains recorded separately.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "MU_VA_PRELIM_2018",
@@ -122,7 +146,15 @@
         }
       ],
       "rationale": "An anticipated grant is not a final public commitment.",
-      "limitations": ""
+      "limitations": "",
+      "award_amount": 70000000,
+      "award_currency": "USD",
+      "award_amount_status": "unapproved_proposal",
+      "award_amount_note": "Legislative approval still required; this record does not qualify.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "MU_VA_CANCELLATION_2025",
@@ -150,7 +182,15 @@
       "rationale": "Disclosure of cancellation and partial repayment; ends the prior event prospectively on the public disclosure date. It is not a new qualifying award.",
       "limitations": "July actual date is only month precision and conservatively represented by month-end. Public disclosure not backdated intoJuly 2024.",
       "cancellation_public_date": "2025-01-08",
-      "updates_event_id": "MU_VA_SMG_2019"
+      "updates_event_id": "MU_VA_SMG_2019",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "USD37.8m is repayment, not a new award; the original award is recorded separately.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "GFS_NY_FAB_GRANT_2009",
@@ -184,7 +224,15 @@
       ],
       "rationale": "Chronology only: the primary legislative report was search-indexed but could not be opened successfully, and exact publication day was not established. Main admission instead uses the successfully read 4 October 2021 F-1.",
       "limitations": "Original 2009 report direct open returned 502. Its year-end publication proxy is not used for main admission. No tradability existed before the 2021 IPO.",
-      "public_date_precision": "year_upper_bound"
+      "public_date_precision": "year_upper_bound",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "TXN_TEF_2019",
@@ -210,7 +258,15 @@
         }
       ],
       "rationale": "Named awarded performance grant; ordinary performance conditions do not make it merely a legislative proposal.",
-      "limitations": "Later TEF reports show 11 June 2019 administrative award/agreement date. Main uses the public governor commitment; no disbursement is inferred. The 2004 USD 50 m UTD/TI package was paid to a university and is separately classified indirect."
+      "limitations": "Later TEF reports show 11 June 2019 administrative award/agreement date. Main uses the public governor commitment; no disbursement is inferred. The 2004 USD 50 m UTD/TI package was paid to a university and is separately classified indirect.",
+      "award_amount": 5124000,
+      "award_currency": "USD",
+      "award_amount_status": "conditional_commitment",
+      "award_amount_note": "Governor commitment contingent on investment and staffing; no disbursement inferred.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "AMAT_DOE_SSL_2012",
@@ -239,7 +295,15 @@
       "rationale": "Named recipient of a targeted US energy/manufacturing research grant.",
       "limitations": "Only month of public portfolio publication is evidenced; conservatively use the last day. Project completion does not undo historical confirmed-recipient status.",
       "support_end_date": "2012-05-31",
-      "public_date_precision": "month_upper_bound"
+      "public_date_precision": "month_upper_bound",
+      "award_amount": 3993892,
+      "award_currency": "USD",
+      "award_amount_status": "company_project_doe_share",
+      "award_amount_note": "DOE share of the named Applied Materials project; payment schedule unknown.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "LRCX_CA_ETP_2016",
@@ -271,7 +335,15 @@
         }
       ],
       "rationale": "Named discretionary grant supporting the semiconductor manufacturer workforce; not a generic tax credit or ordinary purchase contract.",
-      "limitations": "Packet moved online later but the matching contemporaneous release establishes public availability. Release table page 2 has a 2015 typo; page 1 and delegation period establish 2016. Earlier awards are mentioned by third-party databases but original disclosure was not captured."
+      "limitations": "Packet moved online later but the matching contemporaneous release establishes public availability. Release table page 2 has a 2015 typo; page 1 and delegation period establish 2016. Earlier awards are mentioned by third-party databases but original disclosure was not captured.",
+      "award_amount": 48816,
+      "award_currency": "USD",
+      "award_amount_status": "approved_training_contract",
+      "award_amount_note": "Approved contract ET 16-0304; not a measure of continuing earnings support.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "LRCX_FTZ_2016",
@@ -297,7 +369,15 @@
         }
       ],
       "rationale": "Broad customs authorization alone is excluded from the main targeted-support rule.",
-      "limitations": ""
+      "limitations": "",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "MCHP_GRESHAM_SIP_2017",
@@ -323,7 +403,15 @@
         }
       ],
       "rationale": "Contemporaneous official minutes name the existing industrial tax-relief beneficiary.",
-      "limitations": "Date is conservative minutes-approval/public-packet date, not original award. A 5 January 2016 enterprise-zone application is separately identifiable, but its final vote was not verified in this capture."
+      "limitations": "Date is conservative minutes-approval/public-packet date, not original award. A 5 January 2016 enterprise-zone application is separately identifiable, but its final vote was not verified in this capture.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "STMPA_PA_ENIAC_CSI_2010",
@@ -349,7 +437,15 @@
         }
       ],
       "rationale": "Contemporaneous issuer announcement of funded project with named company participant.",
-      "limitations": "Issuer is STMicroelectronics; subsidiary participation maps to the then-existing consolidated group. Project total is not attributed to the parent as an individual award."
+      "limitations": "Issuer is STMicroelectronics; subsidiary participation maps to the then-existing consolidated group. Project total is not attributed to the parent as an individual award.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "AMS_SW_ENIAC_CSI_2010",
@@ -381,7 +477,15 @@
         }
       ],
       "rationale": "Contemporaneous issuer announcement of funded project with named company participant.",
-      "limitations": "Total project cost is not a company-specific grant amount and is never used as a signal. No grant toOSRAM is attributed toams before acquisition."
+      "limitations": "Total project cost is not a company-specific grant amount and is never used as a signal. No grant toOSRAM is attributed toams before acquisition.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "IFX_DE_ENIAC_ENLIGHT_2014",
@@ -403,11 +507,19 @@
           "url": "https://via.ritzau.dk/pressemeddelelse/3293310/ecsel?publisherId=90456",
           "title": "ECSEL Joint Undertaking press release: EnLight wins 2014 ENIAC Innovation Award",
           "publication_date": "2014-12-01",
-          "evidence": "Government joint-undertaking release names Infineon and NXP French/German subsidiaries as consortium members and confirms ENIAC and national agency funding."
+          "evidence": "Government joint-undertaking release names Infineon and NXP French/German subsidiaries as consortium members and confirms ENIAC and national agency funding. The EUR41.3m figure is total project cost for 27 partners, partly publicly funded; no company allocation is stated."
         }
       ],
       "rationale": "Dated government-issued release confirms funded participation, not merely sector relevance.",
-      "limitations": "Release is mirrored by Business Wire/Ritzau; the issuer is ECSEL JU. First grant date was earlier, but is not backdated from this completion-era disclosure."
+      "limitations": "Release is mirrored by Business Wire/Ritzau; the issuer is ECSEL JU. First grant date was earlier, but is not backdated from this completion-era disclosure.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "project_total_only",
+      "award_amount_note": "Total cost across 27 partners, only partly publicly funded. Neither company award nor total public funding is stated.",
+      "project_total_amount": 41300000,
+      "project_total_currency": "EUR",
+      "project_total_basis": "total_project_cost",
+      "article_named_stream": null
     },
     {
       "event_id": "NXPI_ENIAC_ENLIGHT_2014",
@@ -429,11 +541,19 @@
           "url": "https://via.ritzau.dk/pressemeddelelse/3293310/ecsel?publisherId=90456",
           "title": "ECSEL Joint Undertaking press release: EnLight wins 2014 ENIAC Innovation Award",
           "publication_date": "2014-12-01",
-          "evidence": "Government joint-undertaking release names Infineon and NXP French/German subsidiaries as consortium members and confirms ENIAC and national agency funding."
+          "evidence": "Government joint-undertaking release names Infineon and NXP French/German subsidiaries as consortium members and confirms ENIAC and national agency funding. The EUR41.3m figure is total project cost for 27 partners, partly publicly funded; no company allocation is stated."
         }
       ],
       "rationale": "Dated government-issued release confirms funded participation, not merely sector relevance.",
-      "limitations": "Release is mirrored by Business Wire/Ritzau; the issuer is ECSEL JU. First grant date was earlier, but is not backdated from this completion-era disclosure."
+      "limitations": "Release is mirrored by Business Wire/Ritzau; the issuer is ECSEL JU. First grant date was earlier, but is not backdated from this completion-era disclosure.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "project_total_only",
+      "award_amount_note": "Same EnLight project as Infineon; do not sum the duplicated project total. Company award unknown.",
+      "project_total_amount": 41300000,
+      "project_total_currency": "EUR",
+      "project_total_basis": "total_project_cost",
+      "article_named_stream": null
     },
     {
       "event_id": "ASML_RESEARCH_GRANTS_2012",
@@ -466,7 +586,15 @@
       ],
       "rationale": "Actual government project-grant receipts are confirmed, but this aggregate filing does not identify a specific programme. Retained as ancillary chronology; main uses the named ENIAC E 450 EDL project.",
       "limitations": "Programme names and country-level amounts are not disaggregated. No earliest main admission is inferred from this aggregate record.",
-      "programme_name_precision": "aggregate_approved_projects"
+      "programme_name_precision": "aggregate_approved_projects",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "EUR25.1m is aggregate 2011 research-grant income, not one named programme award; this record does not qualify.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "TSM_NY_G450_INDIRECT_2011",
@@ -494,7 +622,15 @@
       "rationale": "Named indirect research-infrastructure benefit only; excluded from confirmed direct-recipient main.",
       "limitations": "",
       "indirect_eligible": true,
-      "support_end_date": "2016-09-27"
+      "support_end_date": "2016-09-27",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "project_total_only",
+      "award_amount_note": "State funding paid to CNSE, explicitly not a direct award to private consortium companies.",
+      "project_total_amount": 400000000,
+      "project_total_currency": "USD",
+      "project_total_basis": "third_party_public_funding",
+      "article_named_stream": null
     },
     {
       "event_id": "INTC_NY_G450_INDIRECT_2011",
@@ -522,7 +658,15 @@
       "rationale": "Named indirect research-infrastructure benefit only; excluded from confirmed direct-recipient main.",
       "limitations": "",
       "indirect_eligible": true,
-      "support_end_date": "2016-09-27"
+      "support_end_date": "2016-09-27",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "project_total_only",
+      "award_amount_note": "Same CNSE funding as TSM/GFS rows; not company receipts and must not be summed.",
+      "project_total_amount": 400000000,
+      "project_total_currency": "USD",
+      "project_total_basis": "third_party_public_funding",
+      "article_named_stream": null
     },
     {
       "event_id": "GFS_NY_G450_INDIRECT_2011",
@@ -550,7 +694,15 @@
       "rationale": "Named indirect research-infrastructure benefit only; excluded from confirmed direct-recipient main.",
       "limitations": "",
       "indirect_eligible": true,
-      "support_end_date": "2016-09-27"
+      "support_end_date": "2016-09-27",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "project_total_only",
+      "award_amount_note": "Same CNSE funding as TSM/Intel rows; not company receipts and must not be summed.",
+      "project_total_amount": 400000000,
+      "project_total_currency": "USD",
+      "project_total_basis": "third_party_public_funding",
+      "article_named_stream": null
     },
     {
       "event_id": "AMAT_GERMANY_LILI_2009",
@@ -577,7 +729,15 @@
       ],
       "rationale": "Confirmed targeted award, but German-only support does not qualify aUS-pool candidate under the regional rule.",
       "limitations": "",
-      "support_end_date": "2012-11-17"
+      "support_end_date": "2012-11-17",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "MU_CHIPS_FINAL_2024",
@@ -603,7 +763,15 @@
         }
       ],
       "rationale": "A final US industrial grant award supplies independent eligibility before the Virginia cancellation disclosure.",
-      "limitations": "The same release contains a separate nonbinding USD 275 m Virginia proposal, which is not treated as a final award. No assumption that all awarded funds had been disbursed."
+      "limitations": "The same release contains a separate nonbinding USD 275 m Virginia proposal, which is not treated as a final award. No assumption that all awarded funds had been disbursed.",
+      "award_amount": 6165000000,
+      "award_currency": "USD",
+      "award_amount_status": "award_ceiling",
+      "award_amount_note": "Up to this amount under final award; milestone disbursements are not assumed.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": "CHIPS Act"
     },
     {
       "event_id": "GFS_NY_GRANTS_F1_2021",
@@ -629,7 +797,15 @@
         }
       ],
       "rationale": "Successfully read contemporaneous SEC prospectus confirms a named New York industrial support relationship before the company IPO.",
-      "limitations": "Underlying awards are earlier; admission is not backdated from this filing. The separately retained 2009 legislative report corroborates the history only."
+      "limitations": "Underlying awards are earlier; admission is not backdated from this filing. The separately retained 2009 legislative report corroborates the history only.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "ASML_ENIAC_E450EDL_2013",
@@ -669,7 +845,15 @@
       "rationale": "Named EU technology-project grant to ASML subsidiary. Public timing is bounded by the dated ENIAC executive director presentation, rather than backdating the current CORDIS page.",
       "limitations": "The exact public release date of the allocation PDF is not established. The dated public presentation provides the timing bound; the allocation table supplies beneficiary-specific funding detail. Completion of the project does not reverse historical receipt.",
       "support_end_date": "2016-09-30",
-      "public_date_basis": "Dated public ENIAC executive director presentation; combined with contemporaneous allocation table."
+      "public_date_basis": "Dated public ENIAC executive director presentation; combined with contemporaneous allocation table.",
+      "award_amount": 7500000,
+      "award_currency": "EUR",
+      "award_amount_status": "company_eu_contribution",
+      "award_amount_note": "Named ASML Netherlands EU contribution; excludes indicative national funding.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "TXN_UTD_TEF_INDIRECT_2004",
@@ -696,7 +880,15 @@
       ],
       "rationale": "Named indirect benefit from publicly funded research capacity supporting TI fab-location agreement. State funds go to the university, so this does not create direct-recipient eligibility.",
       "limitations": "Page header says 2 November and release dateline says 3 November 2004; use the later date. Earlier 30 June 2003 agreement is described but not used to backdate admission. Direct page fetch returned 502; indexed university release supplied the text.",
-      "indirect_eligible": true
+      "indirect_eligible": true,
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "project_total_only",
+      "award_amount_note": "University of Texas at Dallas funding; not Texas Instruments grant receipts.",
+      "project_total_amount": 50000000,
+      "project_total_currency": "USD",
+      "project_total_basis": "third_party_public_funding",
+      "article_named_stream": null
     },
     {
       "event_id": "TSM_CHIPS_FINAL_2024",
@@ -722,7 +914,15 @@
         }
       ],
       "rationale": "Confirmed federal award to the controlled US manufacturing subsidiary. Distinguishes the final award from the April 2024 nonbinding preliminary memorandum.",
-      "limitations": "The release separately discusses proposed loans; main eligibility relies on the final direct-funding award, not proposed loans or an assumption of full disbursement."
+      "limitations": "The release separately discusses proposed loans; main eligibility relies on the final direct-funding award, not proposed loans or an assumption of full disbursement.",
+      "award_amount": 6600000000,
+      "award_currency": "USD",
+      "award_amount_status": "award_ceiling",
+      "award_amount_note": "Up to this amount in direct funding to TSMC Arizona; excludes proposed loans.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": "CHIPS Act"
     },
     {
       "event_id": "TSM_WAFERTECH_WA_UNTRIGGERED_2003",
@@ -751,7 +951,15 @@
       "rationale": "Negative evidence: targeted statute alone does not establish receipt. These conditional incentives cannot justify earlier main admission.",
       "limitations": "Both event and publication dates use conservative year-end bounds because exact dates were not established; this nonqualifying chronology row never controls admission. Other broad tax preferences are not attributed to WaferTech without named receipt evidence.",
       "public_date_precision": "year_upper_bound",
-      "event_date_precision": "year_upper_bound"
+      "event_date_precision": "year_upper_bound",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     }
   ],
   "candidates": [

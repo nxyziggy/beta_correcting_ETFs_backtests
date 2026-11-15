@@ -46,4 +46,4 @@ Run `python3 run_eu_interim.py` from the repository root. The run is offline and
 - [Validation](validation.json)
 - [Input hashes](input_manifest.json)
 
-Verified 276 TTM flow calculations and reproduced all three annual-restoration reference runs. Source timing, freshness, holdings, NAV and trading costs passed; 1825 prior files are unchanged.
+Verified 276 TTM flow calculations and reproduced all three annual-restoration reference runs. Source timing, freshness, holdings, NAV and trading costs passed; 1823 prior files are unchanged.

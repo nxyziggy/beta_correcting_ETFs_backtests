@@ -33,7 +33,15 @@
         }
       ],
       "rationale": "Named producer receiving an industrial investment credit, rather than a generic customer solar incentive.",
-      "limitations": "Earlier public announcement or annual-report availability may exist; no earlier exact publication date is inferred here. Foreign manufacturing grants and sold solar-project loan guarantees are not used for this US direct admission. No continuing annual payment is inferred."
+      "limitations": "Earlier public announcement or annual-report availability may exist; no earlier exact publication date is inferred here. Foreign manufacturing grants and sold solar-project loan guarantees are not used for this US direct admission. No continuing annual payment is inferred.",
+      "award_amount": 16300000,
+      "award_currency": "USD",
+      "award_amount_status": "manufacturing_tax_credit",
+      "award_amount_note": "Credit granted for Perrysburg manufacturing expansion; no annual recurring amount inferred.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "US_ENPH_CEC_PIER_2009",
@@ -61,7 +69,15 @@
         }
       ],
       "rationale": "A government laboratory report explicitly names Enphase among recipients of a particular awarded research grant. This is stronger than inferring support from solar-sector ITC availability.",
-      "limitations": "The grant amount is the consortium total, not an allocation to Enphase. The original CEC agreement and Enphase's individual cash receipts were not recovered. The March 2010 government report is used instead of backdating public availability to February 2009. ENPH cannot enter a traded portfolio before its separate 2012 listing gate."
+      "limitations": "The grant amount is the consortium total, not an allocation to Enphase. The original CEC agreement and Enphase's individual cash receipts were not recovered. The March 2010 government report is used instead of backdating public availability to February 2009. ENPH cannot enter a traded portfolio before its separate 2012 listing gate.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "project_total_only",
+      "award_amount_note": "Nearly USD750,000 to SolarTech, Santa Clara University and Enphase; Enphase share unknown.",
+      "project_total_amount": 750000,
+      "project_total_currency": "USD",
+      "project_total_basis": "approximate_consortium_public_funding",
+      "article_named_stream": null
     },
     {
       "event_id": "US_PLUG_ARRA_FUELCELLS_2009",
@@ -89,7 +105,15 @@
         }
       ],
       "rationale": "Plug Power is a named direct grantee. The separate GENCO award and ordinary government equipment purchases are not attributed to Plug as direct subsidies.",
-      "limitations": "The original 2009 award announcement was not recovered with equally clear named-beneficiary evidence, so public admission is conservatively delayed to May 2011. Grant completion dates and individual disbursement schedules are unresolved."
+      "limitations": "The original 2009 award announcement was not recovered with equally clear named-beneficiary evidence, so public admission is conservatively delayed to May 2011. Grant completion dates and individual disbursement schedules are unresolved.",
+      "award_amount": 6100000,
+      "award_currency": "USD",
+      "award_amount_status": "sum_of_two_company_awards",
+      "award_amount_note": "Sum of USD3.4m combined heat/power and USD2.7m backup-power awards; excludes matching company costs.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "US_BE_DELAWARE_RECEIPT_2018",
@@ -116,7 +140,15 @@
         }
       ],
       "rationale": "Confirmed receipt of a state manufacturing grant before the IPO. Partial repayment is recorded without treating the entire award as either untouched or wholly cancelled.",
-      "limitations": "A 2014 court opinion already described the conditional offer, but the June 2018 public S-1 is used for unambiguous receipt. Confidential 2016 SEC draft submission dates are not public-admission dates. The separate $7 million grant to the University of Delaware is not counted as a direct grant to Bloom. Later recapture outcomes are not assumed. The listing gate prevents pre-IPO trading."
+      "limitations": "A 2014 court opinion already described the conditional offer, but the June 2018 public S-1 is used for unambiguous receipt. Confidential 2016 SEC draft submission dates are not public-admission dates. The separate $7 million grant to the University of Delaware is not counted as a direct grant to Bloom. Later recapture outcomes are not assumed. The listing gate prevents pre-IPO trading.",
+      "award_amount": 16500000,
+      "award_currency": "USD",
+      "award_amount_status": "award_ceiling",
+      "award_amount_note": "Agreement ceiling. Filing separately reports USD12m received, USD1.5m repaid and USD10.5m remaining liabilities.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "US_BE_DELAWARE_OFFER_2014",
@@ -142,7 +174,15 @@
         }
       ],
       "rationale": "Preserves earlier public evidence without equating an offer with confirmed receipt.",
-      "limitations": "Superseded for qualifying admission by the public 2018 filing confirming amounts received; both dates precede Bloom's listing."
+      "limitations": "Superseded for qualifying admission by the public 2018 filing confirming amounts received; both dates precede Bloom's listing.",
+      "award_amount": 16500000,
+      "award_currency": "USD",
+      "award_amount_status": "conditional_offer_ceiling",
+      "award_amount_note": "Earlier conditional offer; this superseded evidence record does not qualify.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "US_ETN_DOE_COOLING_2010",
@@ -176,7 +216,15 @@
         }
       ],
       "rationale": "Named participant in an explicitly DOE-funded development project, distinct from Eaton's ordinary government supply contracts and sales associated with stimulus spending.",
-      "limitations": "The individual Eaton grant allocation and prime/subrecipient contract were not recovered. The evidence supports funded research participation, not a claim that the entire project grant was paid directly to Eaton. No cash receipt amount or continuing grant income is imputed."
+      "limitations": "The individual Eaton grant allocation and prime/subrecipient contract were not recovered. The evidence supports funded research participation, not a claim that the entire project grant was paid directly to Eaton. No cash receipt amount or continuing grant income is imputed.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "US_GEV_45X_WIND_2023",
@@ -211,7 +259,15 @@
         }
       ],
       "rationale": "Identifiable retained operating business with a recognized US producer credit. There is no attempt to create pre-spin GEV stock returns or assign every former GE subsidy to GEV.",
-      "limitations": "The separate general government R&D-grant totals do not identify jurisdiction and are not used. Recognition is not necessarily the cash-payment date."
+      "limitations": "The separate general government R&D-grant totals do not identify jurisdiction and are not used. Recognition is not necessarily the cash-payment date.",
+      "award_amount": 234000000,
+      "award_currency": "USD",
+      "award_amount_status": "recognized_tax_credit",
+      "award_amount_note": "Wind business tax credits recognized during 2023; recognition is not necessarily cash receipt.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": "Inflation Reduction Act"
     },
     {
       "event_id": "US_GEV_EXCLUDED_GE_TAXEQUITY",
@@ -237,7 +293,15 @@
         }
       ],
       "rationale": "Predecessor financial-statement inclusion alone is insufficient to establish that a supported business belongs to the traded successor.",
-      "limitations": "Excluded for GEV admission; does not deny that the investments received public support while owned by the prior group."
+      "limitations": "Excluded for GEV admission; does not deny that the investments received public support while owned by the prior group.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "USD1.227bn is the value of transferred investments/tax attributes, not a GEV award.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "US_LIN_PRAXAIR_AMO_2016",
@@ -273,7 +337,15 @@
         }
       ],
       "rationale": "A named US government research recipient maps to a subsidiary of the current company only once the merger has completed. The historical recipient definition permits a completed grant; it does not establish ongoing public cash support.",
-      "limitations": "No pre-2018 Praxair price proxy is used for LIN. The $5 million is joint project funding, not Praxair's individual share. The separate 2018 Linde North America carbon-capture awards are not used because divestitures create uncertain project ownership."
+      "limitations": "No pre-2018 Praxair price proxy is used for LIN. The $5 million is joint project funding, not Praxair's individual share. The separate 2018 Linde North America carbon-capture awards are not used because divestitures create uncertain project ownership.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "project_total_only",
+      "award_amount_note": "Joint DOE award to Novomer and Praxair; Praxair share unknown.",
+      "project_total_amount": 5000000,
+      "project_total_currency": "USD",
+      "project_total_basis": "consortium_public_funding",
+      "article_named_stream": null
     },
     {
       "event_id": "US_LIN_NA_CARBONCAPTURE_UNRESOLVED",
@@ -305,7 +377,15 @@
         }
       ],
       "rationale": "A historical Linde name match is insufficient where project ownership after mandatory divestitures is unresolved.",
-      "limitations": "Not admitted; the independently documented Praxair research relationship is used instead."
+      "limitations": "Not admitted; the independently documented Praxair research relationship is used instead.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Company-specific award amount is not established in the recorded evidence. Null is unknown, not zero.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     },
     {
       "event_id": "US_NEE_GENESIS_1705_2011",
@@ -344,62 +424,105 @@
         }
       ],
       "rationale": "Completed named guarantee benefiting an explicitly mapped subsidiary. The $852 million is financing principal covered by a partial guarantee, not a cash grant to NextEra.",
-      "limitations": "Event date conservatively uses the August 29 confirmation of closing, without relying on an earlier secondary-source closing day. The later report establishes a repayment intention, not an exact actual repayment day, so support_end_date remains unknown. Historical receipt continues to qualify; no outstanding guarantee today is asserted. The 2020 report's upload month is conservatively represented by month-end and is not used to backdate initial admission."
+      "limitations": "Event date conservatively uses the August 29 confirmation of closing, without relying on an earlier secondary-source closing day. The later report establishes a repayment intention, not an exact actual repayment day, so support_end_date remains unknown. Historical receipt continues to qualify; no outstanding guarantee today is asserted. The 2020 report's upload month is conservatively represented by month-end and is not used to backdate initial admission.",
+      "award_amount": null,
+      "award_currency": null,
+      "award_amount_status": "unknown",
+      "award_amount_note": "Guarantee covers 80% of principal and interest on USD702m bonds and USD150m term loan. The full guaranteed-interest amount is not established; loan principal is not grant income.",
+      "project_total_amount": null,
+      "project_total_currency": null,
+      "project_total_basis": null,
+      "article_named_stream": null
     }
   ],
   "candidates": [
     {
       "ticker": "FSLR",
-      "searches": ["First Solar ARRA January 2010 Section 48C manufacturing award", "First Solar 2009 and 2010 SEC annual reports government grants and Ohio investment credit", "First Solar DOE loan guarantees project ownership"],
+      "searches": [
+        "First Solar ARRA January 2010 Section 48C manufacturing award",
+        "First Solar 2009 and 2010 SEC annual reports government grants and Ohio investment credit",
+        "First Solar DOE loan guarantees project ownership"
+      ],
       "coverage_status": "qualifying named US manufacturing credit confirmed",
       "earliest_evidenced_date": "2011-02-28",
       "unresolved": "Earlier Ohio aid and original 2010 announcement could move the documentary bound earlier; award receipt is already established before the financial backtest window. Foreign plant aid and sold-project guarantees are not relied on."
     },
     {
       "ticker": "ENPH",
-      "searches": ["Enphase California Energy Commission PIER grant 2009 SolarTech", "NREL 47866 Enphase consortium grant March 2010", "Enphase SEC IPO solar ITC customer incentives and direct grants"],
+      "searches": [
+        "Enphase California Energy Commission PIER grant 2009 SolarTech",
+        "NREL 47866 Enphase consortium grant March 2010",
+        "Enphase SEC IPO solar ITC customer incentives and direct grants"
+      ],
       "coverage_status": "qualifying named co-recipient in government laboratory report",
       "earliest_evidenced_date": "2010-03-31",
       "unresolved": "Original CEC grant agreement and individual Enphase allocation were not recovered; exact publication day within March 2010 is unknown."
     },
     {
       "ticker": "PLUG",
-      "searches": ["Plug Power DOE ARRA 2009 3.4 million 2.7 million grants", "DOE 2011 annual merit review ARRA fuel cell award table", "Plug Power 2009 SEC interim filing grants"],
+      "searches": [
+        "Plug Power DOE ARRA 2009 3.4 million 2.7 million grants",
+        "DOE 2011 annual merit review ARRA fuel cell award table",
+        "Plug Power 2009 SEC interim filing grants"
+      ],
       "coverage_status": "qualifying named direct federal awards confirmed",
       "earliest_evidenced_date": "2011-05-09",
       "unresolved": "Original named 2009 announcement and exact grant completion dates were not recovered. No generic fuel-cell-sector link is used."
     },
     {
       "ticker": "BE",
-      "searches": ["Bloom Delaware Strategic Fund March 2012 grant agreement", "Bloom Delaware 2014 federal court 12-777", "Bloom June 2018 public S-1 12 million grant received 1.5 million recapture"],
+      "searches": [
+        "Bloom Delaware Strategic Fund March 2012 grant agreement",
+        "Bloom Delaware 2014 federal court 12-777",
+        "Bloom June 2018 public S-1 12 million grant received 1.5 million recapture"
+      ],
       "coverage_status": "qualifying confirmed receipt before listing; earlier offer separately recorded",
       "earliest_evidenced_date": "2018-06-12",
       "unresolved": "2014 court material establishes an offer; no earlier exact public receipt date is imputed. Post-2018 recapture outcomes require separate investigation if modeling remaining cash benefits."
     },
     {
       "ticker": "ETN",
-      "searches": ["Eaton HP DOE water cooled rack grant 2010", "Eaton 2010 annual report DOE-funded project", "Eaton March 18 2011 proxy annual report availability", "Eaton DOE variable speed drive grant 2016"],
+      "searches": [
+        "Eaton HP DOE water cooled rack grant 2010",
+        "Eaton 2010 annual report DOE-funded project",
+        "Eaton March 18 2011 proxy annual report availability",
+        "Eaton DOE variable speed drive grant 2016"
+      ],
       "coverage_status": "qualifying named funded research participant confirmed",
       "earliest_evidenced_date": "2011-03-18",
       "unresolved": "Exact award day, prime/subrecipient agreement and Eaton allocation not recovered. Ordinary government product sales are excluded."
     },
     {
       "ticker": "GEV",
-      "searches": ["GE Vernova February 2024 Form 10 IRA advanced manufacturing credits 234 million", "GE Vernova tax equity investments transferred to GE spin-off", "GE Vernova April 2 2024 completed spin-off release"],
+      "searches": [
+        "GE Vernova February 2024 Form 10 IRA advanced manufacturing credits 234 million",
+        "GE Vernova tax equity investments transferred to GE spin-off",
+        "GE Vernova April 2 2024 completed spin-off release"
+      ],
       "coverage_status": "qualifying retained Wind manufacturing credit confirmed; admission waits for spin-off",
       "earliest_evidenced_date": "2024-04-02",
       "unresolved": "Earlier GE-wide grants are not mapped without specific retained-business evidence. No pre-spin stock history is manufactured."
     },
     {
       "ticker": "LIN",
-      "searches": ["Praxair Novomer DOE AMO five million grant 2016", "Linde Praxair business combination completed October 31 2018", "Linde North America DOE carbon capture awards May 2018", "FTC Linde Praxair US divestiture Messer 2018"],
+      "searches": [
+        "Praxair Novomer DOE AMO five million grant 2016",
+        "Linde Praxair business combination completed October 31 2018",
+        "Linde North America DOE carbon capture awards May 2018",
+        "FTC Linde Praxair US divestiture Messer 2018"
+      ],
       "coverage_status": "qualifying historical Praxair award mapped after completed merger",
       "earliest_evidenced_date": "2018-10-31",
       "unresolved": "Praxair's original award day and individual allocation unresolved. Separate Linde North America carbon-capture project ownership after divestitures is not established and is excluded."
     },
     {
       "ticker": "NEE",
-      "searches": ["NextEra Genesis DOE loan guarantee August 2011 company announcement", "Federal Register 2011-22403 Genesis guarantee", "DOE Genesis loan repayment 2019 portfolio report", "NextEra historical wind production tax credits"],
+      "searches": [
+        "NextEra Genesis DOE loan guarantee August 2011 company announcement",
+        "Federal Register 2011-22403 Genesis guarantee",
+        "DOE Genesis loan repayment 2019 portfolio report",
+        "NextEra historical wind production tax credits"
+      ],
       "coverage_status": "qualifying named subsidiary federal loan guarantee confirmed",
       "earliest_evidenced_date": "2011-08-29",
       "unresolved": "Earlier wind credits may establish an earlier history; this reconstruction uses an unambiguous named guarantee well before the data window. Exact actual repayment date is not asserted from a repayment-intention announcement."

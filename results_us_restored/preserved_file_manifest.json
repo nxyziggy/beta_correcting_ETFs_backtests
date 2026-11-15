@@ -8,10 +8,6 @@
     "sha256": "8140c10b206dcf8c4583fadf59744ae08a8e60120e8ff6b01dbb6f7272511153"
   },
   {
-    "path": "backtest.py",
-    "sha256": "2af12310d739b7b352c4a8e634fa10d3e70fe3df0365697aea8107e397506b6e"
-  },
-  {
     "path": "data/actual_dates/airbus_metadata.json",
     "sha256": "78a46c40460bb39f07464907981ea107c335861a181c099be0972f089e5814a6"
   },
@@ -7529,11 +7525,11 @@
   },
   {
     "path": "results_eu_interim/REPORT.md",
-    "sha256": "c57043fff1c5d93346b31b6d134dd0bf8a447fe4c046230bfbfc87d149b03e6a"
+    "sha256": "0a28bb4b8e505eb0fefa7a7902259b839a31f9f7e02b47aadd58a13c1a405c26"
   },
   {
     "path": "results_eu_interim/input_manifest.json",
-    "sha256": "5eb32e14e2eced4e112e71577a4bcb1fcc05ac3baa9315cea1ac637b25c02733"
+    "sha256": "86c38754639fa32e497c756198cc1f6fe8877e74e2c98522de4c2cb5d3833dc1"
   },
   {
     "path": "results_eu_interim/interim_coverage.csv",
@@ -7541,7 +7537,7 @@
   },
   {
     "path": "results_eu_interim/preserved_file_manifest.json",
-    "sha256": "edae5851666a7d8094b89f3d10c3a64a487e00b4236d0c016a6a5a73216be885"
+    "sha256": "cbdbdf9d7e47b629b47da391aa863dc2755d8c09b8a19e876761c7e2ab41ac8e"
   },
   {
     "path": "results_eu_interim/summary.csv",
@@ -7549,7 +7545,7 @@
   },
   {
     "path": "results_eu_interim/validation.json",
-    "sha256": "d94fd963407e6e58bcc27b06b47ee6aad9efaf8c01bc618f728b24f41fa035d5"
+    "sha256": "5b8e6842eeb87ad3a2f2d0e1aadb1692beb6d25a23455ab98a4e72ee17b546eb"
   },
   {
     "path": "results_eu_restored/EU_reference_annual_equal_15bp_lag0_from2021-09-30/coverage.csv",
@@ -8137,7 +8133,7 @@
   },
   {
     "path": "results_eu_restored/input_manifest.json",
-    "sha256": "61d375b1d2cdd6d3e4f002ed0af7bb4c56efed461cb4f7624b5ae32427591b20"
+    "sha256": "c565ece783d9b634150153fb38d585ba953b906d4a8dffbd7c8fada6e033cf59"
   },
   {
     "path": "results_eu_restored/restored_company_coverage.csv",
@@ -8150,14 +8146,6 @@
   {
     "path": "results_eu_restored/validation.json",
     "sha256": "06214e00bf2f358a8d5e246b11826dfcd775fb707e89178689383b4d52c96abc"
-  },
-  {
-    "path": "run_eu_interim.py",
-    "sha256": "540aedb52c67a505e7878ddb71fd1134e0502534e891cbfcce24f429220df4f3"
-  },
-  {
-    "path": "run_eu_restoration.py",
-    "sha256": "52fdc0fac0d8ff9aec98b7463654dbe7a0e37824e27697e0d642203adf2c6ac9"
   },
   {
     "path": "tables_actual/01_Matched_Performance.csv",

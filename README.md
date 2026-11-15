@@ -10,10 +10,46 @@ The implemented test measures a specific part of that idea: two accounting signa
 
 ## Quick start
 
-**Historical Pillar 2 admission:** [policy-gated results](results_pillar2/REPORT.md)
+**Scoring and exit experiments:** [results and tradeoffs](results_recovery_experiments/REPORT.md)
+test eight alternatives against the existing strategy in both regions. The
+fundamental-improvement and price-momentum scores bring several US entries
+forward, but no alternative improves both US full-window returns without
+reducing at least one EU return. Exit confirmation alone has small, mixed
+effects. The existing strategy remains the default. Reproduce with
+`python3 run_recovery_experiments.py` and audit with
+`python3 audit_recovery_experiments.py`; definitions and limitations are in
+[the experiment method](RECOVERY_EXPERIMENT_METHOD.md).
+The [review response](REVIEW_RESPONSE.md) records the support-screen scope,
+runner compatibility repairs and remaining evidence limitations. Automated
+checks cover Python 3.12 and 3.14, including legacy runner reproduction and
+the saved experiment-ledger audit. Run all unit tests with
+`python3 -m unittest discover -p 'test_*.py'`.
+
+**Current baseline comparison, 30 June 2019–2 November 2026:** all 31
+retrospective candidates are researched; each joins when its listing, direct
+public-support evidence and complete financial coverage permit. Returns include
+modeled costs, in USD for the US and EUR for Europe.
+
+| Rule | US | EU |
+|---|---:|---:|
+| Existing Q50 | 378.08% | 286.95% |
+| Existing Q75 | 389.82% | 338.92% |
+| Equal weight | 699.43% | 132.27% |
+
+The US strategies trail their candidate-pool control; the EU strategies lead.
+These results supersede the original limited-coverage headline comparison for
+this broader, longer research question. The original release below remains an
+explicit historical snapshot, with its own dates and inputs.
+
+**Any prior public support screen:** [dated eligibility and results](results_pillar2/REPORT.md)
 audit all 31 candidates against dated government support, including programmes
 before CHIPS/IRA and the EU Chips Act. Run `python3 run_pillar2.py`; tests:
 `python3 -m unittest test_pillar2.py test_long_history.py test_research_corrections.py`.
+This broad historical extension is not a replication of the article's specified
+Pillar 2 streams, basket weights or event-driven entry dates. The direct screen
+excludes **79 of 2,614 listed company-months (3.0%)**; including indirect support
+excludes only **2 (0.08%)**. A small or long-completed award can qualify: no
+minimum award amount or ongoing-support requirement is imposed.
 The main panel requires named direct/subsidiary support; evidenced indirect
 beneficiaries are a separate sensitivity. Dates combine public policy evidence,
 actual listing/ownership and complete financial coverage. Historical admission
@@ -27,7 +63,7 @@ stock contributions behind the regional difference; regenerate it with
 recover older original annual statements across both full candidate pools.
 These are retrospective accounting-score tests. Neither the June 2019 main
 start nor the September 2019 matched timing start is justified by a government
-programme; the historical Pillar 2 participation gate is not applied.
+programme; the historical public-support screen is not applied.
 Run `python3 run_long_history.py`; tests: `python3 -m unittest test_long_history.py test_research_corrections.py`.
 The main start dates require complete price, FX and financial coverage for every
 then-listed eligible company. The timing sensitivity now extends freshness with
@@ -101,7 +137,7 @@ python3 -c 'import hashlib,json,sys; from pathlib import Path; rows=[r for name 
 
 The release contains **489 input-manifest entries and 1,138 result-manifest entries**. [REPLICATION_VERIFICATION.json](REPLICATION_VERIFICATION.json) records an exact match of all 1,138 generated result/table files after a clean extraction and rerun. These manifests check the listed data and output bytes; they do not cover every source-code or documentation file. Preserve the Git commit when citing or extending a run.
 
-## Results reproduced here
+## Original release results: preserved historical snapshot
 
 The headline specification is `panel=actual_expanded`, `window=matched`, `rule=q75` or `q50`, with trading costs of 10 basis points in the US and 15 in Europe. "Expanded" is the code's name for the panel admitting all complete annual and interim/TTM observations supplied in this snapshot.
 
@@ -153,7 +189,7 @@ The article supplies the economic motivation. This table connects its named conc
 | [Inattention and performative beta traps][article-problem] | Motivates examining a transparent allocation rule. The code does not estimate investors' attention, corporate hype or an economy-wide change in beta. |
 | [Competition through portfolio admission and removal][article-solution] | `constrained_selection()` in [backtest.py](backtest.py) applies observable score thresholds at scheduled reviews. Event and selection ledgers make the decisions inspectable. |
 | [Pillar 1: KPI scoring][article-kpi] | `Inputs.signals()` computes a reduced score from operating returns on capital employed and cash earnings quality. It does not implement all six proposed KPI dimensions. |
-| [Pillar 2: Industrial policy][article-policy] | [The historical admission experiment](results_pillar2/REPORT.md) applies a dated, source-linked support gate to all 31 retrospective candidates before ranking. The earlier headline snapshots remain ungated. It tests documented historical participation, not subsidy utilization or an exhaustive historical universe. |
+| [Pillar 2: Industrial policy][article-policy] | [The any prior public support screen](results_pillar2/REPORT.md) is a broader historical extension, not a replication of the article's specified streams, baskets or entry examples. It excludes 3.0% of listed company-months under direct support, or 0.08% including indirect support. It does not measure award materiality, ongoing support or subsidy utilization, and the 31 candidates are not an exhaustive historical universe. |
 | [Pillar 3: Competition and collaboration][article-network] | Network centrality, patent spillovers and geographic-cluster effects are unmeasured. They contribute no fabricated score or weight. |
 | [Interaction of the three pillars][article-interaction] | The implemented composite combines two accounting ranks. Position weights are equal weights with a small financial-score tilt; they do not measure a collaboration premium or time-varying pillar interactions. |
 | [Reproducible backtests][article-replication] | [run_all.py](run_all.py), frozen inputs, source records, validation and file manifests provide a computational audit trail. |

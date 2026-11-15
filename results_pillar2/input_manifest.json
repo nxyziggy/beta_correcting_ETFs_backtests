@@ -1,11 +1,11 @@
 [
   {
     "path": "PILLAR2_METHOD.md",
-    "sha256": "ebc77f68d6bdf04a35cddcf944c37206524e97c0cf1151c2ca63d93ff5369702"
+    "sha256": "b9d140eb399e6feac839d9630934d3d063820781127ed88f9be97ee561acd6c4"
   },
   {
     "path": "backtest.py",
-    "sha256": "cf6668e367f8554fbb44c897fdb6b8ea6ad35b7ea374a26c32cbd22b54014c70"
+    "sha256": "7f259511b5f6f32a436c4ae109f2cba0b3dabff7b4d35309a0681590af6d7cfe"
   },
   {
     "path": "data/pillar2/listing_additions.json",
@@ -13,30 +13,38 @@
   },
   {
     "path": "data/pillar2/research_eu_industry.json",
-    "sha256": "0424a7f97ea372d9331738c3aeb26bf8588d6d34ceb538479c99d5bbb93e7db3"
+    "sha256": "353a18b095290be8a54d5bbcdbe7b8f7cb1ee3bdcc489f9dd4dd9c159362894f"
   },
   {
     "path": "data/pillar2/research_semiconductors.json",
-    "sha256": "29835e8cc58dc10dd93b28eb045fa834785c03492d68d18b3ba88cb92f0839fc"
+    "sha256": "b7d1043ebd12f4a654c4b1eb6b339522f543e875d987a002d34c6c09319b739c"
   },
   {
     "path": "data/pillar2/research_us_energy.json",
-    "sha256": "8cca4f15e7df9983b55fdf48cfe44e1240545fd4c18cd2ba11d95d0d47eb1376"
+    "sha256": "ad7ceb8649c44609b631dc648a575e164db73fae974e0fb84f4b5b51df957389"
+  },
+  {
+    "path": "data/pillar2/support_screen_audit.json",
+    "sha256": "e2a93eb5daed93cac44482007efbb598cbbead7406d81fd12af8872926195ed9"
   },
   {
     "path": "run_long_history.py",
-    "sha256": "d0eab32bfbe87a2ffea5f7705164ef129585d485e52e67c3ce7a5937127485b0"
+    "sha256": "0d058430b5d189b2ede3bc71d869516812e80ca85279510cd274ec06790bc624"
   },
   {
     "path": "run_pillar2.py",
-    "sha256": "3c97608a669e4c07f38215a5de86df17e95eacdb5819df8cbc7e5413ab6d0c16"
+    "sha256": "c951b4e2d78b99922f95f2d3e6e34cdea1c256cf9879c23f7e02d0d022aac664"
   },
   {
     "path": "run_research_corrections.py",
-    "sha256": "a0f98468bce478ec5f03c0c408083e915fd132567d68cba9d7474919f8955ba1"
+    "sha256": "788e02e966df94e679ddf0db8a4a8fd1b37edebcce59368352b4337520fd4872"
   },
   {
     "path": "test_pillar2.py",
     "sha256": "2ba78f170838d558a6cfd75420948705f02e18ae99ca03f909216521eff80c05"
+  },
+  {
+    "path": "test_support_screen_audit.py",
+    "sha256": "b2999ef0925d0bac8f4eb1ad16de5eee2e5e4859849cfaf9b102861ef67d93af"
   }
 ]

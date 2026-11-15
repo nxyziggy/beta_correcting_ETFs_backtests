@@ -1,8 +1,9 @@
 # Coverage, information timing and concentration corrections
 
-Specified before calculating the corrected comparisons. Keep the released
-snapshots reproducible; write correction inputs and outputs separately.
-Do not merge the review PR.
+The correction experiment retains separate inputs and outputs so the released
+snapshots remain reproducible. Implementation hashes record the version used
+to produce a snapshot; compatible code extensions must reproduce its numeric
+references while frozen data and result artifacts retain exact hash checks.
 
 1. Recover Lam Research FY2024 and the following three fiscal quarters from
    original statements. Fill the missing observations; retain the existing

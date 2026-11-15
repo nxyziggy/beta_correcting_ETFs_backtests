@@ -15,6 +15,7 @@ from decimal import Decimal
 
 from backtest import Inputs, read_csv, run
 from prepare_data import ROOT, DATA
+from snapshot_integrity import verify_frozen_entries
 
 AREA = DATA / 'research_corrections'
 OUT = ROOT / 'results_research_corrected'
@@ -252,14 +253,34 @@ def attribution(result, inputs):
 
 
 def frozen_files():
-    result = {}
-    for directory in ('data', 'results_actual', 'results_eu_restored', 'results_eu_interim', 'results_us_restored'):
+    # Freeze this experiment's upstream source graph, not later independent
+    # studies added under data/. Otherwise a new research folder rewrites this
+    # report's preserved-file count despite not affecting a single score.
+    source_paths = set()
+    for name in ('INPUT_MANIFEST.json', 'RESULT_MANIFEST.json',
+                 'results_eu_restored/input_manifest.json',
+                 'results_eu_interim/input_manifest.json',
+                 'results_us_restored/input_manifest.json'):
+        verified = verify_frozen_entries(ROOT, load(name))
+        source_paths.update(p for p in verified if p.startswith('data/'))
+    source_paths.update({
+        'data/actual_dates/calculation_audit.json',
+        'data/actual_dates/coverage_counts.json',
+        'data/actual_dates/observations_normalized.json',
+        'data/actual_dates/ttm_exclusions.json',
+        'data/financials_actual_annual.csv', 'data/financials_actual_quarterly.csv',
+    })
+    preserved = OUT/'preserved_file_manifest.json'
+    if preserved.exists():
+        # The original actual-date pipeline has six derived data files outside
+        # INPUT_MANIFEST; retain their already-published integrity checks too.
+        verify_frozen_entries(ROOT, [r for r in json.loads(preserved.read_text())
+                                     if r['path'] in source_paths])
+    result = {p:digest(ROOT/p) for p in source_paths}
+    for directory in ('results_actual', 'results_eu_restored', 'results_eu_interim', 'results_us_restored'):
         for p in (ROOT/directory).rglob('*'):
-            if p.is_file() and 'research_corrections' not in p.parts and '__pycache__' not in p.parts:
+            if p.is_file() and '__pycache__' not in p.parts:
                 result[str(p.relative_to(ROOT))] = digest(p)
-    for name in ('INPUT_MANIFEST.json', 'RESULT_MANIFEST.json'):
-        for r in load(name):
-            assert digest(ROOT/r['path']) == r['sha256'], r['path']
     return result
 
 
@@ -395,7 +416,7 @@ def main():
                       leave_one_out_comparisons=len(loo), checks=checks)
     save(OUT/'validation.json', validation)
     report(summary,stats,pnl,loo,lag_summary,lam_months,validation,inputs_map)
-    reproducibility = [ROOT/'backtest.py', ROOT/'prepare_data.py', ROOT/'run_research_corrections.py', ROOT/'test_research_corrections.py',
+    reproducibility = [ROOT/'backtest.py', ROOT/'prepare_data.py', ROOT/'run_research_corrections.py', ROOT/'test_research_corrections.py', ROOT/'snapshot_integrity.py',
                        ROOT/'RESEARCH_CORRECTIONS_METHOD.md', *sorted(AREA.glob('*.json'))]
     save(OUT/'input_manifest.json', [dict(path=str(p.relative_to(ROOT)),sha256=digest(p)) for p in reproducibility])
     print('PASS: corrected runs, source timing, coverage, accounting and all sensitivities',flush=True)
