@@ -100,3 +100,26 @@ incomplete horizons and disclose delisting handling. Forward returns are
 hindsight diagnostics only and never enter the signals or exit decisions.
 Validate cutoff isolation, listing lookbacks, fallback coverage, exit-state
 transitions, old baseline reproduction, and costs/holdings/NAV reconciliation.
+
+## Post-result concentration diagnostics
+
+The subsequent review adds whole-pool omissions for each of the 31 candidates,
+rerunning baseline, trend, momentum and the two existing confirmation combinations.
+Each omission occurs before every accounting and feature rank is recomputed;
+the baseline and alternative use the same reduced pool. The main portfolios
+retain all eligible names. Omission effects include changed selections and
+weights and are not additive stock contributions.
+
+June 2019–November 2026 main-case results are compared with relative-wealth
+milestones at December 2020, May 2024, June 2026 and the final mark, plus each
+US variant's first Bloom entry. Relative wealth is variant NAV / baseline NAV
+minus one; cumulative-return differences are separately labeled percentage
+points. Dates and omissions were chosen after reviewing results. No new score,
+parameter search or holdout is introduced.
+
+All monthly t-statistics in the report remain unadjusted. There are 32 specified
+alternative-versus-baseline comparisons in the main case, including the inactive
+grace alternative. Realized paths are compared across all cases to identify
+duplicate specifications. The ledger replay imports the production input
+classes; it is not a fully independent implementation. The legacy audit filename
+is retained for compatibility.

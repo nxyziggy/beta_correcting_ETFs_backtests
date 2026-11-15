@@ -12,6 +12,7 @@ from recovery_diagnostics import chronological_rows,first_entry_rows,recovery_ex
 from run_long_history import COST,year_returns,validate
 from run_pillar2 import read_research,build_lam,active_events
 from run_research_corrections import active_stats,close,digest,save,write_csv
+from analyze_recovery_robustness import build_diagnostics,report_lines,write_report
 
 OUT=ROOT/'results_recovery_experiments'
 CASES={
@@ -197,21 +198,38 @@ def main():
     inputs=[ROOT/p for p in ('backtest.py','recovery_rules.py','recovery_diagnostics.py','run_recovery_experiments.py',
              'run_pillar2.py','run_long_history.py','run_research_corrections.py','RECOVERY_EXPERIMENT_METHOD.md',
              'test_selection_hook.py','test_recovery_rules.py','test_recovery_exit_policy.py','test_recovery_diagnostics.py',
-             'audit_recovery_experiments.py')]
+             'audit_recovery_experiments.py','analyze_recovery_robustness.py','test_recovery_robustness.py',
+             'check_research_reproduction.py')]
     inputs += [p for p in (DATA/'recovery_experiments').rglob('*') if p.is_file()]
     save(OUT/'input_manifest.json',[dict(path=str(p.relative_to(ROOT)),sha256=digest(p)) for p in sorted(inputs)])
-    make_report(summary,decision,feature_coverage,validation,entries,chronology,exit_reviews,recovery_summary)
+    diagnostics=build_diagnostics()
+    write_report(diagnostics)
+    validation.update(concentration_sensitivity_runs=diagnostics[3]['sensitivity_runs'],
+                      realized_variants=diagnostics[3]['realized'])
+    save(OUT/'validation.json',validation)
+    make_report(summary,decision,feature_coverage,validation,entries,chronology,exit_reviews,recovery_summary,diagnostics)
     print('PASS: fixed-grid scoring and exit experiments, controls, cutoffs and preserved histories',flush=True)
 
 
-def make_report(summary,decision,features,validation,entries,chronology,exit_reviews,recovery_summary):
+def make_report(summary,decision,features,validation,entries,chronology,exit_reviews,recovery_summary,diagnostics):
     bykey={(s['case'],s['region'],s['variant'],s['rule']):s for s in summary}
+    realized=diagnostics[3]['realized']
+    trend=[r for r in diagnostics[0] if r['region']=='US' and r['variant']=='trend']
+    momentum=[r for r in diagnostics[0] if r['variant']=='momentum']
+    duplicates='; '.join(f'{v} matches {b}' for v,b in realized['duplicate_of'].items()) or 'no duplicate paths'
     lines=['# Scoring and exit-rule experiments','',
            '[Fixed experiment definitions](../RECOVERY_EXPERIMENT_METHOD.md). Run `python3 run_recovery_experiments.py`. '
            'The existing strategy remains the default. All eight alternatives and the baseline are disclosed; no parameters were optimized after seeing these runs.','',
-           f"**{sum(r['both_us_improve_no_eu_return_loss'] for r in decision)} of the eight alternatives passes the full-window four-return screen.** "
-           'Changing the score has substantially larger effects than slowing exits alone. Fundamental improvement and price momentum '
-           'bring several US entries forward, but their effects on European returns differ. These are findings on already-seen history, not a validated replacement strategy.','',
+           f"**{sum(r['both_us_improve_no_eu_return_loss'] for r in decision)} of {len(decision)} specified alternatives pass the full-window four-return screen.** "
+           f"There are {realized['distinct_portfolio_alternatives']} distinct alternative portfolio paths across the tested cases; "+
+           duplicates+'. These are findings on already-seen history, not a validated replacement strategy.','',
+           'Removing Bloom before reranking the fundamental-improvement strategy and its baseline '
+           'changes the Q50/Q75 gains from '+
+           ' / '.join(f"{r['full_delta_pp']:+.2f}pp" for r in trend)+' to '+
+           ' / '.join(f"{r['without_Bloom_delta_pp']:+.2f}pp" for r in trend)+
+           '. Momentum’s positive omission comparisons are '+
+           '; '.join(f"{r['region']} {r['rule'].upper()} {r['positive_omissions']}/{r['omissions']}" for r in momentum)+'. '
+           'The omission results and unadjusted statistical evidence below qualify the headline cumulative returns.','',
            'The universe uses the broad [any prior public support screen](../results_pillar2/REPORT.md), '
            'with named direct/subsidiary support for the main case. It does not replicate the article’s narrower '
            'Pillar 2 programme streams or basket weights. The candidate list remains retrospective.','',
@@ -237,12 +255,12 @@ def make_report(summary,decision,features,validation,entries,chronology,exit_rev
     lines+=['','The screen requires both US returns to improve and neither EU return to decline. '
             'It does not establish a robust improvement or eliminate risk/cost tradeoffs. A negative drawdown change means a worse maximum monthly drawdown. '
             '`no_score_exit` remains a diagnostic, with capacity and eligibility exits still enforced.','',
-            'The fundamental-trend score is the clearest compromise in these runs: both US returns improve substantially, '
-            'EU Q50 improves slightly, and EU Q75 declines. Price momentum raises both US returns above their equal-weight control, '
-            'but lowers both EU returns relative to their existing strategies. The two-quarter exit by itself has small, mixed '
-            'full-window effects; removing score exits hurts EU Q75 materially. '
+            'The headline return ranking does not establish a robust improvement. Stock concentration, the timing of gains, '
+            'monthly uncertainty and different EU effects must be assessed alongside the total returns. '
             f"The recovery-grace condition triggers {sum(r['grace'] for r in exit_reviews if r['variant']=='recovery_grace')} times "
-            'across the tested cases and therefore does not change these portfolios. Its effectiveness is untested by these outcomes.','',
+            'across the tested cases. Its realized path is compared with baseline above; an inactive rule supplies no evidence of effectiveness.','']
+    lines+=report_lines(*diagnostics)
+    lines+=[
             '## Risk and trading tradeoffs','',
             'Each cell is annualized return / maximum monthly drawdown / annualized two-way turnover. '
             'Turnover counts purchases plus sales; costs remain 10bp per traded dollar in the US and 15bp in Europe.','',
@@ -251,8 +269,8 @@ def make_report(summary,decision,features,validation,entries,chronology,exit_rev
         rows=[bykey['direct_main',region,variant,rule] for region in ('US','EU') for rule in ('q50','q75')]
         lines.append(f'| {variant} | '+' | '.join(
             f"{r['CAGR']:.2%} / {r['max_drawdown_monthly']:.2%} / {r['annualized_two_way_turnover']:.2f}x" for r in rows)+' |')
-    lines+=['','Momentum reduces both European full-window returns but also reduces both European maximum monthly drawdowns. '
-            'Trend increases trading in both regions. The four-return screen therefore is not a complete risk-adjusted ranking.','',
+    lines+=['','Return, drawdown and trading frequency can move in different directions. '
+            'The four-return screen therefore is not a complete risk-adjusted ranking.','',
             '## Timing and eligibility robustness','',
             'The [complete comparison](comparisons.csv) includes direct/source and delayed financial timing from September 2019, '
             'plus indirect-inclusive eligibility from June 2019. Source and delayed controls have identical monthly NAVs. '
@@ -282,8 +300,7 @@ def make_report(summary,decision,features,validation,entries,chronology,exit_rev
                         and r['variant']==variant and r['ticker']==ticker) for ticker in ('BE','FSLR','GEV')]
             lines.append(f"| {variant} | {rule} | "+' | '.join(d or 'Never held' for d in dates)+' |')
     lines+=['','Earlier first admission does not imply uninterrupted exposure to every later rally. '
-            'For example, two-quarter confirmation delays Intel’s March 2023 exit to June 2023, '
-            'but does not solve every missed recovery. Capacity removals can still occur under every exit variant.','',
+            'Capacity removals can still occur under every exit variant.','',
             '[Every stock’s first-entry changes](first_entries.csv) includes earlier, later, new and missed entries. '
             '[Six-month outcomes after every baseline score exit](recovery_exit_diagnostics.csv) show subsequent baseline/variant exposure, '
             'with incomplete horizons right-censored. [Recovery counts](recovery_summary.csv) report both positive and nonpositive outcomes, '
@@ -297,22 +314,23 @@ def make_report(summary,decision,features,validation,entries,chronology,exit_rev
             lines.append(f"| {rule} | {variant} | {r['positive_with_more_exposure']} / {r['positive_recoveries']} | "
                          f"{r['nonpositive_with_more_exposure']} / {r['nonpositive_horizons']} |")
     lines+=['','These are outcomes after baseline score exits, with extra exposure measured by the number of subsequent monthly intervals held. '
-            'Q50 and Q75 events can overlap and are not independent observations. Trend’s large US gains do not demonstrate '
-            'better retention through the previously missed recoveries: it adds exposure to none of the positive outcomes above. '
-            'Confirmation retains some recoveries, but also some subsequent losses.','',
+            'Q50 and Q75 events can overlap and are not independent observations. The counts distinguish earlier selection '
+            'from retaining stocks through subsequent recoveries or losses.','',
             '## Chronological sensitivity for the main scoring alternatives','',
             'Changes versus the matching baseline over each continuous-position subperiod. These windows were fixed in advance of the variant runs; '
-            'the July 2020 boundary follows the independently audited fundamental-feature coverage. Positions are not restarted at a boundary.','',
+            'the July 2020 boundary follows the recorded fundamental-feature coverage. Positions are not restarted at a boundary.','',
             '| Period | Variant | US Q50 Δ | US Q75 Δ | EU Q50 Δ | EU Q75 Δ |','|---|---|---:|---:|---:|---:|']
     for period in ('early','late','common_trend_coverage'):
         for variant in ('trend','momentum','trend_confirm'):
             values=[next(r['delta_vs_baseline_pp'] for r in chronology if r['period']==period and r['variant']==variant
                          and r['region']==region and r['rule']==rule) for region in ('US','EU') for rule in ('q50','q75')]
             lines.append(f'| {period} | {variant} | '+' | '.join(f'{v:+.2f}pp' for v in values)+' |')
-    lines+=['','Fundamental trend improves all four returns after July 2020 and in the later 2023–2026 slice, '
-            'while its EU Q75 full-history return is lower. This identifies sensitivity to the early period and feature activation; '
-            'it does not establish that missing early inputs are the sole cause. Under delayed financial availability, '
-            'the direct EU Q50 trend result is slightly below its delayed baseline.','',
+    later={period:sum(r['delta_vs_baseline_pp']>0 for r in chronology if r['period']==period and r['variant']=='trend')
+           for period in ('late','common_trend_coverage')}
+    lines+=['',f"Fundamental trend improves {later['common_trend_coverage']} of four returns after July 2020 and "
+            f"{later['late']} of four in the later 2023–2026 slice. "
+            'Subperiod comparisons expose sensitivity to the early period and feature activation; '
+            'they do not establish that missing early inputs are the sole cause.','',
             '## Feature coverage','',
             'Missing features retain the baseline score and never remove a stock. Early European fundamental-trend coverage is weaker than US coverage. '
             'The July 2020 boundary marks improved coverage for established names; IPO-related missingness remains, '
@@ -335,8 +353,9 @@ def make_report(summary,decision,features,validation,entries,chronology,exit_rev
             'other Python/platform combinations may change the last floating-point digits of ledger text without a meaningful return change.','',
             '[Full summary and risk/cost metrics](summary.csv) · [Monthly active-return uncertainty](active_statistics.csv) · '
             '[Year returns](year_returns.csv) · [Validation](validation.json) · [Input hashes](input_manifest.json) · '
-            '[Independent computation audit](independent_audit.json). Reproduce the latter with '
-            '`python3 audit_recovery_experiments.py`.','']
+            '[Ledger replay and cutoff checks](independent_audit.json). Reproduce the latter with '
+            '`python3 audit_recovery_experiments.py`. It reuses the input classes under test; '
+            'it is not an independent implementation. The legacy output filename is retained for compatibility.','']
     (OUT/'REPORT.md').write_text('\n'.join(lines))
 
 

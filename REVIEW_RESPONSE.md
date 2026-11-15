@@ -1,5 +1,65 @@
 # Review response and scope of the revised experiments
 
+## Follow-up review of the scoring experiments
+
+The follow-up review found no new implementation defect and confirmed the
+earlier repairs. Its concentration criticism is valid: calling the trend score
+the "clearest compromise" overstated the evidence. That wording is removed.
+
+Reproducible omissions now remove each of the 31 companies before reranking
+baseline, trend, momentum and the two existing confirmation combinations.
+These 330 diagnostic runs include 20 full-pool reproductions and 310 reduced-pool
+runs. Main portfolios and controls retain every eligible company.
+
+| US gain over the matching baseline | Full pool Q50 / Q75 | Without Bloom Q50 / Q75 |
+|---|---:|---:|
+| Fundamental improvement | +511.91pp / +205.69pp | −15.91pp / +19.60pp |
+| Price momentum | +405.81pp / +586.00pp | +177.01pp / +252.86pp |
+| Fundamental improvement + confirmation | +645.07pp / +187.29pp | +73.78pp / +81.46pp |
+| Price momentum + confirmation | +571.03pp / +492.20pp | +205.56pp / +269.49pp |
+
+Omissions change ranks and positions throughout the portfolio. The difference
+is not an additive Bloom contribution or a reason to remove Bloom. Momentum
+survives every US omission, but underperforms baseline in 14/15 EU Q50 omissions
+and all 15 EU Q75 omissions. Relative-wealth milestones confirm substantial
+momentum advantages already by December 2020. Relative wealth percentages are
+kept separate from cumulative-return differences in percentage points.
+
+The main report now shows all monthly IID/Newey–West t-statistics and discloses
+32 specified alternative-versus-baseline comparisons in the main case. The
+largest US t against equal weight is 1.17; baseline t-statistics above two do
+not resolve multiple testing or the already-observed evaluation period.
+
+Eight specified alternatives produce seven distinct alternative portfolio
+paths: recovery grace never activates. The former "independent audit" is now
+labeled ledger replay; it imports production input classes. The legacy filename
+is retained for compatibility. The README shows both direct-screen and ungated
+results and explicitly states that direct admission excludes TSMC until
+December 2024. Narrative numbers in attribution and experiment reports now
+come from their generated tables instead of literal performance claims.
+
+CI now includes Python 3.13 and recomputes all 152 experiment portfolios,
+comparing all six ledgers and engine summary fields numerically with saved
+results. Dates and discrete choices must match; only numeric roundoff is
+allowed (relative tolerance 1e-12, absolute 1e-10). Frozen CSVs keep their bytes.
+The earlier [d0cd812 PR CI run](https://github.com/nxyziggy/beta_correcting_ETFs_backtests/actions/runs/43690935192)
+is confirmed successful through the GitHub API. Merge/base changes and history
+rewrites remain separate decisions; neither PR is merged or retargeted here.
+
+Two remaining review details also check out. From 2022, report-age medians are
+92 days when restricted to quarter-end reviews in each region (295 US and
+271 EU scored observations), versus 120–123 days across all months. Both
+measurements are valid and use different samples. Only 10 of 31 first admissions
+have a company-level award amount; a comprehensive materiality test still needs
+more evidence. FX acquisition provenance and duplicated historical folders
+remain documented limitations, not newly resolved items.
+
+[Concentration, timing and uncertainty diagnostics](results_recovery_experiments/CONCENTRATION.md)
+include every omitted company and both regions. These additions diagnose the
+existing specifications; no new scoring parameter or selected winner is introduced.
+
+## Earlier review
+
 The external review examined the earlier longer-history and public-support
 commits. Its central distinction is valid: the broad historical support
 screen is not a replication of the article's specified Pillar 2 programme

@@ -1075,5 +1075,14 @@
   ],
   "controls_identical_across_variants": true,
   "timing_controls_identical": true,
-  "preserved_files": 3551
+  "preserved_files": 3551,
+  "concentration_sensitivity_runs": 330,
+  "realized_variants": {
+    "specified_alternatives": 8,
+    "distinct_portfolio_alternatives": 7,
+    "duplicate_of": {
+      "recovery_grace": "baseline"
+    },
+    "comparison_groups": 16
+  }
 }

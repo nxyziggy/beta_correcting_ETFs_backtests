@@ -14,27 +14,41 @@ The implemented test measures a specific part of that idea: two accounting signa
 test eight alternatives against the existing strategy in both regions. The
 fundamental-improvement and price-momentum scores bring several US entries
 forward, but no alternative improves both US full-window returns without
-reducing at least one EU return. Exit confirmation alone has small, mixed
-effects. The existing strategy remains the default. Reproduce with
+reducing at least one EU return. The fundamental-improvement gain is highly
+dependent on Bloom: without it, US Q50/Q75 gains versus baseline fall from
++511.91pp/+205.69pp to −15.91pp/+19.60pp. Momentum survives every US omission,
+but loses in 14/15 EU Q50 omissions and 15/15 EU Q75 omissions. The largest US
+t-statistic against equal weight is 1.17, unadjusted for multiple comparisons.
+Recovery grace never activates: eight specified alternatives produce seven
+distinct alternative paths. The existing strategy remains the default. Reproduce with
 `python3 run_recovery_experiments.py` and audit with
 `python3 audit_recovery_experiments.py`; definitions and limitations are in
 [the experiment method](RECOVERY_EXPERIMENT_METHOD.md).
 The [review response](REVIEW_RESPONSE.md) records the support-screen scope,
 runner compatibility repairs and remaining evidence limitations. Automated
-checks cover Python 3.12 and 3.14, including legacy runner reproduction and
-the saved experiment-ledger audit. Run all unit tests with
+checks cover Python 3.12, 3.13 and 3.14, including legacy runner reproduction,
+ledger replay, and numerical comparison of all 152 recomputed experiment
+portfolios with their saved ledgers. Numeric comparisons permit only roundoff
+(relative tolerance 1e-12, absolute 1e-10); dates, membership and discrete
+decisions must match. Run all unit tests with
 `python3 -m unittest discover -p 'test_*.py'`.
 
 **Current baseline comparison, 30 June 2019–2 November 2026:** all 31
-retrospective candidates are researched; each joins when its listing, direct
-public-support evidence and complete financial coverage permit. Returns include
+retrospective candidates are researched. The direct screen requires dated
+public-support evidence as well as listing and financial coverage; the ungated
+accounting panel requires listing and financial coverage. Returns include
 modeled costs, in USD for the US and EUR for Europe.
 
-| Rule | US | EU |
-|---|---:|---:|
-| Existing Q50 | 378.08% | 286.95% |
-| Existing Q75 | 389.82% | 338.92% |
-| Equal weight | 699.43% | 132.27% |
+| Rule | US direct screen | US ungated | EU direct screen | EU ungated |
+|---|---:|---:|---:|---:|
+| Existing Q50 | 378.08% | 400.06% | 286.95% | 295.22% |
+| Existing Q75 | 389.82% | 539.17% | 338.92% | 376.92% |
+| Equal weight | 699.43% | 745.21% | 132.27% | 153.83% |
+
+The direct screen excludes **TSMC until December 2024**. It also delays Alfen
+and briefly Micron; these choices change ranks and weights. The direct and
+ungated columns therefore compare different membership histories. Sources:
+[direct screen](results_pillar2/REPORT.md), [ungated accounting panel](results_long_history/REPORT.md).
 
 The US strategies trail their candidate-pool control; the EU strategies lead.
 These results supersede the original limited-coverage headline comparison for

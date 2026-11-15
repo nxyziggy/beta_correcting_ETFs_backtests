@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: ['3.12', '3.14']
+        python-version: ['3.12', '3.13', '3.14']
     steps:
       - uses: actions/checkout@v7
       - uses: actions/setup-python@v7
@@ -28,5 +28,7 @@ jobs:
           python run_eu_interim.py
           python run_us_restoration.py
           python run_research_corrections.py
-      - name: Independently audit committed experiment ledgers
+      - name: Replay committed experiment ledgers and information cutoffs
         run: python audit_recovery_experiments.py
+      - name: Recompute every scoring portfolio and compare saved ledgers
+        run: python check_research_reproduction.py

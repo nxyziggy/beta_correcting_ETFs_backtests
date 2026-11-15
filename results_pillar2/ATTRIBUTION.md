@@ -1,14 +1,14 @@
 # Why the US and EU selection results differ
 
-Direct/subsidiary policy gate; 30 June 2019–2 November 2026. The same accounting screen produces different exposure and timing in two different company pools.
+Any prior public support screen, direct/subsidiary definition; 2019-06-30–2026-11-02. The same accounting screen produces different exposure and timing in two different company pools.
 
 ## US
 
-Bloom accounts for roughly half the shortfall. Equal weight held it from the start; both scoring strategies first bought it on 30 September 2026. Bloom contributed +148.44 percentage points to equal weight but -18.73pp to Q50 and -22.06pp to Q75. The rest is not a one-stock story: Intel, First Solar, GE Vernova and Enphase also produced substantially less profit in the strategies. Both strategies sold Intel on 31 March 2023. Q75 never held GE Vernova or Eaton.
+Bloom’s additive profit contributions are EQUAL +148.44pp, Q50 -18.73pp, Q75 -22.06pp. Its first holding dates are EQUAL 2019-06-30, Q50 2026-09-30, Q75 2026-09-30. The largest negative US Q75/control differences are BE (-170.50pp), INTC (-53.57pp), FSLR (-51.84pp). These numbers describe the existing accounting strategy, not the alternative trend or momentum scores.
 
 ## EU
 
-Greater exposure to ASML and Infineon, and the timing/weights of Safran, Vestas and Alfen, account for much of the advantage. This was not flawless loss avoidance: ams OSRAM and STMicroelectronics hurt both strategies relative to equal weight. The accounting filter was useful on this particular European mix while excluding or mistiming several large US winners.
+The largest positive EU Q75/control differences are ASML (+72.88pp), VWS.CO (+39.35pp), ALFEN.AS (+38.71pp); the largest negative differences are AMS.SW (-25.99pp), AIR.PA (-10.51pp), VIE.PA (-10.36pp). The contribution table reflects selection, weights, timing and the wealth already accumulated by each portfolio.
 
 ## Largest stock contributions to each regional Q75/control gap
 

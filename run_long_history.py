@@ -191,7 +191,7 @@ def main():
     datasets={}; audit=[]; starts={}; timing_starts={}; checks=[]; results=[]; baseline_checks=[]
     previous=read_csv(ROOT/'results_research_corrected/summary.csv')
     # Reproduce the unextended snapshots before adding historical facts.
-    # Then isolate the user's freshness correction with exactly those same financial inputs.
+    # Then isolate the freshness correction with exactly those same financial inputs.
     for region in ('US','EU'):
         for case in ('source','delay_legacy','delay_adjusted'):
             stage=('lam' if region=='US' else 'evidenced') if case=='source' else 'common'

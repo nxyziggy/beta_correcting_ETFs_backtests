@@ -72,20 +72,28 @@ def main():
                   float(s['vs_fixed_policy_control_pp']))
     write_csv(OUT/'stock_attribution.csv',rows);write_csv(OUT/'relative_stock_attribution.csv',relative)
     write_csv(OUT/'semiconductor_weights.csv',weights)
+    first=min(s['start'] for s in summaries);last=max(s['latest_end'] for s in summaries)
+    by_stock={(r['region'],r['rule'],r['ticker']):r for r in rows}
+    bloom=[by_stock['US',rule,'BE'] for rule in ('equal','q50','q75')]
+    def contributors(region,positive):
+        candidates=[r for r in relative if r['region']==region and r['rule']=='q75'
+                    and (r['difference_pp']>0 if positive else r['difference_pp']<0)]
+        largest=sorted(candidates,key=lambda r:abs(r['difference_pp']),reverse=True)[:3]
+        return ', '.join(f"{r['ticker']} ({r['difference_pp']:+.2f}pp)" for r in largest) or 'none'
     lines=['# Why the US and EU selection results differ','',
-           'Direct/subsidiary policy gate; 30 June 2019–2 November 2026. '
+           f'Any prior public support screen, direct/subsidiary definition; {first}–{last}. '
            'The same accounting screen produces different exposure and timing in two different company pools.','',
            '## US','',
-           'Bloom accounts for roughly half the shortfall. Equal weight held it from the start; '
-           'both scoring strategies first bought it on 30 September 2026. Bloom contributed +148.44 percentage points '
-           'to equal weight but -18.73pp to Q50 and -22.06pp to Q75. The rest is not a one-stock story: '
-           'Intel, First Solar, GE Vernova and Enphase also produced substantially less profit in the strategies. '
-           'Both strategies sold Intel on 31 March 2023. Q75 never held GE Vernova or Eaton.','',
+           'Bloom’s additive profit contributions are '+
+           ', '.join(f"{r['rule'].upper()} {r['contribution_pp']:+.2f}pp" for r in bloom)+
+           '. Its first holding dates are '+
+           ', '.join(f"{r['rule'].upper()} {r['first_held'] or 'never held'}" for r in bloom)+'. '
+           'The largest negative US Q75/control differences are '+contributors('US',False)+'. '
+           'These numbers describe the existing accounting strategy, not the alternative trend or momentum scores.','',
            '## EU','',
-           'Greater exposure to ASML and Infineon, and the timing/weights of Safran, Vestas and Alfen, '
-           'account for much of the advantage. This was not flawless loss avoidance: ams OSRAM and STMicroelectronics '
-           'hurt both strategies relative to equal weight. The accounting filter was useful on this particular '
-           'European mix while excluding or mistiming several large US winners.','',
+           'The largest positive EU Q75/control differences are '+contributors('EU',True)+
+           '; the largest negative differences are '+contributors('EU',False)+'. '
+           'The contribution table reflects selection, weights, timing and the wealth already accumulated by each portfolio.','',
            '## Largest stock contributions to each regional Q75/control gap','',
            'Positive numbers favor the strategy; negative numbers favor equal weight. Q50 is shown for the same names.','',
            '| Region | Stock | Q50 minus equal weight | Q75 minus equal weight |','|---|---|---:|---:|']

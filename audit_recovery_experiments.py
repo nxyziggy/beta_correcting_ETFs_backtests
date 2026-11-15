@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Independent read-only ledger/source audit; never reruns portfolio variants."""
+"""Ledger replay and cutoff checks, reusing the production input classes."""
 import csv
 import hashlib
 import json
@@ -171,7 +171,7 @@ def main():
            'results_recovery_experiments/summary.csv','results_recovery_experiments/signal_features.csv',
            'results_recovery_experiments/eligibility.csv']
     result=dict(audit_date='2026-11-15',status='PASS',
-                procedure='Independent ledger replay, source arithmetic and in-memory information-isolation checks; no portfolio variants rerun.',
+                procedure='Ledger replay, source arithmetic and in-memory information-isolation checks; no portfolio variants rerun.',
                 variants=9,runs=len(summary),controls=8,exact_baseline_control_monthly_reproductions=reproductions,
                 feature_rows=len(features),feature_and_eligibility_sets_identical=True,
                 timing_control_pairs_identical=2,selection_threshold_recalculations=threshold_checks,
@@ -180,7 +180,8 @@ def main():
                 investor_currency_endpoint_pair_checks=price_checks,feature_rank_groups=len(fmap),
                 region_timing_future_isolation_cases=isolation_checks,
                 implementation_findings='No blocking leakage or implementation defect found in the tested scoring, coverage and information-cutoff paths.',
-                limitations=['The audit validates computations against the frozen inputs; it does not independently certify vendor-adjusted price vintages.',
+                limitations=['The replay imports the production input classes and is not an independent implementation.',
+                             'The replay validates computations against frozen inputs; it does not independently certify vendor-adjusted price vintages.',
                              'The candidate pool and already-observed evaluation periods remain retrospective.',
                              'Fundamental trend has greater initial missing coverage in Europe; baseline fallback keeps coverage fixed but changes feature activation.',
                              'Large historical gains from informed alternatives do not establish an untouched out-of-sample advantage.'],

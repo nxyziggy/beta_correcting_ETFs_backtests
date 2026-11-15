@@ -1,7 +1,7 @@
 {
   "audit_date": "2026-11-15",
   "status": "PASS",
-  "procedure": "Independent ledger replay, source arithmetic and in-memory information-isolation checks; no portfolio variants rerun.",
+  "procedure": "Ledger replay, source arithmetic and in-memory information-isolation checks; no portfolio variants rerun.",
   "variants": 9,
   "runs": 152,
   "controls": 8,
@@ -19,7 +19,8 @@
   "region_timing_future_isolation_cases": 4,
   "implementation_findings": "No blocking leakage or implementation defect found in the tested scoring, coverage and information-cutoff paths.",
   "limitations": [
-    "The audit validates computations against the frozen inputs; it does not independently certify vendor-adjusted price vintages.",
+    "The replay imports the production input classes and is not an independent implementation.",
+    "The replay validates computations against frozen inputs; it does not independently certify vendor-adjusted price vintages.",
     "The candidate pool and already-observed evaluation periods remain retrospective.",
     "Fundamental trend has greater initial missing coverage in Europe; baseline fallback keeps coverage fixed but changes feature activation.",
     "Large historical gains from informed alternatives do not establish an untouched out-of-sample advantage."
@@ -27,7 +28,7 @@
   "hashes": [
     {
       "path": "audit_recovery_experiments.py",
-      "sha256": "4f6e11051e902a5e88dcd3d0c9a6f8c7d82b044a1c213f33e8360edd95872473"
+      "sha256": "ec5fe0bbf51440da00ced03f4f7e00f94ad8cf3ec257b871a4f81722d2d0527c"
     },
     {
       "path": "recovery_rules.py",
