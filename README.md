@@ -19,6 +19,9 @@ beneficiaries are a separate sensitivity. Dates combine public policy evidence,
 actual listing/ownership and complete financial coverage. Historical admission
 does not imply that an earlier grant remains active or unspent. See the
 [eligibility definition](PILLAR2_METHOD.md) and every company's source ledger.
+[US/EU performance attribution](results_pillar2/ATTRIBUTION.md) reconciles the
+stock contributions behind the regional difference; regenerate it with
+`python3 analyze_pillar2.py` after the policy run.
 
 **Longer histories and timing repair:** [extended results](results_long_history/REPORT.md)
 recover older original annual statements across both full candidate pools.

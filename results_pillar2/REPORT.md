@@ -99,4 +99,4 @@ This adds the dated admission gate to the existing two accounting signals. It do
 
 There is no minimum award-size threshold. Small targeted research/training awards can establish eligibility; that does not establish material or continuing earnings support. Public infrastructure and university benefits are classified as indirect unless company receipt or ownership is documented.
 
-[Summary with CAGR/volatility/drawdown](summary.csv) · [Active-return statistics](active_statistics.csv) · [Year returns](year_returns.csv) · [Validation](validation.json) · [Input hashes](input_manifest.json).
+[Why US/EU results differ](ATTRIBUTION.md) · [Summary with CAGR/volatility/drawdown](summary.csv) · [Active-return statistics](active_statistics.csv) · [Year returns](year_returns.csv) · [Validation](validation.json) · [Input hashes](input_manifest.json).

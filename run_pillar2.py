@@ -337,6 +337,7 @@ def make_report(summary,candidates,events,validation,start_rows):
             'There is no minimum award-size threshold. Small targeted research/training awards can establish eligibility; '
             'that does not establish material or continuing earnings support. Public infrastructure and university benefits '
             'are classified as indirect unless company receipt or ownership is documented.','',
+            '[Why US/EU results differ](ATTRIBUTION.md) · '
             '[Summary with CAGR/volatility/drawdown](summary.csv) · [Active-return statistics](active_statistics.csv) · '
             '[Year returns](year_returns.csv) · [Validation](validation.json) · [Input hashes](input_manifest.json).','']
     (OUT/'REPORT.md').write_text('\n'.join(lines))
