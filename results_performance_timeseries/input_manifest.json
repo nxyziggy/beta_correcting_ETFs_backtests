@@ -1,0 +1,146 @@
+[
+ {
+  "path": "backtest.py",
+  "sha256": "7f259511b5f6f32a436c4ae109f2cba0b3dabff7b4d35309a0681590af6d7cfe"
+ },
+ {
+  "path": "prepare_data.py",
+  "sha256": "9bdf09fa671daf49ed9d70d8e64181144261590cc4a080642289e2612fbec441"
+ },
+ {
+  "path": "recovery_rules.py",
+  "sha256": "6ed079966ba1153b9f2be537cad6f443b3418061ef22b03d57f1a2019a0aa62c"
+ },
+ {
+  "path": "results_recovery_experiments/EU_recovery_direct_main_baseline_policy_q50_15bp_lag0_from2019-06-30/monthly.csv",
+  "sha256": "f40d5f0fae0c5a19230782a83f967fc6f8df6be0e8a32583875b8ce1c6f5f121"
+ },
+ {
+  "path": "results_recovery_experiments/EU_recovery_direct_main_baseline_policy_q50_15bp_lag0_from2019-06-30/recent_daily.csv",
+  "sha256": "3a00476e27c34fc797f65bd2b746d2c1a4c659bc3996308658e24843d70fd142"
+ },
+ {
+  "path": "results_recovery_experiments/EU_recovery_direct_main_baseline_policy_q75_15bp_lag0_from2019-06-30/monthly.csv",
+  "sha256": "2213fe195a8cb363cb5164499a088687ea0966a04a5494c58acd346cf2558a84"
+ },
+ {
+  "path": "results_recovery_experiments/EU_recovery_direct_main_baseline_policy_q75_15bp_lag0_from2019-06-30/recent_daily.csv",
+  "sha256": "9a15359404916f0dd0e9ef0cf87f3a3f374be7840da7672a9988695e08d1fc0a"
+ },
+ {
+  "path": "results_recovery_experiments/EU_recovery_direct_main_equal_policy_equal_15bp_lag0_from2019-06-30/monthly.csv",
+  "sha256": "960ada64a364abe0d77cd463294370595efd702248e8162c918ea2b769bef192"
+ },
+ {
+  "path": "results_recovery_experiments/EU_recovery_direct_main_equal_policy_equal_15bp_lag0_from2019-06-30/recent_daily.csv",
+  "sha256": "6f2c2be581c12758d092bc9e05eecd20aaf7832bcb198ab63798a87f2ad40d21"
+ },
+ {
+  "path": "results_recovery_experiments/EU_recovery_direct_main_momentum_policy_q50_15bp_lag0_from2019-06-30/monthly.csv",
+  "sha256": "e735c17423e9ce44256c62b7b0541fdfb862a31e2d7b1d60f53c0d87283c9f0a"
+ },
+ {
+  "path": "results_recovery_experiments/EU_recovery_direct_main_momentum_policy_q50_15bp_lag0_from2019-06-30/recent_daily.csv",
+  "sha256": "3fd283667e4d359a8be635ebbc0dc2388043170cd36a3e49c6dc45992c666a8c"
+ },
+ {
+  "path": "results_recovery_experiments/EU_recovery_direct_main_momentum_policy_q75_15bp_lag0_from2019-06-30/monthly.csv",
+  "sha256": "6b35f9e880780fa97c973e36fc426a3aad73819b58c676f21038b6046d5c6655"
+ },
+ {
+  "path": "results_recovery_experiments/EU_recovery_direct_main_momentum_policy_q75_15bp_lag0_from2019-06-30/recent_daily.csv",
+  "sha256": "9499f37fdd6cff454fc166ebf35212acca71ff220490bf981dceab49bd907949"
+ },
+ {
+  "path": "results_recovery_experiments/EU_recovery_direct_main_trend_policy_q50_15bp_lag0_from2019-06-30/monthly.csv",
+  "sha256": "ba2983581c580bc6e66f064257e9b7c6c69c5368e5f106dcf8cb176e6d610d4c"
+ },
+ {
+  "path": "results_recovery_experiments/EU_recovery_direct_main_trend_policy_q50_15bp_lag0_from2019-06-30/recent_daily.csv",
+  "sha256": "6b3c42c86fbf479ba955ee5cfe386e0935288f45fd91893425b151a2802c175d"
+ },
+ {
+  "path": "results_recovery_experiments/EU_recovery_direct_main_trend_policy_q75_15bp_lag0_from2019-06-30/monthly.csv",
+  "sha256": "82a0517b17c7b25a0305a6decdc3a39b76f34a86bb0092462929d3b697af5cf4"
+ },
+ {
+  "path": "results_recovery_experiments/EU_recovery_direct_main_trend_policy_q75_15bp_lag0_from2019-06-30/recent_daily.csv",
+  "sha256": "c4f5d6d794f3dde025f56d4cfefca946b9a2943ce81137f415123331811bae1f"
+ },
+ {
+  "path": "results_recovery_experiments/US_recovery_direct_main_baseline_policy_q50_10bp_lag0_from2019-06-30/monthly.csv",
+  "sha256": "3cfbd7a20f4428b807f27081b32ecb5f511f90318b88aef0fec48a7a5f7a4eb2"
+ },
+ {
+  "path": "results_recovery_experiments/US_recovery_direct_main_baseline_policy_q50_10bp_lag0_from2019-06-30/recent_daily.csv",
+  "sha256": "e7dedd29609a6082d42e5c3eb84f6180e70c4b502ee8b792ce9dd200ed0bfc96"
+ },
+ {
+  "path": "results_recovery_experiments/US_recovery_direct_main_baseline_policy_q75_10bp_lag0_from2019-06-30/monthly.csv",
+  "sha256": "9704bbfa1c147064e851331a4dab7ea892ce25f40768a857476ff40a6e3b0246"
+ },
+ {
+  "path": "results_recovery_experiments/US_recovery_direct_main_baseline_policy_q75_10bp_lag0_from2019-06-30/recent_daily.csv",
+  "sha256": "67ec806418f5c950cd5d816f2e7371767fe37054d38d602f327109ae78f67095"
+ },
+ {
+  "path": "results_recovery_experiments/US_recovery_direct_main_equal_policy_equal_10bp_lag0_from2019-06-30/monthly.csv",
+  "sha256": "2eb8a41797368ac1b03671a42b4aa119977b9f3e54d5b864dfdeeac4ffd6d97b"
+ },
+ {
+  "path": "results_recovery_experiments/US_recovery_direct_main_equal_policy_equal_10bp_lag0_from2019-06-30/recent_daily.csv",
+  "sha256": "3ee7b7278d2f7aee538411f2470a0bc0b8afc7b369cd2ba759da9c4675dd6b5a"
+ },
+ {
+  "path": "results_recovery_experiments/US_recovery_direct_main_momentum_policy_q50_10bp_lag0_from2019-06-30/monthly.csv",
+  "sha256": "d37a36f591abf807a574715b0e819907e7d85ea5bf3c670129c44f6b5ac82160"
+ },
+ {
+  "path": "results_recovery_experiments/US_recovery_direct_main_momentum_policy_q50_10bp_lag0_from2019-06-30/recent_daily.csv",
+  "sha256": "9340625d687165360abde77f165ccd2553d31210e0b3dcfa6c93bf29d6384b7a"
+ },
+ {
+  "path": "results_recovery_experiments/US_recovery_direct_main_momentum_policy_q75_10bp_lag0_from2019-06-30/monthly.csv",
+  "sha256": "f18ab53e54ae6082151df5a089405b9c2a51d4c15eab73dfa637736a6ace89cc"
+ },
+ {
+  "path": "results_recovery_experiments/US_recovery_direct_main_momentum_policy_q75_10bp_lag0_from2019-06-30/recent_daily.csv",
+  "sha256": "2239244e600783b78001122579dd458f6e6563524a549a29d0c738be7638d6e7"
+ },
+ {
+  "path": "results_recovery_experiments/US_recovery_direct_main_trend_policy_q50_10bp_lag0_from2019-06-30/monthly.csv",
+  "sha256": "4de38dc56b291b2d8fd19793413c0d90aa0bc2fdb8cb3ca1a911efcaf41f4c7f"
+ },
+ {
+  "path": "results_recovery_experiments/US_recovery_direct_main_trend_policy_q50_10bp_lag0_from2019-06-30/recent_daily.csv",
+  "sha256": "73bbaf528d4ea2352ae6e5a111978c5a60284befb83c040533f9206159819474"
+ },
+ {
+  "path": "results_recovery_experiments/US_recovery_direct_main_trend_policy_q75_10bp_lag0_from2019-06-30/monthly.csv",
+  "sha256": "8386c6e3ea4e8d4e42b3ada02fade13fd7a33bdb44b2cd9c1bac8f8231d95edb"
+ },
+ {
+  "path": "results_recovery_experiments/US_recovery_direct_main_trend_policy_q75_10bp_lag0_from2019-06-30/recent_daily.csv",
+  "sha256": "65ea02320d6764f3c3e76a8c4f7009445b26673b5609a1453a860cde7299ed18"
+ },
+ {
+  "path": "results_recovery_experiments/summary.csv",
+  "sha256": "44f511232f8ceabdbc34b4eeddbdd445b04cd3b815ca342acfd66569c7cd6759"
+ },
+ {
+  "path": "run_article_windows.py",
+  "sha256": "ee154559359a45df7e433c0f3825c153640e3f2ee419676805de712b407f6283"
+ },
+ {
+  "path": "run_performance_timeseries.py",
+  "sha256": "99545926949e0f3afde57708bea8f0739ed89ac41164b9cefe0684fc374f318e"
+ },
+ {
+  "path": "run_pillar2.py",
+  "sha256": "c951b4e2d78b99922f95f2d3e6e34cdea1c256cf9879c23f7e02d0d022aac664"
+ },
+ {
+  "path": "test_performance_timeseries.py",
+  "sha256": "5d41dabb632534b5004994eb21ecfea5f6cb91f4b6e876ffd42bc0c123b65f5f"
+ }
+]

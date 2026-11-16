@@ -33,6 +33,14 @@ portfolios with their saved ledgers. Numeric comparisons permit only roundoff
 decisions must match. Run all unit tests with
 `python3 -m unittest discover -p 'test_*.py'`.
 
+**Performance over time:** [index-level time series](results_performance_timeseries/README.md)
+for the six main-case scoring portfolios, the equal-weight control and the ETF
+benchmark, each set to 100 at its window's start: 30 June 2019, and the article's
+own start (30 September 2022 in the US, 30 September 2021 in Europe), which
+restarts the same rules. Reproduce with `python3 run_article_windows.py` and
+`python3 run_performance_timeseries.py`; the long-window series reproduce the
+committed ledgers exactly.
+
 **Current baseline comparison, 30 June 2019–2 November 2026:** all 31
 retrospective candidates are researched. The direct screen requires dated
 public-support evidence as well as listing and financial coverage; the ungated
